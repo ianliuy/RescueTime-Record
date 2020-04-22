@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data
 
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
+Update at 21:13
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|goland64|***********************************************|5h48m|Dev|2|
+|2|github.com|***********************************************|1h21m|Dev|2|
+|3|mobile - tv.da|**************************|26m49s|Video|-2|
+|4|google.com|**********************|22m42s|Search|0|
+|5|Visual Studio |**********************|22m24s|IDE|2|
+|6|Windows Explor|********************|20m2s|Utils|1|
+|7|rescuetime.com|*********|9m26s|Intelligence|2|
+|8|Google Chrome|********|8m8s|Browsers|0|
+|9|githubdesktop|*******|7m26s|Unknown|0|
+|10|stackoverflow.|*******|7m13s|Dev|2|
+|11|WeChat / Weixi|*******|7m0s|SNS|-2|
+|12|blog.csdn.net|******|6m16s|Ref&Learn|1|
+|13|cdonnmffkdaoaj|******|6m1s|Ref&Learn|1|
+|14|system idle pr|*****|5m53s|Other|0|
+|15|dllhost|****|4m30s|Utils|1|
+
+## yiyangiliu 2020-04-22 Detailed Activaties, 
+
 Update at 21:10
 
 |Rank|Activity|Len|Time|Category|Label|

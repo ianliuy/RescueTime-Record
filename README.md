@@ -2,7 +2,7 @@
 A Daily Summary of my RescueTime Data
 
 ## yiyangiliu 2020-04-22 Detailed Activaties
-|Rank|Activity|Time|Category|Productivity|
+|Rank|Activity|Time|Category|Label|
 |-|-|-|-|-|
 |1|goland64|1h19m|Dev|2|
 |2|github.com|10m48s|Dev|2|

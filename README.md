@@ -1,14 +1,14 @@
 # RescueTime-Record
 A Daily Summary of my RescueTime Data
 
-## yiyangiliu 2020-04-22 Daily Detailed Activaties
+## yiyangiliu 2020-04-22 Detailed Activaties
 |Rank|Activity|Time|Category|Productivity|
 |-|-|-|-|-|
-|1|goland64|1h16m|Dev|2|
-|2|github.com|10m46s|Dev|2|
+|1|goland64|1h19m|Dev|2|
+|2|github.com|10m48s|Dev|2|
 |3|google.com|9m49s|Search|0|
 |4|rescuetime.com|8m13s|Intelligence|2|
-|5|Visual Studio |5m15s|IDE|2|
+|5|Visual Studio |7m28s|IDE|2|
 |6|cdonnmffkdaoaj|4m47s|Ref & Learn|1|
 |7|spaces.ac.cn|4m19s|Unknown|0|
 |8|blog.csdn.net|3m39s|Ref & Learn|1|
@@ -24,13 +24,3 @@ A Daily Summary of my RescueTime Data
 |18|c:|1m31s|Utils|2|
 |19|MS Word|1m29s|Writing|2|
 |20|ganymedenil.co|1m16s|Unknown|0|
-|21|scholar.google|1m14s|Ref & Learn|2|
-|22|WeChat / Weixi|1m12s|SNS|-2|
-|23|cnblogs.com|1m10s|Dev|1|
-|24|ilbonte.github|1m0s|Dev|2|
-|25|groups.google.|55s|General Comm|0|
-|26|gobyexample.co|44s|Dev|2|
-|27|linkedin.com|39s|Professional|1|
-|28|Calculator|37s|Utils|1|
-|29|systemsettings|36s|Utils|1|
-|30|baidu.com|30s|Search|0|

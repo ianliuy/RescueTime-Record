@@ -7,7 +7,7 @@ Updated at 20:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|goland64|***********************************|5h31m|Dev|2|
+|1|goland64|***********************************************|5h31m|Dev|2|
 |2|github.com||1h18m|Dev|2|
 |3|mobile - tv.da||26m49s|Video|-2|
 |4|google.com||21m27s|Search|0|

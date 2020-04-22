@@ -3,6 +3,13 @@ A Daily Summary of my RescueTime Data
 
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
+Updated at 20:42
+
+|Rank|Activity|Time|Category|Label|
+|-|-|-|-|-|
+
+## yiyangiliu 2020-04-22 Detailed Activaties, 
+
 Updated at 20:41
 
 |Rank|Activity|Time|Category|Label|

@@ -1,6 +1,23 @@
 # RescueTime-Record
 A Daily Summary of my RescueTime Data, **Automatically** Made by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
+## yiyangiliu 2020-04-23 Detailed Activaties, 
+
+Update at 07:42
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|YouTube for An|********|43m02s|Video|-2|
+|2|mobile - com.r|***|19m05s|Unknown|0|
+|3|mobile - air.t|***|16m11s|Video|-2|
+|4|mobile - tv.da||01m37s|Video|-2|
+|5|WeChat / Weixi||56s|SNS|-2|
+|6|Google Chrome ||40s|Browsers|0|
+|7|mobile - net.o||29s|Utils|0|
+|8|mobile - com.a||26s|General Shop|-2|
+|9|android||02s|Utils|1|
+|10|mobile - in.zh||02s|Utils|1|
+
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
 Update at 22:23

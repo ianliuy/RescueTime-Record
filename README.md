@@ -3,6 +3,23 @@ A Daily Summary of my RescueTime Data, **Automatically** Made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 
+Update at 07:43
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|YouTube for An|********|43m02s|Video|💔|
+|2|mobile - com.r|***|19m05s|Unknown|🙂|
+|3|mobile - air.t|***|16m11s|Video|💔|
+|4|mobile - tv.da||01m37s|Video|💔|
+|5|WeChat / Weixi||56s|SNS|💔|
+|6|Google Chrome ||40s|Browsers|🙂|
+|7|mobile - net.o||29s|Utils|🙂|
+|8|mobile - com.a||26s|General Shop|💔|
+|9|android||02s|Utils|❤|
+|10|mobile - in.zh||02s|Utils|❤|
+
+## yiyangiliu 2020-04-23 Detailed Activaties, 
+
 Update at 07:42
 
 |Rank|Activity|Len|Time|Category|Label|

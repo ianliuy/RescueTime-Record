@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 
+Update at 09:38
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - tv.da|***********************************************|20h31m|Video|💚|
+|2|pycharm64|***********************************************|12h28m|IDE|💖|
+|3|goland64|***********************************************|07h57m|Dev|💖|
+|4|bilibili.com|***********************************************|07h50m|Video|💚|
+|5|YouTube for An|***********************************************|07h10m|Video|💚|
+|6|youtube.com|***********************************************|05h47m|Video|💚|
+|7|github.com|***********************************************|05h46m|Dev|💖|
+|8|mobile - air.t|***********************************************|05h20m|Video|💚|
+|9|MS Word|***********************************************|04h09m|Writing|💖|
+|10|WeChat / Weixi|*******************************************|03h39m|SNS|💚|
+|11|zhihu.com|*******************************************|03h39m|Ref&Learn|🙂|
+|12|知乎|**********************************|02h53m|Ref&Learn|❤|
+|13|Google Chrome |********************************|02h41m|Browsers|🙂|
+|14|rescuetime.com|*****************************|02h25m|Intelligence|💖|
+|15|Visual Studio |****************************|02h23m|IDE|💖|
+
+## yiyangiliu 2020-04-23 Detailed Activaties, 
+
 Update at 09:36
 
 |Rank|Activity|Len|Time|Category|Label|

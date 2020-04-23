@@ -30,8 +30,8 @@ Update at 10:00
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|YouTube for An|********|43m02s|Video|💚|
-|2|mobile - com.r|***|19m05s|Photos|💚|
-|3|mobile - tv.da|***|18m55s|Video|💚|
+|2|mobile - com.r|ll*|19m05s|Photos|💚|
+|3|mobile - tv.da|ii*|18m55s|Video|💚|
 |4|mobile - air.t|***|16m11s|Video|💚|
 |5|goland64|***|15m45s|Dev|💖|
 |6|github.com|***|15m40s|Dev|💖|

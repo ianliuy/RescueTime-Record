@@ -3,25 +3,25 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 
-Update at 12:26
+Update at 18:19
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|(m)Youtube|llllllllll|43m02s|Video|💚|
-|2|goland64|llllllll|34m57s|Dev|💖|
-|3|(m)bilibili|lllllll|30m40s|Video|💚|
-|4|github.com|lllllll|28m00s|Dev|💖|
-|5|(m)Reddit|llll|19m05s|Photos|💚|
-|6|(m)douyu|llll|16m11s|Video|💚|
-|7|localhost:8888|lll|15m34s|IDE|💖|
-|8|(m)share|lll|14m13s|Photos|💚|
-|9|wechat|lll|12m03s|Ref&Learn|🙂|
-|10|(m)Chrome|ll|10m45s|Browsers|🙂|
-|11|知乎|ll|08m59s|Ref&Learn|❤|
-|12|Win Explorer|l|07m11s|Utils|❤|
-|13|MS Mgmt Consol|l|06m43s|Systems Oper|💖|
-|14|app.huoban.com|l|05m57s|Dev|💖|
-|15|rescuetime.com|l|05m41s|Intelligence|💖|
+|1|bilibili.com|lllllllllllllllllllllllllllllllllllllllllll|02h54m|Video|💚|
+|2|github.com|llllllllllllll|59m13s|Dev|💖|
+|3|goland64|llllllllllll|48m06s|Dev|💖|
+|4|(m)Youtube|llllllllll|43m02s|Video|💚|
+|5|(m)bilibili|llllllll|34m14s|Video|💚|
+|6|Google Chrome|llllll|25m44s|Browsers|🙂|
+|7|知乎|lllll|22m04s|Ref&Learn|❤|
+|8|(m)Reddit|llll|19m05s|Photos|💚|
+|9|(m)douyu|llll|16m11s|Video|💚|
+|10|VS Code|lll|15m59s|IDE|💖|
+|11|localhost:8888|lll|15m55s|IDE|💖|
+|12|(m)share|lll|14m37s|Photos|💚|
+|13|wechat|lll|13m17s|Ref&Learn|🙂|
+|14|space.bilibili|lll|12m56s|Video|💚|
+|15|(m)Chrome|lll|12m22s|Browsers|🙂|
 
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 

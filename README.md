@@ -1,6 +1,28 @@
 # RescueTime-Record
 A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
+## yiyangiliu 2020-04-23 Detailed Activaties, 
+
+Update at 22:00
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|bilibili.com|lllllllllllllllllllllllllllllllllllllllllll|02h54m|Video|💚|
+|2|github.com|lllllllllllllllll|01h11m|Dev|💖|
+|3|MS Word|lllllllllllllllll|01h11m|Writing|💖|
+|4|goland64|lllllllllllll|52m44s|Dev|💖|
+|5|(m)Youtube|llllllllll|43m02s|Video|💚|
+|6|(m)bilibili|llllllll|34m14s|Video|💚|
+|7|Google Chrome|lllllll|31m59s|Browsers|🙂|
+|8|wechat|llllll|27m08s|Ref&Learn|🙂|
+|9|VS Code|llllll|24m16s|IDE|💖|
+|10|知乎|lllll|22m04s|Ref&Learn|❤|
+|11|(m)Reddit|llll|19m05s|Photos|💚|
+|12|(m)douyu|llll|16m11s|Video|💚|
+|13|localhost:8888|lll|15m55s|IDE|💖|
+|14|Win Explorer|lll|15m22s|Utils|❤|
+|15|MS Mgmt Consol|lll|14m38s|Systems Oper|💖|
+
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
 Update at 22:17

@@ -7,6 +7,21 @@ Update at 21:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
+|1|bilibili.com|lllllllllllllllllllllllllllllllllllllllllll|02h54m|Video|💚|
+|2|github.com|llllllllllllllll|01h06m|Dev|💖|
+|3|goland64|lllllllllllll|52m12s|Dev|💖|
+|4|MS Word|lllllllllll|47m33s|Writing|💖|
+|5|(m)Youtube|llllllllll|43m02s|Video|💚|
+|6|(m)bilibili|llllllll|34m14s|Video|💚|
+|7|Google Chrome|lllllll|31m32s|Browsers|🙂|
+|8|wechat|llllll|25m50s|Ref&Learn|🙂|
+|9|知乎|lllll|22m04s|Ref&Learn|❤|
+|10|VS Code|lllll|21m33s|IDE|💖|
+|11|(m)Reddit|llll|19m05s|Photos|💚|
+|12|(m)douyu|llll|16m11s|Video|💚|
+|13|localhost:8888|lll|15m55s|IDE|💖|
+|14|(m)share|lll|14m37s|Photos|💚|
+|15|MS Mgmt Consol|lll|13m53s|Systems Oper|💖|
 
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 

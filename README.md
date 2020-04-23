@@ -1,6 +1,13 @@
 # RescueTime-Record
 A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
+## yiyangiliu 2020-04-23 Detailed Activaties, 
+
+Update at 21:07
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
 Update at 22:17

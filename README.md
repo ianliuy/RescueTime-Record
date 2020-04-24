@@ -5,25 +5,25 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 13:25
+Update at 14:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|wemeetapp|lllll|20m28s|Meetings|❤|
-|2|MS Word|llll|19m06s|Writing|💖|
-|3|(m)bilibili|llll|16m25s|Video|💚|
-|4|zhihu.com|lll|12m51s|Ref&Learn|🙂|
-|5|github.com|ll|11m50s|Dev|💖|
-|6|PowerPoint|ll|09m44s|Pre|💖|
-|7|potplayermini6|ll|09m42s|Dev|💖|
-|8|wechat|ll|09m17s|Ref&Learn|🙂|
-|9|goland64|ll|08m18s|Dev|💖|
-|10|MS Mgmt Consol|ll|08m15s|Systems Oper|💖|
-|11|VS Code|l|04m51s|IDE|💖|
+|1|MS Word|lllll|20m53s|Writing|💖|
+|2|wemeetapp|lllll|20m28s|Meetings|❤|
+|3|github.com|llll|17m49s|Dev|💖|
+|4|(m)bilibili|llll|16m25s|Video|💚|
+|5|zhihu.com|lll|12m51s|Ref&Learn|🙂|
+|6|goland64|ll|10m56s|Dev|💖|
+|7|PowerPoint|ll|09m44s|Pre|💖|
+|8|potplayermini6|ll|09m42s|Dev|💖|
+|9|wechat|ll|09m17s|Ref&Learn|🙂|
+|10|MS Mgmt Consol|ll|08m36s|Systems Oper|💖|
+|11|VS Code|l|06m34s|IDE|💖|
 |12|bilibili.com|l|04m41s|Video|💚|
 |13|Wechat|l|04m17s|Instant Mess|😥|
-|14|rescuetime.com||03m38s|Intelligence|💖|
-|15|Win Explorer||03m22s|Utils|❤|
+|14|Win Explorer||03m46s|Utils|❤|
+|15|rescuetime.com||03m38s|Intelligence|💖|
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 

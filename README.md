@@ -3,7 +3,7 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 13:03
+Update at 13:17
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -11,17 +11,17 @@ Update at 13:03
 |2|MS Word|llll|19m06s|Writing|💖|
 |3|(m)bilibili|llll|16m25s|Video|💚|
 |4|zhihu.com|lll|12m51s|Ref&Learn|🙂|
-|5|github.com|ll|09m44s|Dev|💖|
+|5|github.com|ll|09m55s|Dev|💖|
 |6|PowerPoint|ll|09m44s|Pre|💖|
 |7|potplayermini6|ll|09m42s|Dev|💖|
 |8|wechat|ll|09m17s|Ref&Learn|🙂|
-|9|bilibili.com|l|04m41s|Video|💚|
-|10|goland64|l|04m17s|Dev|💖|
-|11|Wechat|l|04m17s|Instant Mess|😥|
-|12|rescuetime.com||03m38s|Intelligence|💖|
-|13|Win Explorer||02m56s|Utils|❤|
-|14|item.taobao.co||02m42s|General Shop|💚|
-|15|playpcesor.com||02m38s|Science & Te|😥|
+|9|MS Mgmt Consol|ll|08m15s|Systems Oper|💖|
+|10|goland64|l|07m39s|Dev|💖|
+|11|bilibili.com|l|04m41s|Video|💚|
+|12|Wechat|l|04m17s|Instant Mess|😥|
+|13|rescuetime.com||03m38s|Intelligence|💖|
+|14|Win Explorer||03m10s|Utils|❤|
+|15|item.taobao.co||02m42s|General Shop|💚|
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 

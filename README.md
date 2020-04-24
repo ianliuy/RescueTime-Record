@@ -5,19 +5,19 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 15:17
+Update at 15:28
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|zhihu.com|lllllll|30m43s|Ref&Learn|🙂|
 |2|MS Word|lllllll|29m03s|Writing|💖|
 |3|github.com|llllll|27m13s|Dev|💖|
-|4|wemeetapp|lllll|20m28s|Meetings|❤|
-|5|(m)bilibili|llll|16m25s|Video|💚|
-|6|Google Chrome|lll|13m20s|Browsers|🙂|
-|7|goland64|ll|10m56s|Dev|💖|
-|8|weibo.com|ll|10m09s|SNS|💚|
-|9|wechat|ll|09m46s|Ref&Learn|🙂|
+|4|weibo.com|lllll|21m07s|SNS|💚|
+|5|wemeetapp|lllll|20m28s|Meetings|❤|
+|6|(m)bilibili|llll|16m25s|Video|💚|
+|7|Google Chrome|lll|13m24s|Browsers|🙂|
+|8|goland64|ll|10m56s|Dev|💖|
+|9|wechat|ll|09m50s|Ref&Learn|🙂|
 |10|PowerPoint|ll|09m44s|Pre|💖|
 |11|potplayermini6|ll|09m42s|Dev|💖|
 |12|MS Mgmt Consol|ll|08m36s|Systems Oper|💖|

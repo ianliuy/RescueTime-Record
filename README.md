@@ -5,7 +5,7 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 22:02
+Update at 22:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|

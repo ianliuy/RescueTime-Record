@@ -3,35 +3,6 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
-## yiyangiliu 2020-04-24 Detailed Activaties, 
-
-Update at 16:12
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|zhihu.com|lllllllllll|47m11s|Ref&Learn|🙂|
-|2|MS Word|lllllll|29m03s|Writing|💖|
-|3|github.com|lllllll|28m53s|Dev|💖|
-|4|weibo.com|lllll|22m08s|SNS|💚|
-|5|wemeetapp|lllll|20m28s|Meetings|❤|
-|6|Google Chrome|llll|17m05s|Browsers|🙂|
-|7|(m)bilibili|llll|16m25s|Video|💚|
-|8|goland64|ll|10m56s|Dev|💖|
-|9|wechat|ll|10m01s|Ref&Learn|🙂|
-|10|PowerPoint|ll|09m44s|Pre|💖|
-|11|potplayermini6|ll|09m42s|Dev|💖|
-|12|v2ex.com|ll|09m27s|General News|💚|
-|13|MS Mgmt Consol|ll|08m52s|Systems Oper|💖|
-|14|VS Code|l|07m49s|IDE|💖|
-|15|Win Explorer|l|06m20s|Utils|❤|
-|9|VS Code|llllll|24m16s|IDE|💖|
-|10|知乎|lllll|22m04s|Ref&Learn|❤|
-|11|(m)Reddit|llll|19m05s|Photos|💚|
-|12|(m)douyu|llll|16m11s|Video|💚|
-|13|localhost:8888|lll|15m55s|IDE|💖|
-|14|Win Explorer|lll|15m22s|Utils|❤|
-|15|MS Mgmt Consol|lll|14m38s|Systems Oper|💖|
-
 ## yiyangiliu 2020-04-22 Detailed Activaties, 
 
 Update at 22:17

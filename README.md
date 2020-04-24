@@ -3,7 +3,7 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 13:02
+Update at 13:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -16,9 +16,9 @@ Update at 13:02
 |7|potplayermini6|ll|09m42s|Dev|💖|
 |8|wechat|ll|09m17s|Ref&Learn|🙂|
 |9|bilibili.com|l|04m41s|Video|💚|
-|10|Wechat|l|04m17s|Instant Mess|😥|
-|11|goland64||03m46s|Dev|💖|
-|12|rescuetime.com||03m23s|Intelligence|💖|
+|10|goland64|l|04m17s|Dev|💖|
+|11|Wechat|l|04m17s|Instant Mess|😥|
+|12|rescuetime.com||03m38s|Intelligence|💖|
 |13|Win Explorer||02m56s|Utils|❤|
 |14|item.taobao.co||02m42s|General Shop|💚|
 |15|playpcesor.com||02m38s|Science & Te|😥|

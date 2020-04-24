@@ -5,25 +5,25 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 19:45
+Update at 19:46
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|(m)bilibili|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|41h50m|Video|💚|
-|2|bilibili.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|22h20m|Video|💚|
-|3|pycharm64|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|16h50m|IDE|💖|
-|4|(m)Youtube|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|11h01m|Video|💚|
-|5|github.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|10h29m|Dev|💖|
-|6|zhihu.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|10h01m|Ref&Learn|🙂|
-|7|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|09h49m|Instant Mess|😥|
-|8|goland64|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|09h14m|Dev|💖|
-|9|localhost:8888|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|09h01m|IDE|💖|
-|10|MS Word|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h38m|Writing|💖|
-|11|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h12m|Video|💚|
-|12|(m)douyu|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h24m|Video|💚|
-|13|(m)Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h14m|Ref&Learn|🙂|
-|14|知乎|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h03m|Ref&Learn|❤|
-|15|Chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h35m|Browsers|🙂|
+|1|zhihu.com|lllllllllll|47m11s|Ref&Learn|🙂|
+|2|(m)Wechat|llllllllll|42m14s|Ref&Learn|🙂|
+|3|(m)bilibili|llllllllll|42m08s|Video|💚|
+|4|goland64|lllllllll|38m20s|Dev|💖|
+|5|MS Word|llllllll|33m48s|Writing|💖|
+|6|github.com|llllllll|33m11s|Dev|💖|
+|7|Wechat|lllllll|29m59s|Instant Mess|😥|
+|8|weibo.com|lllll|22m08s|SNS|💚|
+|9|wemeetapp|lllll|20m28s|Meetings|❤|
+|10|rescuetime.com|llll|18m38s|Intelligence|💖|
+|11|Chrome|llll|18m01s|Browsers|🙂|
+|12|VS Code|ll|11m55s|IDE|💖|
+|13|MS Mgmt Consol|ll|09m46s|Systems Oper|💖|
+|14|PowerPoint|ll|09m44s|Pre|💖|
+|15|potplayermini6|ll|09m42s|Dev|💖|
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 

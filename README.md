@@ -5,23 +5,23 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 22:00
+Update at 22:02
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|wechat|llllllllllll|48m27s|Ref&Learn|🙂|
+|1|(m)Wechat|llllllllllll|49m17s|Ref&Learn|🙂|
 |2|zhihu.com|lllllllllll|47m11s|Ref&Learn|🙂|
 |3|(m)bilibili|llllllllll|42m08s|Video|💚|
 |4|goland64|lllllllll|39m40s|Dev|💖|
-|5|github.com|lllllllll|36m43s|Dev|💖|
+|5|github.com|lllllllll|37m30s|Dev|💖|
 |6|MS Word|llllllll|34m24s|Writing|💖|
-|7|Wechat|lllllll|31m45s|Instant Mess|😥|
-|8|socialcapital.|lllllll|29m42s|Unknown|🙂|
-|9|VS Code|lllllll|29m24s|IDE|💖|
+|7|Wechat|lllllll|31m46s|Instant Mess|😥|
+|8|VS Code|lllllll|29m55s|IDE|💖|
+|9|socialcapital.|lllllll|29m42s|Unknown|🙂|
 |10|weibo.com|lllll|22m08s|SNS|💚|
 |11|wemeetapp|lllll|20m28s|Meetings|❤|
-|12|rescuetime.com|llll|19m21s|Intelligence|💖|
-|13|Google Chrome|llll|18m44s|Browsers|🙂|
+|12|rescuetime.com|llll|19m29s|Intelligence|💖|
+|13|Chrome|llll|18m44s|Browsers|🙂|
 |14|Win Explorer|lll|15m19s|Utils|❤|
 |15|MS Mgmt Consol|ll|09m46s|Systems Oper|💖|
 

@@ -5,25 +5,25 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
-Update at 14:00
+Update at 15:17
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|MS Word|lllll|20m53s|Writing|💖|
-|2|wemeetapp|lllll|20m28s|Meetings|❤|
-|3|github.com|llll|17m49s|Dev|💖|
-|4|(m)bilibili|llll|16m25s|Video|💚|
-|5|zhihu.com|lll|12m51s|Ref&Learn|🙂|
-|6|goland64|ll|10m56s|Dev|💖|
-|7|PowerPoint|ll|09m44s|Pre|💖|
-|8|potplayermini6|ll|09m42s|Dev|💖|
-|9|wechat|ll|09m17s|Ref&Learn|🙂|
-|10|MS Mgmt Consol|ll|08m36s|Systems Oper|💖|
-|11|VS Code|l|06m34s|IDE|💖|
-|12|bilibili.com|l|04m41s|Video|💚|
-|13|Wechat|l|04m17s|Instant Mess|😥|
-|14|Win Explorer||03m46s|Utils|❤|
-|15|rescuetime.com||03m38s|Intelligence|💖|
+|1|zhihu.com|lllllll|30m43s|Ref&Learn|🙂|
+|2|MS Word|lllllll|29m03s|Writing|💖|
+|3|github.com|llllll|27m13s|Dev|💖|
+|4|wemeetapp|lllll|20m28s|Meetings|❤|
+|5|(m)bilibili|llll|16m25s|Video|💚|
+|6|Google Chrome|lll|13m20s|Browsers|🙂|
+|7|goland64|ll|10m56s|Dev|💖|
+|8|weibo.com|ll|10m09s|SNS|💚|
+|9|wechat|ll|09m46s|Ref&Learn|🙂|
+|10|PowerPoint|ll|09m44s|Pre|💖|
+|11|potplayermini6|ll|09m42s|Dev|💖|
+|12|MS Mgmt Consol|ll|08m36s|Systems Oper|💖|
+|13|VS Code|l|07m49s|IDE|💖|
+|14|Win Explorer|l|06m00s|Utils|❤|
+|15|Wechat|l|05m05s|Instant Mess|😥|
 
 ## yiyangiliu 2020-04-23 Detailed Activaties, 
 

@@ -1,6 +1,8 @@
 # RescueTime-Record
 A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
+💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
+
 ## yiyangiliu 2020-04-24 Detailed Activaties, 
 
 Update at 13:17

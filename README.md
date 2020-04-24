@@ -9,21 +9,21 @@ Update at 16:12
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-
-## yiyangiliu 2020-04-23 Detailed Activaties, 
-
-Update at 22:00
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|bilibili.com|lllllllllllllllllllllllllllllllllllllllllll|02h54m|Video|💚|
-|2|github.com|lllllllllllllllll|01h11m|Dev|💖|
-|3|MS Word|lllllllllllllllll|01h11m|Writing|💖|
-|4|goland64|lllllllllllll|52m44s|Dev|💖|
-|5|(m)Youtube|llllllllll|43m02s|Video|💚|
-|6|(m)bilibili|llllllll|34m14s|Video|💚|
-|7|Google Chrome|lllllll|31m59s|Browsers|🙂|
-|8|wechat|llllll|27m08s|Ref&Learn|🙂|
+|1|zhihu.com|lllllllllll|47m11s|Ref&Learn|🙂|
+|2|MS Word|lllllll|29m03s|Writing|💖|
+|3|github.com|lllllll|28m53s|Dev|💖|
+|4|weibo.com|lllll|22m08s|SNS|💚|
+|5|wemeetapp|lllll|20m28s|Meetings|❤|
+|6|Google Chrome|llll|17m05s|Browsers|🙂|
+|7|(m)bilibili|llll|16m25s|Video|💚|
+|8|goland64|ll|10m56s|Dev|💖|
+|9|wechat|ll|10m01s|Ref&Learn|🙂|
+|10|PowerPoint|ll|09m44s|Pre|💖|
+|11|potplayermini6|ll|09m42s|Dev|💖|
+|12|v2ex.com|ll|09m27s|General News|💚|
+|13|MS Mgmt Consol|ll|08m52s|Systems Oper|💖|
+|14|VS Code|l|07m49s|IDE|💖|
+|15|Win Explorer|l|06m20s|Utils|❤|
 |9|VS Code|llllll|24m16s|IDE|💖|
 |10|知乎|lllll|22m04s|Ref&Learn|❤|
 |11|(m)Reddit|llll|19m05s|Photos|💚|

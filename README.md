@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-04-27 Detailed Activaties, 
+
+Update at 22:00
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|zhihu.com|llllllllllllllllllllllllllllllllllllllllllllllll|03h15m|Ref&Learn|🙂|
+|2|bilibili.com|llllllllllllllllllll|01h21m|Video|💚|
+|3|MS Word|llllllllllllll|59m05s|Writing|💖|
+|4|Chrome|llllllllllll|50m30s|Browsers|🙂|
+|5|douyu.com|lllllllll|37m12s|Video|💚|
+|6|VS Code|lllll|20m59s|IDE|💖|
+|7|zhuanlan.zhihu|lll|15m43s|Ref&Learn|❤|
+|8|rescuetime.com|lll|12m31s|Intelligence|💖|
+|9|youtube music |lll|12m11s|Music|💚|
+|10|kns.cnki.net|ll|11m35s|Ref&Learn|❤|
+|11|google.com|ll|10m56s|Search|🙂|
+|12|github.com|ll|08m41s|Dev|💖|
+|13|cajvieweru|l|07m43s|Ref&Learn|❤|
+|14|cdonnmffkdaoaj|l|07m29s|Ref&Learn|❤|
+|15|webnovel.com|l|06m32s|General Ente|💚|
+
 ## yiyangiliu 2020-04-26 Detailed Activaties, 
 
 Update at 22:00

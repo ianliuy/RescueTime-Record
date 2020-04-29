@@ -3,7 +3,7 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
-## yiyangiliu 2020-04-29 Detailed Activaties, 
+## yiyangiliu 2020-04-28 Detailed Activaties, 
 
 Update at 22:00
 

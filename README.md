@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-01 Detailed Activaties, 
+
+Update at 22:00
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)bilibili|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h07m|Video|💚|
+|2|bilibili.com|lllllllllllllllllllllllll|01h41m|Video|💚|
+|3|github.com|lllllllll|39m54s|Dev|💖|
+|4|MS Word|lllllll|29m23s|Writing|💖|
+|5|(m)Chrome|llllll|25m38s|Browsers|🙂|
+|6|localhost:8888|lllll|22m40s|IDE|💖|
+|7|zhihu.com|lll|15m47s|Ref&Learn|🙂|
+|8|知乎|lll|12m10s|Ref&Learn|❤|
+|9|Chrome|ll|09m04s|Browsers|🙂|
+|10|mobile - com.t|l|07m46s|General Shop|💚|
+|11|t.bilibili.com|l|07m19s|Video|💚|
+|12|space.bilibili|l|06m39s|Video|💚|
+|13|google.com|l|05m23s|Search|🙂|
+|14|pycharm64|l|04m49s|IDE|💖|
+|15|*.github.io|l|04m37s|Dev|💖|
+
 ## yiyangiliu 2020-04-30 Detailed Activaties, 
 
 Update at 22:00

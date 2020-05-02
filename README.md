@@ -5,7 +5,7 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-02 Detailed Activaties, 
 
-Update at 22:13
+Update at 22:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -14,7 +14,7 @@ Update at 22:13
 |3|VS Code|llllllllllllllll|01h06m|IDE|💖|
 |4|MS Word|lllllll|28m20s|Writing|💖|
 |5|zhihu.com|llllll|27m57s|Ref&Learn|🙂|
-|6|github.com|lllll|21m20s|Dev|💖|
+|6|github.com|lllll|22m14s|Dev|💖|
 |7|my.1password.c|llll|18m07s|Utils|❤|
 |8|google.com|lll|13m48s|Search|🙂|
 |9|1password|lll|13m19s|Utils|❤|

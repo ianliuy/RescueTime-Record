@@ -5,24 +5,24 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-03 Detailed Activaties, 
 
-Update at 22:00
+Update at 22:09
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|pycharm64|lllllllllllllllllllllllllllllllllllllllll|02h45m|IDE|💖|
 |2|VS Code|llllllllllllllllllllllllll|01h44m|IDE|💖|
 |3|quicker|lllllllllllllllllllll|01h24m|Utils|❤|
-|4|github.com|lllllllllllllllll|01h10m|Dev|💖|
-|5|google.com|lllll|23m31s|Search|🙂|
+|4|github.com|lllllllllllllllll|01h11m|Dev|💖|
+|5|google.com|llllll|24m27s|Search|🙂|
 |6|huggingface.co|llll|19m05s|Design & Pla|💖|
-|7|rescuetime.com|llll|16m51s|Intelligence|💖|
-|8|linkedin.com|llll|16m35s|Professional|❤|
-|9|facebook.com|ll|11m53s|SNS|💚|
-|10|MS Word|ll|10m53s|Writing|💖|
+|7|MS Word|llll|18m02s|Writing|💖|
+|8|rescuetime.com|llll|16m51s|Intelligence|💖|
+|9|linkedin.com|llll|16m35s|Professional|❤|
+|10|facebook.com|ll|11m53s|SNS|💚|
 |11|paperswithcode|ll|09m21s|Dev|💖|
-|12|cdonnmffkdaoaj|l|07m42s|Ref&Learn|❤|
+|12|Saladict|ll|08m08s|Ref&Learn|❤|
 |13|blog.csdn.net|l|07m26s|Ref&Learn|❤|
-|14|Chrome|l|06m55s|Browsers|🙂|
+|14|Chrome|l|07m01s|Browsers|🙂|
 |15|Win Explorer|l|06m19s|Utils|❤|
 
 ## yiyangiliu 2020-05-02 Detailed Activaties, 

@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-04 Detailed Activaties, 
+
+Update at 22:21
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|github.com|lllllllllllllllllllll|01h26m|Dev|💖|
+|2|pycharm64|lllllllllllllll|01h|IDE|💖|
+|3|MS Word|lllllllllllll|52m09s|Composing|💖|
+|4|localhost:9999|llllllllllll|50m18s|Dev|💖|
+|5|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|llllllllll|41m57s|SNS|💚|
+|6|google.com|lllll|22m55s|Search|❤|
+|7|en.wikipedia|llll|17m18s|Reference|❤|
+|8|hackernoon.com|llll|17m02s|Tech|❤|
+|9|Wechat|llll|16m23s|Reference|🙂|
+|10|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m33s|Pro|❤|
+|11|sg.godaddy.com|ll|10m25s|Business|💖|
+|12|Chrome|ll|09m19s|Browsers|🙂|
+|13|system idle pr|ll|08m36s|Other|🙂|
+|14|xshell|ll|08m34s|Utils|❤|
+|15|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m25s|Reference|❤|
+
 ## yiyangiliu 2020-05-03 Detailed Activaties, 
 
 Update at 22:21

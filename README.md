@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-05 Detailed Activaties, 
+
+Update at 09:31
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|github.com|lllllll|31m16s|Dev|💖|
+|2|goland64|llll|18m31s|Dev|💖|
+|3|google.com|ll|08m09s|Search|❤|
+|4|chrome.google|l|07m04s|Shopping|💚|
+|5|jetbrains.com|l|06m59s|Search|🙂|
+|6|youtube.com|l|05m56s|Video|💚|
+|7|Command Prompt|l|05m13s|Systems Oper|💖|
+|8|rescuetime.com|l|05m05s|Insights|💖|
+|9|Win Explorer|l|04m20s|Utils|❤|
+|10|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)||02m27s|SNS|💚|
+|11|7-Zip||02m07s|Utils|❤|
+|12|youmeek.com||02m01s|Unknown|🙂|
+|13|Chrome||01m54s|Browsers|🙂|
+|14|en.wikipedia||01m49s|Reference|❤|
+|15|blog.csdn.net||01m42s|Reference|❤|
+
 ## yiyangiliu 2020-05-04 Detailed Activaties, 
 
 Update at 22:00

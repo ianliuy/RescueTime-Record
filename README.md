@@ -5,25 +5,10 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 10:01
+Update at 22:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|github.com|llllllll|32m42s|Dev|💖|
-|2|goland64|llll|19m39s|Dev|💖|
-|3|youtube.com|ll|10m34s|Video|💚|
-|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|ll|09m58s|Video|💚|
-|5|google.com|ll|08m38s|Search|❤|
-|6|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|07m48s|Video|💚|
-|7|chrome.google|l|07m15s|Utils|🙂|
-|8|jetbrains.com|l|07m01s|Utils|❤|
-|9|rescuetime.com|l|06m13s|Insights|💖|
-|10|Win Cmd|l|05m13s|Utils|💖|
-|11|Win Explorer|l|04m20s|Utils|❤|
-|12|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)||02m55s|SNS|💚|
-|13|Chrome||02m16s|Browsers|🙂|
-|14|youmeek.com||02m07s|Unknown|🙂|
-|15|7-Zip||02m07s|Utils|❤|
 
 ## yiyangiliu 2020-05-04 Detailed Activaties, 
 

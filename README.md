@@ -5,7 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 00:00, Total time logged: **13h46m** Theme: **Dev**(7h7m) label: 💖
+Update at 00:05
+
+Total time logged: **13h46m** Theme: **Dev**(7h7m) label: 💖
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|

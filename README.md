@@ -5,25 +5,10 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 22:00
+Update at 22:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-
-## yiyangiliu 2020-05-04 Detailed Activaties, 
-
-Update at 22:00
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|github.com|lllllllllllllllllllll|01h26m|Dev|💖|
-|2|pycharm64|lllllllllllllll|01h|IDE|💖|
-|3|MS Word|lllllllllllll|52m02s|Writing|💖|
-|4|localhost:9999|llllllllllll|49m25s|Dev|💖|
-|5|facebook.com|llllllllll|41m57s|SNS|💚|
-|6|google.com|lllll|22m55s|Search|❤|
-|7|zhuanlan.zhihu|llll|17m18s|Ref&Learn|❤|
-|8|hackernoon.com|llll|17m02s|Engineering |❤|
 |9|Wechat|llll|16m23s|Ref&Learn|🙂|
 |10|linkedin.com|ll|11m33s|Professional|❤|
 |11|sg.godaddy.com|ll|10m25s|General Busi|💖|

@@ -9,21 +9,6 @@ Update at 22:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|9|Wechat|llll|16m23s|Ref&Learn|🙂|
-|10|linkedin.com|ll|11m33s|Professional|❤|
-|11|sg.godaddy.com|ll|10m25s|General Busi|💖|
-|12|Chrome|ll|09m19s|Browsers|🙂|
-|13|system idle pr|ll|08m36s|Other|🙂|
-|14|xshell|ll|08m34s|Utils|❤|
-|15|cdonnmffkdaoaj|ll|08m25s|Ref&Learn|❤|
-
-## yiyangiliu 2020-05-03 Detailed Activaties, 
-
-Update at 22:14
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|pycharm64|lllllllllllllllllllllllllllllllllllllllll|02h45m|IDE|💖|
 |2|VS Code|llllllllllllllllllllllllll|01h44m|IDE|💖|
 |3|quicker|lllllllllllllllllllll|01h24m|Utils|❤|
 |4|github.com|llllllllllllllllll|01h13m|Dev|💖|

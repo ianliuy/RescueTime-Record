@@ -5,9 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 00:07
+Update at 00:09
 
-Total time logged: **13h46m**;    Theme: **Dev** 💖 (7h7m)
+Total time logged: 13h46m; Theme: **Dev**💖 (7h7m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -24,6 +24,8 @@ Total time logged: **13h46m**;    Theme: **Dev** 💖 (7h7m)
 |11|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|13m50s|Video|💚|
 |12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m44s|Reference|❤|
 |13|Win Explorer|lll|12m12s|Utils|❤|
+|14|kexue.fm|ll|11m59s|Unknown|🙂|
+|15|docs.python|ll|10m48s|Dev|💖|
 |14|kexue.fm|ll|11m59s|Unknown|🙂|
 |15|docs.python|ll|10m48s|Dev|💖|
 |14|kexue.fm|ll|11m59s|Unknown|🙂|

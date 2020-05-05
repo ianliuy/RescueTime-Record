@@ -3,6 +3,28 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-05 Detailed Activaties, 
+
+Update at 22:22
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|VS Code|lllllllllllllllllllllllllllll|01h58m|IDE|💖|
+|2|github.com|lllllllllllllllllllll|01h24m|Dev|💖|
+|3|pycharm64|llllllllllllllllllll|01h21m|IDE|💖|
+|4|goland64|llllllll|33m29s|Dev|💖|
+|5|google.com|lllllll|28m46s|Search|❤|
+|6|Chrome|llllll|24m49s|Browsers|🙂|
+|7|youtube.com|llll|19m47s|Video|💚|
+|8|en.wikipedia|llll|19m42s|Reference|🙂|
+|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|llll|19m09s|Pro|❤|
+|10|ncbi.nlm.nih.g|lll|15m34s|Tech|❤|
+|11|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|13m50s|Video|💚|
+|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m44s|Reference|❤|
+|13|Win Explorer|lll|12m12s|Utils|❤|
+|14|kexue.fm|ll|11m56s|Unknown|🙂|
+|15|docs.python|ll|10m48s|Dev|💖|
+
 ## yiyangiliu 2020-05-04 Detailed Activaties, 
 
 Update at 22:21

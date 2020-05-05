@@ -5,25 +5,25 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 09:31
+Update at 09:59
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|github.com|lllllll|31m16s|Dev|💖|
-|2|goland64|llll|18m31s|Dev|💖|
-|3|google.com|ll|08m09s|Search|❤|
-|4|chrome.google|l|07m04s|Shopping|💚|
-|5|jetbrains.com|l|06m59s|Search|🙂|
-|6|youtube.com|l|05m56s|Video|💚|
-|7|Command Prompt|l|05m13s|Systems Oper|💖|
-|8|rescuetime.com|l|05m05s|Insights|💖|
-|9|Win Explorer|l|04m20s|Utils|❤|
-|10|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)||02m27s|SNS|💚|
-|11|7-Zip||02m07s|Utils|❤|
-|12|youmeek.com||02m01s|Unknown|🙂|
-|13|Chrome||01m54s|Browsers|🙂|
-|14|en.wikipedia||01m49s|Reference|❤|
-|15|blog.csdn.net||01m42s|Reference|❤|
+|1|github.com|llllllll|32m40s|Dev|💖|
+|2|goland64|llll|19m21s|Dev|💖|
+|3|youtube.com|ll|10m34s|Video|💚|
+|4|bilibili.com|ll|09m58s|Video|💚|
+|5|google.com|ll|08m38s|Search|❤|
+|6|chrome.google|l|07m15s|Utils|🙂|
+|7|jetbrains.com|l|07m01s|Utils|❤|
+|8|rescuetime.com|l|06m13s|Insights|💖|
+|9|Win Cmd|l|05m13s|Utils|💖|
+|10|Win Explorer|l|04m20s|Utils|❤|
+|11|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)||02m55s|SNS|💚|
+|12|Chrome||02m16s|Browsers|🙂|
+|13|youmeek.com||02m07s|Unknown|🙂|
+|14|7-Zip||02m07s|Utils|❤|
+|15|en.wikipedia||01m56s|Reference|❤|
 
 ## yiyangiliu 2020-05-04 Detailed Activaties, 
 

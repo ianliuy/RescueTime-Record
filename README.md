@@ -3,26 +3,27 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
-## yiyangiliu 2020-05-05 Detailed Activaties, 
+## yiyangiliu 2020-05-03 Detailed Activaties, 
 
-Update at 22:07
+Update at 22:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
+|1|pycharm64|lllllllllllllllllllllllllllllllllllllllll|02h45m|IDE|💖|
 |2|VS Code|llllllllllllllllllllllllll|01h44m|IDE|💖|
-|3|quicker|lllllllllllllllllllll|01h24m|Utils|❤|
-|4|github.com|llllllllllllllllll|01h13m|Dev|💖|
-|5|google.com|llllll|24m30s|Search|🙂|
-|6|huggingface.co|llll|19m05s|Design & Pla|💖|
-|7|MS Word|llll|18m02s|Writing|💖|
-|8|rescuetime.com|llll|16m51s|Intelligence|💖|
-|9|linkedin.com|llll|16m35s|Professional|❤|
-|10|facebook.com|ll|11m53s|SNS|💚|
-|11|paperswithcode|ll|09m21s|Dev|💖|
-|12|[Saladict](https://github.com/crimx/ext-saladict)|ll|08m13s|Ref&Learn|❤|
-|13|blog.csdn.net|l|07m26s|Ref&Learn|❤|
-|14|Chrome|l|07m03s|Browsers|🙂|
-|15|Win Explorer|l|06m19s|Utils|❤|
+|3|[quicker](https://getquicker.net/)|lllllllllllllllllllll|01h24m|Utils|❤|
+|4|github.com|lllllllllllllllllll|01h17m|Dev|💖|
+|5|google.com|llllll|27m09s|Search|❤|
+|6|[huggingface.co](https://huggingface.co/)|llll|19m07s|Dev|💖|
+|7|MS Word|llll|18m04s|Composing|💖|
+|8|rescuetime.com|llll|16m51s|Insights|💖|
+|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|llll|16m35s|Pro|❤|
+|10|goland64|lll|15m50s|Dev|💖|
+|11|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|ll|11m53s|SNS|💚|
+|12|[paperswithcode](https://paperswithcode.com/area/natural-language-processing/)|ll|09m21s|Dev|💖|
+|13|Win Explorer|ll|08m19s|Utils|❤|
+|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m16s|Reference|❤|
+|15|blog.csdn.net|l|07m26s|Reference|❤|
 
 ## yiyangiliu 2020-05-02 Detailed Activaties, 
 

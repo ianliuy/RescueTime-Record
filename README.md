@@ -5,16 +5,16 @@ A Daily Summary of my RescueTime Data, **automatically** made by [yiyangiliu/Res
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 
-Update at 10:00
+Update at 10:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|github.com|llllllll|32m42s|Dev|💖|
 |2|goland64|llll|19m39s|Dev|💖|
 |3|youtube.com|ll|10m34s|Video|💚|
-|4|bilibili.com|ll|09m58s|Video|💚|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|ll|09m58s|Video|💚|
 |5|google.com|ll|08m38s|Search|❤|
-|6|space.bilibili|l|07m48s|Video|💚|
+|6|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|07m48s|Video|💚|
 |7|chrome.google|l|07m15s|Utils|🙂|
 |8|jetbrains.com|l|07m01s|Utils|❤|
 |9|rescuetime.com|l|06m13s|Insights|💖|

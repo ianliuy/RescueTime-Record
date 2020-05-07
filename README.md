@@ -3,6 +3,36 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-07 Detailed Activaties, 
+
+Update at 22:20
+
+
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+## yiyangiliu 2020-05-07 Detailed Activaties, 
+
+Update at 22:20
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
+|2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
+|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
+|4|github.com|lllllllllll|47m52s|Dev|💖|
+|5|知乎|llllll|27m18s|Reference|❤|
+|6|google.com|llll|18m12s|Search|❤|
+|7|(m)Chrome|lll|15m46s|Browsers|🙂|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
+|9|Chrome|lll|13m53s|Browsers|🙂|
+|10|blog.csdn.net|lll|12m46s|Reference|❤|
+|11|cajvieweru|ll|11m27s|Reference|❤|
+|12|diffchecker|ll|10m14s|Unknown|🙂|
+|13|mobile - com.g|l|07m59s|Music|💚|
+|14|system idle pr|l|07m51s|Other|🙂|
+|15|weibo.com|l|06m41s|SNS|💚|
+
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 
 Update at 22:18

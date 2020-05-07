@@ -3,6 +3,15 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
+## yiyangiliu 2020-05-06 Detailed Activaties, 
+
+Update at 22:16
+
+
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 
 Update at 22:08

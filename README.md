@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 
-Update at 22:03
+Update at 22:08
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
-|2|知乎|llllll|27m18s|Reference|❤|
-|3|(m)Chrome|lll|13m20s|Browsers|🙂|
-|4|mobile - com.g|l|07m59s|Music|💚|
-|5|(m)Wechat|l|04m57s|IM|😥|
-|6|mobile - com.g||03m57s|Dev|💖|
-|7|mobile - com.a||01m28s|Utils|❤|
-|8|mobile - com.t||01m05s|Email|🙂|
-|9|(m)launcher||01m03s|Utils|🙂|
-|10|(m)Youtube||57s|Video|💚|
-|11|Outlook for An||30s|Email|🙂|
-|12|Play Store||30s|Shopping|🙂|
-|13|Android Dialer||25s|Voice Chat|❤|
-|14|mobile - com.o||24s|Unknown|🙂|
-|15|mobile - com.d||21s|Reference|❤|
+|2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
+|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
+|4|github.com|lllllllllll|47m09s|Dev|💖|
+|5|知乎|llllll|27m18s|Reference|❤|
+|6|google.com|llll|18m12s|Search|❤|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
+|8|Chrome|lll|13m53s|Browsers|🙂|
+|9|(m)Chrome|lll|13m20s|Browsers|🙂|
+|10|blog.csdn.net|lll|12m46s|Reference|❤|
+|11|cajvieweru|ll|11m27s|Reference|❤|
+|12|diffchecker|ll|10m14s|Unknown|🙂|
+|13|mobile - com.g|l|07m59s|Music|💚|
+|14|system idle pr|l|07m47s|Other|🙂|
+|15|weibo.com|l|06m41s|SNS|💚|
 
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 

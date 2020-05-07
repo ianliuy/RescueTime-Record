@@ -7,14 +7,6 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 Update at 22:34
 
-
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-## yiyangiliu 2020-05-07 Detailed Activaties, 
-
-Update at 22:34
-
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|

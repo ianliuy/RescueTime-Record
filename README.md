@@ -7,25 +7,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 Update at 22:16
 
-
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-
-## yiyangiliu 2020-05-07 Detailed Activaties, 
-
-Update at 22:08
+Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
-|2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
-|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
-|4|github.com|lllllllllll|47m09s|Dev|💖|
-|5|知乎|llllll|27m18s|Reference|❤|
-|6|google.com|llll|18m12s|Search|❤|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
-|8|Chrome|lll|13m53s|Browsers|🙂|
+|1|en.wikipedia|lllllllllllllllllllllllllllll|01h56m|Reference|🙂|
+|2|pycharm64|llllllllllllllllllllllllllll|01h53m|IDE|💖|
+|3|github.com|llllllllllllllllll|01h13m|Dev|💖|
+|4|(m)Chrome|llllllllllllll|58m23s|Browsers|🙂|
+|5|mysupervisor|llllllllllllll|56m36s|Unknown|🙂|
+|6|localhost:9999|lllllllllll|47m20s|Dev|💖|
+|7|MS Word|llllllll|34m27s|Composing|💖|
+|8|google.com|llllllll|32m14s|Search|❤|
+|9|VS Code|lllll|20m02s|IDE|💖|
+|10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
+|11|Chrome|lll|15m44s|Browsers|🙂|
+|12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
+|13|en.wikipedia|ll|11m08s|Reference|❤|
+|14|rescuetime.com|ll|09m50s|Insights|💖|
+|15|MS Paint|l|07m50s|Graphic Desi|💖|
 |9|(m)Chrome|lll|13m20s|Browsers|🙂|
 |10|blog.csdn.net|lll|12m46s|Reference|❤|
 |11|cajvieweru|ll|11m27s|Reference|❤|

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 
-Update at 22:33
+Update at 22:34
 
 
 
@@ -13,7 +13,7 @@ Update at 22:33
 |-|-|-|-|-|-|
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 
-Update at 22:33
+Update at 22:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -34,15 +34,9 @@ Update at 22:33
 |15|system idle pr|l|07m52s|Other|🙂|
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 
-Update at 22:33
+Update at 22:34
 
-
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-## yiyangiliu 2020-05-06 Detailed Activaties, 
-
-Update at 22:33
+Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -56,6 +50,11 @@ Update at 22:33
 |8|google.com|llllllll|32m14s|Search|❤|
 |9|VS Code|lllll|20m02s|IDE|💖|
 |10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
+|11|Chrome|lll|15m44s|Browsers|🙂|
+|12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
+|13|en.wikipedia|ll|11m08s|Reference|❤|
+|14|rescuetime.com|ll|09m50s|Insights|💖|
+|15|MS Paint|l|07m50s|Graphic Desi|💖|
 |11|Chrome|lll|15m44s|Browsers|🙂|
 |12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
 |13|en.wikipedia|ll|11m08s|Reference|❤|

@@ -3,51 +3,29 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive ❤ Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting 
 
-## yiyangiliu 2020-05-07 Detailed Activaties, 
-
-Update at 22:17
-
-
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
-|2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
-|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
-|4|github.com|lllllllllll|47m52s|Dev|💖|
-|5|知乎|llllll|27m18s|Reference|❤|
-|6|google.com|llll|18m12s|Search|❤|
-|7|(m)Chrome|lll|15m46s|Browsers|🙂|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
-|9|Chrome|lll|13m53s|Browsers|🙂|
-|10|blog.csdn.net|lll|12m46s|Reference|❤|
-|11|cajvieweru|ll|11m27s|Reference|❤|
-|12|diffchecker|ll|10m14s|Unknown|🙂|
-|13|mobile - com.g|l|07m59s|Music|💚|
-|14|system idle pr|l|07m51s|Other|🙂|
-|15|weibo.com|l|06m41s|SNS|💚|
-
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 
-Update at 22:00
+Update at 22:18
+
+Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|en.wikipedia|llllllllllllllllll|01h12m|Reference|🙂|
-|2|(m)Chrome|llllllllllllll|58m23s|Browsers|🙂|
-|3|github.com|llllllllllll|48m22s|Dev|💖|
-|4|VS Code|llll|19m17s|IDE|💖|
-|5|google.com|lll|15m42s|Search|❤|
-|6|en.wikipedia|ll|11m03s|Reference|❤|
-|7|rescuetime.com|ll|09m50s|Insights|💖|
-|8|Chrome|l|06m44s|Browsers|🙂|
-|9|goland64|l|06m41s|Dev|💖|
-|10|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|l|06m29s|Pro|❤|
-|11|(m)Wechat|l|06m10s|IM|😥|
-|12|MS Paint|l|05m52s|Graphic Desi|💖|
-|13|en.wikipedia|l|04m59s|Reference|❤|
-|14|mp.weixin.qq|l|04m43s|IM|🙂|
-|15|en.wikipedia|l|04m25s|Search|🙂|
+|1|en.wikipedia|lllllllllllllllllllllllllllll|01h56m|Reference|🙂|
+|2|pycharm64|llllllllllllllllllllllllllll|01h53m|IDE|💖|
+|3|github.com|llllllllllllllllll|01h13m|Dev|💖|
+|4|(m)Chrome|llllllllllllll|58m23s|Browsers|🙂|
+|5|mysupervisor|llllllllllllll|56m36s|Unknown|🙂|
+|6|localhost:9999|lllllllllll|47m20s|Dev|💖|
+|7|MS Word|llllllll|34m27s|Composing|💖|
+|8|google.com|llllllll|32m14s|Search|❤|
+|9|VS Code|lllll|20m02s|IDE|💖|
+|10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
+|11|Chrome|lll|15m44s|Browsers|🙂|
+|12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
+|13|en.wikipedia|ll|11m08s|Reference|❤|
+|14|rescuetime.com|ll|09m50s|Insights|💖|
+|15|MS Paint|l|07m50s|Graphic Desi|💖|
 
 ## yiyangiliu 2020-05-05 Detailed Activaties, 
 

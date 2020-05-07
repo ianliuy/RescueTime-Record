@@ -44,12 +44,7 @@ Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
 |10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
 |11|Chrome|lll|15m44s|Browsers|🙂|
 |12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
-|13|en.wikipedia|ll|11m08s|Reference|❤|
-|14|rescuetime.com|ll|09m50s|Insights|💖|
-|15|MS Paint|l|07m50s|Graphic Desi|💖|
-|11|Chrome|lll|15m44s|Browsers|🙂|
-|12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
-|13|en.wikipedia|ll|11m08s|Reference|❤|
+|13|zh.wikipedia|ll|11m08s|Reference|❤|
 |14|rescuetime.com|ll|09m50s|Insights|💖|
 |15|MS Paint|l|07m50s|Graphic Desi|💖|
 

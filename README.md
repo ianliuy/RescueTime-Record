@@ -5,31 +5,44 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 
-Update at 22:20
+Update at 22:33
+
+
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+## yiyangiliu 2020-05-07 Detailed Activaties, 
+
+Update at 22:33
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
 |2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
 |3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
-|4|github.com|lllllllllll|47m52s|Dev|💖|
+|4|github.com|llllllllllll|49m22s|Dev|💖|
 |5|知乎|llllll|27m18s|Reference|❤|
-|6|google.com|llll|18m12s|Search|❤|
+|6|google.com|llll|18m17s|Search|❤|
 |7|(m)Chrome|lll|15m46s|Browsers|🙂|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
-|9|Chrome|lll|13m53s|Browsers|🙂|
-|10|blog.csdn.net|lll|12m46s|Reference|❤|
-|11|cajvieweru|ll|11m27s|Reference|❤|
-|12|diffchecker|ll|10m14s|Unknown|🙂|
-|13|mobile - com.g|l|07m59s|Music|💚|
-|14|system idle pr|l|07m51s|Other|🙂|
-|15|weibo.com|l|06m41s|SNS|💚|
-
+|8|goland64|lll|15m27s|Dev|💖|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
+|10|Chrome|lll|13m53s|Browsers|🙂|
+|11|blog.csdn.net|lll|12m46s|Reference|❤|
+|12|cajvieweru|ll|11m27s|Reference|❤|
+|13|diffchecker|ll|10m14s|Unknown|🙂|
+|14|mobile - com.g|l|07m59s|Music|💚|
+|15|system idle pr|l|07m52s|Other|🙂|
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 
-Update at 22:18
+Update at 22:33
 
-Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
+
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+## yiyangiliu 2020-05-06 Detailed Activaties, 
+
+Update at 22:33
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|

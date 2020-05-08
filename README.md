@@ -9,21 +9,6 @@ Update at 22:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-
-## yiyangiliu 2020-05-07 Detailed Activaties, 
-
-Update at 22:34
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h57m|Video|💚|
-|2|MS Word|llllllllllllllllllllllllllllllllllllllll|02h43m|Composing|💖|
-|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
-|4|github.com|llllllllllll|49m22s|Dev|💖|
-|5|知乎|llllll|27m18s|Reference|❤|
-|6|google.com|llll|18m17s|Search|❤|
-|7|(m)Chrome|lll|15m46s|Browsers|🙂|
-|8|goland64|lll|15m27s|Dev|💖|
 |9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
 |10|Chrome|lll|13m53s|Browsers|🙂|
 |11|blog.csdn.net|lll|12m46s|Reference|❤|

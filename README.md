@@ -5,22 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-08 Detailed Activaties, 
 
-Update at 22:00
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m25s|Reference|❤|
-|10|Chrome|lll|13m53s|Browsers|🙂|
-|11|blog.csdn.net|lll|12m46s|Reference|❤|
-|12|cajvieweru|ll|11m27s|Reference|❤|
-|13|diffchecker|ll|10m14s|Unknown|🙂|
-|14|mobile - com.g|l|07m59s|Music|💚|
-|15|system idle pr|l|07m52s|Other|🙂|
-## yiyangiliu 2020-05-06 Detailed Activaties, 
-
-Update at 22:34
-
-Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
+Update at 22:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|

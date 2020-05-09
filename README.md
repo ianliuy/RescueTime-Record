@@ -9,21 +9,21 @@ Update at 21:56
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-
-## yiyangiliu 2020-05-08 Detailed Activaties, 
-
-Update at 22:01
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|en.wikipedia|lllllllllllllllllllllllllllll|01h56m|Reference|🙂|
-|2|pycharm64|llllllllllllllllllllllllllll|01h53m|IDE|💖|
-|3|github.com|llllllllllllllllll|01h13m|Dev|💖|
-|4|(m)Chrome|llllllllllllll|58m23s|Browsers|🙂|
-|5|mysupervisor|llllllllllllll|56m36s|Unknown|🙂|
-|6|localhost:9999|lllllllllll|47m20s|Dev|💖|
-|7|MS Word|llllllll|34m27s|Composing|💖|
-|8|google.com|llllllll|32m14s|Search|❤|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|2|github.com|lllllllllllllllll|01h09m|Dev|💖|
+|3|pycharm64|llllllllllllllll|01h06m|IDE|💖|
+|4|mysupervisor|lllllllllll|44m57s|Unknown|🙂|
+|5|gist.github|llllllllll|40m45s|Dev|💖|
+|6|知乎|llll|18m12s|Reference|🙂|
+|7|MS Word|lll|13m15s|Composing|💖|
+|8|(m)Chrome|lll|12m48s|Browsers|🙂|
+|9|diffchecker|ll|11m09s|Unknown|🙂|
+|10|google.com|ll|10m00s|Search|❤|
+|11|nlp.csai.tsing|ll|09m05s|Reference|❤|
+|12|Chrome|l|07m51s|Browsers|🙂|
+|13|VS Code|l|07m45s|IDE|💖|
+|14|robo.datayes|l|06m10s|Unknown|🙂|
+|15|v2ex.com|l|05m53s|General News|💚|
 |9|VS Code|lllll|20m02s|IDE|💖|
 |10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
 |11|Chrome|lll|15m44s|Browsers|🙂|

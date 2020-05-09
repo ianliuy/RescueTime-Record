@@ -3,27 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
-## yiyangiliu 2020-05-05 Detailed Activaties, 
+## yiyangiliu 2020-05-06 Detailed Activaties, 
 
-Update at 00:16
+Update at 22:04
 
-Total time logged: 13h46m; Today's theme is: **Dev**💖 (7h7m)
+Total time logged: 13h21m; Today's theme is: **Dev**💖 (4h45m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|VS Code|lllllllllllllllllllllllllllll|01h59m|IDE|💖|
-|2|github.com|llllllllllllllllllllllll|01h38m|Dev|💖|
-|3|goland64|llllllllllllllllllllllll|01h38m|Dev|💖|
-|4|pycharm64|llllllllllllllllllll|01h21m|IDE|💖|
-|5|google.com|lllllll|31m48s|Search|❤|
-|6|Chrome|lllllll|28m33s|Browsers|🙂|
-|7|youtube.com|lllll|20m13s|Video|💚|
-|8|en.wikipedia|llll|19m42s|Reference|🙂|
-|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|llll|19m09s|Pro|❤|
-|10|ncbi.nlm.nih.g|lll|15m38s|Tech|❤|
-|11|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|13m50s|Video|💚|
-|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m44s|Reference|❤|
-|13|Win Explorer|lll|12m12s|Utils|❤|
+|1|en.wikipedia|lllllllllllllllllllllllllllll|01h56m|Reference|🙂|
+|2|pycharm64|llllllllllllllllllllllllllll|01h53m|IDE|💖|
+|3|github.com|llllllllllllllllll|01h13m|Dev|💖|
+|4|(m)Chrome|llllllllllllll|58m23s|Browsers|🙂|
+|5|mysupervisor|llllllllllllll|56m36s|Unknown|🙂|
+|6|localhost:9999|lllllllllll|47m20s|Dev|💖|
+|7|MS Word|llllllll|34m27s|Composing|💖|
+|8|google.com|llllllll|32m14s|Search|❤|
+|9|VS Code|lllll|20m02s|IDE|💖|
+|10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m23s|Video|💚|
+|11|Chrome|lll|15m44s|Browsers|🙂|
+|12|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|11m46s|Pro|❤|
+|13|en.wikipedia|ll|11m08s|Reference|❤|
+|14|rescuetime.com|ll|09m50s|Insights|💖|
+|15|MS Paint|l|07m50s|Graphic Desi|💖|
+
 |14|kexue.fm|ll|11m59s|Unknown|🙂|
 |15|docs.python|ll|10m48s|Dev|💖|
 

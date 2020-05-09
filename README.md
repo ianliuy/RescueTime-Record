@@ -3,6 +3,36 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-09 Detailed Activaties, 
+
+Update at 22:10
+
+
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+## yiyangiliu 2020-05-09 Detailed Activaties, 
+
+Update at 22:10
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|2|github.com|lllllllllllllllll|01h09m|Dev|💖|
+|3|pycharm64|llllllllllllllll|01h06m|IDE|💖|
+|4|mysupervisor|lllllllllll|44m57s|Unknown|🙂|
+|5|gist.github|llllllllll|40m45s|Dev|💖|
+|6|知乎|llll|18m12s|Reference|🙂|
+|7|MS Word|lll|13m15s|Composing|💖|
+|8|(m)Chrome|lll|12m48s|Browsers|🙂|
+|9|diffchecker|ll|11m09s|Unknown|🙂|
+|10|google.com|ll|10m00s|Search|❤|
+|11|nlp.csai.tsing|ll|09m05s|Reference|❤|
+|12|Chrome|l|07m51s|Browsers|🙂|
+|13|VS Code|l|07m45s|IDE|💖|
+|14|robo.datayes|l|06m10s|Unknown|🙂|
+|15|v2ex.com|l|05m53s|General News|💚|
+
 ## yiyangiliu 2020-05-08 Detailed Activaties, 
 
 Update at 22:08

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-07 Detailed Activaties, 
+
+Update at 22:08
+
+Total time logged: 15h; Today's theme is: **Entertainment**💚 (5h7m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h56m|Video|💚|
+|2|MS Word|llllllllllllllllllllllllllllllllllllllllll|02h50m|Composing|💖|
+|3|en.wikipedia|lllllllllllllll|01h|Reference|🙂|
+|4|github.com|lllllllllllll|54m12s|Dev|💖|
+|5|知乎|llllll|27m18s|Reference|🙂|
+|6|google.com|llll|18m19s|Search|❤|
+|7|goland64|llll|17m02s|Dev|💖|
+|8|(m)Chrome|lll|15m46s|Browsers|🙂|
+|9|Chrome|lll|15m34s|Browsers|🙂|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m33s|Reference|❤|
+|11|blog.csdn.net|lll|12m46s|Reference|❤|
+|12|cajvieweru|ll|11m27s|Reference|❤|
+|13|diffchecker|ll|10m14s|Unknown|🙂|
+|14|mobile - com.g|l|07m59s|Music|💚|
+|15|system idle pr|l|07m54s|Other|🙂|
+
 ## yiyangiliu 2020-05-06 Detailed Activaties, 
 
 Update at 22:08

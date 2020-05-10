@@ -5,9 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-09 Detailed Activaties, 
 
-Update at 22:04
+Update at 22:06
 
-Total time logged: 12h11m; Today's theme is: **Dev**💖 (3h32m)
+Total logged time: 12h11m; Today's theme is: **Dev**💖 (3h32m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -26,28 +26,6 @@ Total time logged: 12h11m; Today's theme is: **Dev**💖 (3h32m)
 |13|nlp.csai.tsing|ll|09m05s|Reference|🧡|
 |14|Chrome|l|07m53s|Browsers|💛|
 |15|robo.datayes|l|06m10s|Reference|💖|
-
-## yiyangiliu 2020-05-08 Detailed Activaties, 
-
-Update at 22:08
-
-Total time logged: 15h58m; Today's theme is: **Entertainment**💚 (6h28m)
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h21m|Video|💚|
-|2|pycharm64|lllllllllllllllllllllllllllllll|02h04m|IDE|💖|
-|3|MS Word|lllllllllllllllllllll|01h25m|Composing|💖|
-|4|robo.datayes|llllllllllllllll|01h05m|Unknown|🙂|
-|5|(m)Youtube|llllllllllll|51m57s|Video|💚|
-|6|Wechat|llllllllllll|48m54s|Reference|🙂|
-|7|wemeetapp|llllllll|32m42s|Meetings|❤|
-|8|(m)Wechat|lllll|21m06s|IM|😥|
-|9|Chrome|llll|16m31s|Browsers|🙂|
-|10|Win Explorer|lll|13m39s|Utils|❤|
-|11|github.com|lll|13m39s|Dev|💖|
-|12|crummy.com|lll|12m16s|Dev|💖|
-|13|(m)Chrome|lll|12m00s|Browsers|🙂|
 |14|(m)[douyu](https://www.google.com/search?q=douyu+chinese+twitch)|ll|10m16s|Video|💚|
 |15|VS Code|ll|10m03s|IDE|💖|
 

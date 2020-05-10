@@ -3,31 +3,29 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
-## yiyangiliu 2020-05-09 Detailed Activaties, 
+## yiyangiliu 2020-05-08 Detailed Activaties, 
 
-Update at 22:06
+Update at 22:09
 
-Total logged time: 12h11m; Today's theme is: **Dev**💖 (3h32m)
+Total logged time: 15h58m; Today's theme is: **Entertainment**💚 (6h28m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
-|2|MS Word|llllllllllllllllllll|01h20m|Composing|💖|
-|3|github.com|lllllllllllllllllll|01h16m|Dev|💖|
-|4|pycharm64|llllllllllllllll|01h06m|IDE|💖|
-|5|gist.github|lllllllllll|45m09s|Dev|💖|
-|6|mysupervisor|lllllllllll|44m57s|Unknown|💛|
-|7|知乎|llll|18m12s|Reference|💛|
-|8|(m)Chrome|lll|12m48s|Browsers|💛|
-|9|diffchecker|ll|11m09s|Unknown|💛|
-|10|goland64|ll|10m48s|Dev|💖|
-|11|google.com|ll|10m40s|Search|🧡|
-|12|VS Code|ll|10m16s|Composing|💖|
-|13|nlp.csai.tsing|ll|09m05s|Reference|🧡|
-|14|Chrome|l|07m53s|Browsers|💛|
-|15|robo.datayes|l|06m10s|Reference|💖|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h21m|Video|💚|
+|2|pycharm64|lllllllllllllllllllllllllllllll|02h04m|IDE|💖|
+|3|MS Word|lllllllllllllllllllll|01h25m|Composing|💖|
+|4|robo.datayes|llllllllllllllll|01h05m|Reference|💖|
+|5|(m)Youtube|llllllllllll|51m57s|Video|💚|
+|6|Wechat|llllllllllll|48m54s|Reference|💛|
+|7|wemeetapp|llllllll|32m42s|Meetings|🧡|
+|8|(m)Wechat|lllll|21m06s|IM|💜|
+|9|Chrome|llll|16m31s|Browsers|💛|
+|10|Win Explorer|lll|13m39s|Utils|🧡|
+|11|github.com|lll|13m39s|Dev|💖|
+|12|crummy.com|lll|12m16s|Dev|💖|
+|13|(m)Chrome|lll|12m00s|Browsers|💛|
 |14|(m)[douyu](https://www.google.com/search?q=douyu+chinese+twitch)|ll|10m16s|Video|💚|
-|15|VS Code|ll|10m03s|IDE|💖|
+|15|VS Code|ll|10m03s|Composing|💖|
 
 ## yiyangiliu 2020-05-07 Detailed Activaties, 
 

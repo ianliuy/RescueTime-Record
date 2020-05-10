@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-10 Detailed Activaties, 
+
+Update at 22:00
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|VS Code|llllllllllllllllllllllllllllllll|02h10m|Composing|💖|
+|2|pycharm64|llllllllll|41m24s|IDE|💖|
+|3|github.com|llllllll|33m59s|Dev|💖|
+|4|Wechat|llllllll|33m07s|Reference|🙂|
+|5|mobile - com.y|lllllll|30m55s|Browsers|🙂|
+|6|mail.qq.com|lllllll|29m41s|Email|❤|
+|7|robo.datayes|lllllll|28m33s|Reference|💖|
+|8|google.com|lllllll|28m23s|Search|❤|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|18m52s|Reference|❤|
+|10|MS Word|llll|17m37s|Composing|💖|
+|11|Chrome|llll|17m23s|Browsers|🙂|
+|12|kexue.fm|lll|13m33s|Unknown|🙂|
+|13|Anki - Android|ll|11m41s|Reference|❤|
+|14|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|10m33s|Pro|❤|
+|15|(m)Wechat|ll|09m41s|IM|😥|
+
 ## yiyangiliu 2020-05-09 Detailed Activaties, 
 
 Update at 22:13

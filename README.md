@@ -3,49 +3,29 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
-## yiyangiliu 2020-05-10 Detailed Activaties, 
-
-Update at 22:00
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|VS Code|llllllllllllllllllllllllllllllll|02h10m|Composing|💖|
-|2|pycharm64|llllllllll|41m24s|IDE|💖|
-|3|github.com|llllllll|33m59s|Dev|💖|
-|4|Wechat|llllllll|33m07s|Reference|🙂|
-|5|mobile - com.y|lllllll|30m55s|Browsers|🙂|
-|6|mail.qq.com|lllllll|29m41s|Email|❤|
-|7|robo.datayes|lllllll|28m33s|Reference|💖|
-|8|google.com|lllllll|28m23s|Search|❤|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|18m52s|Reference|❤|
-|10|MS Word|llll|17m37s|Composing|💖|
-|11|Chrome|llll|17m23s|Browsers|🙂|
-|12|kexue.fm|lll|13m33s|Unknown|🙂|
-|13|Anki - Android|ll|11m41s|Reference|❤|
-|14|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|10m33s|Pro|❤|
-|15|(m)Wechat|ll|09m41s|IM|😥|
-
 ## yiyangiliu 2020-05-09 Detailed Activaties, 
 
-Update at 22:13
+Update at 22:04
+
+Total time logged: 12h11m; Today's theme is: **Dev**💖 (3h32m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
-|2|github.com|lllllllllllllllll|01h09m|Dev|💖|
-|3|pycharm64|llllllllllllllll|01h06m|IDE|💖|
-|4|mysupervisor|lllllllllll|44m57s|Unknown|💛|
-|5|gist.github|llllllllll|40m45s|Dev|💖|
-|6|知乎|llll|18m12s|Reference|💛|
-|7|MS Word|lll|13m15s|Composing|💖|
+|2|MS Word|llllllllllllllllllll|01h20m|Composing|💖|
+|3|github.com|lllllllllllllllllll|01h16m|Dev|💖|
+|4|pycharm64|llllllllllllllll|01h06m|IDE|💖|
+|5|gist.github|lllllllllll|45m09s|Dev|💖|
+|6|mysupervisor|lllllllllll|44m57s|Unknown|💛|
+|7|知乎|llll|18m12s|Reference|💛|
 |8|(m)Chrome|lll|12m48s|Browsers|💛|
 |9|diffchecker|ll|11m09s|Unknown|💛|
-|10|google.com|ll|10m00s|Search|🧡|
-|11|nlp.csai.tsing|ll|09m05s|Reference|🧡|
-|12|Chrome|l|07m51s|Browsers|💛|
-|13|VS Code|l|07m45s|IDE|💖|
-|14|robo.datayes|l|06m10s|Unknown|💛|
-|15|v2ex.com|l|05m53s|General News|💚|
+|10|goland64|ll|10m48s|Dev|💖|
+|11|google.com|ll|10m40s|Search|🧡|
+|12|VS Code|ll|10m16s|Composing|💖|
+|13|nlp.csai.tsing|ll|09m05s|Reference|🧡|
+|14|Chrome|l|07m53s|Browsers|💛|
+|15|robo.datayes|l|06m10s|Reference|💖|
 
 ## yiyangiliu 2020-05-08 Detailed Activaties, 
 

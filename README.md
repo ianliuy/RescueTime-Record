@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-09 Detailed Activaties, 
+
+Update at 22:09
+
+Total logged time: 12h11m; Today's theme is: **Dev**💖 (3h32m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|2|MS Word|llllllllllllllllllll|01h20m|Composing|💖|
+|3|github.com|lllllllllllllllllll|01h16m|Dev|💖|
+|4|pycharm64|llllllllllllllll|01h06m|IDE|💖|
+|5|gist.github|lllllllllll|45m09s|Dev|💖|
+|6|mysupervisor|lllllllllll|44m57s|Unknown|💛|
+|7|知乎|llll|18m12s|Reference|💛|
+|8|(m)Chrome|lll|12m48s|Browsers|💛|
+|9|diffchecker|ll|11m09s|Unknown|💛|
+|10|goland64|ll|10m48s|Dev|💖|
+|11|google.com|ll|10m40s|Search|🧡|
+|12|VS Code|ll|10m16s|Composing|💖|
+|13|nlp.csai.tsing|ll|09m05s|Reference|🧡|
+|14|Chrome|l|07m53s|Browsers|💛|
+|15|robo.datayes|l|06m10s|Reference|💖|
+
 ## yiyangiliu 2020-05-08 Detailed Activaties, 
 
 Update at 22:09

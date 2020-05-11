@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-10 Detailed Activaties, 
+
+Update at 11:50
+
+Total logged time: 13h7m; Today's theme is: **Reference**🧡 (3h2m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|VS Code|lllllllllllllllllllllllllllllllll|02h12m|Composing|💖|
+|2|github.com|llllllllllll|48m12s|Dev|💖|
+|3|pycharm64|llllllllll|41m24s|IDE|💖|
+|4|Wechat|llllllll|33m07s|Reference|💛|
+|5|mobile - com.y|lllllll|30m55s|Browsers|💛|
+|6|mail.qq.com|lllllll|29m41s|Email|🧡|
+|7|google.com|lllllll|29m28s|Search|🧡|
+|8|robo.datayes|lllllll|28m33s|Reference|💖|
+|9|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllll|21m31s|Video|💚|
+|10|(m)Chrome|lllll|21m01s|Browsers|💛|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|19m14s|Reference|🧡|
+|12|goland64|llll|19m03s|Dev|💖|
+|13|MS Word|llll|17m41s|Composing|💖|
+|14|Chrome|llll|17m30s|Browsers|💛|
+|15|kexue.fm|lll|13m33s|Unknown|💛|
+
 ## yiyangiliu 2020-05-09 Detailed Activaties, 
 
 Update at 22:11

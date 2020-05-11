@@ -5,16 +5,16 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-10 Detailed Activaties, 
 
-Update at 13:50
+Update at 16:50
 
-Total logged time: 13h7m; Today's theme is: **Reference**🧡 (3h2m)
+Total logged time: 13h7m; Today's theme is: **Composition**💖 (2h29m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|VS Code|lllllllllllllllllllllllllllllllll|02h12m|Composing|💖|
 |2|github.com|llllllllllll|48m12s|Dev|💖|
 |3|pycharm64|llllllllll|41m24s|IDE|💖|
-|4|Wechat|llllllll|33m07s|Reference|💛|
+|4|Wechat|llllllll|33m07s|IM|💛|
 |5|mobile - com.y|lllllll|30m55s|Browsers|💛|
 |6|mail.qq.com|lllllll|29m41s|Email|🧡|
 |7|google.com|lllllll|29m28s|Search|🧡|

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-12 Detailed Activaties, 
+
+Update at 07:41
+
+Total logged time: 11h16m; Today's theme is: **Dev**💖 (6h6m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|VS Code|llllllllllllllllllllllllllllllllll|02h18m|Dev|💖|
+|2|pycharm64|lllllllllllllllllllllllllllllll|02h06m|IDE|💖|
+|3|github.com|lllllllllllllllll|01h10m|Dev|💖|
+|4|en.wikipedia|lllllllllll|45m54s|Reference|💛|
+|5|youtube.com|lllllll|28m32s|Reference|🧡|
+|6|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|lllll|21m16s|SNS|💚|
+|7|google.com|lllll|20m15s|Search|🧡|
+|8|Calculator|lll|15m50s|Utils|🧡|
+|9|gist.github|ll|11m00s|Dev|💖|
+|10|Chrome|ll|10m52s|Browsers|💛|
+|11|Win Explorer|ll|10m35s|Utils|🧡|
+|12|知乎|ll|10m14s|Reference|💛|
+|13|blog.csdn.net|ll|09m14s|Reference|🧡|
+|14|47.110.138.192|l|07m17s|Unknown|💛|
+|15|diffchecker|l|06m42s|Unknown|💛|
+
 ## yiyangiliu 2020-05-11 Detailed Activaties, 
 
 Update at 19:58

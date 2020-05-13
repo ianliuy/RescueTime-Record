@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 💛 Neutral 💜 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-13 Detailed Activaties, 
+
+Update at 00:12
+
+Total logged time: 14h2m; Today's theme is: **Dev**💖 (5h44m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|pycharm64|lllllllllllllllllllllllllllllllllllllllllllll|03h03m|IDE|💖|
+|2|youtube.com|llllllllllllllllllllllllllllllll|02h11m|Reference|🧡|
+|3|github.com|llllllllllllllllllllllllllll|01h55m|Dev|💖|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllll|01h31m|Video|💚|
+|5|en.wikipedia|llllllllll|42m41s|Reference|💛|
+|6|gist.github|llllll|26m22s|Dev|💖|
+|7|google.com|llllll|25m00s|Search|🧡|
+|8|(m)Wechat|llll|16m36s|IM|💜|
+|9|v2ex.com|lll|15m57s|General News|💚|
+|10|souke.xdf.cn|lll|14m12s|Reference|🧡|
+|11|mobile - com.t|lll|12m32s|Shopping|💚|
+|12|github-stars.s|ll|10m41s|Unknown|💛|
+|13|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|ll|08m49s|SNS|💚|
+|14|c:|ll|08m46s|Utils|💖|
+|15|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|08m18s|Pro|🧡|
+
 ## yiyangiliu 2020-05-12 Detailed Activaties, 
 
 Update at 22:54

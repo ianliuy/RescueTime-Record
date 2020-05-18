@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-17 Detailed Activaties, 
+
+Update at 10:55
+
+Total logged time: 12h6m; Today's theme is: **Dev**💖 (3h42m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllll|02h43m|Video|💚|
+|2|VS Code|llllllllllllllllllllllllllllllllll|02h17m|Dev|💖|
+|3|c:|llllllllllll|49m28s|Utils|💖|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllll|35m39s|Video|💚|
+|5|github.com|llllllll|35m31s|Dev|💖|
+|6|Adobe Illustra|llllllll|33m50s|Graphic Desi|💖|
+|7|pycharm64|llllllll|32m18s|IDE|💖|
+|8|youtube.com|llllll|27m45s|Reference|🧡|
+|9|(m)Chrome|lllll|20m00s|Browsers|🙂|
+|10|Chrome|llll|19m43s|Browsers|🙂|
+|11|google.com|llll|18m20s|Search|🧡|
+|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m47s|Reference|🧡|
+|13|Win Explorer|ll|08m08s|Utils|🧡|
+|14|en.wikipedia|ll|08m05s|Reference|🙂|
+|15|[GCP](https://|l|06m37s|Dev|💖|
+
 ## yiyangiliu 2020-05-16 Detailed Activaties, 
 
 Update at 21:19

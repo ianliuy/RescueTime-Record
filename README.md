@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-18 Detailed Activaties, 
+
+Update at 08:52
+
+Total logged time: 14h15m; Today's theme is: **Reference**🧡 (3h40m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllll|02h30m|Reference|🧡|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllll|01h18m|Video|💚|
+|3|VS Code|lllllllllllllllllll|01h17m|Dev|💖|
+|4|pycharm64|lllllllllllllllll|01h09m|IDE|💖|
+|5|en.wikipedia|lllllllllllll|53m07s|Reference|🙂|
+|6|Wechat|llllllllllll|48m21s|IM|🙂|
+|7|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllll|37m38s|Video|💚|
+|8|[youtube music](https://github.com/ytmdesktop/ytmdesktop)|lllllllll|36m59s|Music|💚|
+|9|potplayermini6|llllllll|32m38s|Dev|💖|
+|10|qq|llllllll|32m14s|General Comm|🙂|
+|11|github.com|lllllll|31m16s|Dev|💖|
+|12|MS Word|lllllll|29m16s|Composing|💖|
+|13|(m)Chrome|llllll|25m29s|Browsers|🙂|
+|14|wemeetapp|lllll|21m32s|Meetings|🧡|
+|15|(m)Wechat|lll|14m53s|IM|😥|
+
 ## yiyangiliu 2020-05-17 Detailed Activaties, 
 
 Update at 22:55

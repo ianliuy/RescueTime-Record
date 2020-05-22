@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-21 Detailed Activaties, 
+
+Update at 08:16
+
+Total logged time: 13h40m; Today's theme is: **Reference**🧡 (4h53m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|llllllllllllllllllllllllllllllllllllllllllllll|03h05m|Reference|🧡|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllll|01h41m|Video|💚|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllll|01h37m|Video|💚|
+|4|VS Code|llllllllllllllllllllll|01h30m|Dev|💖|
+|5|(m)Youtube|llllllllllll|51m57s|Video|💚|
+|6|(m)Chrome|llllllllllll|50m28s|Browsers|🙂|
+|7|youglish.com|llllllllllll|49m07s|Reference|🧡|
+|8|potplayermini6|llllllll|34m54s|Dev|💖|
+|9|c:|lllllll|30m57s|Utils|💖|
+|10|en.wikipedia|lllll|22m27s|Reference|🙂|
+|11|(m)launcher|ll|11m08s|Utils|🙂|
+|12|en.wikipedia|ll|09m58s|Shopping|💚|
+|13|知乎|ll|09m34s|Reference|🙂|
+|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m12s|Reference|🧡|
+|15|google.com|l|07m05s|Search|🧡|
+
 ## yiyangiliu 2020-05-20 Detailed Activaties, 
 
 Update at 18:12

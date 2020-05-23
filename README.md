@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-22 Detailed Activaties, 
 
-Update at 13:58
+Update at 16:58
 
 Total logged time: 14h2m; Today's theme is: **Dev**💖 (3h42m)
 

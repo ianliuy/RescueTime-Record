@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-22 Detailed Activaties, 
+
+Update at 13:58
+
+Total logged time: 14h2m; Today's theme is: **Dev**💖 (3h42m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllll|02h35m|Video|💚|
+|2|VS Code|llllllllllllllll|01h06m|Dev|💖|
+|3|github.com|lllllllll|38m55s|Dev|💖|
+|4|GCP [Console](|lllllllll|36m53s|Systems Oper|💖|
+|5|youtube.com|llllllll|32m43s|Reference|🧡|
+|6|(m)Chrome|lllllll|31m57s|Browsers|🙂|
+|7|google.com|lllllll|30m27s|Search|🧡|
+|8|en.wikipedia|lllllll|28m45s|Shopping|💚|
+|9|v2ex.com|lllll|22m01s|General News|💚|
+|10|putty|lll|15m48s|Systems Oper|💖|
+|11|mobile - com.t|lll|14m14s|Shopping|💚|
+|12|en.wikipedia|lll|13m37s|Reference|🙂|
+|13|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lll|12m04s|Video|💚|
+|14|localhost:5555|ll|11m37s|IDE|💖|
+|15|gitpod.io|ll|10m48s|Unknown|🙂|
+
 ## yiyangiliu 2020-05-21 Detailed Activaties, 
 
 Update at 23:16

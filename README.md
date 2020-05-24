@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-23 Detailed Activaties, 
+
+Update at 08:22
+
+Total logged time: 10h53m; Today's theme is: **Entertainment**💚 (2h58m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Youtube|llllllllllllllllllllllllllllllllllllllllll|02h51m|Video|💚|
+|2|VS Code|lllllllllllllllllllllll|01h35m|Dev|💖|
+|3|mobile - com.t|llllllllllllll|56m08s|Reference|🙂|
+|4|potplayermini6|lllllllllllll|55m39s|Dev|💖|
+|5|en.wikipedia|lllllllll|36m32s|Reference|🙂|
+|6|(m)Chrome|lllllll|29m45s|Browsers|🙂|
+|7|google.com|lllllll|28m37s|Search|🧡|
+|8|MS Word|lllllll|28m23s|Composing|💖|
+|9|c:|llll|17m48s|Utils|💖|
+|10|xshell|lll|12m19s|Utils|🧡|
+|11|youtube.com|ll|11m24s|Reference|🧡|
+|12|Chrome|ll|10m21s|Browsers|🙂|
+|13|localhost:1233|l|07m18s|Unknown|🙂|
+|14|(m)Wechat|l|06m46s|IM|😥|
+|15|zotero|l|06m02s|Tech|🧡|
+
 ## yiyangiliu 2020-05-22 Detailed Activaties, 
 
 Update at 19:58

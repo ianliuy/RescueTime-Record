@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-24 Detailed Activaties, 
+
+Update at 09:54
+
+Total logged time: 11h24m; Today's theme is: **Entertainment**💚 (7h36m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h02m|Video|💚|
+|2|youtube.com|llllllllllllllllllllllllllllllllllllllllllllllll|03h15m|Reference|🧡|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllll|26m07s|Video|💚|
+|4|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llll|18m57s|Video|💚|
+|5|search.bilibil|lll|12m36s|Video|💚|
+|6|(m)Wechat|l|06m01s|IM|😥|
+|7|itsapp.bjut.ed|l|05m01s|Unknown|🙂|
+|8|(m)Chrome|l|04m08s|Browsers|🙂|
+|9|Camera - Andro||03m35s|Photos|💚|
+|10|mobile - com.a||03m06s|Reference|🧡|
+|11|[paperswithcode](https://paperswithcode.com/area/natural-language-processing/)||02m04s|Dev|💖|
+|12|(m)launcher||02m02s|Utils|🙂|
+|13|mobile - com.b||01m49s|SNS|💚|
+|14|mobile - com.t||01m42s|Shopping|💚|
+|15|en.wikipedia||01m28s|Reference|🙂|
+
 ## yiyangiliu 2020-05-23 Detailed Activaties, 
 
 Update at 17:22

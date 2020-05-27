@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-26 Detailed Activaties, 
+
+Update at 08:13
+
+Total logged time: 15h17m; Today's theme is: **Entertainment**💚 (5h11m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Youtube|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllll|01h28m|Video|💚|
+|3|pycharm64|lllllllllllllllllllll|01h27m|IDE|💖|
+|4|mobile - com.t|llllllllllllll|58m04s|Shopping|💚|
+|5|Chrome|llllllllll|43m04s|Browsers|🙂|
+|6|(m)Wechat|lllllllll|36m35s|IM|😥|
+|7|MS Word|lllllll|30m23s|Composing|💖|
+|8|youtube.com|lllllll|29m12s|Reference|🧡|
+|9|Wechat|llllll|25m54s|IM|🙂|
+|10|en.wikipedia|llllll|24m26s|Shopping|💚|
+|11|mp.weixin.qq|llllll|24m25s|IM|🙂|
+|12|bdcam|lllll|22m48s|Unknown|🙂|
+|13|en.wikipedia|lllll|20m58s|Reference|🙂|
+|14|Win Explorer|llll|19m39s|Utils|🧡|
+|15|potplayermini6|llll|18m08s|Dev|💖|
+
 ## yiyangiliu 2020-05-25 Detailed Activaties, 
 
 Update at 22:53

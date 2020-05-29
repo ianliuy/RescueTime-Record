@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-28 Detailed Activaties, 
+
+Update at 10:29
+
+Total logged time: 4h56m; Today's theme is: **Communication**🧡 (1h16m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Youtube|lllllllllllllllll|01h08m|Video|💚|
+|2|(m)Wechat|llllllllllllllll|01h07m|IM|😥|
+|3|en.wikipedia|llllllllllll|48m10s|Shopping|💚|
+|4|mobile - com.t|llll|18m32s|Shopping|💚|
+|5|MS Word|lll|12m42s|Composing|💖|
+|6|Chrome|ll|09m04s|Browsers|🙂|
+|7|VS Code|ll|08m47s|Dev|💖|
+|8|wfclzwfw.sd.go|l|07m24s|Unknown|🙂|
+|9|mobile - com.f|l|06m02s|Reference|🧡|
+|10|Android Dialer||03m58s|Voice Chat|🧡|
+|11|Wechat||03m31s|IM|🙂|
+|12|(m)launcher||03m10s|Utils|🙂|
+|13|Win Explorer||02m57s|Utils|🧡|
+|14|everything||02m38s|Utils|🧡|
+|15|mobile - com.g||02m26s|Unknown|🙂|
+
 ## yiyangiliu 2020-05-27 Detailed Activaties, 
 
 Update at 13:55

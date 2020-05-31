@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-05-30 Detailed Activaties, 
+
+Update at 08:56
+
+Total logged time: 16h47m; Today's theme is: **Reference**🧡 (8h50m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h47m|Reference|🧡|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h33m|Video|💚|
+|3|Chrome|lllllll|31m36s|Browsers|🙂|
+|4|MS Word|lllllll|29m00s|Composing|💖|
+|5|en.wikipedia|llllll|27m09s|Reference|🙂|
+|6|guancha.cn|llll|16m53s|General News|💚|
+|7|(m)Youtube|ll|11m16s|Video|💚|
+|8|c:|ll|10m28s|Utils|💖|
+|9|VS Code|ll|08m39s|Dev|💖|
+|10|baidu.com|ll|08m18s|Search|🙂|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m41s|Reference|🧡|
+|12|Win Explorer|l|04m22s|Utils|🧡|
+|13|calibri|l|04m01s|Unknown|🙂|
+|14|user.guancha.c||03m56s|General News|💚|
+|15|app.huoban.com||03m54s|Dev|💖|
+
 ## yiyangiliu 2020-05-29 Detailed Activaties, 
 
 Update at 12:12

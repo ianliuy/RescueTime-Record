@@ -5,27 +5,27 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-05-31 Detailed Activaties, 
 
-Update at 11:55
+Update at 14:55
 
 Total logged time: 14h45m; Today's theme is: **Entertainment**💚 (8h38m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h59m|Video|💚|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h23m|Video|💚|
 |2|youtube.com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h11m|Reference|🧡|
 |3|(m)Youtube|llllllllllllllllllllllllllllllll|02h11m|Video|💚|
-|4|baidu.com|lll|13m38s|Search|🙂|
-|5|wenku.baidu|lll|12m30s|Reference|🧡|
-|6|en.wikipedia|l|06m31s|Reference|🙂|
-|7|(m)Chrome|l|06m13s|Browsers|🙂|
-|8|s.taobao.com|l|04m53s|Shopping|💚|
-|9|mobile - com.v|l|04m47s|Unknown|🙂|
-|10|(m)launcher||03m35s|Utils|🙂|
-|11|Chrome||03m29s|Browsers|🙂|
-|12|m.baidu.com||03m05s|Reference|🧡|
-|13|(m)Wechat||03m02s|IM|😥|
-|14|itsapp.bjut.ed||03m00s|Unknown|🙂|
-|15|item.taobao||02m35s|Shopping|💚|
+|4|en.wikipedia|llll|19m37s|Shopping|💚|
+|5|baidu.com|lll|13m38s|Search|🙂|
+|6|wenku.baidu|lll|12m30s|Reference|🧡|
+|7|en.wikipedia|l|06m31s|Reference|🙂|
+|8|(m)Chrome|l|06m13s|Browsers|🙂|
+|9|s.taobao.com|l|04m53s|Shopping|💚|
+|10|mobile - com.v|l|04m47s|Unknown|🙂|
+|11|(m)launcher||03m41s|Utils|🙂|
+|12|Chrome||03m29s|Browsers|🙂|
+|13|(m)Wechat||03m21s|IM|😥|
+|14|m.baidu.com||03m05s|Reference|🧡|
+|15|itsapp.bjut.ed||03m00s|Unknown|🙂|
 
 ## yiyangiliu 2020-05-30 Detailed Activaties, 
 

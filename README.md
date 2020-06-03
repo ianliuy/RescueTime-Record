@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-06-02 Detailed Activaties, 
 
-Update at 09:25
+Update at 18:25
 
 Total logged time: 16h19m; Today's theme is: **Entertainment**💚 (5h30m)
 
@@ -17,10 +17,10 @@ Total logged time: 16h19m; Today's theme is: **Entertainment**💚 (5h30m)
 |4|Microsoft OneD|lllllllllllllll|01h|Utils|🧡|
 |5|(m)Wechat|lllllllllllll|55m58s|IM|😥|
 |6|MS Word|lllllllllll|45m30s|Composing|💖|
-|7|Wechat|lllllllllll|44m03s|IM|🙂|
+|7|Wechat|lllllllllll|44m09s|IM|🙂|
 |8|VS Code|llllllll|34m34s|Dev|💖|
 |9|(m)Chrome|llllll|26m35s|Browsers|🙂|
-|10|Win Explorer|lllll|22m00s|Utils|🧡|
+|10|Win Explorer|lllll|22m02s|Utils|🧡|
 |11|github.com|llll|19m40s|Dev|💖|
 |12|baidu.com|llll|19m27s|Search|🙂|
 |13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|18m08s|Reference|🧡|

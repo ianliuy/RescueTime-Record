@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-06-07 Detailed Activaties, 
 
-Update at 08:15
+Update at 08:21
 
-Total logged time: 13h19m; Today's theme is: **Entertainment**💚 (4h13m)
+Total logged time: 13h19m; Today's theme is: **Reference**🧡 (6h24m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h51m|Video|💚|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h51m|Reference|💖|
 |2|Adobe Illustra|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Graphic Desi|💖|
 |3|en.wikipedia|llllllllllllllllllllllllll|01h44m|Reference|🙂|
 |4|(m)Chrome|llllllllllllllllll|01h13m|Browsers|🙂|

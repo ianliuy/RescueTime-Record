@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-08 Detailed Activaties, 
+
+Update at 09:00
+
+Total logged time: 13h8m; Today's theme is: **Reference**🧡 (6h46m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h51m|Reference|💖|
+|2|en.wikipedia|lllllllllllllllllllllllll|01h42m|Reference|🙂|
+|3|Adobe Ai|lllllllllllll|55m22s|Design|💖|
+|4|(m)Youtube|llllllllllll|48m42s|Video|💚|
+|5|PowerPoint|llllllllll|43m35s|Pre|💖|
+|6|citavi|llllllll|32m46s|Insights|💖|
+|7|c:|llllll|26m42s|Utils|💖|
+|8|(m)Wechat|llllll|25m29s|IM|😥|
+|9|google.com|lllll|23m41s|Search|🧡|
+|10|en.wikipedia|lll|12m37s|Search|🧡|
+|11|Wechat|lll|12m36s|IM|🙂|
+|12|Win Explorer|ll|11m32s|Utils|🧡|
+|13|en.wikipedia|ll|10m53s|Reference|🧡|
+|14|github.com|ll|10m32s|Dev|💖|
+|15|VS Code|ll|09m20s|Dev|💖|
+
 ## yiyangiliu 2020-06-07 Detailed Activaties, 
 
 Update at 23:26

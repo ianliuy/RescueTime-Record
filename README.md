@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-09 Detailed Activaties, 
+
+Update at 11:46
+
+Total logged time: 17h10m; Today's theme is: **Composition**💖 (4h51m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|PowerPoint|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h51m|Pre|💖|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|3|(m)Wechat|lllllllllllllllllllllll|01h34m|IM|😥|
+|4|Wechat|llllllllllllllllllll|01h23m|IM|🙂|
+|5|1point3acres|lllllllllllllllllll|01h17m|Reference|🧡|
+|6|MS Word|llllllllllllll|57m54s|Composing|💖|
+|7|wemeetapp|lllllllllllll|54m08s|Meetings|🧡|
+|8|VS Code|llllllllll|43m27s|Dev|💖|
+|9|google.com|lllll|20m37s|Search|🧡|
+|10|snipaste|llll|16m01s|Utils|🧡|
+|11|github.com|lll|12m53s|Dev|💖|
+|12|vpn.bjut.edu.c|ll|09m44s|Unknown|🙂|
+|13|Win Explorer|ll|08m42s|Utils|🧡|
+|14|c:|l|07m25s|Utils|💖|
+|15|etherscan.io|l|06m12s|Unknown|🙂|
+
 ## yiyangiliu 2020-06-08 Detailed Activaties, 
 
 Update at 21:00

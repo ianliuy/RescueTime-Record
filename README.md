@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-11 Detailed Activaties, 
+
+Update at 13:50
+
+Total logged time: 11h22m; Today's theme is: **Entertainment**💚 (6h40m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h14m|Video|💚|
+|2|(m)Youtube|llllllllllllllllllllllllllllllllllll|02h26m|Video|💚|
+|3|mobile - com.e|lllllllllllll|54m46s|Reference|🧡|
+|4|知乎|llllll|25m56s|Reference|🙂|
+|5|souke.xdf.cn|llllll|25m19s|Reference|🧡|
+|6|toefl.neea.cn|llll|19m26s|Reference|🧡|
+|7|(m)Wechat|llll|17m10s|IM|😥|
+|8|(m)Chrome|lll|15m41s|Browsers|🙂|
+|9|baidu.com|lll|14m24s|Search|🙂|
+|10|Wechat|ll|11m57s|IM|🙂|
+|11|gre.neea.cn|ll|08m08s|Unknown|🙂|
+|12|etschrome|l|07m44s|Unknown|🙂|
+|13|Win Explorer|l|07m14s|Utils|🧡|
+|14|ets.org|l|06m42s|General News|💚|
+|15|en.wikipedia|l|06m22s|Reference|🧡|
+
 ## yiyangiliu 2020-06-10 Detailed Activaties, 
 
 Update at 15:55

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-13 Detailed Activaties, 
+
+Update at 09:49
+
+Total logged time: 19h1m; Today's theme is: **Entertainment**💚 (10h15m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|08h09m|Video|💚|
+|2|java|llllllllllllllllllllllllllllllll|02h09m|Utils|🧡|
+|3|mobile - com.e|lllllllllllllllllllllllllllll|01h59m|Reference|🧡|
+|4|(m)Youtube|llllllllllllllllll|01h15m|Video|💚|
+|5|pycharm64|lllllllllllllll|01h|IDE|💖|
+|6|(m)Reddit|llllllllllll|50m11s|Photos|💚|
+|7|(m)Chrome|lllllllllll|46m09s|Browsers|🙂|
+|8|(m)Wechat|lllll|22m30s|IM|😥|
+|9|Wechat|lllll|20m08s|IM|🙂|
+|10|baidu.com|llll|18m13s|Search|🙂|
+|11|taiji.zenki.cn|llll|18m11s|Unknown|🙂|
+|12|(m)launcher|llll|17m53s|Utils|🙂|
+|13|blog.csdn.net|lll|13m49s|Reference|🧡|
+|14|cnblogs.com|l|04m51s|Dev|🧡|
+|15|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|l|04m14s|Pro|🧡|
+
 ## yiyangiliu 2020-06-12 Detailed Activaties, 
 
 Update at 15:49

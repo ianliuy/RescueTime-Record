@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-15 Detailed Activaties, 
+
+Update at 19:46
+
+Total logged time: 15h37m; Today's theme is: **Unknown**💛 (8h46m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.y|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|08h43m|Unknown|🙂|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllllll|03h29m|Video|💚|
+|3|java|lllllllll|39m33s|Utils|🧡|
+|4|mobile - com.e|lllllll|31m43s|Reference|🧡|
+|5|(m)Wechat|llllll|25m17s|IM|😥|
+|6|Wechat|lll|13m44s|IM|🙂|
+|7|(m)Chrome|lll|13m27s|Browsers|🙂|
+|8|viterbigradadm|ll|11m25s|Reference|🧡|
+|9|youtube.com|ll|09m46s|Reference|💖|
+|10|en.wikipedia|l|06m06s|Reference|🧡|
+|11|baidu.com|l|05m14s|Search|🙂|
+|12|detail.tmall|l|04m48s|Shopping|💚|
+|13|pay.bjut.edu.c||03m59s|Unknown|🙂|
+|14|mobile - in.zh||03m37s|Utils|🧡|
+|15|catalogue.usc.||03m30s|Reference|🧡|
+
 ## yiyangiliu 2020-06-13 Detailed Activaties, 
 
 Update at 21:49

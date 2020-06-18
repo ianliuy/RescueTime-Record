@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-17 Detailed Activaties, 
+
+Update at 16:24
+
+Total logged time: 12h35m; Today's theme is: **Entertainment**💚 (4h3m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllll|03h11m|Video|💚|
+|2|mobile - com.y|lllllllllllllllllllllllllll|01h48m|Unknown|🙂|
+|3|en.wikipedia|llllllllllllllllllll|01h21m|Reference|🙂|
+|4|(m)Youtube|lllllllllll|44m07s|Video|💚|
+|5|mobile - com.e|llllllllll|42m28s|Reference|🧡|
+|6|legendadult|llllllll|33m07s|Unknown|🙂|
+|7|(m)Wechat|lllllll|28m58s|IM|😥|
+|8|twitter.com|lllll|22m41s|SNS|💚|
+|9|bigquant.com|lll|13m55s|Unknown|🙂|
+|10|(m)Chrome|lll|13m30s|Browsers|🙂|
+|11|google.com|lll|13m13s|Search|🧡|
+|12|weibo.com|ll|11m48s|SNS|💚|
+|13|chottie.com|ll|10m27s|Unknown|🙂|
+|14|shadowsocksr-d|ll|09m39s|Utils|🧡|
+|15|1point3acres|ll|08m52s|Reference|🧡|
+
 ## yiyangiliu 2020-06-16 Detailed Activaties, 
 
 Update at 23:26

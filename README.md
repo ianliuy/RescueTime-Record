@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-18 Detailed Activaties, 
+
+Update at 14:53
+
+Total logged time: 17h58m; Today's theme is: **Entertainment**💚 (6h21m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h07m|Video|💚|
+|2|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h56m|Reference|💖|
+|3|mobile - com.y|llllllllllllllllllllllllll|01h46m|Unknown|🙂|
+|4|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllllllllll|44m58s|Pro|🧡|
+|5|Wechat|llllll|26m18s|IM|🙂|
+|6|mail.qq.com|lllll|22m58s|Email|🧡|
+|7|(m)Chrome|llll|19m53s|Browsers|🙂|
+|8|en.wikipedia|llll|19m20s|Reference|🙂|
+|9|ereg.ets.org|llll|19m03s|Reference|🧡|
+|10|mobile - com.e|llll|16m55s|Shopping|💚|
+|11|(m)Wechat|lll|15m05s|IM|😥|
+|12|google.com|lll|13m27s|Search|🧡|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m55s|Reference|🧡|
+|14|(m)Youtube|lll|12m41s|Video|💚|
+|15|java|ll|11m09s|Utils|🧡|
+
 ## yiyangiliu 2020-06-17 Detailed Activaties, 
 
 Update at 22:24

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-19 Detailed Activaties, 
+
+Update at 13:32
+
+Total logged time: 16h22m; Today's theme is: **Entertainment**💚 (6h11m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h11m|Video|💚|
+|2|1point3acres|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h10m|Reference|🧡|
+|3|mobile - com.y|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h51m|Unknown|🙂|
+|4|google.com|llllllll|35m12s|Search|🧡|
+|5|(m)Wechat|ll|11m41s|IM|😥|
+|6|cityprotect|ll|09m55s|Unknown|🙂|
+|7|en.wikipedia|ll|08m19s|Reference|🙂|
+|8|en.wikipedia|l|07m52s|Reference|🧡|
+|9|Win Explorer|l|07m44s|Utils|🧡|
+|10|forums.huaren.|l|05m51s|General News|💚|
+|11|snipaste|l|05m37s|Utils|🧡|
+|12|salarytics.1po|l|04m39s|Reference|🧡|
+|13|junchenlab.com|l|04m31s|Unknown|🙂|
+|14|lite.gatech.ed||03m22s|Reference|🧡|
+|15|usatoday.com||02m47s|General News|💚|
+
 ## yiyangiliu 2020-06-18 Detailed Activaties, 
 
 Update at 20:53

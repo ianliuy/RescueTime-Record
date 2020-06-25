@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-24 Detailed Activaties, 
+
+Update at 08:27
+
+Total logged time: 19h5m; Today's theme is: **Communication**🧡 (9h59m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h42m|IM|😥|
+|2|Wechat|llllllllllllllllllllllllllllllllllllllllllll|02h57m|IM|🙂|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllll|01h35m|Video|💚|
+|4|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllllllllllllllll|01h10m|Pro|🧡|
+|5|(m)Chrome|lllllllllllllllll|01h09m|Browsers|🙂|
+|6|LinkedIn - And|lllllllllllllll|01h03m|Pro|🧡|
+|7|1point3acres|llllllllll|41m12s|Reference|🧡|
+|8|VS Code|llllllll|35m32s|Dev|💖|
+|9|google.com|llll|19m49s|Search|🧡|
+|10|en.wikipedia|lll|15m29s|Reference|🙂|
+|11|QQ|lll|13m31s|IM|😥|
+|12|java|lll|12m57s|Utils|🧡|
+|13|mobile - com.g|ll|09m07s|Unknown|🙂|
+|14|netid.usc.edu|l|05m48s|Reference|🧡|
+|15|guancha.cn|l|05m36s|General News|💚|
+
 ## yiyangiliu 2020-06-23 Detailed Activaties, 
 
 Update at 21:17

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-25 Detailed Activaties, 
+
+Update at 14:52
+
+Total logged time: 17h6m; Today's theme is: **Reference**🧡 (6h11m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllllllllllllllllll|02h27m|IM|🙂|
+|2|1point3acres|llllllllllllllllllllllllllllllllllll|02h26m|Reference|🧡|
+|3|mobile - com.y|lllllllllllllllllllllllllll|01h50m|Unknown|🙂|
+|4|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllll|01h34m|Video|💚|
+|5|(m)Wechat|lllllllllllllllllllllll|01h34m|IM|😥|
+|6|youtube.com|lllllllllllllllllllll|01h27m|Reference|💖|
+|7|en.wikipedia|lllllllllllllll|01h02m|Reference|🙂|
+|8|pycharm64|lllllllll|36m53s|IDE|💖|
+|9|mitbbs.com|lllllllll|36m35s|Entertainmen|💚|
+|10|google.com|lllll|20m46s|Search|🧡|
+|11|LinkedIn - And|llll|18m37s|Pro|🧡|
+|12|xuangubao.cn|lll|13m02s|Unknown|🙂|
+|13|en.wikipedia|ll|11m10s|Reference|🧡|
+|14|theatlantic|ll|10m58s|General News|💚|
+|15|cargurus.com|ll|09m37s|Shopping|💚|
+
 ## yiyangiliu 2020-06-24 Detailed Activaties, 
 
 Update at 23:27

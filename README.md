@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-27 Detailed Activaties, 
+
+Update at 01:18
+
+Total logged time: 14h49m; Today's theme is: **Communication**🧡 (4h47m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllll|03h10m|Video|💚|
+|2|Wechat|lllllllllllllllllllllllllllllll|02h07m|IM|🙂|
+|3|(m)Wechat|lllllllllllllllllllllllllll|01h49m|IM|😥|
+|4|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllllllllllllll|01h03m|Pro|🧡|
+|5|en.wikipedia|llllllllll|43m57s|Reference|🙂|
+|6|mobile - com.e|llllllllll|40m17s|Reference|🧡|
+|7|pycharm64|lllllllll|37m47s|IDE|💖|
+|8|java|llllllll|34m40s|Utils|🧡|
+|9|Zoom|lllllll|29m34s|Meetings|🧡|
+|10|1point3acres|lllll|22m56s|Reference|🧡|
+|11|google.com|lllll|22m11s|Search|🧡|
+|12|xuangubao.cn|lllll|21m31s|Unknown|🙂|
+|13|aimate|lll|14m50s|Unknown|🙂|
+|14|mail.qq.com|lll|13m11s|Email|🧡|
+|15|VS Code|ll|08m08s|Dev|💖|
+
 ## yiyangiliu 2020-06-26 Detailed Activaties, 
 
 Update at 19:18

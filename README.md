@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-28 Detailed Activaties, 
+
+Update at 10:45
+
+Total logged time: 17h49m; Today's theme is: **Communication**🧡 (7h33m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.y|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h03m|Unknown|🙂|
+|2|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h42m|IM|🙂|
+|3|(m)Wechat|llllllllllllllllllllllllllllllllllllllllllllllllllllll|03h39m|IM|😥|
+|4|1point3acres|llllllllllllllllllllllllllll|01h52m|Reference|🧡|
+|5|en.wikipedia|lllllllllllll|54m15s|Reference|🙂|
+|6|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllll|42m18s|Video|💚|
+|7|(m)Chrome|llllllllll|40m13s|Browsers|🙂|
+|8|google.com|lllll|22m31s|Search|🧡|
+|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllll|20m06s|Pro|🧡|
+|10|mail.qq.com|ll|11m10s|Email|🧡|
+|11|levels.fyi|ll|09m11s|Unknown|🙂|
+|12|viterbigradadm|ll|08m22s|Reference|🧡|
+|13|(m)launcher|l|07m16s|Utils|🙂|
+|14|知乎|l|05m58s|Reference|🙂|
+|15|snipaste|l|05m19s|Utils|🧡|
+
 ## yiyangiliu 2020-06-27 Detailed Activaties, 
 
 Update at 23:13

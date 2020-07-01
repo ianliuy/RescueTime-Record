@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-06-30 Detailed Activaties, 
+
+Update at 10:26
+
+Total logged time: 16h50m; Today's theme is: **Communication**🧡 (4h55m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h29m|Video|💚|
+|2|(m)Wechat|lllllllllllllllllllllllllllllllllllll|02h30m|IM|😥|
+|3|Wechat|lllllllllllllllllllllllllllllll|02h04m|IM|🙂|
+|4|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|llllllllllllllllllllllllllllll|02h03m|Pro|🧡|
+|5|mobile - com.y|llllllllllllllllll|01h14m|Unknown|🙂|
+|6|VS Code|lllllllll|38m55s|Dev|💖|
+|7|google.com|llllll|25m31s|Search|🧡|
+|8|(m)Chrome|lllll|20m57s|Browsers|🙂|
+|9|mp.weixin.qq|lllll|20m39s|IM|🙂|
+|10|cs.unc.edu|lllll|20m08s|Reference|🧡|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|14m03s|Reference|🧡|
+|12|github.com|ll|11m32s|Dev|💖|
+|13|java|ll|09m09s|Utils|🧡|
+|14|ois.pitt.edu|l|07m37s|Reference|🧡|
+|15|coronavirus.us|l|07m06s|Reference|🧡|
+
 ## yiyangiliu 2020-06-29 Detailed Activaties, 
 
 Update at 22:28

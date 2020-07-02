@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-01 Detailed Activaties, 
+
+Update at 11:35
+
+Total logged time: 15h1m; Today's theme is: **Reference**🧡 (5h48m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|1point3acres|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h29m|Reference|🧡|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllll|01h54m|Video|💚|
+|3|VS Code|lllllllllllllllll|01h11m|Dev|💖|
+|4|(m)Wechat|llllllllllllll|59m36s|IM|😥|
+|5|Wechat|llllllllllllll|56m42s|IM|🙂|
+|6|github.com|llllllllll|42m13s|Dev|💖|
+|7|(m)Chrome|llllllll|33m18s|Browsers|🙂|
+|8|mobile - com.y|llllllll|32m19s|Unknown|🙂|
+|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllllll|29m13s|Pro|🧡|
+|10|google.com|lllllll|28m27s|Search|🧡|
+|11|byvoid.com|llllll|24m59s|Reference|🧡|
+|12|MS Word|lllll|22m41s|Composing|💖|
+|13|LinkedIn - And|ll|08m50s|Pro|🧡|
+|14|classin|l|06m53s|Unknown|🙂|
+|15|acadsoc.com.cn|l|06m22s|Reference|🧡|
+
 ## yiyangiliu 2020-06-30 Detailed Activaties, 
 
 Update at 22:26

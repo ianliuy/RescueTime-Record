@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-03 Detailed Activaties, 
+
+Update at 08:50
+
+Total logged time: 14h7m; Today's theme is: **Reference**🧡 (4h30m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Wechat|lllllllllllllllllllllllllllllllll|02h14m|IM|😥|
+|2|Wechat|lllllllllllllllllll|01h18m|IM|🙂|
+|3|1point3acres|llllllllllllllllll|01h12m|Reference|🧡|
+|4|(m)Chrome|lllllllllllllll|01h|Browsers|🙂|
+|5|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllll|44m06s|Video|💚|
+|6|google.com|llllllll|32m04s|Search|🧡|
+|7|souke.xdf.cn|lllllll|30m11s|Reference|🧡|
+|8|mp.weixin.qq|llllll|27m29s|IM|🙂|
+|9|github.com|llllll|25m08s|Dev|💖|
+|10|知乎|lllll|23m47s|Reference|🙂|
+|11|en.wikipedia|lllll|21m53s|Reference|🙂|
+|12|weibo.com|lllll|21m35s|SNS|💚|
+|13|v2.ereg.ets|lllll|20m33s|Reference|🧡|
+|14|baidu.com|lll|15m59s|Search|🙂|
+|15|baoming.xdf.cn|lll|12m40s|Unknown|🙂|
+
 ## yiyangiliu 2020-07-02 Detailed Activaties, 
 
 Update at 20:35

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-05 Detailed Activaties, 
+
+Update at 07:11
+
+Total logged time: 19h18m; Today's theme is: **Communication**🧡 (10h2m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Zoom|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h18m|Meetings|🧡|
+|2|mobile - com.e|lllllllllllllllllllllllllllllllllllllll|02h38m|Reference|🧡|
+|3|(m)Wechat|lllllllllllllllllllllllllllllllllll|02h20m|IM|😥|
+|4|Wechat|lllllllllllllllllllllllllllllll|02h05m|IM|🙂|
+|5|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllll|01h38m|Video|💚|
+|6|1point3acres|lllllllllllllllll|01h08m|Reference|🧡|
+|7|java|llllllllllll|51m53s|Utils|🧡|
+|8|Win Explorer|llllllllll|41m09s|Utils|🧡|
+|9|mobile - us.zo|lllllllll|38m22s|Meetings|🧡|
+|10|roombox|llll|17m55s|Unknown|🙂|
+|11|en.wikipedia|lll|15m11s|Reference|🙂|
+|12|usc.zoom.us|lll|14m08s|Meetings|🧡|
+|13|Dianping|ll|09m18s|Travel & Out|💚|
+|14|google.com|ll|08m50s|Search|🧡|
+|15|mail.qq.com|l|07m46s|Email|🧡|
+
 ## yiyangiliu 2020-07-04 Detailed Activaties, 
 
 Update at 22:00

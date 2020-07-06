@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-06 Detailed Activaties, 
+
+Update at 07:30
+
+Total logged time: 17h52m; Today's theme is: **Reference**🧡 (6h18m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.e|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h41m|Reference|🧡|
+|2|Wechat|lllllllllllllllllllllllllllllllllllll|02h29m|IM|🙂|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllll|01h51m|Video|💚|
+|4|Zoom|llllllllllllllllllllllllll|01h46m|Meetings|🧡|
+|5|(m)Wechat|llllllllllllllllllll|01h22m|IM|😥|
+|6|wechatapp|lllllllllllllllll|01h10m|Unknown|🙂|
+|7|1point3acres|lllllllllllll|54m13s|Reference|🧡|
+|8|Win Explorer|llllllllllll|50m51s|Utils|🧡|
+|9|java|lllll|22m48s|Utils|🧡|
+|10|google.com|ll|10m07s|Search|🧡|
+|11|github.com|ll|09m31s|Dev|💖|
+|12|mobile - com.c|ll|08m21s|Unknown|🙂|
+|13|system idle pr|l|07m33s|Other|🙂|
+|14|mp.weixin.qq|l|07m07s|IM|🙂|
+|15|yinwang.org|l|07m04s|Reference|🧡|
+
 ## yiyangiliu 2020-07-05 Detailed Activaties, 
 
 Update at 22:11

@@ -5,15 +5,15 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-07-05 Detailed Activaties, 
 
-Update at 19:11
+Update at 22:11
 
 Total logged time: 19h54m; Today's theme is: **Communication**🧡 (10h11m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Zoom|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h18m|Meetings|🧡|
-|2|mobile - com.e|lllllllllllllllllllllllllllllllllllllll|02h38m|Reference|🧡|
-|3|(m)Wechat|lllllllllllllllllllllllllllllllllll|02h20m|IM|😥|
+|2|mobile - com.e|llllllllllllllllllllllllllllllllllllllllllllll|03h04m|Reference|🧡|
+|3|(m)Wechat|lllllllllllllllllllllllllllllllllllll|02h29m|IM|😥|
 |4|Wechat|lllllllllllllllllllllllllllllll|02h05m|IM|🙂|
 |5|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllll|01h38m|Video|💚|
 |6|1point3acres|lllllllllllllllll|01h08m|Reference|🧡|

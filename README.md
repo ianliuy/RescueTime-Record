@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-07 Detailed Activaties, 
+
+Update at 10:28
+
+Total logged time: 17h51m; Today's theme is: **Reference**🧡 (4h57m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllll|03h20m|Video|💚|
+|2|Zoom|llllllllllllllllllllllllllllll|02h|Meetings|🧡|
+|3|mobile - com.e|llllllllllllllllllllll|01h28m|Reference|🧡|
+|4|Wechat|lllllllllllllllllllll|01h26m|IM|🙂|
+|5|mobile - com.y|lllllllllllllllllll|01h19m|Unknown|🙂|
+|6|en.wikipedia|lllllllllllllllll|01h10m|Reference|🙂|
+|7|(m)Wechat|llllllllllllllll|01h04m|IM|😥|
+|8|1point3acres|lllllllllllllll|01h03m|Reference|🧡|
+|9|en.wikipedia|llllllllllllll|58m29s|Shopping|💚|
+|10|youtube.com|lllllllll|37m27s|Reference|💖|
+|11|(m)Chrome|llllll|24m56s|Browsers|🙂|
+|12|Dianping|lllll|23m26s|Travel & Out|💚|
+|13|live.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llll|16m30s|Video|💚|
+|14|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|15m42s|Video|💚|
+|15|Win Explorer|ll|11m28s|Utils|🧡|
+
 ## yiyangiliu 2020-07-06 Detailed Activaties, 
 
 Update at 22:30

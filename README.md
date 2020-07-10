@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-09 Detailed Activaties, 
+
+Update at 11:09
+
+Total logged time: 17h40m; Today's theme is: **Entertainment**💚 (10h25m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h31m|Video|💚|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllll|03h04m|Video|💚|
+|3|(m)Chrome|llllllllllllllllllllllllllll|01h53m|Browsers|🙂|
+|4|(m)Wechat|llllllllllllll|56m50s|IM|😥|
+|5|en.wikipedia|lllllllllll|47m27s|Shopping|💚|
+|6|mobile - com.e|lllllllll|37m20s|Reference|🧡|
+|7|Zoom|lllllll|30m13s|Meetings|🧡|
+|8|Win Explorer|lllllll|28m50s|Utils|🧡|
+|9|en.wikipedia|llllll|24m47s|Reference|🙂|
+|10|Wechat|llll|17m08s|IM|🙂|
+|11|google.com|llll|16m26s|Search|🧡|
+|12|java|lll|13m55s|Utils|🧡|
+|13|search.bilibil|lll|12m38s|Video|💚|
+|14|mobile - com.o|lll|12m04s|Photos|💚|
+|15|baidu.com|l|06m20s|Search|🙂|
+
 ## yiyangiliu 2020-07-08 Detailed Activaties, 
 
 Update at 10:28

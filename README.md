@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-10 Detailed Activaties, 
+
+Update at 07:49
+
+Total logged time: 19h48m; Today's theme is: **Reference**🧡 (7h41m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.e|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h32m|Reference|🧡|
+|2|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllll|03h19m|IM|🙂|
+|3|youtube.com|lllllllllllllllllllllllllllllllllllll|02h28m|Reference|💖|
+|4|Zoom|llllllllllllllllllllllllllll|01h53m|Meetings|🧡|
+|5|(m)Wechat|llllllllllllllllllll|01h23m|IM|😥|
+|6|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllll|01h19m|Video|💚|
+|7|(m)Chrome|lllllllllll|46m53s|Browsers|🙂|
+|8|celebmasta.com|llllllllll|42m51s|General Ente|💚|
+|9|mobile - us.zo|lllllllll|38m49s|Meetings|🧡|
+|10|en.wikipedia|llllll|24m59s|Reference|🙂|
+|11|Win Explorer|llll|19m21s|Utils|🧡|
+|12|en.wikipedia|llll|19m15s|Shopping|💚|
+|13|wechatapp|lll|12m58s|Unknown|🙂|
+|14|google.com|ll|11m13s|Search|🧡|
+|15|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|09m11s|Pro|🧡|
+
 ## yiyangiliu 2020-07-09 Detailed Activaties, 
 
 Update at 23:09

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-11 Detailed Activaties, 
+
+Update at 11:55
+
+Total logged time: 20h46m; Today's theme is: **Reference**🧡 (8h39m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.e|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h11m|Reference|🧡|
+|2|Zoom|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h32m|Meetings|🧡|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllll|02h48m|Video|💚|
+|4|1point3acres|llllllllllllllllllllllllll|01h47m|Reference|🧡|
+|5|en.wikipedia|llllllllllll|49m35s|Reference|🙂|
+|6|douban.com|lllllllllll|46m56s|SNS|💚|
+|7|(m)Wechat|lllllllllll|46m31s|IM|😥|
+|8|Wechat|lllll|22m33s|IM|🙂|
+|9|visa.careereng|llll|16m00s|Unknown|🙂|
+|10|google.com|lll|15m48s|Search|🧡|
+|11|(m)Youtube|lll|15m06s|Video|💚|
+|12|mp.weixin.qq|lll|13m54s|IM|🙂|
+|13|dealmoon.com|ll|11m30s|Shopping|💚|
+|14|en.wikipedia|ll|10m53s|Shopping|💚|
+|15|en.wikipedia|ll|10m11s|Reference|🧡|
+
 ## yiyangiliu 2020-07-10 Detailed Activaties, 
 
 Update at 19:49

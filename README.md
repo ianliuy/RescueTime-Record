@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-12 Detailed Activaties, 
+
+Update at 20:13
+
+Total logged time: 13h38m; Today's theme is: **Reference**🧡 (4h27m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Wechat|lllllllllllllllllllllllllllllllllllllllllll|02h53m|IM|😥|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllll|02h26m|Video|💚|
+|3|en.wikipedia|llllllllllllllllllllllll|01h37m|Reference|🙂|
+|4|mobile - com.e|llllllllllllll|56m20s|Reference|🧡|
+|5|1point3acres|llllllllllll|50m31s|Reference|🧡|
+|6|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lllllllll|36m49s|Pro|🧡|
+|7|en.wikipedia|llllllll|35m31s|Shopping|💚|
+|8|(m)Chrome|llllll|27m38s|Browsers|🙂|
+|9|Zoom|llllll|26m16s|Meetings|🧡|
+|10|wemeetapp|llll|19m39s|Meetings|🧡|
+|11|知乎|llll|16m27s|Reference|🙂|
+|12|Wechat|lll|13m18s|IM|🙂|
+|13|snipaste|ll|10m38s|Utils|🧡|
+|14|google.com|ll|10m04s|Search|🧡|
+|15|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m30s|Reference|🧡|
+
 ## yiyangiliu 2020-07-11 Detailed Activaties, 
 
 Update at 17:55

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-15 Detailed Activaties, 
+
+Update at 02:53
+
+Total logged time: 11h38m; Today's theme is: **Reference**🧡 (2h59m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|1point3acres|llllllllllllllllllllllllllllllllllllll|02h33m|Reference|🧡|
+|2|(m)Chrome|lllllllllllllllllllllllllllllllllllll|02h31m|Browsers|🙂|
+|3|MS Word|llllllllllllllllllllllllllllllllllll|02h24m|Composing|💖|
+|4|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllll|02h13m|Video|💚|
+|5|(m)Wechat|lllllllll|39m35s|IM|😥|
+|6|google.com|l|06m59s|Search|🧡|
+|7|en.wikipedia|l|05m49s|Reference|🙂|
+|8|m.weibo.cn|l|05m35s|SNS|💚|
+|9|Win Explorer|l|05m27s|Utils|🧡|
+|10|systemsettings|l|05m24s|Utils|🧡|
+|11|mobile - com.e|l|04m59s|Reference|🧡|
+|12|m.xdf.cn|l|04m17s|Unknown|🙂|
+|13|Chrome||03m33s|Browsers|🙂|
+|14|Wechat||03m07s|IM|🙂|
+|15|youdaodict||02m35s|Reference|🧡|
+
 ## yiyangiliu 2020-07-14 Detailed Activaties, 
 
 Update at 23:53

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-16 Detailed Activaties, 
+
+Update at 01:49
+
+Total logged time: 14h24m; Today's theme is: **Composition**💖 (3h7m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|llllllllllllllllllllllllllllllllllllllllllllll|03h07m|Composing|💖|
+|2|1point3acres|lllllllllllllllllllllllllllllll|02h06m|Reference|🧡|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllll|02h03m|Video|💚|
+|4|mobile - com.y|lllllllllllllllllllll|01h25m|Unknown|🙂|
+|5|Zoom|llllllllllllllllllll|01h22m|Meetings|🧡|
+|6|(m)Wechat|llllllllllll|49m53s|IM|😥|
+|7|Chrome|llllll|24m38s|Browsers|🙂|
+|8|google.com|llll|19m09s|Search|🧡|
+|9|wechatapp|llll|17m15s|Unknown|🙂|
+|10|Wechat|lll|14m36s|IM|🙂|
+|11|(m)Chrome|lll|14m14s|Browsers|🙂|
+|12|Win Explorer|ll|08m25s|Utils|🧡|
+|13|*.github.io|l|06m38s|Dev|💖|
+|14|youdaodict|l|06m29s|Reference|🧡|
+|15|faceplusplus|l|06m12s|Dev|💖|
+
 ## yiyangiliu 2020-07-15 Detailed Activaties, 
 
 Update at 22:49

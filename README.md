@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-18 Detailed Activaties, 
+
+Update at 10:22
+
+Total logged time: 13h32m; Today's theme is: **Composition**💖 (4h55m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h55m|Composing|💖|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllll|03h12m|Video|💚|
+|3|Wechat|lllllllllll|46m56s|IM|🙂|
+|4|(m)Wechat|lllllllll|37m41s|IM|😥|
+|5|mobile - hesof|llllll|25m30s|Unknown|🙂|
+|6|en.wikipedia|lllll|22m20s|Reference|🙂|
+|7|Chrome|llll|19m18s|Browsers|🙂|
+|8|baidu.com|llll|18m33s|Search|🙂|
+|9|play.google|lll|14m33s|General Ente|💚|
+|10|baijiahao.baid|ll|11m37s|Search|😥|
+|11|blog.csdn.net|ll|10m21s|Reference|🧡|
+|12|(m)Chrome|ll|09m57s|Browsers|🙂|
+|13|mobile - com.i|ll|09m05s|Unknown|🙂|
+|14|Play Store|ll|08m07s|Shopping|🙂|
+|15|mobile - com.c|l|07m37s|Shopping|💚|
+
 ## yiyangiliu 2020-07-17 Detailed Activaties, 
 
 Update at 19:15

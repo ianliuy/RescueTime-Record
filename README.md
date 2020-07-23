@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-22 Detailed Activaties, 
+
+Update at 10:39
+
+Total logged time: 14h47m; Today's theme is: **Entertainment**💚 (6h8m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h06m|Video|💚|
+|2|Win Explorer|lllllllllllllllllll|01h16m|Utils|🧡|
+|3|MS Word|llllllllllllllllll|01h15m|Composing|💖|
+|4|Zoom|lllllllllllllll|01h01m|Meetings|🧡|
+|5|(m)Wechat|lllllllllll|45m31s|IM|😥|
+|6|google.com|lllllllll|37m30s|Search|🧡|
+|7|rtyshc.com|lllllll|28m47s|Unknown|🙂|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|18m24s|Reference|🧡|
+|9|mobile - com.n|lll|15m01s|Unknown|🙂|
+|10|niche.com|lll|14m29s|Unknown|🙂|
+|11|en.wikipedia|ll|09m01s|Reference|🙂|
+|12|en.wikipedia|ll|08m11s|Reference|🧡|
+|13|Chrome|ll|08m00s|Browsers|🙂|
+|14|quora.com|l|07m49s|Reference|🧡|
+|15|Wechat|l|07m46s|IM|🙂|
+
 ## yiyangiliu 2020-07-21 Detailed Activaties, 
 
 Update at 21:29

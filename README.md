@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-24 Detailed Activaties, 
+
+Update at 01:35
+
+Total logged time: 12h26m; Today's theme is: **Unknown**💛 (2h49m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllllllllllllllllllllll|02h30m|Composing|💖|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllll|01h28m|Video|💚|
+|3|mobile - com.y|lllllllllllllllll|01h09m|Unknown|🙂|
+|4|(m)Wechat|llllllllllllll|57m27s|IM|😥|
+|5|mobile - com.i|lllllllllllll|55m29s|Unknown|🙂|
+|6|NotePad++|lllllllllll|46m57s|IDE|💖|
+|7|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|44m10s|Video|💚|
+|8|mobile - hesof|llllllll|35m21s|Unknown|🙂|
+|9|(m)Chrome|lllll|23m13s|Browsers|🙂|
+|10|lockapp|llll|16m41s|Other|🙂|
+|11|(m)launcher|ll|11m50s|Utils|🙂|
+|12|youtube.com|ll|11m16s|Reference|💖|
+|13|npr.org|ll|09m49s|General News|💚|
+|14|google.com|ll|09m30s|Search|🧡|
+|15|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m51s|Reference|🧡|
+
 ## yiyangiliu 2020-07-23 Detailed Activaties, 
 
 Update at 20:14

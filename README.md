@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-07-23 Detailed Activaties, 
+
+Update at 17:14
+
+Total logged time: 17h53m; Today's theme is: **Entertainment**💚 (9h55m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|09h54m|Video|💚|
+|2|MS Word|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h31m|Composing|💖|
+|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|17m37s|Reference|🧡|
+|4|Chrome|lll|13m04s|Browsers|🙂|
+|5|en.wikipedia|ll|08m38s|Search|🧡|
+|6|glassdoor.com|ll|08m21s|Employment|💖|
+|7|(m)Wechat|l|07m29s|IM|😥|
+|8|en.wikipedia|l|06m57s|Reference|🙂|
+|9|twitter.com|l|06m48s|SNS|💚|
+|10|gre.kmf.com|l|06m36s|Reference|🧡|
+|11|NotePad++|l|05m48s|IDE|💖|
+|12|google.com|l|05m43s|Search|🧡|
+|13|Adobe Acrobat|l|05m31s|Reference|🧡|
+|14|shellexperienc|l|04m51s|Utils|🧡|
+|15|en.wikipedia|l|04m20s|Reference|🧡|
+
 ## yiyangiliu 2020-07-22 Detailed Activaties, 
 
 Update at 16:53

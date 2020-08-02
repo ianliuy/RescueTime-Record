@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-01 Detailed Activaties, 
+
+Update at 12:24
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h04m|Video|💚|
+|2|(m)Chrome|llllllllllllllllllllllllllllllllllll|02h26m|Browsers|🙂|
+|3|mobile - com.i|llllllllllllllllllllll|01h29m|Unknown|🙂|
+|4|(m)Youtube|llllllllllllllllll|01h14m|Video|💚|
+|5|en.wikipedia|lllllllllll|44m55s|Reference|🧡|
+|6|youtube.com|lllllllll|37m03s|Reference|💖|
+|7|en.wikipedia|lllll|22m54s|Search|🧡|
+|8|Wechat|lllll|21m07s|IM|🙂|
+|9|(m)Wechat|lllll|20m23s|IM|😥|
+|10|transparencyre|llll|17m44s|Search|🙂|
+|11|Win Explorer|ll|11m12s|Utils|🧡|
+|12|1point3acres|ll|09m21s|Reference|🧡|
+|13|testbig.com|ll|08m48s|Reference|🧡|
+|14|freedom.to|l|07m17s|Utils|🧡|
+|15|NotePad++|l|06m53s|IDE|💖|
+
 ## yiyangiliu 2020-07-31 Detailed Activaties, 
 
 Update at 21:24

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-08 Detailed Activaties, 
+
+Update at 20:21
+
+Total logged time: 16h17m; Today's theme is: **Entertainment**💚 (3h58m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllll|03h08m|Video|💚|
+|2|(m)Chrome|lllllllllllllllllll|01h16m|Browsers|🙂|
+|3|douban.com|llllllllllllllllll|01h15m|SNS|💚|
+|4|Adobe Photosho|lllllllllllllllll|01h08m|Design|💖|
+|5|Wechat|llllllllllllll|58m22s|IM|🙂|
+|6|MS Word|lllllllllllll|54m11s|Composing|💖|
+|7|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllll|43m18s|Video|💚|
+|8|en.wikipedia|lllllllll|37m14s|Reference|🙂|
+|9|sohu.com|llllllll|33m51s|General News|💚|
+|10|google.com|llllllll|33m06s|Search|🧡|
+|11|Win Explorer|llllll|26m00s|Utils|🧡|
+|12|mail.qq.com|lllll|22m08s|Email|🧡|
+|13|mp.weixin.qq|lllll|21m16s|IM|🙂|
+|14|(m)Wechat|lll|15m20s|IM|😥|
+|15|en.wikipedia|lll|15m16s|Search|🧡|
+
 ## yiyangiliu 2020-08-01 Detailed Activaties, 
 
 Update at 18:24

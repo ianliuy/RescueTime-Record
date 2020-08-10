@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-09 Detailed Activaties, 
+
+Update at 10:16
+
+Total logged time: 13h15m; Today's theme is: **Entertainment**💚 (5h18m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h06m|Video|💚|
+|2|MS Word|lllllllllllllllllllllllllllllllllllllllllllll|03h|Composing|💖|
+|3|(m)Chrome|llllllllllllllllllllll|01h31m|Browsers|🙂|
+|4|sohu.com|lllllllllllllll|01h03m|General News|💚|
+|5|mobile - com.s|llllllllll|42m40s|Video|💚|
+|6|(m)Youtube|lllllll|28m09s|Video|💚|
+|7|(m)Wechat|lllll|23m38s|IM|😥|
+|8|en.wikipedia|lllll|22m39s|Shopping|💚|
+|9|Chrome|lll|14m00s|Browsers|🙂|
+|10|(m)launcher|lll|13m03s|Utils|🙂|
+|11|mobile - me.el|ll|09m18s|Shopping|💚|
+|12|mobile - com.a|l|06m41s|Reference|🧡|
+|13|mobile - to.fr|l|05m43s|Unknown|🙂|
+|14|lockapp|l|04m31s|Other|🙂|
+|15|en.wikipedia|l|04m21s|Reference|🙂|
+
 ## yiyangiliu 2020-08-08 Detailed Activaties, 
 
 Update at 20:21

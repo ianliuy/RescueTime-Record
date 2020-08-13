@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-13 Detailed Activaties, 
+
+Update at 05:28
+
+Total logged time: 17h51m; Today's theme is: **Unknown**💛 (12h11m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.y|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|10h48m|Unknown|🙂|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h01m|Video|💚|
+|3|mobile - com.y|lllllllllllllllllll|01h17m|Unknown|🙂|
+|4|(m)Youtube|llll|17m00s|Video|💚|
+|5|(m)Wechat|lll|14m54s|IM|😥|
+|6|mobile - com.d||02m38s|Unknown|🙂|
+|7|知乎||02m25s|Reference|🙂|
+|8|(m)Chrome||01m27s|Browsers|🙂|
+|9|mobile - cn.ka||01m18s|Unknown|🙂|
+|10|(m)launcher||58s|Utils|🙂|
+|11|mobile - com.o||40s|Unknown|🙂|
+|12|Android Dialer||36s|Voice Chat|🧡|
+|13|mobile - com.e||30s|Shopping|💚|
+|14|Android Settin||23s|Utils|🙂|
+|15|mobile - com.o||11s|Unknown|🙂|
+
 ## yiyangiliu 2020-08-11 Detailed Activaties, 
 
 Update at 13:19

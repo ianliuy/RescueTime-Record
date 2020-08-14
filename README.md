@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-14 Detailed Activaties, 
+
+Update at 07:19
+
+Total logged time: 9h45m; Today's theme is: **Unknown**💛 (6h24m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.y|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h38m|Unknown|🙂|
+|2|kdocs.cn|llllllllllllll|58m47s|Unknown|🙂|
+|3|Wechat|llllllllllll|51m38s|IM|🙂|
+|4|(m)Chrome|llllllllllll|48m03s|Browsers|🙂|
+|5|mobile - com.n|llllllllll|43m52s|Unknown|🙂|
+|6|(m)Wechat|lllll|22m34s|IM|😥|
+|7|Win Explorer|lllll|20m31s|Utils|🧡|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m38s|Reference|🧡|
+|9|blog.csdn.net|ll|08m54s|Reference|🧡|
+|10|Adobe Acrobat|ll|08m16s|Reference|🧡|
+|11|MS Word|l|07m55s|Composing|💖|
+|12|(m)launcher|l|04m24s|Utils|🙂|
+|13|sohu.com|l|04m14s|General News|💚|
+|14|NotePad++||02m49s|IDE|💖|
+|15|baidu.com||01m54s|Search|🙂|
+
 ## yiyangiliu 2020-08-13 Detailed Activaties, 
 
 Update at 07:19

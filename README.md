@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-23 Detailed Activaties, 
+
+Update at 00:53
+
+Total logged time: 9h27m; Today's theme is: **Unknown**💛 (3h49m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - com.e|llllllllllllllllllllllllllllllllllllllllll|02h49m|Unknown|🙂|
+|2|Wechat|llllllllllll|50m12s|IM|🙂|
+|3|(m)Wechat|llllllllllll|48m10s|IM|😥|
+|4|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllll|40m18s|Video|💚|
+|5|Win Explorer|llllllll|32m41s|Utils|🧡|
+|6|focusme|lllllll|30m44s|Business|💖|
+|7|manictimeclien|llllll|24m01s|Utils|🧡|
+|8|Google Docs: E|lllll|22m58s|Composing|💖|
+|9|mobile - cz.mo|llll|18m16s|Utils|🧡|
+|10|mobile - com.d|llll|17m23s|Unknown|🙂|
+|11|(m)Chrome|lll|13m25s|Browsers|🙂|
+|12|systemsettings|ll|10m55s|Utils|🧡|
+|13|il.xdf.cn|ll|10m41s|Unknown|🙂|
+|14|mobile - com.o|ll|10m13s|Unknown|🙂|
+|15|Microsoft Word|ll|08m51s|Composing|💖|
+
 ## yiyangiliu 2020-08-21 Detailed Activaties, 
 
 Update at 21:50

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-27 Detailed Activaties, 
+
+Update at 01:12
+
+Total logged time: 10h1m; Today's theme is: **Reference**🧡 (2h16m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - cn.co|llllllllllllllllllllllll|01h38m|Reference|🧡|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h|Video|💚|
+|3|Wechat|llllllllllll|49m26s|IM|🙂|
+|4|(m)Wechat|lllllllllll|44m45s|IM|😥|
+|5|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllll|38m05s|Video|💚|
+|6|(m)launcher|llllllll|32m06s|Utils|🙂|
+|7|tpo.xdf.cn|llllll|27m42s|Unknown|🙂|
+|8|mobile - com.d|lllll|22m39s|Unknown|🙂|
+|9|focusme|llll|17m10s|Business|💖|
+|10|mobile - com.c|lll|15m01s|Unknown|🙂|
+|11|translate.goog|lll|14m54s|Reference|🧡|
+|12|item.taobao|lll|14m45s|Shopping|💚|
+|13|detail.tmall|lll|13m39s|Shopping|💚|
+|14|s.taobao.com|ll|09m56s|Shopping|💚|
+|15|Trello for And|ll|08m27s|Project Mana|💖|
+
 ## yiyangiliu 2020-08-26 Detailed Activaties, 
 
 Update at 16:12

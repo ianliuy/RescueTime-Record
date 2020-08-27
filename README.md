@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-08-26 Detailed Activaties, 
+
+Update at 16:12
+
+Total logged time: 17h29m; Today's theme is: **Reference**🧡 (3h25m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllll|03h12m|Video|💚|
+|2|MS Word|lllllllllllllllllllllllllll|01h51m|Composing|💖|
+|3|mobile - com.y|lllllllllllllllllllll|01h24m|Unknown|🙂|
+|4|en.wikipedia|llllllllllllllll|01h05m|Search|🧡|
+|5|(m)Chrome|lllllllllllllll|01h01m|Browsers|🙂|
+|6|Wechat|lllllllllllll|54m46s|IM|🙂|
+|7|mobile - cn.co|llllllllll|43m25s|Reference|🧡|
+|8|mobile - cz.mo|llllll|27m26s|Utils|🧡|
+|9|kdocs.cn|llllll|27m10s|Unknown|🙂|
+|10|(m)Wechat|llll|19m40s|IM|😥|
+|11|trello|llll|17m08s|Project Mana|💖|
+|12|google.com|llll|16m21s|Search|🧡|
+|13|focusme|lll|15m41s|Business|💖|
+|14|知乎|lll|14m44s|Reference|🙂|
+|15|testbig.com|lll|12m42s|Reference|🧡|
+
 ## yiyangiliu 2020-08-25 Detailed Activaties, 
 
 Update at 16:12

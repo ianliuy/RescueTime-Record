@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-09-05 Detailed Activaties, 
 
-Update at 18:02
+Update at 21:02
 
 Total logged time: 15h5m; Today's theme is: **Entertainment**💚 (7h25m)
 
@@ -14,17 +14,17 @@ Total logged time: 15h5m; Today's theme is: **Entertainment**💚 (7h25m)
 |1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h09m|Video|💚|
 |2|mobile - cn.co|llllllllllllllllllllllllllllllllllllllllll|02h49m|Reference|🧡|
 |3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllll|02h38m|Video|💚|
-|4|en.wikipedia|llllllllllllll|57m33s|Reference|🙂|
+|4|en.wikipedia|llllllllllllll|59m03s|Reference|🙂|
 |5|(m)Wechat|lllllllllll|47m04s|IM|😥|
 |6|(m)Chrome|llllll|27m44s|Browsers|🙂|
 |7|LinkedIn - And|lllll|21m25s|Pro|🧡|
 |8|mobile - com.d|llll|17m38s|Unknown|🙂|
 |9|tieba.baidu|llll|16m37s|Games|💚|
 |10|mobile - cn.co|lll|15m44s|Unknown|🙂|
-|11|baidu.com|lll|12m26s|Search|🙂|
+|11|baidu.com|lll|12m47s|Search|🙂|
 |12|mobile - com.o|ll|10m23s|Unknown|🙂|
 |13|en.wikipedia|ll|08m03s|Reference|🧡|
-|14|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|06m11s|Video|💚|
+|14|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|06m12s|Video|💚|
 |15|mp.weixin.qq|l|04m52s|IM|🙂|
 
 ## yiyangiliu 2020-09-04 Detailed Activaties, 

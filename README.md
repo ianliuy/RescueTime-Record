@@ -3,6 +3,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-09-11 Detailed Activaties, 
+
+Update at 06:37
+
+Total logged time: 17m41s; Today's theme is: **Shopping**💚 (13m10s)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|mobile - me.el|lll|12m59s|Shopping|💚|
+|2|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)||02m02s|Video|💚|
+|3|Android Dialer||47s|Voice Chat|🧡|
+|4|(m)launcher||37s|Utils|🙂|
+|5|LinkedIn - And||29s|Pro|🧡|
+|6|mobile - com.o||16s|Utils|🧡|
+|7|(m)Wechat||16s|IM|😥|
+|8|mobile - com.e||11s|Shopping|💚|
+|9|mobile - com.m||03s|Reference|💖|
+|10|Android Settin||01s|Utils|🙂|
+
 ## yiyangiliu 2020-09-09 Detailed Activaties, 
 
 Update at 20:51

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-09-11 Detailed Activaties, 
 
-Update at 19:38
+Update at 22:38
 
 Total logged time: 17m41s; Today's theme is: **Shopping**💚 (13m10s)
 
@@ -21,11 +21,6 @@ Total logged time: 17m41s; Today's theme is: **Shopping**💚 (13m10s)
 |8|mobile - com.e||11s|Shopping|💚|
 |9|mobile - com.m||03s|Reference|💖|
 |10|Android Settin||01s|Utils|🙂|
-|2|(m)Wechat|llllllllllllllllllllllllllll|01h53m|IM|😥|
-|3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|45m05s|Video|💚|
-|4|Chrome|llllllll|35m30s|Browsers|🙂|
-|5|duitang.com|lllll|22m47s|Unknown|🙂|
-|6|Wechat|llll|18m54s|IM|🙂|
 |7|(m)launcher|lll|14m20s|Utils|🙂|
 |8|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|ll|11m46s|Video|💚|
 |9|mobile - com.e|ll|11m08s|Reference|🧡|

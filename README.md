@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-09-12 Detailed Activaties, 
+
+Update at 13:01
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllllllllllllllllllllllll|02h38m|Composing|💖|
+|2|(m)Wechat|lllllllllll|44m51s|IM|😥|
+|3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllll|43m29s|Video|💚|
+|4|Chrome|lll|14m11s|Browsers|🙂|
+|5|Adobe Acrobat|ll|09m19s|Reference|🧡|
+|6|newtab|ll|08m05s|Browsers|🙂|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m56s|Reference|🧡|
+|8|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|07m38s|Video|💚|
+|9|mobile - cn.co|l|07m09s|Reference|🧡|
+|10|Wechat|l|06m24s|IM|🙂|
+|11|focusme|l|06m06s|Business|💖|
+|12|mobile - com.d|l|04m59s|Unknown|🙂|
+|13|everything|l|04m56s|Utils|🧡|
+|14|ereg.ets.org|l|04m49s|Reference|🧡|
+|15|(m)launcher|l|04m30s|Utils|🙂|
+
 ## yiyangiliu 2020-09-11 Detailed Activaties, 
 
 Update at 22:38

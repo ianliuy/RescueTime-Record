@@ -5,7 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2020-09-12 Detailed Activaties, 
 
-Update at 13:01
+Update at 16:01
+
+Total logged time: 6h44m; Today's theme is: **Composition**💖 (2h39m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -24,8 +26,6 @@ Update at 13:01
 |13|everything|l|04m56s|Utils|🧡|
 |14|ereg.ets.org|l|04m49s|Reference|🧡|
 |15|(m)launcher|l|04m30s|Utils|🙂|
-
-## yiyangiliu 2020-09-11 Detailed Activaties, 
 
 Update at 22:38
 

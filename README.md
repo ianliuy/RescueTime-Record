@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-09-13 Detailed Activaties, 
+
+Update at 11:36
+
+Total logged time: 14h2m; Today's theme is: **Entertainment**💚 (4h51m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h41m|Composing|💖|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllll|03h25m|Video|💚|
+|3|mobile - com.d|llllllllllllllllll|01h13m|General Ente|💚|
+|4|github.com|llllllll|35m48s|Dev|💖|
+|5|hk.v2ex.com|lllllll|28m53s|General News|💚|
+|6|newtab|lllll|20m36s|Browsers|🙂|
+|7|Chrome|llll|19m07s|Browsers|🙂|
+|8|kanzhun.com|llll|16m58s|Unknown|🙂|
+|9|(m)Wechat|lll|14m33s|IM|😥|
+|10|potplayermini6|ll|11m17s|Dev|💖|
+|11|Win Explorer|ll|10m54s|Utils|🧡|
+|12|en.wikipedia|ll|09m36s|Reference|🙂|
+|13|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|ll|08m40s|Video|💚|
+|14|google.com|ll|08m39s|Search|🧡|
+|15|laioffer.com|ll|08m34s|Unknown|🙂|
+
 ## yiyangiliu 2020-09-12 Detailed Activaties, 
 
 Update at 22:01

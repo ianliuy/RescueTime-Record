@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2020-09-14 Detailed Activaties, 
+
+Update at 09:56
+
+Total logged time: 15h46m; Today's theme is: **Entertainment**💚 (9h57m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|09h33m|Video|💚|
+|2|(m)Wechat|lllllllllllllll|01h|IM|😥|
+|3|(m)Chrome|llllllllll|43m05s|Browsers|🙂|
+|4|MS Word|lllllll|29m21s|Composing|💖|
+|5|mobile - com.d|llll|19m34s|General Ente|💚|
+|6|Adobe Acrobat|llll|19m10s|Reference|🧡|
+|7|leetcode-cn|lll|15m29s|Unknown|🙂|
+|8|Gmail|lll|14m56s|Email|🙂|
+|9|v2ex.com|lll|13m46s|General News|💚|
+|10|github.com|lll|12m50s|Dev|💖|
+|11|google.com|lll|12m47s|Search|🧡|
+|12|*.github.io|ll|11m44s|Dev|💖|
+|13|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|10m20s|Pro|🧡|
+|14|mlog.club|ll|08m30s|Unknown|🙂|
+|15|everything|l|06m17s|Utils|🧡|
+
 ## yiyangiliu 2020-09-13 Detailed Activaties, 
 
 Update at 22:39

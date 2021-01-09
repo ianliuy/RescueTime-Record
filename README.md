@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-08 Detailed Activaties, 
+
+Update at 08:58
+
+Total logged time: 18h2m; Today's theme is: **Communication**🧡 (6h46m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)Wechat|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h08m|IM|😥|
+|2|mobile - com.h|lllllllllllllllllllllllllllllll|02h07m|Reference|🧡|
+|3|leetcode.com|llllllllllllllllllllllllllll|01h53m|IDE|💖|
+|4|Wechat|llllllllllllllllllllllll|01h36m|IM|🙂|
+|5|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllll|57m55s|Video|💚|
+|6|(m)Chrome|llllllllllllll|56m37s|Browsers|🙂|
+|7|blackboard.usc|lllllllllllll|53m33s|Reference|🧡|
+|8|Zoom|lllllllll|37m04s|Meetings|🧡|
+|9|LinkedIn - And|llllllll|35m30s|Pro|🧡|
+|10|mobile - com.o|lllllll|30m51s|Utils|🧡|
+|11|QQ|lll|15m33s|IM|😥|
+|12|trello.com|lll|13m15s|Project Mana|💖|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m17s|Reference|🧡|
+|14|Google Documen|lll|12m01s|Composing|💖|
+|15|mobile - com.n|ll|11m33s|Unknown|🙂|
+
 ## yiyangiliu 2021-01-07 Detailed Activaties, 
 
 Update at 19:32

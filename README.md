@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-09 Detailed Activaties, 
+
+Update at 09:11
+
+Total logged time: 20h34m; Today's theme is: **Communication**🧡 (7h11m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h50m|IM|🙂|
+|2|(m)Wechat|lllllllllllllllllllllllllllllll|02h07m|IM|😥|
+|3|udemy.com|lllllllllllllllllllllllll|01h43m|Reference|🧡|
+|4|leetcode.com|llllllllllllllllllllll|01h29m|IDE|💖|
+|5|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllll|01h29m|Video|💚|
+|6|Zoom|lllllllllllllll|01h03m|Meetings|🧡|
+|7|mobile - host.|lllllllllllllll|01h02m|Dev|💖|
+|8|mobile - com.r|llllllllllllll|58m06s|Unknown|🙂|
+|9|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllll|51m11s|Video|💚|
+|10|1point3acres|llllllllll|42m29s|Reference|🧡|
+|11|Google Documen|lllllllll|36m58s|Composing|💖|
+|12|VS Code|llllllll|33m09s|Dev|💖|
+|13|MS Word|lllllll|28m45s|Composing|💖|
+|14|mobile - com.h|llllll|27m54s|Reference|🧡|
+|15|mintty|lllll|22m25s|IDE|💖|
+
 ## yiyangiliu 2021-01-08 Detailed Activaties, 
 
 Update at 20:58

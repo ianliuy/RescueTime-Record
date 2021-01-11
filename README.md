@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-10 Detailed Activaties, 
+
+Update at 08:22
+
+Total logged time: 17h49m; Today's theme is: **Reference**🧡 (6h16m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|leetcode.com|llllllllllllllllllllllllllllllllllllllllllllllllllllll|03h37m|IDE|💖|
+|2|udemy.com|llllllllllllllllllllllllllllllllllllllllllllllll|03h12m|Reference|🧡|
+|3|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllll|02h04m|Video|💚|
+|4|1point3acres|llllllllllllllllllllllllll|01h44m|Reference|🧡|
+|5|Wechat|lllllllllllllllll|01h09m|IM|🙂|
+|6|VS Code|lllllllllllllll|01h02m|Dev|💖|
+|7|en.wikipedia|llllllll|35m49s|Reference|🙂|
+|8|(m)Wechat|lllllll|29m13s|IM|😥|
+|9|google.com|llllll|25m36s|Search|🧡|
+|10|app.diagrams|llllll|24m51s|Unknown|🙂|
+|11|mobile - host.|llll|19m10s|Dev|💖|
+|12|douban.com|llll|17m56s|SNS|💚|
+|13|v2ex.com|llll|17m24s|General News|💚|
+|14|hourglass|ll|11m13s|Unknown|🙂|
+|15|trello.com|ll|11m07s|Project Mana|💖|
+
 ## yiyangiliu 2021-01-09 Detailed Activaties, 
 
 Update at 21:11

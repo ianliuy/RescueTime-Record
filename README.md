@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-11 Detailed Activaties, 
+
+Update at 10:20
+
+Total logged time: 14h52m; Today's theme is: **Entertainment**💚 (4h16m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllllllllllllllllllllllllllllllllllllllllll|03h02m|Video|💚|
+|2|youtube.com|lllllllllllllllllllllllllllllllllllllll|02h39m|Reference|💖|
+|3|(m)Wechat|lllllllllllllllllllllll|01h32m|IM|😥|
+|4|Wechat|llllllllllllllllll|01h15m|IM|🙂|
+|5|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllll|01h11m|Video|💚|
+|6|(m)Chrome|llllllllllllllll|01h05m|Browsers|🙂|
+|7|leetcode.com|lllllllllllllll|01h01m|IDE|💖|
+|8|mobile - com.h|lllllll|29m16s|Reference|🧡|
+|9|1point3acres|lllllll|28m21s|Reference|🧡|
+|10|Chrome|lllll|22m02s|Browsers|🙂|
+|11|mobile - com.r|llll|17m47s|Unknown|🙂|
+|12|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|lll|12m51s|SNS|💚|
+|13|en.wikipedia|ll|11m50s|Search|🧡|
+|14|websites.usc.e|l|07m37s|Reference|🧡|
+|15|hourglass|l|06m25s|Unknown|🙂|
+
 ## yiyangiliu 2021-01-10 Detailed Activaties, 
 
 Update at 20:25

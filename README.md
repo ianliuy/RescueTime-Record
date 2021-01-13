@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-12 Detailed Activaties, 
+
+Update at 08:34
+
+Total logged time: 17h14m; Today's theme is: **Entertainment**💚 (4h54m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|(m)[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|llllllllllllllllllllllllllllllllllllllllllllllllllllll|03h38m|Video|💚|
+|2|youtube.com|lllllllllllllllllllllllllll|01h48m|Reference|💖|
+|3|leetcode.com|llllllllllllllllllll|01h22m|IDE|💖|
+|4|mobile - host.|llllllllllllllllllll|01h21m|Dev|💖|
+|5|1point3acres|lllllllllllllllllll|01h16m|Reference|🧡|
+|6|VS Code|llllllllllllllllll|01h15m|Dev|💖|
+|7|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllll|01h05m|Video|💚|
+|8|Wechat|llllllllllllll|59m05s|IM|🙂|
+|9|Google Documen|llllllll|35m58s|Composing|💖|
+|10|(m)Chrome|llllllll|33m29s|Browsers|🙂|
+|11|mobile - us.zo|llllll|25m38s|Meetings|🧡|
+|12|google.com|llll|17m30s|Search|🧡|
+|13|(m)Wechat|llll|17m24s|IM|😥|
+|14|udemy.com|llll|16m55s|Reference|🧡|
+|15|blackboard.usc|ll|08m37s|Reference|🧡|
+
 ## yiyangiliu 2021-01-11 Detailed Activaties, 
 
 Update at 22:20

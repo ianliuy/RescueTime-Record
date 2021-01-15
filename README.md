@@ -5,27 +5,27 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-15 Detailed Activities, 
 
-Updated at 00:47
+Updated: 01:04
 
 Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|typing.com|llllllllllllllllllllllllllllllllll|02h18m|Reference|💖|
+|1|[typing](https://typing.com).com|llllllllllllllllllllllllllllllllll|02h18m|Reference|💖|
 |2|youtube.com|lllllllllllllllllllllllll|01h40m|Reference|💚|
 |3|Zoom|lllllllllllllllllllll|01h24m|Meetings|💖|
-|4|Google Documen|lllllllllllllllll|01h10m|Composing|💖|
+|4|Google Docs|lllllllllllllllll|01h10m|Composing|💖|
 |5|Wechat|lllllllllllllllll|01h10m|IM|🙂|
 |6|MS Word|lllllllll|39m58s|Composing|💖|
 |7|1point3acres|llllllll|32m13s|Reference|🙂|
-|8|blackboard.usc|llllll|27m04s|Reference|💖|
-|9|leetcode.com|llll|16m21s|IDE|💖|
+|8|[blackboard](https://blackboard.usc.edu).usc|llllll|27m04s|Reference|💖|
+|9|[leetcode](https://leetcode.com/yiyangiliu).com|llll|16m21s|IDE|💖|
 |10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|15m16s|Video|💚|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|14m37s|Reference|💖|
+|11|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|14m37s|Reference|💖|
 |12|google.com|l|07m56s|Search|🧡|
-|13|github.com|l|07m45s|Dev|💖|
+|13|[github](https://github.com/yiyangiliu).com|l|07m45s|Dev|💖|
 |14|Gmail|l|05m28s|Email|🙂|
-|15|teams.microsof|l|05m22s|Tech|🧡|
+|15|MS Teams|l|05m22s|Tech|🧡|
 
 ## yiyangiliu 2021-01-14 Detailed Activaties, 
 

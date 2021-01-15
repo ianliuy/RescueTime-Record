@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-15 Detailed Activities, 
 
-Updated: 01:07
+Updated: 01:10
 
 Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 
@@ -17,7 +17,7 @@ Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 |4|Google Docs|lllllllllllllllll|01h10m|Composing|💖|
 |5|Wechat|lllllllllllllllll|01h10m|IM|🙂|
 |6|MS Word|lllllllll|39m58s|Composing|💖|
-|7|[1point3acres](https://1point3acres.com)|llllllll|32m13s|Reference|🙂|
+|7|[1point3acres](https://www.1point3acres.com/bbs)|llllllll|32m13s|Reference|🙂|
 |8|[blackboard](https://blackboard.usc.edu).usc|llllll|27m04s|Reference|💖|
 |9|[leetcode](https://leetcode.com/yiyangiliu).com|llll|16m21s|IDE|💖|
 |10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|15m16s|Video|💚|

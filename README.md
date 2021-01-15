@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-15 Detailed Activities, 
 
-Updated: 01:04
+Updated: 01:05
 
 Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 
@@ -25,7 +25,7 @@ Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 |12|google.com|l|07m56s|Search|🧡|
 |13|[github](https://github.com/yiyangiliu).com|l|07m45s|Dev|💖|
 |14|Gmail|l|05m28s|Email|🙂|
-|15|MS Teams|l|05m22s|Tech|🧡|
+|15|MS [Teams](https://www.microsoft.com/en-us/microsoft-teams)|l|05m22s|Tech|🧡|
 
 ## yiyangiliu 2021-01-14 Detailed Activaties, 
 

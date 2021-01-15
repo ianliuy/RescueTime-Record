@@ -3,9 +3,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
-## yiyangiliu 2021-01-15 Detailed Activaties, 
+## yiyangiliu 2021-01-15 Detailed Activities, 
 
-Update at 00:22
+Updated at 00:47
 
 Total logged time: 11h29m; Today's theme is: **Reference**🧡 (5h34m)
 

@@ -5,14 +5,14 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-17 Detailed Activities, 
 
-Updated: 09:06
+Updated: 09:46
 
 Total logged time: **13h52m** ;         Today's theme is: **Dev**  💖 ( **8h20m** ) 
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h48m|IDE|💖|
-|2|app.diagrams|lllllllllllllllllllllllllllllllllllll|02h28m|Unknown|🙂|
+|2|app.diagrams|lllllllllllllllllllllllllllllllllllll|02h28m|Design|💖|
 |3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h03m|Video|💚|
 |4|Wechat|lllllllll|39m37s|IM|🙂|
 |5|localhost:8888|llll|16m10s|IDE|💖|

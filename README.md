@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-20 Detailed Activities, 
+
+Updated: 08:12
+
+Total logged time: **11h45m** ;         Today's theme is: **Communication**  🧡 ( **3h17m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllllllllllllllllll|01h46m|IDE|💖|
+|2|Google Docs|llllllllllllllllllllllll|01h39m|Composing|💖|
+|3|Zoom|lllllllllllllllllllllll|01h35m|Meetings|💖|
+|4|Wechat|llllllllllllllllllllll|01h31m|IM|🙂|
+|5|youtube.com|lllllllllll|44m54s|Reference|💚|
+|6|[1point3acres](https://www.1point3acres.com/bbs)|lllllllllll|44m40s|Reference|🙂|
+|7|MS Word|lllllll|29m25s|Composing|💖|
+|8|[blackboard](https://blackboard.usc.edu).usc|lllllll|28m24s|Reference|💖|
+|9|webstorm64|lll|14m46s|IDE|💖|
+|10|drive.google|lll|13m06s|Business|💖|
+|11|[leetcode](https://leetcode.com/yiyangiliu)-cn|ll|10m15s|Unknown|🙂|
+|12|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m06s|Reference|💖|
+|13|Gmail|ll|09m16s|Email|🙂|
+|14|[udemy](https://www.udemy.com/user/ian-liu-23).com|ll|09m15s|Reference|💖|
+|15|Chrome|ll|08m04s|Browsers|🙂|
+
 ## yiyangiliu 2021-01-19 Detailed Activities, 
 
 Updated: 23:03

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-21 Detailed Activities, 
 
-Updated: 20:45
+Updated: 23:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -24,8 +24,6 @@ Updated: 20:45
 |13|[github](https://github.com/yiyangiliu).com|llll|16m24s|Dev|💖|
 |14|Adobe Acrobat|lll|13m43s|Reference|🧡|
 |15|Chrome|ll|11m17s|Browsers|🙂|
-
-## yiyangiliu 2021-01-20 Detailed Activities, 
 
 Updated: 21:19
 

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-23 Detailed Activities, 
+
+Updated: 10:37
+
+Total logged time: **13h1m** ;         Today's theme is: **Communication**  🧡 ( **4h1m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllllllllllllllllllllllllllllllllllllllllll|03h23m|IDE|💖|
+|2|Wechat|lllllllllllllllllllllllllll|01h48m|IM|🙂|
+|3|Gmail|llllllllllllllllll|01h14m|Email|🙂|
+|4|MS Word|llllllllllllll|58m05s|Composing|💖|
+|5|Zoom|lllllllllll|46m43s|Meetings|💖|
+|6|Google Docs|llllllll|33m32s|Composing|💖|
+|7|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|27m25s|Video|💚|
+|8|[1point3acres](https://www.1point3acres.com/bbs)|lllll|23m15s|Reference|🙂|
+|9|youtube.com|lllll|21m41s|Reference|💚|
+|10|google.com|lllll|20m18s|Search|🧡|
+|11|pycharm64|lllll|20m03s|IDE|💖|
+|12|en.wikipedia|llll|16m55s|Reference|🙂|
+|13|[blackboard](https://blackboard.usc.edu).usc|lll|14m08s|Reference|💖|
+|14|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|13m09s|Reference|💖|
+|15|wemeetapp|ll|10m06s|Meetings|🧡|
+
 ## yiyangiliu 2021-01-22 Detailed Activities, 
 
 Updated: 23:04

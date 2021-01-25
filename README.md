@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-24 Detailed Activities, 
+
+Updated: 10:05
+
+Total logged time: **8h43m** ;         Today's theme is: **Dev**  💖 ( **4h59m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h06m|IDE|💖|
+|2|youtube.com|llllllllllllllllll|01h12m|Reference|💚|
+|3|Wechat|llllllllllllll|57m32s|IM|🙂|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|30m55s|Video|💚|
+|5|[github](https://github.com/yiyangiliu).com|llll|18m00s|Dev|💖|
+|6|*.[github](https://github.com/yiyangiliu).io|lll|12m34s|Dev|💖|
+|7|[1point3acres](https://www.1point3acres.com/bbs)|ll|10m28s|Reference|🙂|
+|8|webstorm64|l|07m32s|IDE|💖|
+|9|pycharm64|l|07m14s|IDE|💖|
+|10|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|05m24s|Video|💚|
+|11|hourglass|l|04m52s|Unknown|🙂|
+|12|Google Present||03m57s|Pre|💖|
+|13|qemu-system-i3||03m48s|Dev|💖|
+|14|blog.sciencene||03m27s|Science & Te|😥|
+|15|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)||03m16s|Pro|🧡|
+
 ## yiyangiliu 2021-01-23 Detailed Activities, 
 
 Updated: 22:37

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-25 Detailed Activities, 
+
+Updated: 07:56
+
+Total logged time: **9h14m** ;         Today's theme is: **Dev**  💖 ( **2h32m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllllllllll|02h12m|IDE|💖|
+|2|app.diagrams|llllllllllllllll|01h07m|Design|💖|
+|3|Google Docs|llllllllllllll|58m08s|Composing|💖|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllll|54m39s|Video|💚|
+|5|Wechat|lllllllll|37m42s|IM|🙂|
+|6|youtube.com|llll|19m38s|Reference|💚|
+|7|Gmail|lll|15m15s|Email|🙂|
+|8|en.wikipedia|lll|14m20s|Reference|🧡|
+|9|google.com|lll|13m53s|Search|🧡|
+|10|webstorm64|ll|11m29s|IDE|💖|
+|11|en.wikipedia|ll|10m07s|Reference|🧡|
+|12|Chrome|ll|09m45s|Browsers|🙂|
+|13|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m44s|Reference|💖|
+|14|mp.weixin.qq|l|07m39s|IM|🙂|
+|15|baike.baidu|l|07m34s|Search|🙂|
+
 ## yiyangiliu 2021-01-24 Detailed Activities, 
 
 Updated: 22:05

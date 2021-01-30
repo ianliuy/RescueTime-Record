@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-29 Detailed Activities, 
 
-Updated: 09:07
+Updated: 09:12
 
 Total logged time: **13h52m** ;         Today's theme is: **Communication**  🧡 ( **5h26m** ) 
 
@@ -25,7 +25,7 @@ Total logged time: **13h52m** ;         Today's theme is: **Communication**  �
 |12|search.bilibil|llll|16m35s|Video|💚|
 |13|[leetcode](https://leetcode.com/yiyangiliu).com|lll|14m50s|IDE|💖|
 |14|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|14m19s|Video|💚|
-|15|[linkedin.com](https://www.linkedin.com/in/yiyangiliu/)|ll|10m02s|Pro|🧡|
+|15|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|10m02s|Pro|🧡|
 
 ## yiyangiliu 2021-01-27 Detailed Activities, 
 

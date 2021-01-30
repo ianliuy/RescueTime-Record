@@ -5,19 +5,19 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 ## yiyangiliu 2021-01-29 Detailed Activities, 
 
-Updated: 08:54
+Updated: 09:07
 
 Total logged time: **13h52m** ;         Today's theme is: **Communication**  🧡 ( **5h26m** ) 
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllll|03h18m|IM|🙂|
-|2|en.wikipedia|llllllllllllllllllllllllllllllllllllllll|02h40m|Reference|🙂|
+|2|[zhihu](https://zhihu.com).com|llllllllllllllllllllllllllllllllllllllll|02h40m|Reference|🙂|
 |3|wemeetapp|lllllllllllllllll|01h09m|Meetings|🧡|
 |4|MS Word|llllllllll|41m42s|Composing|💖|
 |5|Google Docs|llllllllll|41m00s|Composing|💖|
 |6|Zoom|llllllllll|40m16s|Meetings|💖|
-|7|en.wikipedia|lllllll|31m40s|Reference|🧡|
+|7|zhuanlan.[zhihu](https://zhihu.com)|lllllll|31m40s|Reference|🧡|
 |8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|28m54s|Reference|💖|
 |9|google.com|llll|18m07s|Search|🧡|
 |10|[blackboard](https://blackboard.usc.edu).usc|llll|17m21s|Reference|💖|

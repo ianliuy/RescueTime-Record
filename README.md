@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-29 Detailed Activities, 
+
+Updated: 08:29
+
+Total logged time: **13h52m** ;         Today's theme is: **Communication**  🧡 ( **5h26m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllll|03h18m|IM|🙂|
+|2|en.wikipedia|llllllllllllllllllllllllllllllllllllllll|02h40m|Reference|🙂|
+|3|wemeetapp|lllllllllllllllll|01h09m|Meetings|🧡|
+|4|MS Word|llllllllll|41m42s|Composing|💖|
+|5|Google Docs|llllllllll|41m00s|Composing|💖|
+|6|Zoom|llllllllll|40m16s|Meetings|💖|
+|7|en.wikipedia|lllllll|31m40s|Reference|🧡|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|28m54s|Reference|💖|
+|9|google.com|llll|18m07s|Search|🧡|
+|10|[blackboard](https://blackboard.usc.edu).usc|llll|17m21s|Reference|💖|
+|11|Gmail|llll|17m12s|Email|🙂|
+|12|search.bilibil|llll|16m35s|Video|💚|
+|13|[leetcode](https://leetcode.com/yiyangiliu).com|lll|14m50s|IDE|💖|
+|14|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|14m19s|Video|💚|
+|15|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|ll|10m02s|Pro|🧡|
+
 ## yiyangiliu 2021-01-27 Detailed Activities, 
 
 Updated: 23:10

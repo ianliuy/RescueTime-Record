@@ -1,5 +1,5 @@
 # RescueTime-Record
-A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
+A Visualization of my Daily RescueTime Data, **automatically** made & **committed** by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 

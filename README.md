@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made by [yiyangil
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-30 Detailed Activities, 
+
+Updated: 08:33
+
+Total logged time: **9h12m** ;         Today's theme is: **Reference**  🧡 ( **2h** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|llllllllllllllllll|01h15m|Composing|💖|
+|2|Wechat|llllllllllllll|56m41s|IM|🙂|
+|3|Google Docs|lllllllll|38m12s|Composing|💖|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|28m33s|Video|💚|
+|5|en.wikipedia|llllll|26m51s|Search|🧡|
+|6|usc.zoom.us|lllll|22m27s|Meetings|🧡|
+|7|google.com|llll|19m06s|Search|🧡|
+|8|citationmachin|llll|17m34s|Search|🙂|
+|9|[blackboard](https://blackboard.usc.edu).usc|llll|16m05s|Reference|💖|
+|10|Gmail|lll|15m09s|Email|🙂|
+|11|[github](https://github.com/yiyangiliu).com|lll|14m56s|Dev|💖|
+|12|python|lll|14m04s|Dev|💖|
+|13|[zhihu](https://zhihu.com).com|lll|14m02s|Reference|🙂|
+|14|bytedance.com|lll|12m56s|Unknown|🙂|
+|15|Zoom|lll|12m49s|Meetings|💖|
+
 ## yiyangiliu 2021-01-29 Detailed Activities, 
 
 Updated: 20:31

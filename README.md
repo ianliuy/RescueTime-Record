@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-01-31 Detailed Activities, 
+
+Updated: 08:10
+
+Total logged time: **10h25m** ;         Today's theme is: **Reference**  🧡 ( **3h6m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://zhihu.com).com|lllllllllllllllllllllllllllllllll|02h13m|Reference|🙂|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllll|01h47m|Video|💚|
+|3|potplayermini6|llllllllllllllllllll|01h23m|Dev|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllllllllllllll|01h07m|Pro|🧡|
+|5|Wechat|lllllllll|38m42s|IM|🙂|
+|6|youtube.com|llllllll|34m19s|Reference|💚|
+|7|[leetcode](https://leetcode.com/yiyangiliu).com|lllllll|29m08s|IDE|💖|
+|8|[github](https://github.com/yiyangiliu).com|lllll|20m39s|Dev|💖|
+|9|google.com|ll|10m27s|Search|🧡|
+|10|Win Explorer|ll|09m29s|Utils|🧡|
+|11|bbc.com|l|07m11s|General News|💚|
+|12|pan.baidu.com|l|06m36s|File Sharing|🙂|
+|13|system idle pr|l|06m17s|Other|🙂|
+|14|vvipblog.com|l|05m15s|Unknown|🙂|
+|15|Chrome|l|05m08s|Browsers|🙂|
+
 ## yiyangiliu 2021-01-30 Detailed Activities, 
 
 Updated: 20:33

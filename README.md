@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-01 Detailed Activities, 
+
+Updated: 08:14
+
+Total logged time: **12h48m** ;         Today's theme is: **Communication**  🧡 ( **4h9m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h50m|IM|🙂|
+|2|[zhihu](https://zhihu.com).com|lllllllllllllllllllllllll|01h42m|Reference|🙂|
+|3|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllll|01h25m|IDE|💖|
+|4|[leetcode](https://leetcode.com/yiyangiliu)-cn|llllllllllllllll|01h04m|Dev|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllllllllllll|56m05s|Pro|🧡|
+|6|google.com|lllllll|29m52s|Search|🧡|
+|7|[1point3acres](https://www.1point3acres.com/bbs)|llll|19m10s|Reference|🙂|
+|8|Gmail|llll|19m01s|Email|🙂|
+|9|zhuanlan.[zhihu](https://zhihu.com)|lll|12m02s|Reference|🧡|
+|10|jd-tv.com|ll|08m52s|Unknown|🙂|
+|11|v2ex.com|ll|08m37s|General News|💚|
+|12|nowcoder.com|ll|08m16s|Dev|💖|
+|13|[blackboard](https://blackboard.usc.edu).usc|l|07m20s|Reference|💖|
+|14|finance.sina.c|l|06m57s|Business|💖|
+|15|Adobe Acrobat|l|06m49s|Reference|🧡|
+
 ## yiyangiliu 2021-01-31 Detailed Activities, 
 
 Updated: 23:10

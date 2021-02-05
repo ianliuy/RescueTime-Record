@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-04 Detailed Activities, 
+
+Updated: 08:44
+
+Total logged time: **14h11m** ;         Today's theme is: **Reference**  🧡 ( **4h58m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllllllllllllllllllll|02h32m|IM|🙂|
+|2|[zhihu](https://zhihu.com).com|lllllllllllllllllllllllll|01h43m|Reference|🙂|
+|3|MS Word|lllllllllllllllllllll|01h24m|Composing|💖|
+|4|youtube.com|llllllllllllll|58m59s|Reference|💚|
+|5|Zoom|llllllllllllll|56m14s|Meetings|💖|
+|6|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllll|54m39s|Video|💚|
+|7|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllllllll|46m58s|Reference|💖|
+|8|MS Excel|lllllll|29m51s|Business|💖|
+|9|google.com|lllll|23m48s|Search|🧡|
+|10|refworks.proqu|lllll|22m58s|Insights|💖|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllll|21m57s|Pro|🧡|
+|12|[blackboard](https://blackboard.usc.edu).usc|lllll|20m12s|Reference|💖|
+|13|Gmail|lll|14m58s|Email|🙂|
+|14|Google Docs|lll|13m25s|Composing|💖|
+|15|Chrome|lll|12m35s|Browsers|🙂|
+
 ## yiyangiliu 2021-02-03 Detailed Activities, 
 
 Updated: 23:50

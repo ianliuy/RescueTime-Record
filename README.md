@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-07 Detailed Activities, 
+
+Updated: 09:14
+
+Total logged time: **11h41m** ;         Today's theme is: **Reference**  🧡 ( **5h2m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Video|💚|
+|2|youtube.com|lllllllllllllllllllllllllllll|01h56m|Reference|💚|
+|3|[typing](https://typing.com).com|llllllllllllllllllll|01h20m|Reference|💖|
+|4|[zhihu](https://zhihu.com).com|llllllllllllllll|01h04m|Reference|🙂|
+|5|Wechat|lllllllllll|47m30s|IM|🙂|
+|6|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|lllllll|28m57s|Video|💚|
+|7|Chrome|llllll|26m45s|Browsers|🙂|
+|8|Gmail|lllll|23m27s|Email|🙂|
+|9|vip.jianshiapp|lllll|20m57s|Unknown|🙂|
+|10|google.com|llll|16m44s|Search|🧡|
+|11|zhuanlan.[zhihu](https://zhihu.com)|ll|11m39s|Reference|🧡|
+|12|cnbeta.com|ll|08m12s|Science & Te|😥|
+|13|baike.baidu|l|07m17s|Search|🙂|
+|14|finance.sina.c|l|04m44s|Business|💖|
+|15|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m43s|Pro|🧡|
+
 ## yiyangiliu 2021-02-06 Detailed Activities, 
 
 Updated: 22:07

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-08 Detailed Activities, 
+
+Updated: 00:14
+
+Total logged time: **11h1m** ;         Today's theme is: **Reference**  🧡 ( **4h32m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[github](https://github.com/yiyangiliu).com|lllllllllllllllllllllllllllllll|02h06m|Dev|💖|
+|2|[zhihu](https://zhihu.com).com|llllllllllllllllllll|01h21m|Reference|🙂|
+|3|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllllllllllllllll|01h15m|Reference|💖|
+|4|app.grammarly|lllllllllllll|52m02s|Composing|💖|
+|5|google.com|llllllllll|41m48s|Search|🧡|
+|6|MS Word|llllllllll|40m33s|Composing|💖|
+|7|en.wikipedia|lllllllll|36m58s|Search|🧡|
+|8|Wechat|lllllll|29m03s|IM|🙂|
+|9|v2ex.com|lllll|23m49s|General News|💚|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llll|16m01s|Pro|🧡|
+|11|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|15m53s|Video|💚|
+|12|finance.eastmo|lll|12m25s|General News|💚|
+|13|finance.sina.c|ll|10m14s|Business|💖|
+|14|[blackboard](https://blackboard.usc.edu).usc|ll|10m07s|Reference|💖|
+|15|zhuanlan.[zhihu](https://zhihu.com)|ll|10m05s|Reference|🧡|
+
 ## yiyangiliu 2021-02-07 Detailed Activities, 
 
 Updated: 21:14

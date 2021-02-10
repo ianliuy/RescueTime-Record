@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-09 Detailed Activities, 
+
+Updated: 08:23
+
+Total logged time: **14h28m** ;         Today's theme is: **Reference**  🧡 ( **3h48m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllll|01h53m|Video|💚|
+|2|Zoom|llllllllllllllllllllllll|01h37m|Meetings|💖|
+|3|Wechat|llllllllllllllllllllll|01h30m|IM|🙂|
+|4|MS Excel|llllllllllllllllllll|01h23m|Business|💖|
+|5|[zhihu](https://zhihu.com).com|lllllllllllllll|01h03m|Reference|🙂|
+|6|[typing](https://typing.com).com|llllllllllllll|59m40s|Reference|💖|
+|7|Google Docs|lllllllllll|47m47s|Composing|💖|
+|8|[blackboard](https://blackboard.usc.edu).usc|llllllll|32m10s|Reference|💖|
+|9|MS Word|lllllll|29m08s|Composing|💖|
+|10|google.com|llllll|25m26s|Search|🧡|
+|11|youtube.com|llll|18m15s|Reference|💚|
+|12|Google Present|lll|13m35s|Pre|💖|
+|13|Gmail|lll|13m08s|Email|🙂|
+|14|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lll|12m40s|Pro|🧡|
+|15|drive.google|lll|12m30s|Business|💖|
+
 ## yiyangiliu 2021-02-08 Detailed Activities, 
 
 Updated: 22:53

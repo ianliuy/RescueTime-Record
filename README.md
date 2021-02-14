@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-14 Detailed Activities, 
+
+Updated: 00:38
+
+Total logged time: **10h46m** ;         Today's theme is: **Entertainment**  💚 ( **7h45m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|t.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllll|03h09m|Video|💚|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllll|01h22m|Video|💚|
+|3|youtube.com|llllllllllllllll|01h07m|Reference|💚|
+|4|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|lllll|22m29s|SNS|💚|
+|5|[zhihu](https://zhihu.com).com|lllll|20m47s|Reference|🙂|
+|6|google.com|lll|15m06s|Search|🧡|
+|7|en.wikipedia|ll|11m28s|Search|🧡|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|09m49s|Pro|🧡|
+|9|en.wikipedia|l|05m30s|Search|🙂|
+|10|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m29s|Reference|💖|
+|11|pincong.rocks||02m44s|Unknown|🙂|
+|12|[leetcode](https://leetcode.com/yiyangiliu).com||02m20s|IDE|💖|
+|13|politics.ntu.e||02m09s|Reference|🧡|
+|14|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)||01m53s|Video|💚|
+|15|com.cuhk.edu.h||01m35s|Reference|🧡|
+
 ## yiyangiliu 2021-02-13 Detailed Activities, 
 
 Updated: 21:38

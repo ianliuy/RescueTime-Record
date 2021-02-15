@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-15 Detailed Activities, 
+
+Updated: 00:59
+
+Total logged time: **8h31m** ;         Today's theme is: **Reference**  🧡 ( **3h27m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|llllllllllllllllllllllllllllllllllllll|02h35m|Composing|💖|
+|2|[zhihu](https://zhihu.com).com|lllllllllllllllllllllll|01h32m|Reference|🙂|
+|3|youtube.com|llllllllll|43m01s|Reference|💚|
+|4|[facebook.com](https://www.facebook.com/Yiyang.Ian.Liu)|llllllllll|41m08s|SNS|💚|
+|5|Gmail|llllll|26m30s|Email|🙂|
+|6|google.com|llll|17m35s|Search|🧡|
+|7|en.wikipedia|llll|16m29s|Reference|🧡|
+|8|sohu.com|lll|13m46s|General News|💚|
+|9|[blackboard](https://blackboard.usc.edu).usc|lll|12m53s|Reference|💖|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|11m58s|Pro|🧡|
+|11|Wechat|ll|11m37s|IM|🙂|
+|12|zhuanlan.[zhihu](https://zhihu.com)|ll|11m25s|Reference|🧡|
+|13|iyiou.com|l|07m50s|Unknown|🙂|
+|14|bytedance.com|l|05m25s|Unknown|🙂|
+|15|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m17s|Reference|💖|
+
 ## yiyangiliu 2021-02-14 Detailed Activities, 
 
 Updated: 21:59

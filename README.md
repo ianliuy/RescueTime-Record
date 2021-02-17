@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-16 Detailed Activities, 
+
+Updated: 08:50
+
+Total logged time: **6h41m** ;         Today's theme is: **Composition**  💖 ( **2h20m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllllllllllll|01h50m|Composing|💖|
+|2|Wechat|llllllllll|42m59s|IM|🙂|
+|3|[zhihu](https://zhihu.com).com|lllllllll|36m39s|Reference|🙂|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllllllll|36m03s|Pro|🧡|
+|5|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|30m15s|Video|💚|
+|6|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllll|23m47s|Reference|💖|
+|7|canva.com|lllll|20m19s|General Desi|💖|
+|8|douban.com|llll|19m58s|SNS|💚|
+|9|google.com|lll|14m38s|Search|🧡|
+|10|en.wikipedia|l|07m28s|Reference|🧡|
+|11|app.grammarly|l|06m26s|Composing|💖|
+|12|[G Scholar](ht|l|06m17s|Reference|💖|
+|13|citationmachin|l|06m12s|Search|🙂|
+|14|[1point3acres](https://www.1point3acres.com/bbs)|l|04m18s|Reference|🙂|
+|15|newtab||03m37s|Browsers|🙂|
+
 ## yiyangiliu 2021-02-15 Detailed Activities, 
 
 Updated: 23:33

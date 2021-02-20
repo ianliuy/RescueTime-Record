@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-19 Detailed Activities, 
+
+Updated: 08:13
+
+Total logged time: **6h38m** ;         Today's theme is: **Communication**  🧡 ( **2h35m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Zoom|llllllllllllllllllllllll|01h36m|Meetings|💖|
+|2|Google Docs|lllllllllllllllllllllll|01h35m|Composing|💖|
+|3|Wechat|llllllllllllll|58m27s|IM|🙂|
+|4|MS Word|llllllll|34m41s|Composing|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lll|14m43s|Pro|🧡|
+|6|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|13m40s|Reference|💖|
+|7|app.grammarly|lll|13m10s|Composing|💖|
+|8|NotePad++|ll|10m46s|IDE|💖|
+|9|en.wikipedia|l|07m49s|Reference|🧡|
+|10|drive.google|l|07m46s|Business|💖|
+|11|[blackboard](https://blackboard.usc.edu).usc|l|06m27s|Reference|💖|
+|12|google.com|l|06m19s|Search|🧡|
+|13|barretlee.com|l|04m59s|Unknown|🙂|
+|14|sohu.com||03m59s|General News|💚|
+|15|Chrome||03m23s|Browsers|🙂|
+
 ## yiyangiliu 2021-02-18 Detailed Activities, 
 
 Updated: 11:05

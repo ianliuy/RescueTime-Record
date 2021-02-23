@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-22 Detailed Activities, 
+
+Updated: 08:05
+
+Total logged time: **1h12m** ;         Today's theme is: **Reference**  🧡 ( **40m37s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|llllll|25m36s|Reference|💚|
+|2|app.grammarly|lll|15m55s|Composing|💖|
+|3|MS Word|l|05m54s|Composing|💖|
+|4|[zhihu](https://zhihu.com).com||03m18s|Reference|🙂|
+|5|Gmail||03m11s|Email|🙂|
+|6|zhuanlan.[zhihu](https://zhihu.com)||03m09s|Reference|🧡|
+|7|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m42s|Reference|💖|
+|8|google.com||02m30s|Search|🧡|
+|9|Win Explorer||01m41s|Utils|🧡|
+|10|translate.goog||01m36s|Reference|🧡|
+|11|Wechat||01m31s|IM|🙂|
+|12|finance.sina.c||01m25s|General News|💚|
+|13|en.wikipedia||01m12s|Reference|🧡|
+|14|wechatapp||40s|Unknown|🙂|
+|15|Chrome||32s|Browsers|🙂|
+
 ## yiyangiliu 2021-02-20 Detailed Activities, 
 
 Updated: 23:59

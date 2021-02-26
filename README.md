@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-02-25 Detailed Activities, 
+
+Updated: 08:23
+
+Total logged time: **5h51m** ;         Today's theme is: **Communication**  🧡 ( **2h26m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Zoom|llllllllllllllllllllll|01h29m|Meetings|💖|
+|2|Wechat|llllllllllll|50m44s|IM|🙂|
+|3|MS Word|lllllllll|38m50s|Composing|💖|
+|4|Google Docs|llllllll|32m17s|Composing|💖|
+|5|sites.google|lllllll|31m09s|Utils|🧡|
+|6|[blackboard](https://blackboard.usc.edu).usc|lllll|22m20s|Reference|💖|
+|7|Google Spreads|lll|15m58s|Business|💖|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|13m42s|Reference|💖|
+|9|newtab|ll|11m50s|Browsers|🙂|
+|10|app.grammarly|ll|09m13s|Composing|💖|
+|11|lark|l|06m01s|Unknown|🙂|
+|12|Gmail|l|05m41s|Email|🙂|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m21s|Pro|🧡|
+|14|[G Scholar](ht||02m46s|Reference|💖|
+|15|Chrome||02m42s|Browsers|🙂|
+
 ## yiyangiliu 2021-02-24 Detailed Activities, 
 
 Updated: 11:23

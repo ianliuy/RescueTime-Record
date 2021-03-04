@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-03 Detailed Activities, 
+
+Updated: 08:14
+
+Total logged time: **4h18m** ;         Today's theme is: **Composition**  💖 ( **1h21m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|llllllllllllllll|01h05m|Composing|💖|
+|2|lark|llllllll|33m40s|Unknown|🙂|
+|3|Wechat|llllllll|32m44s|IM|🙂|
+|4|[blackboard](https://blackboard.usc.edu).usc|lllll|20m06s|Reference|💖|
+|5|Chrome|lll|15m14s|Browsers|🙂|
+|6|Google Docs|ll|09m23s|Composing|💖|
+|7|shellexperienc|l|06m49s|Utils|🧡|
+|8|app.grammarly|l|06m48s|Composing|💖|
+|9|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m43s|Reference|💖|
+|10|bytedance.feis|l|06m18s|Unknown|🙂|
+|11|[G Scholar](ht|l|05m08s|Reference|💖|
+|12|tuixue.online|l|04m43s|Unknown|🙂|
+|13|[github](https://github.com/yiyangiliu).com|l|04m33s|Dev|💖|
+|14|Win Explorer|l|04m30s|Utils|🧡|
+|15|ebookcentral.p|l|04m27s|Insights|💖|
+
 ## yiyangiliu 2021-03-02 Detailed Activities, 
 
 Updated: 11:50

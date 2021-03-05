@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-05 Detailed Activities, 
+
+Updated: 02:02
+
+Total logged time: **6h11m** ;         Today's theme is: **Communication**  🧡 ( **2h41m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Google Docs|lllllllllllllllllllllllllllll|01h57m|Composing|💖|
+|2|Zoom|lllllllllllllllllllllllllllll|01h56m|Meetings|💖|
+|3|Wechat|llllllllll|43m10s|IM|🙂|
+|4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|31m03s|Reference|💖|
+|5|app.grammarly|lllll|20m51s|Composing|💖|
+|6|MS Word|lll|13m16s|Composing|💖|
+|7|lark|ll|11m35s|Unknown|🙂|
+|8|Chrome|l|04m17s|Browsers|🙂|
+|9|drive.google||03m13s|Business|💖|
+|10|Google Present||02m01s|Pre|💖|
+|11|[blackboard](https://blackboard.usc.edu).usc||01m25s|Reference|💖|
+|12|Gmail||01m13s|Email|🙂|
+|13|newtab||01m03s|Browsers|🙂|
+|14|usc.zoom.co||50s|Meetings|🧡|
+|15|Win Explorer||42s|Utils|🧡|
+
 ## yiyangiliu 2021-03-04 Detailed Activities, 
 
 Updated: 22:20

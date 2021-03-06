@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-06 Detailed Activities, 
+
+Updated: 01:15
+
+Total logged time: **3h30m** ;         Today's theme is: **Communication**  🧡 ( **2h32m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllll|01h30m|IM|🙂|
+|2|Zoom|llllllllllllll|59m36s|Meetings|💖|
+|3|Google Docs|lll|14m19s|Composing|💖|
+|4|youtube.com|l|07m33s|Reference|💚|
+|5|MS Word|l|07m05s|Composing|💖|
+|6|newtab|l|06m00s|Browsers|🙂|
+|7|c:|l|05m22s|Utils|💖|
+|8|lark|l|04m25s|Unknown|🙂|
+|9|[blackboard](https://blackboard.usc.edu).usc||03m37s|Reference|💖|
+|10|[leetcode](https://leetcode.com/yiyangiliu)-cn||01m36s|Dev|💖|
+|11|google.com||01m35s|Search|🧡|
+|12|international.||01m18s|Reference|🧡|
+|13|Gmail||01m06s|Email|🙂|
+|14|[leetcode](https://leetcode.com/yiyangiliu).com||57s|IDE|💖|
+|15|Chrome||57s|Browsers|🙂|
+
 ## yiyangiliu 2021-03-05 Detailed Activities, 
 
 Updated: 08:15

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-08 Detailed Activities, 
+
+Updated: 08:32
+
+Total logged time: **1h2m** ;         Today's theme is: **Unknown**  💛 ( **43m54s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|bytedance.feis|lllllllll|39m00s|Unknown|🙂|
+|2|Wechat|ll|11m07s|IM|🙂|
+|3|[blackboard](https://blackboard.usc.edu).usc|l|05m30s|Reference|💖|
+|4|lark|l|04m44s|Unknown|🙂|
+|5|newtab||25s|Browsers|🙂|
+|6|Win Explorer||21s|Utils|🧡|
+|7|MS Word||18s|Composing|💖|
+|8|Chrome||15s|Browsers|🙂|
+|9|Gmail||12s|Email|🙂|
+|10|bit.ly||12s|General News|💚|
+|11|10.227.4.98:95||07s|Unknown|🙂|
+|12|google.com||07s|Search|🧡|
+|13|everything||06s|Utils|🧡|
+|14|login.usc.edu||05s|Reference|🧡|
+|15|shellexperienc||04s|Utils|🧡|
+
 ## yiyangiliu 2021-03-07 Detailed Activities, 
 
 Updated: 01:01

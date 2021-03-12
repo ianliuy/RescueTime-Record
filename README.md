@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-12 Detailed Activities, 
+
+Updated: 01:32
+
+Total logged time: **4h42m** ;         Today's theme is: **Communication**  🧡 ( **2h36m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Zoom|llllllllllllllllllllll|01h29m|Meetings|💖|
+|2|Wechat|llllllllllllllll|01h07m|IM|🙂|
+|3|MS Word|lllllllll|37m05s|Composing|💖|
+|4|[blackboard](https://blackboard.usc.edu).usc|llll|19m40s|Reference|💖|
+|5|Google Docs|ll|10m05s|Composing|💖|
+|6|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m11s|Reference|💖|
+|7|Google Present|l|07m05s|Pre|💖|
+|8|baike.baidu|l|07m04s|Search|🙂|
+|9|app.grammarly|l|06m13s|Composing|💖|
+|10|Chrome|l|05m31s|Browsers|🙂|
+|11|everything|l|04m59s|Utils|🧡|
+|12|NotePad++||02m18s|IDE|💖|
+|13|wechatapp||01m52s|Unknown|🙂|
+|14|downsub.com||01m47s|Unknown|🙂|
+|15|drive.google||01m35s|Business|💖|
+
 ## yiyangiliu 2021-03-11 Detailed Activities, 
 
 Updated: 10:40

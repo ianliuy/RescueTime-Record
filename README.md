@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-17 Detailed Activities, 
+
+Updated: 02:48
+
+Total logged time: **3h19m** ;         Today's theme is: **Composition**  💖 ( **1h10m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|llllllllllllll|58m00s|Composing|💖|
+|2|Wechat|lllllllllll|45m54s|IM|🙂|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllll|21m05s|Pro|🧡|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|15m52s|Video|💚|
+|5|[blackboard](https://blackboard.usc.edu).usc|ll|10m09s|Reference|💖|
+|6|Google Docs|ll|08m52s|Composing|💖|
+|7|[leetcode](https://leetcode.com/yiyangiliu).com|l|06m01s|IDE|💖|
+|8|wenxuecity.com|l|04m41s|General Ente|💚|
+|9|app.grammarly||03m52s|Composing|💖|
+|10|zhuanlan.[zhihu](https://zhihu.com)||03m46s|Reference|🧡|
+|11|[github](https://github.com/yiyangiliu).com||03m00s|Dev|💖|
+|12|urbandictionar||02m55s|Search|🙂|
+|13|Chrome||02m23s|Browsers|🙂|
+|14|everything||02m11s|Utils|🧡|
+|15|google.com||02m09s|Search|🧡|
+
 ## yiyangiliu 2021-03-16 Detailed Activities, 
 
 Updated: 23:48

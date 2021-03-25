@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-24 Detailed Activities, 
+
+Updated: 08:16
+
+Total logged time: **3h30m** ;         Today's theme is: **Composition**  💖 ( **1h29m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllll|01h19m|Composing|💖|
+|2|Zoom|llllllllll|41m31s|Meetings|💖|
+|3|youtube.com|ll|10m11s|Reference|💚|
+|4|Wechat|ll|10m09s|IM|🙂|
+|5|Google Docs|ll|09m55s|Composing|💖|
+|6|[blackboard](https://blackboard.usc.edu).usc|ll|08m23s|Reference|💖|
+|7|mp.weixin.qq|l|07m35s|IM|🙂|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|07m30s|Pro|🧡|
+|9|google.com.hk|l|06m36s|Search|🙂|
+|10|[G Scholar](ht|l|05m02s|Reference|💖|
+|11|Chrome|l|04m18s|Browsers|🙂|
+|12|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m48s|Reference|💖|
+|13|[leetcode](https://leetcode.com/yiyangiliu).com||02m36s|IDE|💖|
+|14|usc.zoom.us||02m31s|Meetings|💖|
+|15|newtab||01m37s|Browsers|🙂|
+
 ## yiyangiliu 2021-03-23 Detailed Activities, 
 
 Updated: 12:48

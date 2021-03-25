@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-25 Detailed Activities, 
+
+Updated: 02:40
+
+Total logged time: **5h9m** ;         Today's theme is: **Communication**  🧡 ( **2h3m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllll|56m13s|IM|🙂|
+|2|Zoom|llllllllll|41m14s|Meetings|💖|
+|3|MS Word|llllllllll|40m54s|Composing|💖|
+|4|Google Docs|llllll|27m58s|Composing|💖|
+|5|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|25m05s|Reference|💖|
+|6|Gmail|llllll|24m46s|Email|🙂|
+|7|youtube.com|llll|18m07s|Reference|💚|
+|8|[blackboard](https://blackboard.usc.edu).usc|llll|16m11s|Reference|💖|
+|9|Win Explorer|ll|08m37s|Utils|🧡|
+|10|NotePad++|ll|08m34s|IDE|💖|
+|11|duibiao.info|l|07m38s|Unknown|🙂|
+|12|system idle pr|l|05m10s|Other|🙂|
+|13|c:|l|04m38s|Utils|💖|
+|14|[1point3acres](https://www.1point3acres.com/bbs)||03m14s|Reference|🙂|
+|15|app.grammarly||02m55s|Composing|💖|
+
 ## yiyangiliu 2021-03-24 Detailed Activities, 
 
 Updated: 23:40

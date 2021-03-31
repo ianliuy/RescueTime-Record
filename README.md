@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-03-31 Detailed Activities, 
+
+Updated: 00:04
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllll|01h17m|IM|🙂|
+|2|Zoom|llllllllllllll|59m18s|Meetings|💖|
+|3|Google Docs|llllllll|34m12s|Composing|💖|
+|4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|17m07s|Reference|💖|
+|5|MS Word|ll|10m12s|Composing|💖|
+|6|[zhihu](https://zhihu.com).com|ll|09m09s|Reference|🙂|
+|7|[blackboard](https://blackboard.usc.edu).usc|ll|08m22s|Reference|💖|
+|8|shellexperienc|l|05m45s|Utils|🧡|
+|9|google.com.hk|l|04m25s|Search|🙂|
+|10|support.zoom.u|l|04m00s|Meetings|🧡|
+|11|c:||03m30s|Utils|💖|
+|12|translate.goog||03m27s|Reference|🧡|
+|13|websites.usc.e||02m42s|Reference|🧡|
+|14|weigh||02m24s|Unknown|🙂|
+|15|youtube.com||02m10s|Reference|💚|
+
 ## yiyangiliu 2021-03-30 Detailed Activities, 
 
 Updated: 14:18

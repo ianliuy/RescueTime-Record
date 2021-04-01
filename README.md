@@ -5,7 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-03-31 Detailed Activities, 
 
-Updated: 00:04
+Updated: 08:12
+
+Total logged time: **4h20m** ;         Today's theme is: **Communication**  🧡 ( **2h23m** ) 
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -24,8 +26,6 @@ Updated: 00:04
 |13|websites.usc.e||02m42s|Reference|🧡|
 |14|weigh||02m24s|Unknown|🙂|
 |15|youtube.com||02m10s|Reference|💚|
-
-## yiyangiliu 2021-03-30 Detailed Activities, 
 
 Updated: 14:18
 

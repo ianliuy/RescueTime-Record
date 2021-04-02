@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-01 Detailed Activities, 
+
+Updated: 11:12
+
+Total logged time: **8h37m** ;         Today's theme is: **Reference**  🧡 ( **5h36m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h22m|Reference|💚|
+|2|Zoom|lllllllllllllllll|01h09m|Meetings|💖|
+|3|MS Word|llllllllll|42m53s|Composing|💖|
+|4|google.com.hk|llllllll|35m07s|Search|🙂|
+|5|Wechat|lll|12m28s|IM|🙂|
+|6|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m16s|Reference|💖|
+|7|Gmail|ll|09m17s|Email|🙂|
+|8|Win Explorer|ll|09m03s|Utils|🧡|
+|9|[blackboard](https://blackboard.usc.edu).usc|l|07m44s|Reference|💖|
+|10|iastudents.usc|l|05m43s|Reference|🧡|
+|11|demeanor|l|05m12s|Unknown|🙂|
+|12|Chrome|l|04m44s|Browsers|🙂|
+|13|newtab|l|04m27s|Browsers|🙂|
+|14|Google Present||03m36s|Pre|💖|
+|15|translate.goog||02m46s|Reference|🧡|
+
 ## yiyangiliu 2021-03-31 Detailed Activities, 
 
 Updated: 14:12

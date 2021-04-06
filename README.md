@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-06 Detailed Activities, 
+
+Updated: 01:11
+
+Total logged time: **3h15m** ;         Today's theme is: **Entertainment**  💚 ( **57m1s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|46m56s|Video|💚|
+|2|MS Word|lllll|23m14s|Composing|💖|
+|3|[blackboard](https://blackboard.usc.edu).usc|lll|15m31s|Reference|💖|
+|4|bytedance.feis|lll|13m47s|Unknown|🙂|
+|5|Zoom|ll|09m55s|Meetings|💖|
+|6|Google Docs|ll|09m13s|Composing|💖|
+|7|Win Explorer|l|06m04s|Utils|🧡|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m00s|Reference|💖|
+|9|screenrant.com|l|05m24s|General News|💚|
+|10|en.wikipedia|l|04m30s|Reference|🧡|
+|11|search.bilibil|l|04m27s|Video|💚|
+|12|sohu.com|l|04m24s|General News|💚|
+|13|google.com.hk|l|04m21s|Search|🙂|
+|14|Chrome||03m54s|Browsers|🙂|
+|15|jiemodui.com||03m28s|Unknown|🙂|
+
 ## yiyangiliu 2021-04-02 Detailed Activities, 
 
 Updated: 11:12

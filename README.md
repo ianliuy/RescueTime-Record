@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-12 Detailed Activities, 
+
+Updated: 00:16
+
+Total logged time: **6h15m** ;         Today's theme is: **Reference**  🧡 ( **4h38m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[1point3acres](https://www.1point3acres.com/bbs)|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Reference|🙂|
+|2|youtube.com|llllllllllllll|57m25s|Reference|💚|
+|3|MS Word|lllllll|28m41s|Composing|💖|
+|4|[blackboard](https://blackboard.usc.edu).usc|llllll|25m46s|Reference|💖|
+|5|Wechat|lllll|21m16s|IM|🙂|
+|6|bytedance.feis|ll|11m21s|Unknown|🙂|
+|7|[github](https://github.com/yiyangiliu).com|l|07m35s|Dev|💖|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m31s|Reference|💖|
+|9|Google Docs|l|07m14s|Composing|💖|
+|10|app.grammarly|l|04m52s|Composing|💖|
+|11|lark||03m48s|Unknown|🙂|
+|12|en.wikipedia||02m47s|Search|🧡|
+|13|techmash.io||02m26s|Unknown|🙂|
+|14|google.com.hk||02m03s|Search|🙂|
+|15|Chrome||01m56s|Browsers|🙂|
+
 ## yiyangiliu 2021-04-11 Detailed Activities, 
 
 Updated: 21:16

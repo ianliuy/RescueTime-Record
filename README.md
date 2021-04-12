@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-04-11 Detailed Activities, 
 
-Updated: 12:16
+Updated: 15:16
 
 Total logged time: **32m29s** ;         Today's theme is: **Reference**  🧡 ( **28m40s** ) 
 
@@ -22,10 +22,6 @@ Total logged time: **32m29s** ;         Today's theme is: **Reference**  🧡 ( 
 |9|baidu.com||11s|Search|🙂|
 |10|Gmail||06s|Email|🙂|
 |11|jetbrains.com||05s|Utils|🧡|
-
-Total logged time: **2h46m** ;         Today's theme is: **Reference**  🧡 ( **1h16m** ) 
-
-|Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[zhihu](https://zhihu.com).com|llllllllllllllll|01h04m|Reference|🙂|
 |2|Zoom|lllllllll|38m02s|Meetings|💖|

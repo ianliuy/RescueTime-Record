@@ -3,6 +3,26 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-11 Detailed Activities, 
+
+Updated: 09:16
+
+Total logged time: **32m29s** ;         Today's theme is: **Reference**  🧡 ( **28m40s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://zhihu.com).com|llllll|25m52s|Reference|🙂|
+|2|zhuanlan.[zhihu](https://zhihu.com)||01m23s|Reference|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||01m20s|Pro|🧡|
+|4|google.com.hk||01m14s|Search|🙂|
+|5|wolai.com||01m03s|Unknown|🙂|
+|6|Wechat||40s|IM|🙂|
+|7|[leetcode](https://leetcode.com/yiyangiliu).com||21s|IDE|💖|
+|8|newtab||14s|Browsers|🙂|
+|9|baidu.com||11s|Search|🙂|
+|10|Gmail||06s|Email|🙂|
+|11|jetbrains.com||05s|Utils|🧡|
+
 ## yiyangiliu 2021-04-09 Detailed Activities, 
 
 Updated: 11:17

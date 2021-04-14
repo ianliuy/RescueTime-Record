@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-04-13 Detailed Activities, 
 
-Updated: 11:12
+Updated: 14:12
 
 Total logged time: **6h31m** ;         Today's theme is: **Composition**  💖 ( **2h5m** ) 
 
@@ -13,7 +13,7 @@ Total logged time: **6h31m** ;         Today's theme is: **Composition**  💖 (
 |-|-|-|-|-|-|
 |1|MS Word|lllllllllllllllllll|01h19m|Composing|💖|
 |2|Zoom|llllllllllllll|59m39s|Meetings|💖|
-|3|[1point3acres](https://www.1point3acres.com/bbs)|lllllllll|37m11s|Reference|🙂|
+|3|[1point3acres](https://www.1point3acres.com/bbs)|lllllllll|37m11s|Business & F|🧡|
 |4|Google Docs|llllllll|34m18s|Composing|💖|
 |5|[blackboard](https://blackboard.usc.edu).usc|lllll|23m43s|Reference|💖|
 |6|Wechat|lllll|23m25s|IM|🙂|
@@ -24,7 +24,7 @@ Total logged time: **6h31m** ;         Today's theme is: **Composition**  💖 (
 |11|app.grammarly|l|06m43s|Composing|💖|
 |12|google.com.hk|l|06m18s|Search|🙂|
 |13|systemsettings|l|05m36s|Utils|🧡|
-|14|lark|l|04m57s|Unknown|🙂|
+|14|lark|l|04m57s|General Comm|💖|
 |15|Google Present|l|04m40s|Pre|💖|
 
 ## yiyangiliu 2021-04-12 Detailed Activities, 

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-22 Detailed Activities, 
+
+Updated: 12:37
+
+Total logged time: **4h22m** ;         Today's theme is: **Reference**  🧡 ( **2h37m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[1point3acres](https://www.1point3acres.com/bbs)|lllllllllllllllllllllllllllll|01h58m|Business & F|🧡|
+|2|Wechat|lllllllllllll|55m07s|IM|🙂|
+|3|cgifederal.sec|lllll|20m54s|Legal & Gov'|🧡|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|ll|10m48s|Video|💚|
+|5|google.com.hk|ll|08m01s|Search|🙂|
+|6|shimo.im|l|05m53s|Unknown|🙂|
+|7|mail.qq.com|l|04m58s|Email|🧡|
+|8|ustraveldocs|l|04m06s|Travel & Out|💚|
+|9|drive.google||03m31s|Business|💖|
+|10|Gmail||02m48s|Email|🙂|
+|11|iaclosingcerem||02m33s|Unknown|🙂|
+|12|lark||02m32s|General Comm|💖|
+|13|[zhihu](https://zhihu.com).com||02m28s|Reference|🙂|
+|14|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||02m08s|Pro|🧡|
+|15|mysam.sg||02m04s|Unknown|🙂|
+
 ## yiyangiliu 2021-04-16 Detailed Activities, 
 
 Updated: 14:48

@@ -3,6 +3,23 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-04-26 Detailed Activities, 
+
+Updated: 00:28
+
+Total logged time: **3m4s** ;         Today's theme is: **Reference**  🧡 ( **1m57s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m26s|Reference|💖|
+|2|Chrome||29s|Browsers|🙂|
+|3|you.usc.edu||22s|Reference|🧡|
+|4|lark||19s|General Comm|💖|
+|5|Gmail||09s|Email|🙂|
+|6|camel2.usc.edu||09s|Reference|🧡|
+|7|idman||06s|General Ente|💚|
+|8|lockapp||04s|Other|🙂|
+
 ## yiyangiliu 2021-04-22 Detailed Activities, 
 
 Updated: 15:37

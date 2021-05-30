@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-05-30 Detailed Activities, 
+
+Updated: 02:58
+
+Total logged time: **33m46s** ;         Today's theme is: **Dev**  💖 ( **8m9s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|potplayermini6|ll|08m09s|Dev|💖|
+|2|idman|l|06m35s|General Ente|💚|
+|3|bytedance.feis|l|05m56s|Engineering |💖|
+|4|lark|l|04m09s|General Comm|💖|
+|5|baike.baidu||02m07s|Search|🙂|
+|6|seal||01m47s|Unknown|🙂|
+|7|voffline.pstat||01m43s|Unknown|🙂|
+|8|Win Explorer||01m26s|Utils|🧡|
+|9|Chrome||42s|Browsers|🙂|
+|10|searchapp||29s|Unknown|🙂|
+|11|Blank Web Brow||12s|Utils|🧡|
+|12|baidu.com||12s|Search|🙂|
+|13|newtab||11s|Browsers|🙂|
+|14|shadowsocksr-d||07s|Utils|🧡|
+|15|system idle pr||01s|Other|🙂|
+
 ## yiyangiliu 2021-05-10 Detailed Activities, 
 
 Updated: 00:43

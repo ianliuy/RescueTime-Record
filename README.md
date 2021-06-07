@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-07 Detailed Activities, 
+
+Updated: 01:43
+
+Total logged time: **5h16m** ;         Today's theme is: **Reference**  🧡 ( **2h19m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|MS Word|lllllllllllllllllll|01h17m|Composing|💖|
+|2|[1point3acres](https://www.1point3acres.com/bbs)|lllllllll|38m18s|Business & F|🧡|
+|3|Win Explorer|llllll|27m13s|Utils|🧡|
+|4|google.com|llll|18m42s|Search|🧡|
+|5|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|15m39s|Reference|💖|
+|6|catalogue.usc.|lll|15m18s|Reference|🧡|
+|7|pages.cs.wisc.|lll|13m59s|Reference|🧡|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|11m27s|Pro|🧡|
+|9|[zhihu](https://zhihu.com).com|l|06m08s|Reference|🙂|
+|10|my.oschina.net|l|05m59s|Tech|🧡|
+|11|app.grammarly|l|05m41s|Composing|💖|
+|12|lark|l|05m24s|General Comm|💖|
+|13|Wechat|l|05m24s|IM|🙂|
+|14|讯飞语记|l|04m58s|Unknown|🙂|
+|15|[G Scholar](ht|l|04m57s|Reference|💖|
+
 ## yiyangiliu 2021-05-30 Detailed Activities, 
 
 Updated: 02:58

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-12 Detailed Activities, 
+
+Updated: 02:32
+
+Total logged time: **6h37m** ;         Today's theme is: **Entertainment**  💚 ( **3h30m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllll|03h27m|Video|💚|
+|2|youtube.com|lllll|23m15s|Reference|💚|
+|3|en.wikipedia|llll|19m30s|Reference|🧡|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llll|19m12s|Pro|🧡|
+|5|[zhihu](https://zhihu.com).com|lll|15m30s|Reference|🙂|
+|6|Win Explorer|lll|14m57s|Utils|🧡|
+|7|google.com|ll|10m06s|Search|🧡|
+|8|en.wikipedia|l|07m22s|Search|🧡|
+|9|twobirds.com|l|06m39s|Legal & Gov'|🧡|
+|10|bakermckenzie|l|05m25s|Business & F|🧡|
+|11|m.dajie.com|l|04m59s|Employment|💖|
+|12|allbrightlaw|l|04m57s|Unknown|🙂|
+|13|cooley.com|l|04m49s|Search|🙂|
+|14|zhonglun.com|l|04m42s|Unknown|🙂|
+|15|snipaste|l|04m22s|Utils|🧡|
+
 ## yiyangiliu 2021-06-07 Detailed Activities, 
 
 Updated: 01:43

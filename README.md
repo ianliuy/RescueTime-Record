@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-13 Detailed Activities, 
+
+Updated: 16:40
+
+Total logged time: **1h44m** ;         Today's theme is: **Communication**  🧡 ( **50m25s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllll|30m16s|IM|🙂|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllll|20m32s|Video|💚|
+|3|mp.weixin.qq|llll|19m51s|IM|🙂|
+|4|searchapp|ll|08m12s|Unknown|🙂|
+|5|cwtc.com|l|06m58s|Unknown|🙂|
+|6|Chrome|l|06m47s|Browsers|🙂|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m52s|Pro|🧡|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m49s|Reference|💖|
+|9|ssports.iqiyi||01m04s|Video|💚|
+|10|google.com||58s|Search|🧡|
+|11|baidu.com||41s|Search|🙂|
+|12|cooley.com||36s|Search|🙂|
+|13|Win Explorer||30s|Utils|🧡|
+|14|en.wikipedia||27s|Search|🧡|
+|15|xinhuanet.com||20s|General News|💚|
+
 ## yiyangiliu 2021-06-12 Detailed Activities, 
 
 Updated: 02:32

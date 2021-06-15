@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-06-14 Detailed Activities, 
 
-Updated: 01:40
+Updated: 23:17
 
 Total logged time: **4h41m** ;         Today's theme is: **Entertainment**  💚 ( **3h4m** ) 
 
@@ -21,8 +21,8 @@ Total logged time: **4h41m** ;         Today's theme is: **Entertainment**  💚
 |8|天若ocr文�||57s|Unknown|🙂|
 |9|Win Explorer||49s|Utils|🧡|
 |10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||41s|Pro|🧡|
-|11|edwinchan.us||26s|Unknown|🙂|
-|12|systemsettings||26s|Utils|🧡|
+|11|systemsettings||26s|Utils|🧡|
+|12|edwinchan.us||26s|Unknown|🙂|
 |13|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||22s|Reference|💖|
 |14|Gmail||18s|Email|🙂|
 |15|newtab||16s|Browsers|🙂|

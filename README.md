@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-15 Detailed Activities, 
+
+Updated: 23:39
+
+Total logged time: **3h13m** ;         Today's theme is: **Reference**  🧡 ( **1h16m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|goland64|llllllllll|43m37s|Dev|💖|
+|2|[zhihu](https://zhihu.com).com|llllllll|33m44s|Reference|🙂|
+|3|Github|lllll|21m01s|Dev|💖|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|18m53s|Video|💚|
+|5|youtube.com|llll|17m43s|Reference|💚|
+|6|en.wikipedia|ll|08m09s|Reference|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|07m53s|Pro|🧡|
+|8|bytedance.feis|l|05m54s|Engineering |💖|
+|9|google.com|l|05m43s|Search|🧡|
+|10|[stackoverflow](https://stackoverflow.com/search?q=what+is+stackoverflow)||02m52s|Dev|💖|
+|11|oschina.net||02m25s|Tech|🧡|
+|12|baidu.com||02m22s|Search|🙂|
+|13|zhuanlan.[zhihu](https://zhihu.com)||02m09s|Reference|🧡|
+|14|sophontech.com||01m59s|Unknown|🙂|
+|15|t.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com||01m29s|Video|💚|
+
 ## yiyangiliu 2021-06-14 Detailed Activities, 
 
 Updated: 23:17

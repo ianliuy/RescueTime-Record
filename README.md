@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-17 Detailed Activities, 
+
+Updated: 17:30
+
+Total logged time: **5h50m** ;         Today's theme is: **Communication**  🧡 ( **2h32m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllll|01h59m|IM|🙂|
+|2|usc-cs-general|lllllllllllllllllllll|01h27m|Unknown|🙂|
+|3|lark|llllll|27m21s|General Comm|💖|
+|4|[zhihu](https://zhihu.com).com|llllll|25m16s|Reference|🙂|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llll|17m52s|Pro|🧡|
+|6|Github|lll|13m28s|Dev|💖|
+|7|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m15s|Reference|💖|
+|8|mp.weixin.qq|l|05m47s|IM|🙂|
+|9|overleaf.com|l|04m43s|Composing|💖|
+|10|snipaste|l|04m41s|Utils|🧡|
+|11|google.com.hk|l|04m15s|Search|🙂|
+|12|everything||03m44s|Utils|🧡|
+|13|amazon.jobs||02m36s|Employment|💖|
+|14|bytedance.feis||02m35s|Engineering |💖|
+|15|Chrome||02m24s|Browsers|🙂|
+
 ## yiyangiliu 2021-06-16 Detailed Activities, 
 
 Updated: 23:43

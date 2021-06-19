@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-18 Detailed Activities, 
+
+Updated: 15:59
+
+Total logged time: **5h26m** ;         Today's theme is: **Communication**  🧡 ( **1h50m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|overleaf.com|lllllllllllllllllll|01h17m|Composing|💖|
+|2|Wechat|llllllllllllllll|01h05m|IM|🙂|
+|3|youtube.com|lllllllllll|44m33s|Reference|💚|
+|4|lark|llllllllll|43m55s|General Comm|💖|
+|5|usc-cs-general|lllll|20m15s|Unknown|🙂|
+|6|[1point3acres](https://www.1point3acres.com/bbs)|llll|19m09s|Business & F|🧡|
+|7|Github|ll|08m55s|Dev|💖|
+|8|[zhihu](https://zhihu.com).com|ll|08m47s|Reference|🙂|
+|9|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m39s|Video|💚|
+|10|google.com.hk|l|05m53s|Search|🙂|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|04m55s|Pro|🧡|
+|12|upsolver.com||03m38s|Unknown|🙂|
+|13|Win Explorer||02m35s|Utils|🧡|
+|14|bytedance.feis||01m20s|Engineering |💖|
+|15|zhuanlan.[zhihu](https://zhihu.com)||01m16s|Reference|🧡|
+
 ## yiyangiliu 2021-06-17 Detailed Activities, 
 
 Updated: 23:30

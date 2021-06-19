@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-19 Detailed Activities, 
+
+Updated: 00:59
+
+Total logged time: **5h57m** ;         Today's theme is: **Composition**  💖 ( **1h46m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|overleaf.com|lllllllllllllllllllllllll|01h43m|Composing|💖|
+|2|Wechat|lllllllllllllll|01h01m|IM|🙂|
+|3|usc-cs-general|llllllll|32m31s|Unknown|🙂|
+|4|[zhihu](https://zhihu.com).com|llllll|26m19s|Reference|🙂|
+|5|goland64|llllll|24m22s|Dev|💖|
+|6|google.com.hk|ll|09m38s|Search|🙂|
+|7|lark|ll|08m49s|General Comm|💖|
+|8|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m44s|Reference|💖|
+|9|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m36s|Video|💚|
+|10|zhuanlan.[zhihu](https://zhihu.com)|l|06m58s|Reference|🧡|
+|11|Win Explorer|l|06m18s|Utils|🧡|
+|12|stock.hexun|l|05m04s|Business|💖|
+|13|Github|l|04m59s|Dev|💖|
+|14|Chrome|l|04m06s|Browsers|🙂|
+|15|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m47s|Pro|🧡|
+
 ## yiyangiliu 2021-06-18 Detailed Activities, 
 
 Updated: 21:59

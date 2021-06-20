@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-20 Detailed Activities, 
+
+Updated: 01:24
+
+Total logged time: **6h49m** ;         Today's theme is: **Communication**  🧡 ( **1h57m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllll|01h43m|IM|🙂|
+|2|overleaf.com|lllllllllllllllllllll|01h27m|Composing|💖|
+|3|usc-cs-general|lllllllllll|46m40s|Unknown|🙂|
+|4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|28m53s|Reference|💖|
+|5|tex.stackexcha|llll|17m05s|Tech|🧡|
+|6|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llll|16m45s|Video|💚|
+|7|lark|lll|14m34s|General Comm|💖|
+|8|google.com.hk|lll|13m36s|Search|🙂|
+|9|[zhihu](https://zhihu.com).com|ll|11m51s|Reference|🙂|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|10m39s|Pro|🧡|
+|11|Github|l|07m49s|Dev|💖|
+|12|zhuanlan.[zhihu](https://zhihu.com)|l|07m39s|Reference|🧡|
+|13|Chrome|l|05m15s|Browsers|🙂|
+|14|blog.csdn.net|l|04m31s|Reference|🧡|
+|15|baidu.com||03m24s|Search|🙂|
+
 ## yiyangiliu 2021-06-19 Detailed Activities, 
 
 Updated: 22:24

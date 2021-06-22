@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-21 Detailed Activities, 
+
+Updated: 23:20
+
+Total logged time: **2h40m** ;         Today's theme is: **Composition**  💖 ( **1h43m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|overleaf.com|lllllllllllllllllllllllll|01h43m|Composing|💖|
+|2|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|19m58s|Reference|💖|
+|3|youtube.com|l|07m21s|Reference|💚|
+|4|google.com.hk|l|06m20s|Search|🙂|
+|5|Github|l|06m08s|Dev|💖|
+|6|Win Explorer|l|05m08s|Utils|🧡|
+|7|Wechat||03m47s|IM|🙂|
+|8|en.wikipedia||01m39s|Reference|🧡|
+|9|systemsettings||01m25s|Utils|🧡|
+|10|lark||01m15s|General Comm|💖|
+|11|usc-cs-general||45s|Unknown|🙂|
+|12|[zhihu](https://zhihu.com).com||38s|Reference|🙂|
+|13|zhuanlan.[zhihu](https://zhihu.com)||27s|Reference|🧡|
+|14|promptcloud||26s|Business|💖|
+|15|wired.com||25s|Science & Te|😥|
+
 ## yiyangiliu 2021-06-20 Detailed Activities, 
 
 Updated: 23:30

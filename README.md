@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-06-22 Detailed Activities, 
 
-Updated: 02:20
+Updated: 03:02
 
 Total logged time: **2h21m** ;         Today's theme is: **Composition**  💖 ( **1h2m** ) 
 
@@ -25,7 +25,7 @@ Total logged time: **2h21m** ;         Today's theme is: **Composition**  💖 (
 |12|searchapp||31s|Unknown|🙂|
 |13|bnppus.tal.net||25s|Unknown|🙂|
 |14|en.wikipedia||21s|Reference|🧡|
-|15|Win Explorer||19s|Utils|🧡|
+|15|everything||19s|Utils|🧡|
 
 ## yiyangiliu 2021-06-21 Detailed Activities, 
 

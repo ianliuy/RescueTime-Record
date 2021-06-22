@@ -1,4 +1,4 @@
-# RescueTime-Record
+# RescueTime-Visualization-Demo
 A Visualization of my Daily RescueTime Data, **automatically** made & **committed** by [yiyangiliu/RescueTime-Github](https://github.com/yiyangiliu/RescueTime-Github)
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
@@ -210,7 +210,7 @@ Total logged time: **4h41m** ;         Today's theme is: **Entertainment**  💚
 |5|everything||03m06s|Utils|🧡|
 |6|google.com||01m50s|Search|🧡|
 |7|message.bilibi||01m03s|Video|💚|
-|8|天若ocr文�||57s|Unknown|🙂|
+|8|天若ocr文�||57s|Unknown|🙂|
 |9|Win Explorer||49s|Utils|🧡|
 |10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||41s|Pro|🧡|
 |11|systemsettings||26s|Utils|🧡|
@@ -1092,7 +1092,7 @@ Total logged time: **3h46m** ;         Today's theme is: **Communication**  🧡
 |4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|11m23s|Reference|💖|
 |5|google.com|ll|10m49s|Search|🧡|
 |6|[blackboard](https://blackboard.usc.edu).usc|ll|10m30s|Reference|💖|
-|7|因为媒体�|ll|09m02s|Unknown|🙂|
+|7|因为媒体�|ll|09m02s|Unknown|🙂|
 |8|drive.google|l|07m06s|Business|💖|
 |9|usc.zoom.us||03m48s|Meetings|💖|
 |10|popculture.com||03m31s|Unknown|🙂|

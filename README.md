@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-26 Detailed Activities, 
+
+Updated: 15:45
+
+Total logged time: **2h32m** ;         Today's theme is: **Reference**  🧡 ( **1h34m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|pymetrics.com|lllllllllll|45m19s|Reference|🧡|
+|2|youtube.com|llllllllll|42m10s|Reference|💚|
+|3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|14m51s|Video|💚|
+|4|Wechat|ll|09m47s|IM|🙂|
+|5|讯飞语记|l|05m30s|Unknown|🙂|
+|6|lark|l|05m03s|General Comm|💖|
+|7|Chrome||03m39s|Browsers|🙂|
+|8|usc-cs-general||03m18s|Unknown|🙂|
+|9|baidu.com||03m11s|Search|🙂|
+|10|Github||02m52s|Dev|💖|
+|11|Win Explorer||02m50s|Utils|🧡|
+|12|microsoft.phot||02m35s|Photos|💚|
+|13|[1point3acres](https://www.1point3acres.com/bbs)||01m30s|Business & F|🧡|
+|14|help.grasple||01m22s|Unknown|🙂|
+|15|google.com.hk||01m07s|Search|🙂|
+
 ## yiyangiliu 2021-06-25 Detailed Activities, 
 
 Updated: 01:05

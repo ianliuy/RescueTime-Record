@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-06-27 Detailed Activities, 
+
+Updated: 00:45
+
+Total logged time: **3h37m** ;         Today's theme is: **Communication**  🧡 ( **1h38m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllll|01h18m|IM|🙂|
+|2|overleaf.com|llllllllllllll|57m10s|Composing|💖|
+|3|lark|llll|17m35s|General Comm|💖|
+|4|Github|ll|11m51s|Dev|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|ll|11m42s|Pro|🧡|
+|6|Chrome|l|05m51s|Browsers|🙂|
+|7|google.com.hk|l|05m14s|Search|🙂|
+|8|bytedance.feis|l|04m33s|Engineering |💖|
+|9|newtab|l|04m30s|Browsers|🙂|
+|10|[zhihu](https://zhihu.com).com|l|04m06s|Reference|🙂|
+|11|usc-cs-general||03m21s|Unknown|🙂|
+|12|mp.weixin.qq||02m46s|IM|🙂|
+|13|Win Explorer||02m29s|Utils|🧡|
+|14|systemsettings||02m19s|Utils|🧡|
+|15|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m15s|Reference|💖|
+
 ## yiyangiliu 2021-06-26 Detailed Activities, 
 
 Updated: 21:45

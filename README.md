@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-02 Detailed Activities, 
+
+Updated: 00:42
+
+Total logged time: **2h53m** ;         Today's theme is: **Communication**  🧡 ( **1h49m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllllllll|01h47m|IM|🙂|
+|2|[leetcode](https://leetcode.com/yiyangiliu).com|llllll|25m55s|IDE|💖|
+|3|baidu.com|l|07m33s|Search|🙂|
+|4|zhidao.baidu|l|04m51s|Science & Te|😥|
+|5|jingyan.baidu||03m44s|Search|🙂|
+|6|Github||03m39s|Dev|💖|
+|7|Win Explorer||03m36s|Utils|🧡|
+|8|trello.com||02m50s|Project Mana|💖|
+|9|shadowsocksr-d||02m17s|Utils|🧡|
+|10|lark||01m59s|General Comm|💖|
+|11|shushi100.com||01m47s|Unknown|🙂|
+|12|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||01m41s|Pro|🧡|
+|13|wechatapp||48s|Unknown|🙂|
+|14|[1point3acres](https://www.1point3acres.com/bbs)||44s|Business & F|🧡|
+|15|hourglass||44s|Unknown|🙂|
+
 ## yiyangiliu 2021-06-27 Detailed Activities, 
 
 Updated: 23:33

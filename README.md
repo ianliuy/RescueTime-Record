@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-07-02 Detailed Activities, 
 
-Updated: 00:42
+Updated: 15:36
 
 Total logged time: **2h53m** ;         Today's theme is: **Communication**  🧡 ( **1h49m** ) 
 
@@ -24,8 +24,8 @@ Total logged time: **2h53m** ;         Today's theme is: **Communication**  🧡
 |11|shushi100.com||01m47s|Unknown|🙂|
 |12|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||01m41s|Pro|🧡|
 |13|wechatapp||48s|Unknown|🙂|
-|14|[1point3acres](https://www.1point3acres.com/bbs)||44s|Business & F|🧡|
-|15|hourglass||44s|Unknown|🙂|
+|14|hourglass||44s|Unknown|🙂|
+|15|[1point3acres](https://www.1point3acres.com/bbs)||44s|Business & F|🧡|
 
 ## yiyangiliu 2021-06-27 Detailed Activities, 
 

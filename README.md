@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-03 Detailed Activities, 
+
+Updated: 00:36
+
+Total logged time: **5h48m** ;         Today's theme is: **Reference**  🧡 ( **1h45m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllll|01h20m|IM|🙂|
+|2|youtube.com|lllllllllllllllll|01h11m|Reference|💚|
+|3|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllll|50m34s|IDE|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllll|20m02s|Pro|🧡|
+|5|Chrome|ll|10m04s|Browsers|🙂|
+|6|airbnb.cn|ll|09m07s|Unknown|🙂|
+|7|trello.com|ll|08m49s|Project Mana|💖|
+|8|google.com|ll|08m27s|Search|🧡|
+|9|usc-cs-general|l|07m54s|Unknown|🙂|
+|10|baidu.com|l|07m00s|Search|🙂|
+|11|gvhaoma.com|l|05m44s|Unknown|🙂|
+|12|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|l|05m22s|Video|💚|
+|13|[1point3acres](https://www.1point3acres.com/bbs)|l|05m04s|Business & F|🧡|
+|14|[zhihu](https://zhihu.com).com|l|04m28s|Reference|🙂|
+|15|systemsettings|l|04m18s|Utils|🧡|
+
 ## yiyangiliu 2021-07-02 Detailed Activities, 
 
 Updated: 21:36

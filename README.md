@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-04 Detailed Activities, 
+
+Updated: 00:04
+
+Total logged time: **6h23m** ;         Today's theme is: **Communication**  🧡 ( **2h28m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllll|01h59m|IM|🙂|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllllll|28m09s|Pro|🧡|
+|3|gvhaoma.com|lllll|20m08s|Unknown|🙂|
+|4|google.com|llll|19m26s|Search|🧡|
+|5|[1point3acres](https://www.1point3acres.com/bbs)|llll|18m40s|Business & F|🧡|
+|6|telegram|ll|11m03s|IM|😥|
+|7|[leetcode](https://leetcode.com/yiyangiliu).com|ll|10m20s|IDE|💖|
+|8|overleaf.com|ll|09m30s|Composing|💖|
+|9|gonglue.us|ll|08m32s|Unknown|🙂|
+|10|googlevoice.cn|l|06m59s|Unknown|🙂|
+|11|Chrome|l|06m01s|Browsers|🙂|
+|12|wolai.com|l|05m56s|Composing|💖|
+|13|Github|l|05m55s|Dev|💖|
+|14|voice.google|l|05m26s|Voice Chat|🧡|
+|15|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m17s|Reference|💖|
+
 ## yiyangiliu 2021-07-03 Detailed Activities, 
 
 Updated: 21:04

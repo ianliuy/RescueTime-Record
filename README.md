@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-05 Detailed Activities, 
+
+Updated: 02:00
+
+Total logged time: **4h47m** ;         Today's theme is: **Reference**  🧡 ( **3h28m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|en.wikipedia|lllllllllllll|53m54s|Reference|🧡|
+|2|[1point3acres](https://www.1point3acres.com/bbs)|lllllll|30m47s|Business & F|🧡|
+|3|google.com|llllll|24m37s|Search|🧡|
+|4|beijing.anjuke|lllll|21m16s|Business & F|🧡|
+|5|zillow.com|lll|14m32s|Home & Garde|🙂|
+|6|instant.1point|lll|14m23s|Business & F|🧡|
+|7|New York Times|lll|13m04s|General News|💚|
+|8|[zhihu](https://zhihu.com).com|ll|11m48s|Reference|🙂|
+|9|zhuanlan.[zhihu](https://zhihu.com)|ll|10m20s|Reference|🧡|
+|10|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|ll|08m02s|Video|💚|
+|11|Wechat|l|06m52s|IM|🙂|
+|12|support.micros|l|06m32s|Search|🙂|
+|13|baike.baidu|l|06m29s|Search|🙂|
+|14|[leetcode](https://leetcode.com/yiyangiliu).com|l|06m20s|IDE|💖|
+|15|en.wikipedia|l|05m57s|Search|🧡|
+
 ## yiyangiliu 2021-07-04 Detailed Activities, 
 
 Updated: 23:00

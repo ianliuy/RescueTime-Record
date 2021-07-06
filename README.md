@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-06 Detailed Activities, 
+
+Updated: 00:42
+
+Total logged time: **2h30m** ;         Today's theme is: **Communication**  🧡 ( **42m55s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllll|39m35s|IM|🙂|
+|2|overleaf.com|lllllllll|36m17s|Composing|💖|
+|3|youtube.com|lllllll|29m44s|Reference|💚|
+|4|Github|l|07m54s|Dev|💖|
+|5|resumeworded|l|06m49s|Unknown|🙂|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m51s|Pro|🧡|
+|7|[zhihu](https://zhihu.com).com||03m45s|Reference|🙂|
+|8|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com||03m33s|Video|💚|
+|9|mail.qq.com||02m29s|Email|🧡|
+|10|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m15s|Reference|💖|
+|11|Chrome||01m56s|Browsers|🙂|
+|12|google.com||01m46s|Search|🧡|
+|13|systemsettings||01m45s|Utils|🧡|
+|14|[leetcode](https://leetcode.com/yiyangiliu).com||01m25s|IDE|💖|
+|15|salary.sg||01m04s|Business|😥|
+
 ## yiyangiliu 2021-07-05 Detailed Activities, 
 
 Updated: 21:42

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-08 Detailed Activities, 
+
+Updated: 02:39
+
+Total logged time: **44m49s** ;         Today's theme is: **Unknown**  💛 ( **18m29s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|gobankingrates|ll|09m47s|Unknown|🙂|
+|2|apple.com.cn|l|05m55s|General News|💚|
+|3|[zhihu](https://zhihu.com).com|l|05m06s|Reference|🙂|
+|4|gvhaoma.com||03m10s|Unknown|🙂|
+|5|google.com||02m56s|Search|🧡|
+|6|baidu.com||02m30s|Search|🙂|
+|7|Wechat||02m13s|IM|🙂|
+|8|ooma.com||02m01s|Unknown|🙂|
+|9|keku.com||01m36s|Unknown|🙂|
+|10|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m20s|Reference|💖|
+|11|baijiahao.baid||01m17s|Search|😥|
+|12|en.wikipedia||01m14s|Reference|🧡|
+|13|jikipedia.com||51s|Unknown|🙂|
+|14|Win Explorer||46s|Utils|🧡|
+|15|Chrome||38s|Browsers|🙂|
+
 ## yiyangiliu 2021-07-07 Detailed Activities, 
 
 Updated: 23:39

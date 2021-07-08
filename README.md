@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-07 Detailed Activities, 
+
+Updated: 23:39
+
+Total logged time: **2h31m** ;         Today's theme is: **Reference**  🧡 ( **2h25m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|llllllllllllllllllllll|01h31m|Reference|💚|
+|2|[zhihu](https://zhihu.com).com|llllllllll|42m40s|Reference|🙂|
+|3|zhuanlan.[zhihu](https://zhihu.com)|l|06m36s|Reference|🧡|
+|4|google.com|l|04m21s|Search|🧡|
+|5|Github||01m20s|Dev|💖|
+|6|163.com||01m17s|General News|💚|
+|7|Wechat||01m04s|IM|🙂|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||53s|Pro|🧡|
+|9|webinfra.org||44s|Unknown|🙂|
+|10|systemsettings||36s|Utils|🧡|
+|11|link.[zhihu](https://zhihu.com).com||12s|Business|💖|
+|12|salary.sg||10s|Business|😥|
+|13|en.wikipedia||08s|Reference|🧡|
+|14|microsoft.com||07s|Tech|🧡|
+|15|Chrome||02s|Browsers|🙂|
+
 ## yiyangiliu 2021-07-06 Detailed Activities, 
 
 Updated: 03:42

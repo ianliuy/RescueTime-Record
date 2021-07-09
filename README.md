@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-09 Detailed Activities, 
+
+Updated: 01:22
+
+Total logged time: **5h51m** ;         Today's theme is: **Reference**  🧡 ( **2h53m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllll|01h06m|Video|💚|
+|2|zillow.com|lllllllllllll|52m02s|Home & Garde|🙂|
+|3|youtube.com|lllllllllll|47m47s|Reference|💚|
+|4|google.com|llll|19m09s|Search|🧡|
+|5|zhuanlan.[zhihu](https://zhihu.com)|llll|18m57s|Reference|🧡|
+|6|Wechat|llll|17m46s|IM|🙂|
+|7|en.wikipedia|lll|12m21s|Reference|🧡|
+|8|gobankingrates|ll|10m22s|Unknown|🙂|
+|9|163.com|ll|09m46s|General News|💚|
+|10|finance.sina.c|ll|08m18s|General News|💚|
+|11|s.taobao.com|l|06m51s|Shopping|💚|
+|12|dqydj.com|l|06m28s|Unknown|🙂|
+|13|en.wikipedia|l|06m06s|Search|🧡|
+|14|Chrome|l|05m48s|Browsers|🙂|
+|15|wsj.com|l|05m10s|General News|💚|
+
 ## yiyangiliu 2021-07-08 Detailed Activities, 
 
 Updated: 22:22

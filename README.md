@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-10 Detailed Activities, 
+
+Updated: 02:58
+
+Total logged time: **11h36m** ;         Today's theme is: **Entertainment**  💚 ( **6h29m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h23m|Video|💚|
+|2|youtube.com|lllllllllllll|52m52s|Reference|💚|
+|3|en.wikipedia|llllll|25m24s|Reference|🧡|
+|4|baike.baidu|llllll|24m01s|Search|🙂|
+|5|google.com|lllll|22m34s|Search|🧡|
+|6|[zhihu](https://zhihu.com).com|lllll|22m30s|Reference|🙂|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllll|20m17s|Pro|🧡|
+|8|36kr.com|llll|17m36s|Science & Te|😥|
+|9|en.wikipedia|lll|15m56s|Search|🧡|
+|10|aitouyan.com|lll|12m21s|Unknown|🙂|
+|11|forbes.com|ll|10m36s|General News|💚|
+|12|matrixpartners|l|07m24s|Unknown|🙂|
+|13|Chrome|l|07m20s|Browsers|🙂|
+|14|huxiu.com|l|07m09s|Science & Te|😥|
+|15|zhuanlan.[zhihu](https://zhihu.com)|l|06m17s|Reference|🧡|
+
 ## yiyangiliu 2021-07-09 Detailed Activities, 
 
 Updated: 23:58

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-12 Detailed Activities, 
+
+Updated: 00:06
+
+Total logged time: **9h14m** ;         Today's theme is: **Entertainment**  💚 ( **7h19m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h44m|Video|💚|
+|2|search.bilibil|lllllllllll|46m17s|Video|💚|
+|3|Wechat|lllllllll|38m03s|IM|🙂|
+|4|MS Paint|lll|15m56s|Design|💖|
+|5|Chrome|ll|08m52s|Browsers|🙂|
+|6|google.com|ll|08m17s|Search|🧡|
+|7|systemsettings|l|07m32s|Utils|🧡|
+|8|yuyue.beijingi|l|06m19s|Unknown|🙂|
+|9|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m35s|Reference|💖|
+|10|everything||03m02s|Utils|🧡|
+|11|instant.1point||02m58s|Business & F|🧡|
+|12|eshc-pncw.usc.||02m50s|Reference|🧡|
+|13|mp.weixin.qq||02m30s|IM|🙂|
+|14|en.wikipedia||02m17s|Reference|🧡|
+|15|youtube.com||01m31s|Reference|💚|
+
 ## yiyangiliu 2021-07-11 Detailed Activities, 
 
 Updated: 21:06

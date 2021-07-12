@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-11 Detailed Activities, 
+
+Updated: 18:06
+
+Total logged time: **10h8m** ;         Today's theme is: **Entertainment**  💚 ( **5h44m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h40m|Video|💚|
+|2|google.com|llllllllll|41m03s|Search|🧡|
+|3|Wechat|llllllll|32m18s|IM|🙂|
+|4|[zhihu](https://zhihu.com).com|llllll|27m24s|Reference|🙂|
+|5|Win Explorer|llllll|24m47s|Utils|🧡|
+|6|yuyue.beijingi|lllll|20m27s|Unknown|🙂|
+|7|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|14m43s|Reference|💖|
+|8|[1point3acres](https://www.1point3acres.com/bbs)|ll|11m15s|Business & F|🧡|
+|9|beijingithc.or|ll|11m09s|Unknown|🙂|
+|10|instant.1point|ll|08m07s|Business & F|🧡|
+|11|zhuanlan.[zhihu](https://zhihu.com)|l|07m27s|Reference|🧡|
+|12|mail.qq.com|l|07m15s|Email|🧡|
+|13|shellexperienc|l|06m31s|Utils|🧡|
+|14|news.pedaily.c|l|04m29s|General News|💚|
+|15|baidu.com|l|04m08s|Search|🙂|
+
 ## yiyangiliu 2021-07-10 Detailed Activities, 
 
 Updated: 14:58

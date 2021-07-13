@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-07-12 Detailed Activities, 
 
-Updated: 00:06
+Updated: 11:26
 
-Total logged time: **9h14m** ;         Today's theme is: **Entertainment**  💚 ( **7h19m** ) 
+Total logged time: **9h25m** ;         Today's theme is: **Entertainment**  💚 ( **7h30m** ) 
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h44m|Video|💚|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h55m|Video|💚|
 |2|search.bilibil|lllllllllll|46m17s|Video|💚|
 |3|Wechat|lllllllll|38m03s|IM|🙂|
 |4|MS Paint|lll|15m56s|Design|💖|

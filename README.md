@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-14 Detailed Activities, 
+
+Updated: 00:18
+
+Total logged time: **2h53m** ;         Today's theme is: **Entertainment**  💚 ( **59m23s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllll|58m17s|Video|💚|
+|2|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllll|36m36s|IDE|💖|
+|3|duibiao.info|llll|19m19s|Unknown|🙂|
+|4|[1point3acres](https://www.1point3acres.com/bbs)|lll|13m05s|Business & F|🧡|
+|5|Wechat|ll|09m46s|IM|🙂|
+|6|baidu.com|ll|08m38s|Search|🙂|
+|7|Chrome|l|05m48s|Browsers|🙂|
+|8|google.com||03m50s|Search|🧡|
+|9|[zhihu](https://zhihu.com).com||02m44s|Reference|🙂|
+|10|baike.baidu||02m33s|Search|🙂|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||02m08s|Pro|🧡|
+|12|wenku.baidu||01m42s|Reference|🧡|
+|13|welcomebc.ca||01m21s|Reference|🧡|
+|14|lark||01m20s|General Comm|💖|
+|15|fund.eastmoney||01m09s|Business|💖|
+
 ## yiyangiliu 2021-07-13 Detailed Activities, 
 
 Updated: 21:18

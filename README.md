@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-13 Detailed Activities, 
+
+Updated: 18:18
+
+Total logged time: **8h12m** ;         Today's theme is: **Entertainment**  💚 ( **4h21m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h03m|Video|💚|
+|2|youtube.com|llllllllllllllllll|01h15m|Reference|💚|
+|3|[leetcode](https://leetcode.com/yiyangiliu).com|llllllll|35m42s|IDE|💖|
+|4|[zhihu](https://zhihu.com).com|llllllll|35m20s|Reference|🙂|
+|5|[1point3acres](https://www.1point3acres.com/bbs)|lll|15m56s|Business & F|🧡|
+|6|Wechat|lll|15m19s|IM|🙂|
+|7|google.com|ll|11m37s|Search|🧡|
+|8|baidunetdisk|l|07m33s|Utils|🧡|
+|9|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|07m03s|Video|💚|
+|10|id.emb-japan.g|l|05m39s|Unknown|🙂|
+|11|matrixpartners|l|04m40s|Unknown|🙂|
+|12|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m55s|Reference|💖|
+|13|hk.emb-japan.g||02m36s|Unknown|🙂|
+|14|hourglass||02m32s|Unknown|🙂|
+|15|Chrome||02m08s|Browsers|🙂|
+
 ## yiyangiliu 2021-07-12 Detailed Activities, 
 
 Updated: 23:26

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-15 Detailed Activities, 
+
+Updated: 01:15
+
+Total logged time: **8h3m** ;         Today's theme is: **Dev**  💖 ( **2h9m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllllllllllllllllllllll|02h01m|IDE|💖|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllll|01h41m|Video|💚|
+|3|Wechat|llllllllllllllllllll|01h21m|IM|🙂|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllllllllllll|56m06s|Pro|🧡|
+|5|Zoom|llllllll|32m06s|Meetings|💖|
+|6|youtube.com|lll|13m33s|Reference|💚|
+|7|[1point3acres](https://www.1point3acres.com/bbs)|ll|11m12s|Business & F|🧡|
+|8|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m54s|Video|💚|
+|9|[leetcode](https://leetcode.com/yiyangiliu)-cn|ll|08m01s|Dev|💖|
+|10|mail.qq.com|l|07m07s|Email|🧡|
+|11|Chrome|l|06m05s|Browsers|🙂|
+|12|zhuanlan.[zhihu](https://zhihu.com)||03m56s|Reference|🧡|
+|13|google.com||03m45s|Search|🧡|
+|14|mp.weixin.qq||03m05s|IM|🙂|
+|15|item.taobao||02m26s|Shopping|💚|
+
 ## yiyangiliu 2021-07-14 Detailed Activities, 
 
 Updated: 22:15

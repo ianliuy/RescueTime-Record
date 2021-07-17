@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-16 Detailed Activities, 
+
+Updated: 11:28
+
+Total logged time: **10h5m** ;         Today's theme is: **Entertainment**  💚 ( **3h12m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllll|03h08m|Video|💚|
+|2|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllllllllllllll|02h29m|IDE|💖|
+|3|youtube.com|llllllllllllllllllllll|01h29m|Reference|💚|
+|4|Wechat|llllllllllll|51m26s|IM|🙂|
+|5|[1point3acres](https://www.1point3acres.com/bbs)|lllllllll|38m49s|Business & F|🧡|
+|6|Zoom|llllll|25m53s|Meetings|💖|
+|7|Google Docs|lll|15m09s|Composing|💖|
+|8|[leetcode](https://leetcode.com/yiyangiliu)-cn|ll|08m21s|Dev|💖|
+|9|shadowsocksr-d|l|05m00s|Utils|🧡|
+|10|hourglass|l|04m43s|Unknown|🙂|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||03m03s|Pro|🧡|
+|12|mp.weixin.qq||02m37s|IM|🙂|
+|13|bgpnet.cc||02m06s|Unknown|🙂|
+|14|google.com||02m02s|Search|🧡|
+|15|boslife.net||01m33s|Unknown|🙂|
+
 ## yiyangiliu 2021-07-15 Detailed Activities, 
 
 Updated: 23:24

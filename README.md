@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-17 Detailed Activities, 
+
+Updated: 16:11
+
+Total logged time: **9h58m** ;         Today's theme is: **Dev**  💖 ( **3h57m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllllllllllllllllllllllllllllllllllllllllllllll|03h39m|IDE|💖|
+|2|Wechat|lllllllllllllllllllllllllllllll|02h06m|IM|🙂|
+|3|[1point3acres](https://www.1point3acres.com/bbs)|llllllllllll|48m57s|Business & F|🧡|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|48m49s|Video|💚|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllll|24m30s|Pro|🧡|
+|6|Zoom|llll|17m07s|Meetings|💖|
+|7|Google Docs|lll|13m06s|Composing|💖|
+|8|ups.managehr|ll|11m25s|Business|💖|
+|9|youtube.com|ll|10m01s|Reference|💚|
+|10|[leetcode](https://leetcode.com/yiyangiliu)-cn|ll|09m52s|Dev|💖|
+|11|wemeetapp|l|07m32s|Meetings|🧡|
+|12|*.[github](https://github.com/yiyangiliu).io|l|06m29s|Dev|💖|
+|13|usc-cs-general|l|06m18s|Unknown|🙂|
+|14|hourglass|l|06m06s|Unknown|🙂|
+|15|google.com|l|05m38s|Search|🧡|
+
 ## yiyangiliu 2021-07-16 Detailed Activities, 
 
 Updated: 23:28

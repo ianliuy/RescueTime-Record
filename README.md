@@ -5,7 +5,9 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-07-19 Detailed Activities, 
 
-Updated: 15:43
+Updated: 21:43
+
+Total logged time: **4h13m** ;         Today's theme is: **Dev**  💖 ( **2h30m** ) 
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -20,12 +22,10 @@ Updated: 15:43
 |9|google.com||02m39s|Search|🧡|
 |10|[leetcode](https://leetcode.com/yiyangiliu)-cn||02m08s|Dev|💖|
 |11|newtab||01m23s|Browsers|🙂|
-|12|snipaste||01m14s|Utils|🧡|
-|13|eshc-pncw.usc.||01m14s|Reference|🧡|
+|12|eshc-pncw.usc.||01m14s|Reference|🧡|
+|13|snipaste||01m14s|Utils|🧡|
 |14|docs.python||01m13s|Dev|💖|
 |15|hourglass||01m02s|Unknown|🙂|
-
-## yiyangiliu 2021-07-18 Detailed Activities, 
 
 Updated: 21:10
 

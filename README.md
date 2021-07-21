@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-20 Detailed Activities, 
+
+Updated: 12:22
+
+Total logged time: **6h13m** ;         Today's theme is: **Dev**  💖 ( **2h25m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllllllll|02h07m|IDE|💖|
+|2|Wechat|llllllllllllllllllll|01h23m|IM|🙂|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllllll|34m43s|Pro|🧡|
+|4|trello.com|lll|13m02s|Project Mana|💖|
+|5|hourglass|lll|12m32s|Unknown|🙂|
+|6|thepaper.cn|ll|09m07s|General News|💚|
+|7|Github|l|07m44s|Dev|💖|
+|8|[leetcode](https://leetcode.com/yiyangiliu)-cn|l|05m55s|Dev|💖|
+|9|tech-recipes|l|05m16s|Search|🙂|
+|10|wemeetapp|l|05m10s|Meetings|🧡|
+|11|Win Explorer|l|04m39s|Utils|🧡|
+|12|google.com.hk|l|04m34s|Search|🙂|
+|13|en.wikipedia|l|04m12s|Search|🧡|
+|14|google.com|l|04m03s|Search|🧡|
+|15|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m01s|Reference|💖|
+
 ## yiyangiliu 2021-07-19 Detailed Activities, 
 
 Updated: 21:43

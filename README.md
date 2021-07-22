@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-22 Detailed Activities, 
+
+Updated: 01:00
+
+Total logged time: **3h38m** ;         Today's theme is: **Communication**  🧡 ( **1h24m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllll|01h16m|IM|🙂|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllll|54m30s|Video|💚|
+|3|ctexcel.us|ll|11m54s|Unknown|🙂|
+|4|google.com.hk|ll|08m08s|Search|🙂|
+|5|baidu.com|ll|08m02s|Search|🙂|
+|6|mail.qq.com|l|07m27s|Email|🧡|
+|7|163.com|l|05m43s|General News|💚|
+|8|[1point3acres](https://www.1point3acres.com/bbs)|l|05m23s|Business & F|🧡|
+|9|trello.com|l|04m26s|Project Mana|💖|
+|10|lightspeedcp|l|04m25s|Unknown|🙂|
+|11|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|04m21s|Video|💚|
+|12|m.cyzone.cn||02m59s|Business & F|🧡|
+|13|tianqi.com||02m12s|Unknown|🙂|
+|14|weathernew.pae||02m02s|Unknown|🙂|
+|15|Chrome||01m42s|Browsers|🙂|
+
 ## yiyangiliu 2021-07-21 Detailed Activities, 
 
 Updated: 22:00

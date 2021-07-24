@@ -3,6 +3,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-07-23 Detailed Activities, 
+
+Updated: 23:46
+
+Total logged time: **1h37m** ;         Today's theme is: **Entertainment**  💚 ( **1h31m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllll|01h23m|Video|💚|
+|2|c:|l|04m05s|Utils|💖|
+|3|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)||03m57s|Video|💚|
+|4|[leetcode](https://leetcode.com/yiyangiliu).com||35s|IDE|💖|
+|5|Win Explorer||18s|Utils|🧡|
+|6|Chrome||14s|Browsers|🙂|
+|7|Wechat||04s|IM|🙂|
+|8|lark||03s|General Comm|💖|
+|9|everything||01s|Utils|🧡|
+
 ## yiyangiliu 2021-07-22 Detailed Activities, 
 
 Updated: 23:15

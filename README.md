@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-08-02 Detailed Activities, 
+
+Updated: 18:44
+
+Total logged time: **10h12m** ;         Today's theme is: **Reference**  🧡 ( **3h40m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllll|01h26m|IM|🙂|
+|2|Gmail|lllllllllllllllllll|01h16m|Email|🙂|
+|3|courses.uscden|lllllllll|37m10s|Reference|🧡|
+|4|youtube.com|llllllll|35m21s|Reference|💚|
+|5|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|29m32s|Reference|💖|
+|6|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|28m39s|Video|💚|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lllll|20m11s|Pro|🧡|
+|8|coursera.org|llll|19m57s|Reference|🧡|
+|9|google.com|llll|16m16s|Search|🧡|
+|10|Google Calenda|lll|14m36s|Calendars|🙂|
+|11|usc.peoplegrov|lll|14m27s|Unknown|🙂|
+|12|amazon.com|lll|13m15s|Shopping|💚|
+|13|myrecsports.us|lll|12m52s|Reference|🧡|
+|14|viterbi-usc-cs|lll|12m37s|Systems Oper|💖|
+|15|drive.google|ll|09m16s|Business|💖|
+
 ## yiyangiliu 2021-07-23 Detailed Activities, 
 
 Updated: 23:46

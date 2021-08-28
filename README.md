@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-08-27 Detailed Activities, 
+
+Updated: 12:20
+
+Total logged time: **7h47m** ;         Today's theme is: **Communication**  🧡 ( **2h56m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllllllllllllllllll|02h26m|IM|🙂|
+|2|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllll|01h33m|Video|💚|
+|3|youtube.com|llllllllllllllll|01h07m|Reference|💚|
+|4|Gmail|lllllll|29m21s|Email|🙂|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llll|18m04s|Pro|🧡|
+|6|[1point3acres](https://www.1point3acres.com/bbs)|llll|17m59s|Business & F|🧡|
+|7|google.com|ll|11m52s|Search|🧡|
+|8|search.bilibil|ll|08m56s|Video|💚|
+|9|unilever.hirev|ll|08m40s|Unknown|🙂|
+|10|Google Spreads|l|06m51s|Business|💖|
+|11|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|l|05m59s|Video|💚|
+|12|cnblogs.com|l|05m23s|Dev|🧡|
+|13|surveymonkey||03m47s|Marketing|💖|
+|14|dropbox.com||03m07s|File Sharing|💚|
+|15|Github||02m53s|Dev|💖|
+
 ## yiyangiliu 2021-08-02 Detailed Activities, 
 
 Updated: 21:44

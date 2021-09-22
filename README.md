@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-21 Detailed Activities, 
+
+Updated: 11:35
+
+Total logged time: **6h55m** ;         Today's theme is: **Dev**  💖 ( **5h24m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|pycharm64|lllllllllllllllllllllllllllllllllllllllll|02h47m|IDE|💖|
+|2|[leetcode](https://leetcode.com/yiyangiliu).com|lllllllllllllllllllllllllll|01h51m|IDE|💖|
+|3|hackerrank.com|lllllllllll|45m14s|Dev|💖|
+|4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllll|20m37s|Reference|💖|
+|5|Wechat|llll|16m03s|IM|🙂|
+|6|[1point3acres](https://www.1point3acres.com/bbs)|lll|14m17s|Business & F|🧡|
+|7|天若ocr文�|l|07m31s|Unknown|🙂|
+|8|en.wikipedia|l|05m07s|Reference|🧡|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|04m09s|Pro|🧡|
+|10|i.imgur.com|l|04m04s|General Ente|💚|
+|11|Google Spreads||03m40s|Business|💖|
+|12|Gmail||03m23s|Email|🙂|
+|13|google.com||02m20s|Search|🧡|
+|14|netapp.eightfo||01m35s|Unknown|🙂|
+|15|Chrome||01m23s|Browsers|🙂|
+
 ## yiyangiliu 2021-08-27 Detailed Activities, 
 
 Updated: 13:06

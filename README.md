@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-22 Detailed Activities, 
+
+Updated: 11:05
+
+Total logged time: **7h32m** ;         Today's theme is: **Reference**  🧡 ( **2h48m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllll|01h03m|IM|🙂|
+|2|VS Code|lllllllllllllll|01h|Dev|💖|
+|3|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllllllllll|55m07s|Reference|💖|
+|4|google.com|lllllllll|38m39s|Search|🧡|
+|5|Gmail|llll|18m46s|Email|🙂|
+|6|Zoom|lll|15m59s|Meetings|💖|
+|7|app.brazenconn|lll|14m01s|Unknown|🙂|
+|8|blog.csdn.net|lll|12m21s|Reference|🧡|
+|9|[1point3acres](https://www.1point3acres.com/bbs)|lll|12m17s|Business & F|🧡|
+|10|Win Explorer|lll|12m06s|Utils|🧡|
+|11|Google Spreads|ll|11m55s|Business|💖|
+|12|runoob.com|ll|11m23s|Reference|🧡|
+|13|cnblogs.com|ll|11m15s|Dev|🧡|
+|14|facebookrecrui|ll|09m19s|Unknown|🙂|
+|15|[zhihu](https://zhihu.com).com|ll|08m42s|Reference|🙂|
+
 ## yiyangiliu 2021-09-21 Detailed Activities, 
 
 Updated: 22:06

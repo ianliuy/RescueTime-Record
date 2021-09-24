@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-23 Detailed Activities, 
+
+Updated: 02:05
+
+Total logged time: **6h1m** ;         Today's theme is: **Dev**  💖 ( **2h19m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|pycharm64|llllllllllllllllllll|01h23m|IDE|💖|
+|2|[leetcode](https://leetcode.com/yiyangiliu).com|llllllllllllll|56m34s|IDE|💖|
+|3|Wechat|lllllllllllll|54m18s|IM|🙂|
+|4|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|25m02s|Video|💚|
+|5|Gmail|lllll|21m35s|Email|🙂|
+|6|google.com|llll|17m50s|Search|🧡|
+|7|[1point3acres](https://www.1point3acres.com/bbs)|lll|14m11s|Business & F|🧡|
+|8|[zhihu](https://zhihu.com).com|ll|10m58s|Reference|🙂|
+|9|app.brazenconn|ll|08m50s|Unknown|🙂|
+|10|soylent.com|ll|08m46s|Food|🧡|
+|11|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m05s|Reference|💖|
+|12|facebookrecrui|l|07m00s|Unknown|🙂|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|06m48s|Pro|🧡|
+|14|blog.1point3ac|l|05m51s|Business & F|🧡|
+|15|cfa.org||03m38s|Unknown|🙂|
+
 ## yiyangiliu 2021-09-22 Detailed Activities, 
 
 Updated: 23:05

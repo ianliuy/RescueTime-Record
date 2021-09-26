@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-25 Detailed Activities, 
+
+Updated: 00:57
+
+Total logged time: **41m38s** ;         Today's theme is: **Utilities**  💛 ( **15m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lll|12m18s|IM|🙂|
+|2|systemsettings|l|04m45s|Utils|🧡|
+|3|Win Explorer||03m41s|Utils|🧡|
+|4|cobe123.wordpr||02m37s|General News|💚|
+|5|Chrome||02m28s|Browsers|🙂|
+|6|eshc-pncw.usc.||02m12s|Reference|🧡|
+|7|newtab||02m11s|Browsers|🙂|
+|8|chineseconvert||02m10s|Unknown|🙂|
+|9|boca.gov.tw||01m34s|General News|💚|
+|10|google.com||01m20s|Search|🧡|
+|11|applicationfra||53s|Utils|🧡|
+|12|crptransfer.mo||43s|Unknown|🙂|
+|13|brushes8.com||41s|Unknown|🙂|
+|14|NotePad++||30s|IDE|💖|
+|15|easypronunciat||30s|Reference|🧡|
+
 ## yiyangiliu 2021-09-24 Detailed Activities, 
 
 Updated: 21:57

@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-24 Detailed Activities, 
+
+Updated: 18:03
+
+Total logged time: **4h13m** ;         Today's theme is: **Reference**  🧡 ( **1h42m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://zhihu.com).com|llllllllll|43m55s|Reference|🙂|
+|2|msteams|lllllll|28m43s|Unknown|🙂|
+|3|[leetcode](https://leetcode.com/yiyangiliu).com|lllll|22m21s|IDE|💖|
+|4|Notion|lllll|22m20s|Composing|💖|
+|5|[1point3acres](https://www.1point3acres.com/bbs)|llll|17m07s|Business & F|🧡|
+|6|Wechat|llll|16m47s|IM|🙂|
+|7|levels.fyi|llll|16m21s|Unknown|🙂|
+|8|google.com|lll|14m50s|Search|🧡|
+|9|airfinity.com|l|07m07s|Unknown|🙂|
+|10|tldp.org|l|05m28s|Search|🙂|
+|11|Gmail|l|05m15s|Email|🙂|
+|12|science.org|l|04m28s|Unknown|🙂|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|04m25s|Pro|🧡|
+|14|wizardforcel.g|l|04m01s|Tech|🧡|
+|15|amazon.com||03m02s|Shopping|💚|
+
 ## yiyangiliu 2021-09-23 Detailed Activities, 
 
 Updated: 11:05

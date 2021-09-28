@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2021-09-27 Detailed Activities, 
 
-Updated: 09:39
+Updated: 12:39
 
 Total logged time: **1h5m** ;         Today's theme is: **Communication**  🧡 ( **29m54s** ) 
 
@@ -24,8 +24,8 @@ Total logged time: **1h5m** ;         Today's theme is: **Communication**  🧡 
 |11|ripplematch||11s|Unknown|🙂|
 |12|en.wikipedia||08s|Reference|🧡|
 |13|ebay.com||06s|Shopping|💚|
-|14|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||05s|Reference|💖|
-|15|courses.uscden||05s|Reference|🧡|
+|14|startmenuexper||05s|Utils|🧡|
+|15|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||05s|Reference|💖|
 
 ## yiyangiliu 2021-09-25 Detailed Activities, 
 

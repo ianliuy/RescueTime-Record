@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-27 Detailed Activities, 
+
+Updated: 03:39
+
+Total logged time: **1h5m** ;         Today's theme is: **Communication**  🧡 ( **29m54s** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllll|29m04s|IM|🙂|
+|2|coursehero.com|lll|15m35s|Search|🙂|
+|3|MS Word|ll|10m23s|Composing|💖|
+|4|[leetcode](https://leetcode.com/yiyangiliu).com|l|05m07s|IDE|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com||01m18s|Pro|🧡|
+|6|Win Explorer||01m16s|Utils|🧡|
+|7|Gmail||48s|Email|🙂|
+|8|google.com||37s|Search|🧡|
+|9|newtab||17s|Browsers|🙂|
+|10|snipaste||14s|Utils|🧡|
+|11|ripplematch||11s|Unknown|🙂|
+|12|en.wikipedia||08s|Reference|🧡|
+|13|ebay.com||06s|Shopping|💚|
+|14|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||05s|Reference|💖|
+|15|courses.uscden||05s|Reference|🧡|
+
 ## yiyangiliu 2021-09-25 Detailed Activities, 
 
 Updated: 12:57

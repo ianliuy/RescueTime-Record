@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-28 Detailed Activities, 
+
+Updated: 00:39
+
+Total logged time: **6h5m** ;         Today's theme is: **Reference**  🧡 ( **2h10m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllll|01h10m|IM|🙂|
+|2|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllllllllllll|01h01m|Reference|💖|
+|3|MS Word|llllllllllll|50m23s|Composing|💖|
+|4|coursehero.com|lllll|23m54s|Search|🙂|
+|5|Gmail|llll|18m06s|Email|🙂|
+|6|Chrome|llll|17m04s|Browsers|🙂|
+|7|Win Explorer|lll|15m26s|Utils|🧡|
+|8|google.com|lll|13m35s|Search|🧡|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|lll|12m42s|Pro|🧡|
+|10|Github|ll|09m21s|Dev|💖|
+|11|pycharm64|ll|08m04s|IDE|💖|
+|12|geeksforgeeks|l|07m36s|Operations|💖|
+|13|[leetcode](https://leetcode.com/yiyangiliu).com|l|04m40s|IDE|💖|
+|14|[blackboard](https://blackboard.usc.edu).usc|l|04m18s|Reference|💖|
+|15|Adobe Acrobat||03m45s|Reference|🧡|
+
 ## yiyangiliu 2021-09-27 Detailed Activities, 
 
 Updated: 21:40

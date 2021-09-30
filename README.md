@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-09-29 Detailed Activities, 
+
+Updated: 00:23
+
+Total logged time: **8h31m** ;         Today's theme is: **Reference**  🧡 ( **6h14m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h43m|Reference|💖|
+|2|Wechat|llllllllllllllllllllll|01h29m|IM|🙂|
+|3|[blackboard](https://blackboard.usc.edu).usc|llllllllll|40m06s|Reference|💖|
+|4|[1point3acres](https://www.1point3acres.com/bbs)|llllllll|32m04s|Business & F|🧡|
+|5|courses.uscden|lllllll|29m48s|Reference|🧡|
+|6|[zhihu](https://zhihu.com).com|lll|14m14s|Reference|🙂|
+|7|google.com|ll|10m44s|Search|🧡|
+|8|mail.yahoo.com|l|07m15s|Email|🙂|
+|9|Win Explorer|l|06m17s|Utils|🧡|
+|10|Chrome|l|05m25s|Browsers|🙂|
+|11|[stackoverflow](https://stackoverflow.com/search?q=what+is+stackoverflow)|l|05m03s|Dev|💖|
+|12|math.stackexch|l|04m55s|Reference|🧡|
+|13|my.usc.edu|l|04m08s|Reference|🧡|
+|14|Gmail||03m59s|Email|🙂|
+|15|baidu.com||03m10s|Search|🙂|
+
 ## yiyangiliu 2021-09-28 Detailed Activities, 
 
 Updated: 21:23

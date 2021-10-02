@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-10-01 Detailed Activities, 
+
+Updated: 02:05
+
+Total logged time: **5h33m** ;         Today's theme is: **Reference**  🧡 ( **4h4m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllllllllllllllllllllllllllll|02h02m|Reference|💖|
+|2|youtube.com|llllllllllllllllllll|01h23m|Reference|💚|
+|3|courses.uscden|lllll|23m40s|Reference|🧡|
+|4|Chrome|llll|18m42s|Browsers|🙂|
+|5|NotePad++|lll|15m48s|IDE|💖|
+|6|Wechat|lll|15m35s|IM|🙂|
+|7|c:|lll|12m38s|Utils|💖|
+|8|Win Explorer|ll|08m01s|Utils|🧡|
+|9|apple.com|l|07m05s|Tech|🧡|
+|10|zhuanlan.[zhihu](https://zhihu.com)|l|05m06s|Reference|🧡|
+|11|Google Calenda||03m15s|Calendars|🙂|
+|12|lockapp||03m00s|Other|🙂|
+|13|shellexperienc||02m40s|Utils|🧡|
+|14|Microsoft Team||02m07s|IM|😥|
+|15|everything||01m58s|Utils|🧡|
+
 ## yiyangiliu 2021-09-30 Detailed Activities, 
 
 Updated: 23:05

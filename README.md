@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-10-05 Detailed Activities, 
+
+Updated: 11:57
+
+Total logged time: **14h51m** ;         Today's theme is: **Entertainment**  💚 ( **6h15m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h52m|Video|💚|
+|2|Wechat|llllllllllllllllllllllllllllllllllllllll|02h41m|IM|🙂|
+|3|courses.uscden|lllllllllllllllllllll|01h26m|Reference|🧡|
+|4|youtube.com|lllllllllllll|52m01s|Reference|💚|
+|5|app.coderpad.i|lllllll|29m20s|IDE|💖|
+|6|pycharm64|lllll|21m11s|IDE|💖|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llll|18m13s|Pro|🧡|
+|8|Gmail|lll|13m44s|Email|🙂|
+|9|apple.com|lll|13m15s|Tech|🧡|
+|10|bluejeans|ll|11m37s|Meetings|🧡|
+|11|Google Calenda|ll|09m24s|Calendars|🙂|
+|12|NotePad++|l|07m56s|IDE|💖|
+|13|weibo.com|l|06m57s|SNS|💚|
+|14|t.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|l|06m26s|Video|💚|
+|15|secure4.store.|l|06m08s|Electronics|💚|
+
 ## yiyangiliu 2021-10-01 Detailed Activities, 
 
 Updated: 20:05

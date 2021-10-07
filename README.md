@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-10-06 Detailed Activities, 
+
+Updated: 01:06
+
+Total logged time: **5h58m** ;         Today's theme is: **Entertainment**  💚 ( **2h21m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllll|02h11m|Video|💚|
+|2|pycharm64|llllllllllll|50m03s|IDE|💖|
+|3|Wechat|lllllll|29m29s|IM|🙂|
+|4|apple.com|llll|16m37s|Tech|🧡|
+|5|Github|lll|15m47s|Dev|💖|
+|6|Gmail|lll|12m47s|Email|🙂|
+|7|Win Explorer|ll|11m30s|Utils|🧡|
+|8|Chrome|l|07m33s|Browsers|🙂|
+|9|[blackboard](https://blackboard.usc.edu).usc|l|06m15s|Reference|💖|
+|10|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m46s|Reference|💖|
+|11|deliver-it.com|l|05m44s|Unknown|🙂|
+|12|youtube.com|l|05m31s|Reference|💚|
+|13|[github](https://github.com/yiyangiliu)desktop|l|05m05s|Dev|🧡|
+|14|leagueoflegend|l|05m01s|Games|💚|
+|15|webstorm64|l|04m55s|IDE|💖|
+
 ## yiyangiliu 2021-10-05 Detailed Activities, 
 
 Updated: 22:06

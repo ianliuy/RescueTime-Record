@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2021-10-21 Detailed Activities, 
+
+Updated: 17:42
+
+Total logged time: **7h** ;         Today's theme is: **Reference**  🧡 ( **3h32m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|youtube.com|lllllllllllllllllllllllllllllllllllllllllllllllll|03h19m|Reference|💖|
+|2|pycharm|lllllllllllll|52m21s|IDE|💖|
+|3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|50m38s|Video|💚|
+|4|electerm|lllllll|30m27s|Unknown|🙂|
+|5|nmate|ll|08m33s|Unknown|🙂|
+|6|Finder|l|06m29s|Utils|🧡|
+|7|Wechat|l|06m27s|IM|🙂|
+|8|aimate|l|06m25s|Unknown|🙂|
+|9|app store|l|05m55s|Shopping|💚|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|05m22s|Pro|🧡|
+|11|Zoom||03m51s|Meetings|🧡|
+|12|google.com||03m42s|Search|🧡|
+|13|minikube.sigs.||03m40s|Unknown|🙂|
+|14|[zhihu](https://zhihu.com).com||03m07s|Reference|🙂|
+|15|Github||02m48s|Dev|💖|
+
 ## yiyangiliu 2021-10-06 Detailed Activities, 
 
 Updated: 13:06

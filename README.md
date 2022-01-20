@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-01-18 Detailed Activities, 
+
+Updated: 22:24
+
+Total logged time: **10h49m** ;         Today's theme is: **Entertainment**  💚 ( **6h42m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h33m|Video|💚|
+|2|league of lege|llllllllllllllllllllllll|01h36m|Games|💚|
+|3|iina|llllllllllllllllllllll|01h28m|Dev|💖|
+|4|youtube.com|lllllllllllll|52m15s|Reference|💖|
+|5|Wechat|lllllllll|36m15s|IM|🙂|
+|6|blog.zhuangty|lll|14m57s|Unknown|🙂|
+|7|space.[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s)|ll|10m28s|Video|💚|
+|8|[zhihu](https://zhihu.com).com|l|07m21s|Reference|🙂|
+|9|Gmail|l|06m23s|Email|🙂|
+|10|zhuanlan.[zhihu](https://zhihu.com)|l|05m20s|Reference|🧡|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|04m49s|Pro|🧡|
+|12|myviterbi.usc.|l|04m32s|Reference|🧡|
+|13|tripalink.appf||03m31s|Insights|💖|
+|14|search.bilibil||03m30s|Video|💚|
+|15|Finder||02m39s|Utils|🧡|
+
 ## yiyangiliu 2021-10-21 Detailed Activities, 
 
 Updated: 17:42

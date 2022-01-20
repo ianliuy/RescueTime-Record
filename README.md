@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-01-19 Detailed Activities, 
+
+Updated: 01:24
+
+Total logged time: **9h7m** ;         Today's theme is: **Communication**  🧡 ( **3h40m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|lllllllllllllllllllllllllllllllllllllllllllllllllll|03h24m|IM|🙂|
+|2|league of lege|lllllllllllllllllllllllllll|01h49m|Games|💚|
+|3|iina|llllllllllllllllll|01h15m|Dev|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllll|24m48s|Pro|🧡|
+|5|Gmail|lll|14m03s|Email|🙂|
+|6|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lll|12m35s|Video|💚|
+|7|youtube.com|lll|12m16s|Reference|💖|
+|8|Finder|ll|11m38s|Utils|🧡|
+|9|ois.usc.edu|ll|09m21s|Reference|🧡|
+|10|lolalytics.com|ll|08m29s|Games|💚|
+|11|aram.academy|l|06m57s|Unknown|🙂|
+|12|google.com|l|04m58s|Search|🧡|
+|13|account.usc.ed||03m30s|Reference|🧡|
+|14|rewind.lol||03m15s|Unknown|🙂|
+|15|blog.zhuangty||03m01s|Unknown|🙂|
+
 ## yiyangiliu 2022-01-18 Detailed Activities, 
 
 Updated: 22:24

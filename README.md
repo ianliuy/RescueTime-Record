@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-01-20 Detailed Activities, 
 
-Updated: 11:15
+Updated: 14:15
 
 Total logged time: **7h54m** ;         Today's theme is: **Entertainment**  💚 ( **2h46m** ) 
 
@@ -24,8 +24,8 @@ Total logged time: **7h54m** ;         Today's theme is: **Entertainment**  💚
 |11|search.bilibil||02m48s|Video|💚|
 |12|my.usc.edu||01m34s|Reference|🧡|
 |13|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m31s|Reference|💖|
-|14|Zoom||01m25s|Meetings|🧡|
-|15|catalogue.usc.||01m25s|Reference|🧡|
+|14|catalogue.usc.||01m25s|Reference|🧡|
+|15|Zoom||01m25s|Meetings|🧡|
 
 ## yiyangiliu 2022-01-19 Detailed Activities, 
 

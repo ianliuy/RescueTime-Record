@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-02-07 Detailed Activities, 
+
+Updated: 18:32
+
+Total logged time: **8h43m** ;         Today's theme is: **Reference**  🧡 ( **2h53m** ) 
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Wechat|llllllllllllllllllllllllllll|01h55m|IM|🙂|
+|2|[zhihu](https://zhihu.com).com|llllllllllll|49m43s|Reference|🙂|
+|3|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllll|36m01s|Video|💚|
+|4|en.wikipedia|lllllll|29m33s|Search|🧡|
+|5|notion.so|lllllll|29m00s|Unknown|🙂|
+|6|en.wikipedia|lllllll|28m50s|Reference|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|llllll|24m52s|Pro|🧡|
+|8|Preview|lllll|21m53s|Reference|🧡|
+|9|Google Present|lllll|21m38s|Pre|💖|
+|10|pycharm|llll|17m58s|IDE|💖|
+|11|Zoom|llll|17m19s|Meetings|🧡|
+|12|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|16m54s|Reference|💖|
+|13|us.louisvuitto|lll|13m02s|Clothes & Pe|💚|
+|14|New York Times|lll|12m51s|General News|💚|
+|15|google.com|ll|08m49s|Search|🧡|
+
 ## yiyangiliu 2022-01-21 Detailed Activities, 
 
 Updated: 16:10

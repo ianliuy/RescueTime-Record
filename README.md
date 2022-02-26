@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-02-25 Detailed Activaties, 
+
+Update at 04:43
+
+Total logged time: 15h3m; Today's theme is: **Reference**🧡 (4h56m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h|Video|💚|
+|2|Wechat|lllllllllllllllllllllllll|01h41m|IM|💛|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllll|01h19m|Reference|💛|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllllll|01h12m|Reference|💖|
+|5|1point3acres|lllllllllllllllll|01h09m|Business & |🧡|
+|6|Gmail|lllllllllllllll|01h01m|Email|💛|
+|7|goland|llllllllllllll|56m25s|IDE|💖|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllll|55m13s|Pro|🧡|
+|9|Github|lllllllll|39m31s|Dev|💖|
+|10|google.com|lllll|22m17s|Search|🧡|
+|11|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llll|18m42s|Games|💚|
+|12|electerm|lll|14m13s|Unknown|💛|
+|13|Finder|lll|12m08s|Utils|🧡|
+|14|amazon.com|lll|12m00s|Shopping|💚|
+|15|Zoom|ll|11m28s|Meetings|🧡|
+
 ## yiyangiliu 2022-02-24 Detailed Activaties, 
 
 Update at 23:11

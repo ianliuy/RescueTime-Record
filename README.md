@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-02-24 Detailed Activaties, 
 
-Update at 22:13
+Update at 22:33
 
 Total logged time: 14h27m; Today's theme is: **Entertainment**💚 (9h6m)
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.youtube.com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h05m|Video|💚|
-|2|league of lege|lllllllllllllllllllllllll|01h43m|Games|💚|
-|3|1point3acres|llllllllll|42m56s|Business & F|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h05m|Video|💚|
+|2|[League](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllllllllllll|01h43m|Games|💚|
+|3|1point3acres|llllllllll|42m56s|Business & |🧡|
 |4|en.wikipedia|lllllll|28m36s|Reference|🧡|
-|5|en.wikipedia|llllll|27m59s|Search|🧡|
-|6|youtube.com|llllll|25m16s|Reference|💖|
+|5|zh.wikipedia|llllll|27m59s|Search|🧡|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|25m16s|Reference|💖|
 |7|Wechat|lllll|23m26s|IM|💛|
 |8|google.com|llll|17m28s|Search|🧡|
-|9|[linkedin.com](https://www.linkedin.com/in/yiyang-liu-aa56b2192/)|lll|14m29s|Pro|🧡|
-|10|en.wikipedia|ll|11m04s|Reference|💛|
+|9|[linkedin.com](https://www.linkedin.com/in/yiyangiliu/)|lll|14m29s|Pro|🧡|
+|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|11m04s|Reference|💛|
 |11|amazon.com|ll|09m07s|Shopping|💚|
 |12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m01s|Reference|💖|
-|13|Notion|ll|09m00s|Composing|💖|
+|13|[Notion](https://grave-menu-d89.[notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c).site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|09m00s|Composing|💖|
 |14|Gmail|l|07m58s|Email|💛|
 |15|1o24bbs.com|l|07m50s|Unknown|💛|
 

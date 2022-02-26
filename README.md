@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-02-24 Detailed Activaties, 
 
-Update at 22:36
+Update at 22:39
 
 Total logged time: 14h27m; Today's theme is: **Entertainment**💚 (9h6m)
 
@@ -23,7 +23,7 @@ Total logged time: 14h27m; Today's theme is: **Entertainment**💚 (9h6m)
 |10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|11m04s|Reference|💛|
 |11|amazon.com|ll|09m07s|Shopping|💚|
 |12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m01s|Reference|💖|
-|13|[Notion](https://grave-menu-d89.[notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c).site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|09m00s|Composing|💖|
+|13|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|09m00s|Composing|💖|
 |14|Gmail|l|07m58s|Email|💛|
 |15|1o24bbs.com|l|07m50s|Unknown|💛|
 

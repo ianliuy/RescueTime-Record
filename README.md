@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-02-26 Detailed Activaties, 
+
+Update at 02:25
+
+Total logged time: 11h24m; Today's theme is: **Entertainment**💚 (5h39m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h28m|Video|💚|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllllll|01h12m|Reference|💖|
+|3|amazon.com|llllllllllllllll|01h06m|Shopping|💚|
+|4|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllll|51m32s|Games|💚|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m49s|Pro|🧡|
+|6|google.com|lll|14m41s|Search|🧡|
+|7|iina|ll|11m27s|Dev|💖|
+|8|Finder|ll|11m18s|Utils|🧡|
+|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|07m05s|Reference|💛|
+|10|microsoft word|l|06m57s|Composing|💖|
+|11|parallels desk|l|06m46s|Utils|🧡|
+|12|Wechat|l|05m59s|IM|💛|
+|13|aliexpress.com|l|05m32s|Shopping|💚|
+|14|rescuetime.com|l|05m32s|Insights|💖|
+|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|05m25s|Video|💚|
+
 ## yiyangiliu 2022-02-25 Detailed Activaties, 
 
 Update at 20:23

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-02-26 Detailed Activaties, 
 
-Update at 02:25
+Update at 02:36
 
 Total logged time: 11h24m; Today's theme is: **Entertainment**💚 (5h39m)
 
@@ -23,8 +23,8 @@ Total logged time: 11h24m; Today's theme is: **Entertainment**💚 (5h39m)
 |10|microsoft word|l|06m57s|Composing|💖|
 |11|parallels desk|l|06m46s|Utils|🧡|
 |12|Wechat|l|05m59s|IM|💛|
-|13|aliexpress.com|l|05m32s|Shopping|💚|
-|14|rescuetime.com|l|05m32s|Insights|💖|
+|13|rescuetime.com|l|05m32s|Insights|💖|
+|14|aliexpress.com|l|05m32s|Shopping|💚|
 |15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|05m25s|Video|💚|
 
 ## yiyangiliu 2022-02-25 Detailed Activaties, 

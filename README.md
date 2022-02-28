@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-02-27 Detailed Activaties, 
+
+Update at 01:30
+
+Total logged time: 13h32m; Today's theme is: **Reference**🧡 (5h38m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllllllllllllll|02h23m|Reference|💛|
+|2|Wechat|lllllllllllllllll|01h08m|IM|💛|
+|3|instacart.com|llllllllllllllll|01h06m|Shopping|💚|
+|4|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h05m|Games|💚|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllll|57m05s|Reference|💖|
+|6|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllll|55m09s|Video|💚|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|24m03s|Reference|💖|
+|8|google.com|lllll|23m41s|Search|🧡|
+|9|zh.wikipedia|lllll|22m39s|Search|🧡|
+|10|Github|llll|17m34s|Dev|💖|
+|11|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llll|16m20s|Composing|💖|
+|12|1point3acres|lll|15m02s|Business & |🧡|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m22s|Pro|🧡|
+|14|en.wikipedia|lll|14m18s|Reference|🧡|
+|15|Finder|lll|14m04s|Utils|🧡|
+
 ## yiyangiliu 2022-02-26 Detailed Activaties, 
 
 Update at 22:30

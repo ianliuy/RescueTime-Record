@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-01 Detailed Activaties, 
+
+Update at 02:51
+
+Total logged time: 14h24m; Today's theme is: **Entertainment**💚 (6h48m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h31m|Video|💚|
+|2|Wechat|lllllllllllllllllll|01h18m|IM|💛|
+|3|Gmail|llllllllllllll|59m45s|Email|💛|
+|4|Zoom|llllllllll|41m30s|Meetings|🧡|
+|5|voice.google|llll|17m25s|Voice Chat|🧡|
+|6|google.com|llll|17m05s|Search|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|16m27s|Pro|🧡|
+|8|amazon.com|llll|16m26s|Shopping|💚|
+|9|无忧行|lll|15m51s|Unknown|💛|
+|10|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|14m14s|Composing|💖|
+|11|Zoom|lll|12m53s|Meetings|💖|
+|12|1point3acres|ll|11m16s|Business &|🧡|
+|13|Google Present|ll|10m32s|Pre|💖|
+|14|settings|ll|09m18s|Utils|🧡|
+|15|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com|ll|08m42s|SNS|💚|
+
 ## yiyangiliu 2022-02-28 Detailed Activaties, 
 
 Update at 23:51

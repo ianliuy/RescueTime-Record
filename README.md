@@ -3,6 +3,30 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-02-28 Detailed Activaties, 
+
+Update at 21:50
+
+Total logged time: 13h33m; Today's theme is: **Reference**🧡 (4h43m)
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|1point3acres|lllllllllllllllllllllllllllllllll|02h14m|Business &|🧡|
+|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllllllllllllllllll|02h|Games|💚|
+|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|lllllllllllllllllllllll|01h32m|Music|💚|
+|4|Wechat|lllllllllllllllllllll|01h24m|IM|💛|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllll|58m52s|Reference|💖|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|44m30s|Pro|🧡|
+|7|pycharm|llllllll|34m08s|IDE|💖|
+|8|google.com|llllllll|33m36s|Search|🧡|
+|9|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|30m44s|Video|💚|
+|10|posts.careeren|llll|19m43s|Unknown|💛|
+|11|amazon.com|lll|13m32s|Shopping|💚|
+|12|Github|ll|08m43s|Dev|💖|
+|13|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|07m51s|Reference|💛|
+|14|doordash.com|l|07m22s|Food|🧡|
+|15|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m33s|Reference|💖|
+
 ## yiyangiliu 2022-02-27 Detailed Activaties, 
 
 Update at 23:23

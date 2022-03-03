@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-02 Detailed Activaties, 
+
+Update at 20:10
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllllll|01h14m|Games|💚|
+|2|Wechat|lllllllllll|47m46s|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|32m38s|Pro|🧡|
+|4|MS Excel|lllllll|31m15s|Business|💖|
+|5|amazon.com|llll|17m52s|Shopping|💚|
+|6|zh.wikipedia|lll|14m42s|Search|🧡|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|14m31s|Reference|💖|
+|8|Gmail|ll|09m27s|Email|💛|
+|9|iiis.tsinghua.|l|07m50s|Reference|🧡|
+|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|06m27s|Reference|💛|
+|11|Github|l|05m51s|Dev|💖|
+|12|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com|l|04m52s|SNS|💚|
+|13|jianshu.com|l|04m24s|General Ne|💚|
+|14|google.com|l|04m23s|Search|🧡|
+|15|pycharm||03m12s|IDE|💖|
+
 ## yiyangiliu 2022-03-01 Detailed Activaties, 
 
 Update at 19:14

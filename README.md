@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-03 Detailed Activaties, 
 
-Update at 18:26
+Update at 19:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllllllllll|01h32m|Games|💚|
-|2|Wechat|llllllll|32m20s|IM|💛|
-|3|goland|lllll|22m26s|IDE|💖|
-|4|Github|lllll|20m19s|Dev|💖|
-|5|Gmail|llll|16m10s|Email|💛|
-|6|pewresearch|llll|16m02s|General Ne|💚|
-|7|chsi.com.cn|ll|11m44s|Reference|🧡|
-|8|npr.org|ll|09m49s|General Ne|💚|
-|9|amazonuni.qual|ll|08m01s|Utils|🧡|
-|10|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m03s|Video|💚|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m23s|Reference|💖|
-|12|news.mydrivers|l|05m38s|General Ne|💚|
-|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m16s|Pro|🧡|
-|14|settings|l|04m09s|Utils|🧡|
-|15|pycharm|l|04m08s|IDE|💖|
-
+|2|Wechat|llllllllll|41m46s|IM|💛|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m26s|Reference|💛|
+|4|Github|lllllll|28m09s|Dev|💖|
+|5|goland|lllll|23m43s|IDE|💖|
+|6|Gmail|llll|16m55s|Email|💛|
+|7|chsi.com.cn|llll|16m11s|Reference|🧡|
+|8|pewresearch|llll|16m02s|General Ne|💚|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m35s|Pro|🧡|
+|10|npr.org|ll|09m49s|General Ne|💚|
+|11|amazonuni.qual|ll|08m01s|Utils|🧡|
+|12|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m03s|Video|💚|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m50s|Reference|💖|
+|14|settings|l|06m41s|Utils|🧡|
+|15|news.mydrivers|l|05m38s|General Ne|💚|
 ## yiyangiliu 2022-03-02 Detailed Activaties, 
 
 Update at 20:10

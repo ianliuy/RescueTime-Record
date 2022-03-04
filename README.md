@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-04 Detailed Activaties, 
+
+Update at 01:52
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllll|43m10s|Video|💚|
+|2|coze|l|04m44s|Unknown|💛|
+|3|finance.eastmo||02m27s|General Ne|💚|
+|4|Wechat||01m50s|IM|💛|
+|5|drive.google||01m19s|Business|💖|
+|6|Finder||55s|Utils|🧡|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||54s|Reference|💖|
+|8|stock.finance.||38s|General Ne|💚|
+|9|blackboard.usc||37s|Reference|💖|
+|10|chsi.com.cn||30s|Reference|🧡|
+|11|newtab||23s|Browsers|💛|
+|12|Gmail||20s|Email|💛|
+|13|downloads||18s|Utils|🧡|
+|14|google.com||15s|Search|🧡|
+|15|tloxygen.com||12s|Unknown|💛|
+
 ## yiyangiliu 2022-03-03 Detailed Activaties, 
 
 Update at 22:52

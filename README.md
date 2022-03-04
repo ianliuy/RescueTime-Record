@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-03 Detailed Activaties, 
 
-Update at 20:54
+Update at 22:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllllllllll|01h32m|Games|💚|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|51m57s|Reference|💛|
-|3|Wechat|lllllllllll|47m46s|IM|💛|
-|4|Github|lllllll|28m28s|Dev|💖|
-|5|chsi.com.cn|lllll|23m50s|Reference|🧡|
-|6|goland|lllll|23m43s|IDE|💖|
-|7|Gmail|llll|17m42s|Email|💛|
-|8|pewresearch|llll|16m02s|General Ne|💚|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m03s|Pro|🧡|
-|10|npr.org|ll|09m49s|General Ne|💚|
-|11|chinadegrees.c|ll|08m29s|Unknown|💛|
-|12|amazonuni.qual|ll|08m01s|Utils|🧡|
-|13|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m03s|Video|💚|
-|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m50s|Reference|💖|
-|15|settings|l|06m41s|Utils|🧡|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllll|01h|Reference|💛|
+|3|Wechat|lllllllllllll|52m16s|IM|💛|
+|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllll|37m28s|Video|💚|
+|5|Github|lllllll|30m00s|Dev|💖|
+|6|chsi.com.cn|llllll|27m54s|Reference|🧡|
+|7|goland|lllll|23m48s|IDE|💖|
+|8|Gmail|llll|19m38s|Email|💛|
+|9|ask.usc.edu|llll|18m16s|Reference|🧡|
+|10|en.wikipedia|llll|17m17s|Reference|🧡|
+|11|pewresearch|llll|16m02s|General Ne|💚|
+|12|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m52s|Pro|🧡|
+|13|Finder|ll|10m19s|Utils|🧡|
+|14|npr.org|ll|09m49s|General Ne|💚|
+|15|chinadegrees.c|ll|08m31s|Unknown|💛|
 ## yiyangiliu 2022-03-02 Detailed Activaties, 
 
 Update at 20:10
@@ -658,7 +658,7 @@ Total logged time: **6h55m** ;         Today's theme is: **Dev**  💖 ( **5h24m
 |4|[Saladict](https://[github](https://github.com/yiyangiliu).com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllll|20m37s|Reference|💖|
 |5|Wechat|llll|16m03s|IM|🙂|
 |6|[1point3acres](https://www.1point3acres.com/bbs)|lll|14m17s|Business & F|🧡|
-|7|天若ocr文�|l|07m31s|Unknown|🙂|
+|7|天若ocr文�|l|07m31s|Unknown|🙂|
 |8|en.wikipedia|l|05m07s|Reference|🧡|
 |9|[linkedin](https://www.linkedin.com/in/yiyangiliu/).com|l|04m09s|Pro|🧡|
 |10|i.imgur.com|l|04m04s|General Ente|💚|

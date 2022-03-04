@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-03 Detailed Activaties, 
+
+Update at 18:26
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllllllllll|01h32m|Games|💚|
+|2|Wechat|llllllll|32m20s|IM|💛|
+|3|goland|lllll|22m26s|IDE|💖|
+|4|Github|lllll|20m19s|Dev|💖|
+|5|Gmail|llll|16m10s|Email|💛|
+|6|pewresearch|llll|16m02s|General Ne|💚|
+|7|chsi.com.cn|ll|11m44s|Reference|🧡|
+|8|npr.org|ll|09m49s|General Ne|💚|
+|9|amazonuni.qual|ll|08m01s|Utils|🧡|
+|10|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m03s|Video|💚|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m23s|Reference|💖|
+|12|news.mydrivers|l|05m38s|General Ne|💚|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m16s|Pro|🧡|
+|14|settings|l|04m09s|Utils|🧡|
+|15|pycharm|l|04m08s|IDE|💖|
+
 ## yiyangiliu 2022-03-02 Detailed Activaties, 
 
 Update at 20:10

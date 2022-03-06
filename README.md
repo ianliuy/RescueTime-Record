@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
-Update at 19:52
+Update at 22:30
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Video|💚|
-|2|trojanlearn.cs|lllllll|29m24s|Reference|🧡|
-|3|Wechat|llll|18m27s|IM|💛|
-|4|user.qzone.qq|lll|14m43s|Games|💚|
-|5|apply.ierf.org|lll|14m00s|Unknown|💛|
-|6|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m42s|Reference|💖|
-|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m08s|Reference|💖|
-|8|Gmail|l|07m11s|Email|💛|
-|9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|06m56s|Composing|💖|
-|10|mzj.sh.gov.cn|l|05m40s|Unknown|💛|
-|11|google.com|l|05m35s|Search|🧡|
-|12|Finder|l|05m14s|Utils|🧡|
-|13|weibo.com|l|04m43s|SNS|💚|
-|14|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m33s|Pro|🧡|
-|15|ierf.org||03m11s|Unknown|💛|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllll|03h17m|Video|💚|
+|2|Wechat|lllllllllllll|53m07s|IM|💛|
+|3|trojanlearn.cs|llllllllllll|48m00s|Reference|🧡|
+|4|1point3acres|llll|19m02s|Business &|🧡|
+|5|user.qzone.qq|lll|14m43s|Games|💚|
+|6|apply.ierf.org|lll|14m02s|Unknown|💛|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|11m43s|Reference|💖|
+|8|en.wikipedia|ll|11m40s|Reference|🧡|
+|9|douban.com|ll|10m01s|SNS|💚|
+|10|google.com|ll|09m45s|Search|🧡|
+|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|09m17s|Reference|💛|
+|12|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|08m41s|Composing|💖|
+|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m08s|Reference|💖|
+|14|Gmail|l|07m16s|Email|💛|
+|15|instant.1point|l|05m59s|Business &|🧡|
 ## yiyangiliu 2022-03-04 Detailed Activaties, 
 
 Update at 22:52

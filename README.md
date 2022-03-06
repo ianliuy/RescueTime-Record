@@ -5,20 +5,20 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
-Update at 22:30
+Update at 22:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllll|03h17m|Video|💚|
-|2|Wechat|lllllllllllll|53m07s|IM|💛|
-|3|trojanlearn.cs|llllllllllll|48m00s|Reference|🧡|
+|2|Wechat|llllllllllllll|59m57s|IM|💛|
+|3|trojanlearn.cs|llllllllllllll|58m48s|Reference|🧡|
 |4|1point3acres|llll|19m02s|Business &|🧡|
 |5|user.qzone.qq|lll|14m43s|Games|💚|
-|6|apply.ierf.org|lll|14m02s|Unknown|💛|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|11m43s|Reference|💖|
+|6|apply.ierf.org|lll|14m03s|Unknown|💛|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m20s|Reference|💖|
 |8|en.wikipedia|ll|11m40s|Reference|🧡|
-|9|douban.com|ll|10m01s|SNS|💚|
-|10|google.com|ll|09m45s|Search|🧡|
+|9|google.com|ll|10m10s|Search|🧡|
+|10|douban.com|ll|10m01s|SNS|💚|
 |11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|09m17s|Reference|💛|
 |12|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|08m41s|Composing|💖|
 |13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m08s|Reference|💖|

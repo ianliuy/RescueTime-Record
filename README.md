@@ -3,6 +3,26 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-06 Detailed Activaties, 
+
+Update at 04:52
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h43m|Video|💚|
+|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m41s|Reference|💖|
+|3|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m54s|Video|💚|
+|4|quizlet.com|l|04m12s|Reference|🧡|
+|5|Wechat||02m24s|IM|💛|
+|6|news.yiche.com||01m10s|Unknown|💛|
+|7|rescuetime.com||28s|Insights|💖|
+|8|google chrome||25s|Browsers|💛|
+|9|search.bilibil||09s|Video|💚|
+|10|newtab||06s|Browsers|💛|
+|11|google.com||04s|Search|🧡|
+|12|trojanlearn.cs||03s|Reference|🧡|
+|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||01s|Music|💚|
+
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
 Update at 22:52

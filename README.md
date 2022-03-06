@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
-Update at 16:52
+Update at 19:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllll|03h08m|Video|💚|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m08s|Reference|💖|
-|3|Wechat|l|07m46s|IM|💛|
-|4|user.qzone.qq|l|06m59s|Games|💚|
-|5|weibo.com|l|04m43s|SNS|💚|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m17s|Pro|🧡|
-|7|Gmail||02m55s|Email|💛|
-|8|google.com||02m49s|Search|🧡|
-|9|snipaste||59s|Utils|🧡|
-|10|Github||48s|Dev|💖|
-|11|movie.douban||43s|Video|💚|
-|12|newtab||39s|Browsers|💛|
-|13|en.wikipedia||37s|Reference|🧡|
-|14|douban.com||34s|SNS|💚|
-|15|System Prefere||29s|Utils|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Video|💚|
+|2|trojanlearn.cs|lllllll|29m24s|Reference|🧡|
+|3|Wechat|llll|18m27s|IM|💛|
+|4|user.qzone.qq|lll|14m43s|Games|💚|
+|5|apply.ierf.org|lll|14m00s|Unknown|💛|
+|6|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m42s|Reference|💖|
+|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m08s|Reference|💖|
+|8|Gmail|l|07m11s|Email|💛|
+|9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|06m56s|Composing|💖|
+|10|mzj.sh.gov.cn|l|05m40s|Unknown|💛|
+|11|google.com|l|05m35s|Search|🧡|
+|12|Finder|l|05m14s|Utils|🧡|
+|13|weibo.com|l|04m43s|SNS|💚|
+|14|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m33s|Pro|🧡|
+|15|ierf.org||03m11s|Unknown|💛|
 ## yiyangiliu 2022-03-04 Detailed Activaties, 
 
 Update at 22:52

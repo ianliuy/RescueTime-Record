@@ -5,23 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-06 Detailed Activaties, 
 
-Update at 16:53
+Update at 19:53
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h09m|Video|💚|
-|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m51s|Reference|💖|
-|3|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|06m37s|Video|💚|
-|4|quizlet.com|l|04m19s|Reference|🧡|
-|5|Wechat||02m24s|IM|💛|
-|6|news.yiche.com||01m10s|Unknown|💛|
-|7|rescuetime.com||28s|Insights|💖|
-|8|google chrome||25s|Browsers|💛|
-|9|search.bilibil||20s|Video|💚|
-|10|newtab||06s|Browsers|💛|
-|11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||05s|Music|💚|
-|12|google.com||04s|Search|🧡|
-|13|trojanlearn.cs||03s|Reference|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h14m|Video|💚|
+|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m14s|Reference|💖|
+|3|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m03s|Video|💚|
+|4|weibo.com|l|05m50s|SNS|💚|
+|5|quizlet.com|l|04m22s|Reference|🧡|
+|6|Wechat||02m28s|IM|💛|
+|7|google.com||02m26s|Search|🧡|
+|8|search.bilibil||01m38s|Video|💚|
+|9|pcauto.com.cn||01m35s|General Ne|💚|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||01m19s|Reference|💖|
+|11|news.yiche.com||01m10s|Unknown|💛|
+|12|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||59s|Reference|💛|
+|13|amazon.com||56s|Shopping|💚|
+|14|newtab||34s|Browsers|💛|
+|15|en.wikipedia||32s|Reference|🧡|
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
 Update at 22:52

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-06 Detailed Activaties, 
 
-Update at 19:53
+Update at 22:53
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h14m|Video|💚|
-|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m14s|Reference|💖|
-|3|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m03s|Video|💚|
-|4|weibo.com|l|05m50s|SNS|💚|
-|5|quizlet.com|l|04m22s|Reference|🧡|
-|6|Wechat||02m28s|IM|💛|
-|7|google.com||02m26s|Search|🧡|
-|8|search.bilibil||01m38s|Video|💚|
-|9|pcauto.com.cn||01m35s|General Ne|💚|
-|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||01m19s|Reference|💖|
-|11|news.yiche.com||01m10s|Unknown|💛|
-|12|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||59s|Reference|💛|
-|13|amazon.com||56s|Shopping|💚|
-|14|newtab||34s|Browsers|💛|
-|15|en.wikipedia||32s|Reference|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h07m|Video|💚|
+|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lllllll|28m22s|Reference|💖|
+|3|global.finance|llllll|27m26s|General Ne|💚|
+|4|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|11m08s|Video|💚|
+|5|en.wikipedia|l|07m40s|Reference|🧡|
+|6|chsi.com.cn|l|07m05s|Reference|🧡|
+|7|google.com|l|06m51s|Search|🧡|
+|8|weibo.com|l|06m05s|SNS|💚|
+|9|Google Present|l|05m54s|Pre|💖|
+|10|bjut.edu.cn|l|05m46s|Reference|🧡|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m41s|Pro|🧡|
+|12|quizlet.com|l|04m22s|Reference|🧡|
+|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|04m15s|Reference|💖|
+|14|Gmail|l|04m15s|Email|💛|
+|15|bytes.usc.edu|l|04m09s|Reference|🧡|
 ## yiyangiliu 2022-03-05 Detailed Activaties, 
 
 Update at 22:52

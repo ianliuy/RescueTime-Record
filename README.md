@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
-Update at 01:53
+Update at 04:26
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllll|01h01m|Games|💚|
-|2|Github|l|04m08s|Dev|💖|
-|3|Google Present||03m15s|Pre|💖|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m12s|Reference|💖|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m48s|Reference|💖|
-|6|pycharm||01m22s|IDE|💖|
-|7|lolalytics.com||01m18s|Games|💚|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||36s|Pro|🧡|
-|9|Gmail||24s|Email|💛|
-|10|Finder||16s|Utils|🧡|
-|11|newtab||11s|Browsers|💛|
-|12|google chrome||10s|Browsers|💛|
-|13|raw.githubuser||06s|Dev|💖|
-|14|google.com||06s|Search|🧡|
-|15|chsi.com.cn||03s|Reference|🧡|
-
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllll|01h11m|Games|💚|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|23m41s|Reference|💖|
+|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllll|23m02s|Video|💚|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m01s|Pro|🧡|
+|5|Wechat|ll|09m49s|IM|💛|
+|6|Github|ll|08m46s|Dev|💖|
+|7|pycharm|l|06m55s|IDE|💖|
+|8|google.com|l|04m47s|Search|🧡|
+|9|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|04m11s|Reference|🧡|
+|10|Google Present|l|04m07s|Pre|💖|
+|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
+|12|en.wikipedia||03m11s|Reference|🧡|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m35s|Reference|💖|
+|14|[linkedin](https://www.linkedin.com/in/yiyangiliu).cn||02m29s|Unknown|💛|
+|15|books.google||01m42s|Search|💛|
 ## yiyangiliu 2022-03-06 Detailed Activaties, 
 
 Update at 22:53

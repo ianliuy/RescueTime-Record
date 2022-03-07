@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
-Update at 06:56
+Update at 07:56
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllll|01h11m|Games|💚|
-|2|Github|llllll|26m52s|Dev|💖|
+|2|Github|llllll|27m22s|Dev|💖|
 |3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|23m41s|Reference|💖|
 |4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllll|23m02s|Video|💚|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m01s|Pro|🧡|
-|6|Wechat|ll|09m49s|IM|💛|
-|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|08m27s|Reference|💛|
-|8|pycharm|ll|08m21s|IDE|💖|
-|9|google.com|l|04m47s|Search|🧡|
+|5|Wechat|llll|16m51s|IM|💛|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m01s|Pro|🧡|
+|7|pycharm|ll|09m33s|IDE|💖|
+|8|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|08m27s|Reference|💛|
+|9|google.com|l|04m51s|Search|🧡|
 |10|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|04m11s|Reference|🧡|
 |11|Google Present|l|04m07s|Pre|💖|
 |12|en.wikipedia||03m11s|Reference|🧡|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m44s|Reference|💖|
-|14|[linkedin](https://www.linkedin.com/in/yiyangiliu).cn||02m29s|Unknown|💛|
-|15|books.google||01m42s|Search|💛|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m45s|Reference|💖|
+|14|login.usc.edu||02m30s|Reference|🧡|
+|15|[linkedin](https://www.linkedin.com/in/yiyangiliu).cn||02m29s|Unknown|💛|
 ## yiyangiliu 2022-03-06 Detailed Activaties, 
 
 Update at 22:53

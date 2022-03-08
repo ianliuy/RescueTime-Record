@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 05:38
+Update at 06:38
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllll|02h31m|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllll|03h07m|Video|💚|
 |2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
-|3|lolalytics.com|llllllll|32m36s|Games|💚|
+|3|lolalytics.com|llllllllll|41m56s|Games|💚|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
 |5|eet-china.com||01m44s|Unknown|💛|
 |6|google.com||01m37s|Search|🧡|
 |7|tspweb.com||46s|Unknown|💛|
-|8|newtab||22s|Browsers|💛|
-|9|yazhouribao||20s|Unknown|💛|
-|10|Gmail||15s|Email|💛|
-|11|51zlaw.com||10s|Unknown|💛|
-|12|chsi.com.cn||03s|Reference|🧡|
+|8|Wechat||37s|IM|💛|
+|9|newtab||22s|Browsers|💛|
+|10|yazhouribao||20s|Unknown|💛|
+|11|Gmail||15s|Email|💛|
+|12|51zlaw.com||10s|Unknown|💛|
 |13|account.chsi.c||03s|Reference|🧡|
-|14|google chrome||01s|Browsers|💛|
-
+|14|chsi.com.cn||03s|Reference|🧡|
+|15|google chrome||01s|Browsers|💛|
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
 Update at 23:38

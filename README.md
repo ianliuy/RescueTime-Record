@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 06:38
+Update at 07:39
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllll|03h07m|Video|💚|
-|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
-|3|lolalytics.com|llllllllll|41m56s|Games|💚|
-|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
-|5|eet-china.com||01m44s|Unknown|💛|
-|6|google.com||01m37s|Search|🧡|
-|7|tspweb.com||46s|Unknown|💛|
-|8|Wechat||37s|IM|💛|
-|9|newtab||22s|Browsers|💛|
-|10|yazhouribao||20s|Unknown|💛|
-|11|Gmail||15s|Email|💛|
-|12|51zlaw.com||10s|Unknown|💛|
-|13|account.chsi.c||03s|Reference|🧡|
-|14|chsi.com.cn||03s|Reference|🧡|
-|15|google chrome||01s|Browsers|💛|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h08m|Video|💚|
+|2|lolalytics.com|lllllllllll|45m25s|Games|💚|
+|3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
+|4|Wechat|lll|15m59s|IM|💛|
+|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
+|6|google.com||01m45s|Search|🧡|
+|7|eet-china.com||01m44s|Unknown|💛|
+|8|zh.wikipedia||01m25s|Search|🧡|
+|9|tspweb.com||46s|Unknown|💛|
+|10|Gmail||42s|Email|💛|
+|11|newtab||22s|Browsers|💛|
+|12|yazhouribao||20s|Unknown|💛|
+|13|51zlaw.com||10s|Unknown|💛|
+|14|chsi.com.cn||08s|Reference|🧡|
+|15|account.chsi.c||06s|Reference|🧡|
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
 Update at 23:38

@@ -5,15 +5,15 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
-Update at 19:38
+Update at 20:38
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllll|01h11m|Games|💚|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllllll|01h17m|Games|💚|
 |2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|51m26s|Reference|💛|
 |3|1point3acres|llllllll|33m45s|Business &|🧡|
 |4|Github|lllllll|28m00s|Dev|💖|
-|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|26m34s|Reference|💖|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|27m18s|Reference|💖|
 |6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllll|26m21s|Pro|🧡|
 |7|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|24m50s|Video|💚|
 |8|Wechat|lllll|23m59s|IM|💛|

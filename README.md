@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 19:14
+Update at 20:14
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h03m|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h47m|Video|💚|
 |2|lolalytics.com|llllllllllllllll|01h04m|Games|💚|
 |3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
-|4|Gmail|lllllllll|37m15s|Email|💛|
-|5|Wechat|llllllll|33m34s|IM|💛|
+|4|Gmail|lllllllll|37m20s|Email|💛|
+|5|Wechat|llllllll|33m55s|IM|💛|
 |6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lllll|21m05s|Composing|💖|
 |7|Zoom|llll|18m17s|Meetings|💖|
-|8|lockdown brows|lll|12m33s|Reference|🧡|
-|9|Google Present|ll|09m43s|Pre|💖|
-|10|Zoom|ll|08m15s|Meetings|💖|
+|8|Zoom|llll|16m54s|Meetings|💖|
+|9|lockdown brows|lll|14m35s|Reference|🧡|
+|10|Google Present|ll|09m43s|Pre|💖|
 |11|[notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c).so|ll|08m10s|Unknown|💛|
 |12|google.com|l|06m12s|Search|🧡|
-|13|mail.qq.com||03m56s|Email|🧡|
-|14|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
-|15|viterbigrad.us||03m24s|Reference|🧡|
+|13|blackboard.usc|l|04m37s|Reference|💖|
+|14|mail.qq.com||03m56s|Email|🧡|
+|15|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
 Update at 23:38

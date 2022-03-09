@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 13:43
+Update at 16:14
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h40m|Video|💚|
 |2|lolalytics.com|llllllllllllllll|01h04m|Games|💚|
 |3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
-|4|Wechat|lll|15m59s|IM|💛|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
-|6|xiaohongshu||02m38s|Unknown|💛|
-|7|zh.wikipedia||02m36s|Search|🧡|
-|8|google.com||01m50s|Search|🧡|
-|9|ko.wikipedia||01m46s|Search|💛|
-|10|eet-china.com||01m44s|Unknown|💛|
-|11|en.wikipedia||01m35s|Reference|🧡|
-|12|tspweb.com||46s|Unknown|💛|
-|13|Gmail||42s|Email|💛|
-|14|search.bilibil||33s|Video|💚|
-|15|newtab||22s|Browsers|💛|
+|4|Wechat|lllll|22m25s|IM|💛|
+|5|Gmail|ll|08m26s|Email|💛|
+|6|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
+|7|google.com||03m39s|Search|🧡|
+|8|mail.qq.com||03m18s|Email|🧡|
+|9|ierf.org||03m16s|Unknown|💛|
+|10|apply.ierf.org||03m14s|Unknown|💛|
+|11|xiaohongshu||03m09s|Unknown|💛|
+|12|Google Documen||02m59s|Composing|💖|
+|13|viterbigrad.us||02m48s|Reference|🧡|
+|14|zh.wikipedia||02m46s|Search|🧡|
+|15|ko.wikipedia||01m46s|Search|💛|
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
 Update at 23:38

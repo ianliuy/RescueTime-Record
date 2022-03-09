@@ -5,15 +5,15 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 20:14
+Update at 21:14
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h47m|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h17m|Video|💚|
 |2|lolalytics.com|llllllllllllllll|01h04m|Games|💚|
 |3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
 |4|Gmail|lllllllll|37m20s|Email|💛|
-|5|Wechat|llllllll|33m55s|IM|💛|
+|5|Wechat|llllllll|35m26s|IM|💛|
 |6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lllll|21m05s|Composing|💖|
 |7|Zoom|llll|18m17s|Meetings|💖|
 |8|Zoom|llll|16m54s|Meetings|💖|

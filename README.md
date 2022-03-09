@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
-Update at 18:14
+Update at 19:14
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h48m|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h03m|Video|💚|
 |2|lolalytics.com|llllllllllllllll|01h04m|Games|💚|
 |3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m44s|Games|💚|
-|4|Wechat|llllllll|33m22s|IM|💛|
-|5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lllll|21m05s|Composing|💖|
-|6|Gmail|llll|19m49s|Email|💛|
+|4|Gmail|lllllllll|37m15s|Email|💛|
+|5|Wechat|llllllll|33m34s|IM|💛|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lllll|21m05s|Composing|💖|
 |7|Zoom|llll|18m17s|Meetings|💖|
-|8|Google Present|ll|09m43s|Pre|💖|
-|9|google.com|l|06m12s|Search|🧡|
-|10|mail.qq.com||03m54s|Email|🧡|
-|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
-|12|viterbigrad.us||03m24s|Reference|🧡|
-|13|apply.ierf.org||03m18s|Unknown|💛|
-|14|ierf.org||03m16s|Unknown|💛|
-|15|xiaohongshu||03m09s|Unknown|💛|
+|8|lockdown brows|lll|12m33s|Reference|🧡|
+|9|Google Present|ll|09m43s|Pre|💖|
+|10|Zoom|ll|08m15s|Meetings|💖|
+|11|[notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c).so|ll|08m10s|Unknown|💛|
+|12|google.com|l|06m12s|Search|🧡|
+|13|mail.qq.com||03m56s|Email|🧡|
+|14|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m48s|Reference|💛|
+|15|viterbigrad.us||03m24s|Reference|🧡|
 ## yiyangiliu 2022-03-07 Detailed Activaties, 
 
 Update at 23:38

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
-Update at 22:48
+Update at 23:48
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllll|01h18m|Video|💚|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllll|47m32s|Reference|💛|
-|4|google.com|lllllll|30m40s|Search|🧡|
-|5|Wechat|lllllll|28m56s|IM|💛|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllll|01h26m|Video|💚|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllll|01h25m|Reference|💛|
+|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
+|4|google.com|llllllll|33m08s|Search|🧡|
+|5|Wechat|lllllll|29m12s|IM|💛|
 |6|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllll|28m21s|Games|💚|
-|7|pycharm|llll|17m51s|IDE|💖|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|17m21s|Pro|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|22m07s|Pro|🧡|
+|8|pycharm|llll|17m51s|IDE|💖|
 |9|Gmail|lll|14m21s|Email|💛|
 |10|douban.com|ll|11m58s|SNS|💚|
 |11|amazon.com|ll|11m50s|Shopping|💚|
 |12|en.wikipedia|ll|08m55s|Reference|🧡|
 |13|crunchbase.com|l|07m25s|General Co|💛|
 |14|163.com|l|05m31s|General Ne|💚|
-|15|cars.com|l|05m25s|Shopping|💚|
+|15|cars.com|l|05m26s|Shopping|💚|
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
 Update at 23:14

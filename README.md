@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
-Update at 17:04
+Update at 18:04
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllll|28m21s|Games|💚|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m09s|Reference|💛|
-|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllll|22m00s|Video|💚|
-|4|google.com|ll|10m57s|Search|🧡|
-|5|Wechat|ll|08m03s|IM|💛|
-|6|crunchbase.com|l|07m25s|General Co|💛|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m19s|Pro|🧡|
-|8|amazon.com|l|06m00s|Shopping|💚|
-|9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|04m59s|Reference|💖|
-|10|zh.wikipedia||03m39s|Search|🧡|
-|11|fashion.sina.c||01m59s|General Ne|💚|
-|12|Gmail||01m53s|Email|💛|
-|13|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||01m33s|Reference|🧡|
-|14|weibo.com||01m26s|SNS|💚|
-|15|myviterbi.usc.||01m23s|Reference|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllll|42m06s|Video|💚|
+|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllll|28m21s|Games|💚|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m09s|Reference|💛|
+|4|google.com|lll|15m05s|Search|🧡|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lll|12m29s|Reference|💖|
+|6|Wechat|lll|12m16s|IM|💛|
+|7|amazon.com|ll|11m49s|Shopping|💚|
+|8|crunchbase.com|l|07m25s|General Co|💛|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m58s|Pro|🧡|
+|10|en.wikipedia|l|06m30s|Reference|🧡|
+|11|dealmoon.com|l|04m40s|Shopping|💚|
+|12|zh.wikipedia||03m52s|Search|🧡|
+|13|search.bilibil||02m05s|Video|💚|
+|14|fashion.sina.c||01m59s|General Ne|💚|
+|15|Gmail||01m57s|Email|💛|
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
 Update at 23:14

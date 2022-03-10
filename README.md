@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
-Update at 03:22
+Update at 04:22
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -14,16 +14,16 @@ Update at 03:22
 |3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||03m18s|Music|💚|
 |4|Wechat||03m11s|IM|💛|
 |5|pycharm||03m11s|IDE|💖|
-|6|csci571.com||02m11s|Unknown|💛|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m38s|Reference|💖|
-|8|Github||01m23s|Dev|💖|
-|9|bytes.usc.edu||01m00s|Reference|🧡|
-|10|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||30s|Reference|🧡|
-|11|Google Calenda||25s|Calendars|💛|
-|12|*.github.io||23s|Dev|💖|
-|13|newtab||20s|Browsers|💛|
-|14|google.com||14s|Search|🧡|
-|15|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||13s|Pro|🧡|
+|6|csci571.com||02m51s|Unknown|💛|
+|7|Gmail||02m23s|Email|💛|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m42s|Reference|💖|
+|9|Github||01m23s|Dev|💖|
+|10|bytes.usc.edu||01m09s|Reference|🧡|
+|11|google.com||01m01s|Search|🧡|
+|12|newtab||35s|Browsers|💛|
+|13|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||30s|Reference|🧡|
+|14|Google Calenda||25s|Calendars|💛|
+|15|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||23s|Video|💚|
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
 Update at 23:48

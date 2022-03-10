@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
-Update at 19:48
+Update at 20:48
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|55m58s|Reference|💖|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
 |2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|48m05s|Video|💚|
 |3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllll|28m21s|Games|💚|
-|4|google.com|lllll|23m19s|Search|🧡|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m09s|Reference|💛|
-|6|Wechat|llll|16m57s|IM|💛|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|12m58s|Pro|🧡|
-|8|amazon.com|ll|11m50s|Shopping|💚|
-|9|en.wikipedia|ll|08m55s|Reference|🧡|
-|10|crunchbase.com|l|07m25s|General Co|💛|
-|11|Gmail|l|07m09s|Email|💛|
-|12|dealmoon.com|l|04m40s|Shopping|💚|
-|13|zh.wikipedia||03m52s|Search|🧡|
-|14|search.bilibil||02m21s|Video|💚|
-|15|fashion.sina.c||01m59s|General Ne|💚|
+|4|Wechat|llllll|27m56s|IM|💛|
+|5|google.com|lllll|23m21s|Search|🧡|
+|6|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m09s|Reference|💛|
+|7|pycharm|llll|17m51s|IDE|💖|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m17s|Pro|🧡|
+|9|amazon.com|ll|11m50s|Shopping|💚|
+|10|en.wikipedia|ll|08m55s|Reference|🧡|
+|11|Gmail|ll|08m06s|Email|💛|
+|12|crunchbase.com|l|07m25s|General Co|💛|
+|13|dealmoon.com|l|04m40s|Shopping|💚|
+|14|zh.wikipedia||03m52s|Search|🧡|
+|15|Github||02m37s|Dev|💖|
 ## yiyangiliu 2022-03-08 Detailed Activaties, 
 
 Update at 23:14

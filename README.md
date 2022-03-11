@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
-Update at 19:22
+Update at 20:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllll|01h14m|Reference|💛|
-|2|Wechat|lllllllllllllll|01h01m|IM|💛|
-|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|45m17s|Video|💚|
-|4|kantie.org|lllllll|31m49s|Unknown|💛|
-|5|1point3acres|llll|16m14s|Business &|🧡|
-|6|google.com|ll|08m30s|Search|🧡|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m46s|Pro|🧡|
-|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m27s|Reference|💖|
-|9|en.wikipedia|l|05m26s|Reference|🧡|
-|10|global.finance|l|04m51s|General Ne|💚|
-|11|Gmail||03m41s|Email|💛|
-|12|app.crowdmark||03m29s|Reference|🧡|
-|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||03m18s|Music|💚|
-|14|pycharm||03m14s|IDE|💖|
-|15|csci571.com||02m51s|Unknown|💛|
+|2|Wechat|lllllllllllllllll|01h11m|IM|💛|
+|3|kantie.org|lllllllllllll|54m15s|Unknown|💛|
+|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|45m17s|Video|💚|
+|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|16m15s|Reference|💖|
+|6|1point3acres|llll|16m14s|Business &|🧡|
+|7|google.com|ll|10m33s|Search|🧡|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m46s|Pro|🧡|
+|9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m27s|Reference|💖|
+|10|en.wikipedia|l|05m26s|Reference|🧡|
+|11|global.finance|l|04m51s|General Ne|💚|
+|12|Gmail||03m41s|Email|💛|
+|13|app.crowdmark||03m29s|Reference|🧡|
+|14|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||03m18s|Music|💚|
+|15|pycharm||03m14s|IDE|💖|
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
 Update at 23:48

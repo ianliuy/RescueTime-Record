@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
-Update at 21:23
+Update at 22:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllllllllllllll|01h27m|IM|💛|
+|1|Wechat|lllllllllllllllllllllllllll|01h48m|IM|💛|
 |2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllll|01h14m|Reference|💛|
 |3|kantie.org|lllllllllllll|54m15s|Unknown|💛|
 |4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllll|45m17s|Video|💚|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|18m09s|Reference|💖|
-|6|1point3acres|llll|16m14s|Business &|🧡|
-|7|mp.weixin.qq|ll|11m08s|IM|💛|
-|8|google.com|ll|10m42s|Search|🧡|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m55s|Pro|🧡|
+|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|25m43s|Reference|💖|
+|6|mp.weixin.qq|llllll|24m17s|IM|💛|
+|7|1point3acres|llll|16m14s|Business &|🧡|
+|8|google.com|ll|10m57s|Search|🧡|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m25s|Pro|🧡|
 |10|Gmail|l|05m55s|Email|💛|
 |11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m27s|Reference|💖|
 |12|en.wikipedia|l|05m26s|Reference|🧡|
 |13|global.finance|l|04m51s|General Ne|💚|
-|14|app.crowdmark||03m29s|Reference|🧡|
-|15|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||03m18s|Music|💚|
+|14|Google Calenda|l|04m33s|Calendars|💛|
+|15|app.crowdmark||03m29s|Reference|🧡|
 ## yiyangiliu 2022-03-09 Detailed Activaties, 
 
 Update at 23:48

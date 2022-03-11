@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 10:15
+Update at 10:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -24,7 +24,6 @@ Update at 10:15
 |13|douban.com||02m24s|SNS|💚|
 |14|worldtimebuddy||02m23s|Calendars|💛|
 |15|Github||02m19s|Dev|💖|
-
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

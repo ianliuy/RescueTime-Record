@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-11 Detailed Activaties, 
+
+Update at 10:15
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
+|2|Wechat|llllllllllllll|58m32s|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|22m04s|Pro|🧡|
+|4|google.com|lll|13m22s|Search|🧡|
+|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m02s|Reference|💛|
+|6|leetcode-cn|ll|09m25s|Dev|💖|
+|7|weibo.com|ll|08m12s|SNS|💚|
+|8|tencentmeeting|l|05m26s|Unknown|💛|
+|9|teams.live.com||02m45s|Search|💛|
+|10|leetcode.com||02m33s|IDE|💖|
+|11|en.wikipedia||02m31s|Reference|🧡|
+|12|Microsoft Team||02m31s|Communicat|💛|
+|13|douban.com||02m24s|SNS|💚|
+|14|worldtimebuddy||02m23s|Calendars|💛|
+|15|Github||02m19s|Dev|💖|
+
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

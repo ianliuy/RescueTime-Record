@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 11:45
+Update at 13:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
-|2|Wechat|lllllllllllllll|01h|IM|💛|
+|2|Wechat|lllllllllllllll|01h02m|IM|💛|
 |3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|22m08s|Pro|🧡|
-|4|google.com|lll|15m26s|Search|🧡|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m49s|Reference|💛|
-|6|leetcode-cn|ll|09m25s|Dev|💖|
-|7|weibo.com|ll|08m12s|SNS|💚|
-|8|tencentmeeting|l|05m26s|Unknown|💛|
-|9|teams.live.com||02m45s|Search|💛|
-|10|leetcode.com||02m33s|IDE|💖|
-|11|en.wikipedia||02m31s|Reference|🧡|
-|12|Microsoft Team||02m31s|Communicat|💛|
-|13|douban.com||02m24s|SNS|💚|
-|14|worldtimebuddy||02m23s|Calendars|💛|
-|15|Github||02m19s|Dev|💖|
+|4|google.com|llll|16m01s|Search|🧡|
+|5|Zoom|ll|11m55s|Meetings|💖|
+|6|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m49s|Reference|💛|
+|7|leetcode-cn|ll|09m25s|Dev|💖|
+|8|weibo.com|ll|08m12s|SNS|💚|
+|9|tencentmeeting|l|05m26s|Unknown|💛|
+|10|bytes.usc.edu||03m56s|Reference|🧡|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m21s|Reference|💖|
+|12|teams.live.com||02m45s|Search|💛|
+|13|leetcode.com||02m33s|IDE|💖|
+|14|Microsoft Team||02m31s|Communicat|💛|
+|15|en.wikipedia||02m31s|Reference|🧡|
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

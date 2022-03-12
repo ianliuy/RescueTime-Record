@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 17:01
+Update at 18:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
 |2|Wechat|lllllllllllllllllllllll|01h32m|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|56m41s|Pro|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|57m07s|Pro|🧡|
 |4|google.com|llllllll|34m41s|Search|🧡|
 |5|app.crowdmark|llllllll|32m29s|Reference|🧡|
 |6|1point3acres|lllll|20m01s|Business &|🧡|

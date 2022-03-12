@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 19:01
+Update at 20:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
-|2|Wechat|llllllllllllllllllllllll|01h37m|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|59m29s|Pro|🧡|
+|2|Wechat|llllllllllllllllllllllllllllllllll|02h17m|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|59m58s|Pro|🧡|
 |4|google.com|llllllll|34m41s|Search|🧡|
 |5|app.crowdmark|llllllll|32m29s|Reference|🧡|
 |6|1point3acres|lllll|20m01s|Business &|🧡|
@@ -23,7 +23,7 @@ Update at 19:01
 |12|amazonuniversi|ll|09m27s|Unknown|💛|
 |13|leetcode-cn|ll|09m25s|Dev|💖|
 |14|weibo.com|ll|08m12s|SNS|💚|
-|15|tencentmeeting|l|05m31s|Unknown|💛|
+|15|tencentmeeting|l|06m27s|Unknown|💛|
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

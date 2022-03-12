@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 15:01
+Update at 16:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
-|2|Wechat|lllllllllllllllll|01h08m|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|31m42s|Pro|🧡|
-|4|app.crowdmark|lllllll|29m13s|Reference|🧡|
-|5|google.com|llllll|27m44s|Search|🧡|
+|2|Wechat|lllllllllllllllllllll|01h25m|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|36m01s|Pro|🧡|
+|4|google.com|llllllll|33m07s|Search|🧡|
+|5|app.crowdmark|llllllll|32m27s|Reference|🧡|
 |6|bytes.usc.edu|llll|19m25s|Reference|🧡|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|16m25s|Reference|💖|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|16m50s|Reference|💖|
 |8|Zoom|ll|11m55s|Meetings|💖|
 |9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m49s|Reference|💛|
-|10|leetcode-cn|ll|09m25s|Dev|💖|
-|11|weibo.com|ll|08m12s|SNS|💚|
-|12|tencentmeeting|l|05m26s|Unknown|💛|
-|13|amazonuniversi||03m42s|Unknown|💛|
-|14|teams.live.com||02m45s|Search|💛|
-|15|leetcode.com||02m33s|IDE|💖|
+|10|amazonuniversi|ll|09m27s|Unknown|💛|
+|11|leetcode-cn|ll|09m25s|Dev|💖|
+|12|1point3acres|ll|08m52s|Business &|🧡|
+|13|weibo.com|ll|08m12s|SNS|💚|
+|14|microsoft word|l|06m36s|Composing|💖|
+|15|tencentmeeting|l|05m26s|Unknown|💛|
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

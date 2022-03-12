@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
-Update at 20:01
+Update at 21:01
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llllllllllllllllllllllllllllllllllllllllllllllll|03h13m|Composing|💖|
-|2|Wechat|llllllllllllllllllllllllllllllllll|02h17m|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|59m58s|Pro|🧡|
+|2|Wechat|lllllllllllllllllllllllllllllllllll|02h22m|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllllll|01h02m|Pro|🧡|
 |4|google.com|llllllll|34m41s|Search|🧡|
 |5|app.crowdmark|llllllll|32m29s|Reference|🧡|
-|6|1point3acres|lllll|20m01s|Business &|🧡|
-|7|bytes.usc.edu|llll|19m30s|Reference|🧡|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|17m54s|Reference|💖|
-|9|microsoft word|lll|12m10s|Composing|💖|
-|10|Zoom|ll|11m55s|Meetings|💖|
-|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m49s|Reference|💛|
-|12|amazonuniversi|ll|09m27s|Unknown|💛|
-|13|leetcode-cn|ll|09m25s|Dev|💖|
-|14|weibo.com|ll|08m12s|SNS|💚|
-|15|tencentmeeting|l|06m27s|Unknown|💛|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|lllll|22m00s|Music|💚|
+|7|1point3acres|lllll|20m01s|Business &|🧡|
+|8|bytes.usc.edu|llll|19m30s|Reference|🧡|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|17m54s|Reference|💖|
+|10|microsoft word|lll|12m10s|Composing|💖|
+|11|Zoom|ll|11m55s|Meetings|💖|
+|12|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m49s|Reference|💛|
+|13|amazonuniversi|ll|09m27s|Unknown|💛|
+|14|leetcode-cn|ll|09m25s|Dev|💖|
+|15|weibo.com|ll|08m12s|SNS|💚|
 ## yiyangiliu 2022-03-10 Detailed Activaties, 
 
 Update at 22:23

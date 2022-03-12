@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-12 Detailed Activaties, 
 
-Update at 09:02
+Update at 10:02
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllll|40m34s|IM|💛|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|19m01s|Pro|🧡|
-|3|Zoom|ll|10m52s|Meetings|💖|
-|4|Finder||03m10s|Utils|🧡|
-|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m05s|Reference|💖|
-|6|courses.uscden||01m57s|Reference|🧡|
-|7|discord.com||01m20s|Unknown|💛|
-|8|hireitpeople||01m16s|Unknown|💛|
-|9|Github||50s|Dev|💖|
-|10|Gmail||42s|Email|💛|
-|11|amazonuniversi||37s|Unknown|💛|
-|12|amazon.jobs||36s|Employment|💖|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||33s|Reference|💖|
-|14|Google Spreads||30s|Business|💖|
-|15|newtab||22s|Browsers|💛|
+|1|Wechat|llllllllll|41m26s|IM|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|28m58s|Reference|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllll|25m36s|Pro|🧡|
+|4|Zoom|llllll|24m15s|Meetings|💖|
+|5|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|l|07m23s|Video|💚|
+|6|sohu.com|l|05m04s|General Ne|💚|
+|7|Finder||03m10s|Utils|🧡|
+|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m05s|Reference|💖|
+|9|courses.uscden||01m57s|Reference|🧡|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||01m42s|Music|💚|
+|11|google.com||01m22s|Search|🧡|
+|12|discord.com||01m20s|Unknown|💛|
+|13|hireitpeople||01m17s|Unknown|💛|
+|14|Gmail||01m16s|Email|💛|
+|15|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m05s|Composing|💖|
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
 Update at 23:01

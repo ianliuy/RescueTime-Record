@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-12 Detailed Activaties, 
 
-Update at 22:11
+Update at 23:11
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h47m|Reference|💛|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h07m|Reference|💛|
 |2|Wechat|llllllllllllllllll|01h14m|IM|💛|
 |3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllllll|01h06m|Pro|🧡|
-|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|25m23s|Video|💚|
+|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|25m24s|Video|💚|
 |5|Zoom|llllll|24m15s|Meetings|💖|
 |6|zh.wikipedia|lllll|22m53s|Search|🧡|
-|7|google.com|lll|14m55s|Search|🧡|
+|7|google.com|llll|18m57s|Search|🧡|
 |8|tencentmeeting|ll|09m07s|Unknown|💛|
 |9|en.wikipedia|ll|09m00s|Reference|🧡|
-|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|06m33s|Reference|💖|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|06m36s|Reference|💖|
 |11|sohu.com|l|05m43s|General Ne|💚|
-|12|Finder||03m10s|Utils|🧡|
-|13|newtab||02m22s|Browsers|💛|
-|14|user.qzone.qq||02m16s|Games|💚|
-|15|m.hupu.com||02m15s|General Ne|💚|
+|12|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||03m38s|Reference|🧡|
+|13|Finder||03m10s|Utils|🧡|
+|14|wanglawoffice||02m45s|Unknown|💛|
+|15|newtab||02m41s|Browsers|💛|
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 
 Update at 23:01

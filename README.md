@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-13 Detailed Activaties, 
+
+Update at 01:11
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llll|18m44s|Reference|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lll|13m24s|Reference|💖|
+|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lll|13m13s|Video|💚|
+|4|google.com||02m41s|Search|🧡|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m05s|Pro|🧡|
+|6|baidu.com||59s|Search|💛|
+|7|v2ex.com||42s|General Ne|💚|
+|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||38s|Video|💚|
+|9|newtab||36s|Browsers|💛|
+|10|history||23s|Browsers|💛|
+|11|news.creaders||20s|General Ne|💚|
+|12|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||14s|Reference|🧡|
+|13|Wechat||12s|IM|💛|
+|14|tieba.baidu||11s|Games|💚|
+|15|settings||06s|Utils|🧡|
+
 ## yiyangiliu 2022-03-12 Detailed Activaties, 
 
 Update at 23:11

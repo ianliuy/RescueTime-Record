@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-12 Detailed Activaties, 
 
-Update at 15:01
+Update at 16:17
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllllllllllll|02h42m|Reference|💛|
-|2|Wechat|llllllllllll|48m44s|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllll|41m00s|Pro|🧡|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllllllllllllllll|02h56m|Reference|💛|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllll|55m47s|Pro|🧡|
+|3|Wechat|llllllllllll|50m58s|IM|💛|
 |4|Zoom|llllll|24m15s|Meetings|💖|
-|5|zh.wikipedia|lll|13m32s|Search|🧡|
-|6|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|ll|11m56s|Video|💚|
-|7|google.com|l|05m37s|Search|🧡|
-|8|sohu.com|l|05m13s|General Ne|💚|
-|9|Finder||03m10s|Utils|🧡|
-|10|user.qzone.qq||02m16s|Games|💚|
-|11|m.hupu.com||02m15s|General Ne|💚|
-|12|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m05s|Reference|💖|
-|13|courses.uscden||01m57s|Reference|🧡|
-|14|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||01m42s|Music|💚|
+|5|zh.wikipedia|lllll|22m53s|Search|🧡|
+|6|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|ll|11m58s|Video|💚|
+|7|en.wikipedia|ll|09m00s|Reference|🧡|
+|8|google.com|l|05m58s|Search|🧡|
+|9|sohu.com|l|05m13s|General Ne|💚|
+|10|Finder||03m10s|Utils|🧡|
+|11|user.qzone.qq||02m16s|Games|💚|
+|12|m.hupu.com||02m15s|General Ne|💚|
+|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m05s|Reference|💖|
+|14|courses.uscden||01m57s|Reference|🧡|
 |15|discord.com||01m42s|Unknown|💛|
 ## yiyangiliu 2022-03-11 Detailed Activaties, 
 

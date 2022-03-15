@@ -5,23 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-14 Detailed Activaties, 
 
-Update at 22:34
+Update at 23:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llll|17m39s|Games|💚|
 |2|popdaily.co|lll|12m07s|Unknown|💛|
-|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m02s|Reference|💖|
-|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||02m39s|Reference|💛|
-|5|twitter.com||02m28s|SNS|💚|
-|6|juksy.com||01m34s|General En|💚|
-|7|google.com||58s|Search|🧡|
-|8|lolalytics.com||41s|Games|💚|
-|9|search.yahoo.c||37s|Search|💛|
-|10|Wechat||19s|IM|💛|
-|11|lens.google||17s|Search|💛|
-|12|hatenkoh.com||17s|Unknown|💛|
-|13|9gag.com||05s|Comedy|💚|
+|3|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|05m35s|Composing|💖|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m02s|Reference|💖|
+|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||02m39s|Reference|💛|
+|6|twitter.com||02m28s|SNS|💚|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m48s|Pro|🧡|
+|8|juksy.com||01m34s|General En|💚|
+|9|bytes.usc.edu||01m24s|Reference|🧡|
+|10|google.com||58s|Search|🧡|
+|11|pycharm||41s|IDE|💖|
+|12|lolalytics.com||41s|Games|💚|
+|13|search.yahoo.c||37s|Search|💛|
+|14|Wechat||19s|IM|💛|
+|15|lens.google||17s|Search|💛|
 ## yiyangiliu 2022-03-13 Detailed Activaties, 
 
 Update at 23:02

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-16 Detailed Activaties, 
 
-Update at 01:33
+Update at 02:33
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -19,7 +19,6 @@ Update at 01:33
 |8|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||05s|Games|💚|
 |9|en.wikipedia||04s|Reference|🧡|
 |10|google.com||01s|Search|🧡|
-
 ## yiyangiliu 2022-03-14 Detailed Activaties, 
 
 Update at 23:34

@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-17 Detailed Activaties, 
 
-Update at 00:54
+Update at 01:54
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|1point3acres|ll|10m28s|Business &|🧡|
-|2|Wechat|ll|09m15s|IM|💛|
-|3|google.com|l|06m10s|Search|🧡|
+|1|1point3acres|llllllllll|42m07s|Business &|🧡|
+|2|google.com|lll|12m52s|Search|🧡|
+|3|Wechat|ll|11m24s|IM|💛|
 |4|Gmail|l|05m32s|Email|💛|
-|5|1o24bbs.com||03m12s|Unknown|💛|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m02s|Pro|🧡|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m28s|Pro|🧡|
+|6|1o24bbs.com||03m12s|Unknown|💛|
 |7|en.wikipedia||02m46s|Reference|🧡|
-|8|embark.amazon||02m07s|Shopping|💚|
-|9|edubbs.org||01m55s|Unknown|💛|
-|10|aboutamazon||01m53s|Unknown|💛|
-|11|mjamazon.cn||01m39s|Unknown|💛|
-|12|user.qzone.qq||59s|Games|💚|
-|13|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||50s|Reference|💛|
-|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||14s|Reference|💖|
-|15|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||13s|Reference|🧡|
-
+|8|discord.com||02m18s|Unknown|💛|
+|9|embark.amazon||02m07s|Shopping|💚|
+|10|edubbs.org||01m55s|Unknown|💛|
+|11|aboutamazon||01m53s|Unknown|💛|
+|12|reddit.com||01m49s|Tech|💖|
+|13|mjamazon.cn||01m39s|Unknown|💛|
+|14|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com||01m33s|SNS|💚|
+|15|americancampus||01m31s|Unknown|💛|
 ## yiyangiliu 2022-03-16 Detailed Activaties, 
 
 Update at 23:54

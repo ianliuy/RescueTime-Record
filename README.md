@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-17 Detailed Activaties, 
 
-Update at 01:54
+Update at 02:54
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|1point3acres|llllllllll|42m07s|Business &|🧡|
-|2|google.com|lll|12m52s|Search|🧡|
-|3|Wechat|ll|11m24s|IM|💛|
+|1|1point3acres|llllllllll|42m08s|Business &|🧡|
+|2|google.com|lll|15m42s|Search|🧡|
+|3|Wechat|lll|12m04s|IM|💛|
 |4|Gmail|l|05m32s|Email|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m28s|Pro|🧡|
-|6|1o24bbs.com||03m12s|Unknown|💛|
-|7|en.wikipedia||02m46s|Reference|🧡|
-|8|discord.com||02m18s|Unknown|💛|
-|9|embark.amazon||02m07s|Shopping|💚|
-|10|edubbs.org||01m55s|Unknown|💛|
-|11|aboutamazon||01m53s|Unknown|💛|
-|12|reddit.com||01m49s|Tech|💖|
-|13|mjamazon.cn||01m39s|Unknown|💛|
-|14|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com||01m33s|SNS|💚|
-|15|americancampus||01m31s|Unknown|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m31s|Pro|🧡|
+|6|seattle.craigs||03m19s|Shopping|💚|
+|7|1o24bbs.com||03m12s|Unknown|💛|
+|8|reddit.com||03m00s|Tech|💖|
+|9|en.wikipedia||02m46s|Reference|🧡|
+|10|discord.com||02m20s|Unknown|💛|
+|11|embark.amazon||02m07s|Shopping|💚|
+|12|edubbs.org||01m55s|Unknown|💛|
+|13|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com||01m53s|SNS|💚|
+|14|aboutamazon||01m53s|Unknown|💛|
+|15|americancampus||01m51s|Unknown|💛|
 ## yiyangiliu 2022-03-16 Detailed Activaties, 
 
 Update at 23:54

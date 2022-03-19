@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-19 Detailed Activaties, 
+
+Update at 13:21
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllll|01h19m|Video|💚|
+|2|Wechat|lllll|22m46s|IM|💛|
+|3|1point3acres|l|07m47s|Business &|🧡|
+|4|douyin.com|l|07m24s|Unknown|💛|
+|5|google.com||03m03s|Search|🧡|
+|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m21s|Video|💚|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||44s|Reference|💖|
+|8|qq.ip138.com||33s|Search|💛|
+|9|newtab||21s|Browsers|💛|
+|10|shanghai.eol.c||21s|Utils|🧡|
+|11|Calculator||19s|Utils|🧡|
+|12|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||17s|Pro|🧡|
+|13|fdjpkc.fudan.e||10s|Reference|🧡|
+|14|search.bilibil||09s|Video|💚|
+|15|dffyw.com||06s|Unknown|💛|
+
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
 Update at 23:03

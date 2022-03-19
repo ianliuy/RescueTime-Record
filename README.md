@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-19 Detailed Activaties, 
 
-Update at 14:21
+Update at 15:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllll|01h37m|Video|💚|
-|2|1point3acres|lllllllll|37m57s|Business &|🧡|
-|3|Wechat|lllllll|30m28s|IM|💛|
-|4|douyin.com|l|07m24s|Unknown|💛|
-|5|google.com||03m03s|Search|🧡|
-|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m21s|Video|💚|
-|7|Gmail||56s|Email|💛|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||53s|Reference|💖|
-|9|Google Documen||45s|Composing|💖|
-|10|newtab||36s|Browsers|💛|
-|11|qq.ip138.com||33s|Search|💛|
-|12|news.1point3ac||24s|Business &|🧡|
-|13|shanghai.eol.c||21s|Utils|🧡|
-|14|Calculator||19s|Utils|🧡|
-|15|apartments.com||17s|Home & Gar|💛|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h|Video|💚|
+|2|Wechat|lllllllllll|45m18s|IM|💛|
+|3|1point3acres|lllllllllll|44m52s|Business &|🧡|
+|4|zillow.com|ll|08m28s|Home & Gar|💛|
+|5|douyin.com|l|07m24s|Unknown|💛|
+|6|google.com|l|05m04s|Search|🧡|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
+|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m28s|Video|💚|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m59s|Pro|🧡|
+|10|Gmail||01m14s|Email|💛|
+|11|newtab||01m02s|Browsers|💛|
+|12|System Prefere||49s|Utils|🧡|
+|13|Google Documen||45s|Composing|💖|
+|14|twitter.com||42s|SNS|💚|
+|15|docs.jinkan||35s|Reference|🧡|
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
 Update at 23:03

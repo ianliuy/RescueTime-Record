@@ -5,14 +5,14 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
-Update at 22:03
+Update at 23:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllll|46m21s|Reference|💛|
-|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llll|19m03s|Video|💚|
-|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|18m40s|Reference|💖|
-|4|google.com|lll|14m01s|Search|🧡|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllll|01h45m|Reference|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m15s|Reference|💖|
+|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llll|19m03s|Video|💚|
+|4|google.com|lll|14m16s|Search|🧡|
 |5|pycharm|lll|13m33s|IDE|💖|
 |6|1point3acres|lll|13m24s|Business &|🧡|
 |7|Wechat|ll|11m47s|IM|💛|

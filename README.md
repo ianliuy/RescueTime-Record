@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-19 Detailed Activaties, 
 
-Update at 17:21
+Update at 18:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h|Video|💚|
-|2|zillow.com|lllllllllllll|54m34s|Home & Gar|💛|
-|3|1point3acres|lllllllllllll|52m09s|Business &|🧡|
-|4|Wechat|lllllllllll|47m52s|IM|💛|
-|5|google.com|lll|14m33s|Search|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllll|02h15m|Video|💚|
+|2|1point3acres|llllllllllllll|59m20s|Business &|🧡|
+|3|Wechat|lllllllllllll|55m21s|IM|💛|
+|4|zillow.com|lllllllllllll|54m34s|Home & Gar|💛|
+|5|google.com|lll|15m53s|Search|🧡|
 |6|baike.baidu|ll|08m40s|Search|💛|
-|7|douyin.com|l|07m24s|Unknown|💛|
-|8|news.1point3ac|l|04m43s|Business &|🧡|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
-|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m28s|Video|💚|
-|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m59s|Pro|🧡|
-|12|posts.careeren||01m54s|Unknown|💛|
-|13|newtab||01m27s|Browsers|💛|
-|14|Gmail||01m14s|Email|💛|
-|15|global.finance||01m04s|General Ne|💚|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|08m37s|Reference|💖|
+|8|douyin.com|l|07m24s|Unknown|💛|
+|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|05m48s|Reference|💛|
+|10|news.1point3ac|l|04m43s|Business &|🧡|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m04s|Pro|🧡|
+|12|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m28s|Video|💚|
+|13|posts.careeren||01m54s|Unknown|💛|
+|14|newtab||01m52s|Browsers|💛|
+|15|instant.1point||01m35s|Business &|🧡|
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
 Update at 23:03

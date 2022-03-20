@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-19 Detailed Activaties, 
 
-Update at 16:21
+Update at 17:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h|Video|💚|
 |2|zillow.com|lllllllllllll|54m34s|Home & Gar|💛|
-|3|Wechat|lllllllllll|45m20s|IM|💛|
-|4|1point3acres|lllllllllll|44m52s|Business &|🧡|
-|5|google.com|ll|08m15s|Search|🧡|
-|6|douyin.com|l|07m24s|Unknown|💛|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
-|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m28s|Video|💚|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m59s|Pro|🧡|
-|10|posts.careeren||01m54s|Unknown|💛|
-|11|Gmail||01m14s|Email|💛|
-|12|newtab||01m13s|Browsers|💛|
-|13|global.finance||01m04s|General Ne|💚|
-|14|System Prefere||49s|Utils|🧡|
-|15|Google Documen||45s|Composing|💖|
+|3|1point3acres|lllllllllllll|52m09s|Business &|🧡|
+|4|Wechat|lllllllllll|47m52s|IM|💛|
+|5|google.com|lll|14m33s|Search|🧡|
+|6|baike.baidu|ll|08m40s|Search|💛|
+|7|douyin.com|l|07m24s|Unknown|💛|
+|8|news.1point3ac|l|04m43s|Business &|🧡|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
+|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m28s|Video|💚|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m59s|Pro|🧡|
+|12|posts.careeren||01m54s|Unknown|💛|
+|13|newtab||01m27s|Browsers|💛|
+|14|Gmail||01m14s|Email|💛|
+|15|global.finance||01m04s|General Ne|💚|
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
 Update at 23:03

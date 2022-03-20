@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-19 Detailed Activaties, 
 
-Update at 22:21
+Update at 23:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h46m|Video|💚|
-|2|1point3acres|llllllllllllll|59m20s|Business &|🧡|
-|3|Wechat|lllllllllllll|55m50s|IM|💛|
-|4|zillow.com|lllllllllllll|54m34s|Home & Gar|💛|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m56s|Reference|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllll|01h13m|Reference|💛|
+|3|1point3acres|llllllllllllll|59m20s|Business &|🧡|
+|4|Wechat|llllllllllllll|56m23s|IM|💛|
+|5|zillow.com|lllllllllllll|54m34s|Home & Gar|💛|
 |6|instacart.com|llll|19m42s|Shopping|💚|
-|7|google.com|llll|17m27s|Search|🧡|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|12m58s|Reference|💖|
+|7|google.com|llll|19m28s|Search|🧡|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|13m34s|Reference|💖|
 |9|baike.baidu|ll|08m45s|Search|💛|
-|10|douyin.com|l|07m24s|Unknown|💛|
-|11|search.bilibil|l|05m45s|Video|💚|
-|12|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|05m14s|Video|💚|
-|13|news.1point3ac|l|04m43s|Business &|🧡|
-|14|posts.careeren|l|04m36s|Unknown|💛|
-|15|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m13s|Pro|🧡|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|08m40s|Pro|🧡|
+|11|douyin.com|l|07m24s|Unknown|💛|
+|12|search.bilibil|l|05m45s|Video|💚|
+|13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|05m14s|Video|💚|
+|14|news.1point3ac|l|04m43s|Business &|🧡|
+|15|posts.careeren|l|04m38s|Unknown|💛|
 ## yiyangiliu 2022-03-18 Detailed Activaties, 
 
 Update at 23:03

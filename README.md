@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
-Update at 22:06
+Update at 23:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h40m|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllllllllllllllll|03h46m|Video|💚|
 |2|Finder|llll|19m35s|Utils|🧡|
-|3|hoka.com|ll|09m02s|Unknown|💛|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m43s|Reference|💖|
-|5|amazon.com|l|07m10s|Shopping|💚|
-|6|allbirds.com|l|05m23s|Clothes & |💚|
-|7|google.com|l|05m08s|Search|🧡|
-|8|search.bilibil|l|04m58s|Video|💚|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m18s|Reference|💖|
-|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m56s|Video|💚|
-|11|Wechat||03m51s|IM|💛|
-|12|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m10s|Pro|🧡|
-|13|coursehero.com||01m52s|Search|💛|
-|14|Github||01m36s|Dev|💖|
-|15|System Prefere||01m10s|Utils|🧡|
+|3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llll|19m31s|Games|💚|
+|4|hoka.com|ll|09m02s|Unknown|💛|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m43s|Reference|💖|
+|6|amazon.com|l|07m10s|Shopping|💚|
+|7|allbirds.com|l|05m23s|Clothes & |💚|
+|8|google.com|l|05m16s|Search|🧡|
+|9|search.bilibil|l|05m04s|Video|💚|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m18s|Reference|💖|
+|11|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m03s|Video|💚|
+|12|Wechat||03m51s|IM|💛|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m10s|Pro|🧡|
+|14|coursehero.com||01m52s|Search|💛|
+|15|Github||01m36s|Dev|💖|
 ## yiyangiliu 2022-03-20 Detailed Activaties, 
 
 Update at 23:46

@@ -5,11 +5,11 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
-Update at 14:05
+Update at 15:05
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h|Video|💚|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllll|02h52m|Video|💚|
 |2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|35m34s|Pro|🧡|
 |3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|11m47s|Reference|💖|
 |4|aijishu.com|ll|11m24s|Unknown|💛|
@@ -17,10 +17,10 @@ Update at 14:05
 |6|post.smzdm.com|l|07m22s|Shopping|💚|
 |7|Gmail|l|06m29s|Email|💛|
 |8|runrepeat.com|l|06m10s|Unknown|💛|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m50s|Reference|💖|
-|10|item.jd.com|l|04m24s|Shopping|💚|
-|11|amazon.com|l|04m13s|Shopping|💚|
-|12|search.bilibil||02m49s|Video|💚|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m02s|Reference|💖|
+|10|search.bilibil|l|04m28s|Video|💚|
+|11|item.jd.com|l|04m24s|Shopping|💚|
+|12|amazon.com|l|04m13s|Shopping|💚|
 |13|google.com||01m49s|Search|🧡|
 |14|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||01m45s|Games|💚|
 |15|Finder||01m27s|Utils|🧡|

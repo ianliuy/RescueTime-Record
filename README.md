@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
-Update at 20:06
+Update at 21:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllll|02h14m|Video|💚|
-|2|Finder|llll|18m57s|Utils|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllllllllllllllllll|02h57m|Video|💚|
+|2|Finder|llll|19m35s|Utils|🧡|
 |3|hoka.com|ll|09m02s|Unknown|💛|
-|4|amazon.com|l|07m10s|Shopping|💚|
-|5|allbirds.com|l|05m23s|Clothes & |💚|
-|6|google.com|l|04m47s|Search|🧡|
-|7|Wechat||03m29s|IM|💛|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m00s|Pro|🧡|
-|9|search.bilibil||02m33s|Video|💚|
-|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m00s|Video|💚|
-|11|Github||01m36s|Dev|💖|
-|12|System Prefere||01m04s|Utils|🧡|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||44s|Reference|💖|
-|14|newtab||38s|Browsers|💛|
-|15|Gmail||21s|Email|💛|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m43s|Reference|💖|
+|5|amazon.com|l|07m10s|Shopping|💚|
+|6|allbirds.com|l|05m23s|Clothes & |💚|
+|7|google.com|l|05m08s|Search|🧡|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m09s|Reference|💖|
+|9|search.bilibil||03m56s|Video|💚|
+|10|Wechat||03m51s|IM|💛|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m00s|Pro|🧡|
+|12|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m00s|Video|💚|
+|13|coursehero.com||01m52s|Search|💛|
+|14|Github||01m36s|Dev|💖|
+|15|System Prefere||01m04s|Utils|🧡|
 ## yiyangiliu 2022-03-20 Detailed Activaties, 
 
 Update at 23:46

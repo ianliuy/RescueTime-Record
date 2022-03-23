@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
-Update at 12:05
+Update at 13:05
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllll|01h28m|Video|💚|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|29m30s|Pro|🧡|
-|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m26s|Reference|💖|
-|4|Gmail|l|06m24s|Email|💛|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m31s|Reference|💖|
-|6|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||01m45s|Games|💚|
-|7|lolalytics.com||39s|Games|💚|
-|8|Wechat||36s|IM|💛|
-|9|Finder||23s|Utils|🧡|
-|10|google chrome||22s|Browsers|💛|
-|11|coreautha||16s|Unknown|💛|
-|12|newtab||16s|Browsers|💛|
-|13|hoka.com||16s|Unknown|💛|
-|14|mobalytics des||14s|Games|💚|
-|15|aimate||09s|Unknown|💛|
-
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllll|01h31m|Video|💚|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|34m56s|Pro|🧡|
+|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|11m38s|Reference|💖|
+|4|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|ll|11m00s|Reference|🧡|
+|5|post.smzdm.com|l|07m15s|Shopping|💚|
+|6|Gmail|l|06m27s|Email|💛|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m36s|Reference|💖|
+|8|item.jd.com|l|04m24s|Shopping|💚|
+|9|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||01m45s|Games|💚|
+|10|Finder||01m15s|Utils|🧡|
+|11|runrepeat.com||57s|Unknown|💛|
+|12|lolalytics.com||39s|Games|💚|
+|13|google.com||37s|Search|🧡|
+|14|Wechat||36s|IM|💛|
+|15|newtab||35s|Browsers|💛|
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
 Update at 23:06

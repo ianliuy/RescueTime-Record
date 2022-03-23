@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
-Update at 18:06
+Update at 19:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllll|01h17m|Video|💚|
-|2|amazon.com|l|07m09s|Shopping|💚|
-|3|allbirds.com|l|05m21s|Clothes & |💚|
-|4|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m59s|Video|💚|
-|5|Github||01m36s|Dev|💖|
-|6|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||43s|Reference|💖|
-|7|google.com||23s|Search|🧡|
-|8|Gmail||21s|Email|💛|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||19s|Pro|🧡|
-|10|search.bilibil||15s|Video|💚|
-|11|forklift||11s|Utils|🧡|
-|12|newtab||09s|Browsers|💛|
-|13|snipaste||08s|Utils|🧡|
-|14|aimate||05s|Unknown|💛|
-|15|Finder||04s|Utils|🧡|
+|1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllllllllllllllllllllll|02h03m|Video|💚|
+|2|amazon.com|l|07m10s|Shopping|💚|
+|3|allbirds.com|l|05m23s|Clothes & |💚|
+|4|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m00s|Video|💚|
+|5|search.bilibil||02m00s|Video|💚|
+|6|Github||01m36s|Dev|💖|
+|7|google.com||01m31s|Search|🧡|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||58s|Pro|🧡|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||44s|Reference|💖|
+|10|newtab||25s|Browsers|💛|
+|11|Gmail||21s|Email|💛|
+|12|forklift||11s|Utils|🧡|
+|13|thisshop.com||11s|Unknown|💛|
+|14|snipaste||08s|Utils|🧡|
+|15|hkhggnncdpfibd||06s|Unknown|💛|
 ## yiyangiliu 2022-03-20 Detailed Activaties, 
 
 Update at 23:46

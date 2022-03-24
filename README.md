@@ -5,14 +5,14 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
-Update at 20:06
+Update at 21:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Video|💚|
 |2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllll|51m17s|Pro|🧡|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|40m12s|Reference|💛|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|21m15s|Reference|💖|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllll|47m57s|Reference|💛|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|21m16s|Reference|💖|
 |5|Wechat|lll|15m46s|IM|💛|
 |6|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|ll|11m44s|Reference|🧡|
 |7|aijishu.com|ll|11m24s|Unknown|💛|

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
-Update at 21:06
+Update at 22:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Video|💚|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllll|51m17s|Pro|🧡|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllll|47m57s|Reference|💛|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|21m16s|Reference|💖|
-|5|Wechat|lll|15m46s|IM|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllll|01h08m|Reference|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|56m23s|Pro|🧡|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllll|28m04s|Reference|💖|
+|5|Wechat|llll|19m15s|IM|💛|
 |6|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|ll|11m44s|Reference|🧡|
 |7|aijishu.com|ll|11m24s|Unknown|💛|
-|8|eshc-pncw.usc.|ll|09m25s|Reference|🧡|
-|9|post.smzdm.com|l|07m22s|Shopping|💚|
-|10|Gmail|l|07m20s|Email|💛|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m21s|Reference|💖|
-|12|runrepeat.com|l|06m10s|Unknown|💛|
-|13|search.bilibil|l|04m57s|Video|💚|
-|14|item.jd.com|l|04m24s|Shopping|💚|
-|15|amazon.com|l|04m13s|Shopping|💚|
+|8|google.com|ll|09m52s|Search|🧡|
+|9|eshc-pncw.usc.|ll|09m25s|Reference|🧡|
+|10|post.smzdm.com|l|07m22s|Shopping|💚|
+|11|Gmail|l|07m20s|Email|💛|
+|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m45s|Reference|💖|
+|13|runrepeat.com|l|06m10s|Unknown|💛|
+|14|search.bilibil|l|04m57s|Video|💚|
+|15|item.jd.com|l|04m24s|Shopping|💚|
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
 Update at 23:06

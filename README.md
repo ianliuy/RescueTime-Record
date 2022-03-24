@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
-Update at 16:06
+Update at 17:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllllllllllllllllllllllllllllllllll|03h01m|Video|💚|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllll|40m17s|Pro|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|44m45s|Pro|🧡|
 |3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|11m47s|Reference|💖|
 |4|aijishu.com|ll|11m24s|Unknown|💛|
 |5|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|ll|11m00s|Reference|🧡|
-|6|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|09m30s|Reference|💛|
-|7|post.smzdm.com|l|07m22s|Shopping|💚|
-|8|Gmail|l|06m36s|Email|💛|
-|9|runrepeat.com|l|06m10s|Unknown|💛|
-|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m04s|Reference|💖|
-|11|search.bilibil|l|04m57s|Video|💚|
-|12|item.jd.com|l|04m24s|Shopping|💚|
-|13|amazon.com|l|04m13s|Shopping|💚|
-|14|google.com||01m49s|Search|🧡|
-|15|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||01m45s|Games|💚|
+|6|Wechat|ll|10m31s|IM|💛|
+|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|09m36s|Reference|💛|
+|8|post.smzdm.com|l|07m22s|Shopping|💚|
+|9|Gmail|l|07m10s|Email|💛|
+|10|runrepeat.com|l|06m10s|Unknown|💛|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|06m07s|Reference|💖|
+|12|search.bilibil|l|04m57s|Video|💚|
+|13|item.jd.com|l|04m24s|Shopping|💚|
+|14|amazon.com|l|04m13s|Shopping|💚|
+|15|google.com||02m10s|Search|🧡|
 ## yiyangiliu 2022-03-22 Detailed Activaties, 
 
 Update at 23:06

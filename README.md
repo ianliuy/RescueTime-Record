@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-24 Detailed Activaties, 
+
+Update at 01:06
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllll|54m31s|Reference|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m51s|Reference|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m03s|Pro|🧡|
+|4|google.com||01m53s|Search|🧡|
+|5|Wechat||39s|IM|💛|
+|6|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||36s|Reference|🧡|
+|7|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||33s|Video|💚|
+|8|instagram.com||21s|SNS|💚|
+|9|en.wikipedia||13s|Reference|🧡|
+|10|newtab||11s|Browsers|💛|
+|11|zh.wikipedia||10s|Search|🧡|
+|12|Gmail||07s|Email|💛|
+|13|shanghairankin||06s|Reference|🧡|
+|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||04s|Video|💚|
+|15|usc.edu||04s|Reference|🧡|
+
 ## yiyangiliu 2022-03-23 Detailed Activaties, 
 
 Update at 23:06

@@ -3,6 +3,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-03-29 Detailed Activaties, 
+
+Update at 19:36
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Win Explorer||58s|Utils|🧡|
+|2|systemsettings||44s|Utils|🧡|
+|3|Chrome||30s|Browsers|💛|
+|4|Win Cmd||13s|Utils|💖|
+|5|RescueTime||05s|Insights|💖|
+|6|lark||04s|General Co|💖|
+|7|idman||03s|General En|💚|
+|8|applicationfra||03s|Utils|🧡|
+|9|everything||03s|Utils|🧡|
+|10|systemsettings||02s|Utils|🧡|
+|11|Wechat||02s|IM|💛|
+
 ## yiyangiliu 2022-03-24 Detailed Activaties, 
 
 Update at 23:52

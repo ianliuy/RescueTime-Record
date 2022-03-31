@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-30 Detailed Activaties, 
 
-Update at 19:45
+Update at 20:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllllllll|44m35s|IDE|💖|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|23m58s|Pro|🧡|
-|3|google.com|l|05m49s|Search|🧡|
-|4|Wechat|l|04m28s|IM|💛|
-|5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m41s|Composing|💖|
-|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m39s|Reference|💖|
-|7|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||03m38s|Reference|🧡|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m04s|Reference|💖|
-|9|spark.apache||02m15s|Tech|🧡|
-|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||02m11s|Reference|💛|
-|11|newtab||01m09s|Browsers|💛|
-|12|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)||01m06s|Pro|🧡|
-|13|stackoverflow||01m02s|Dev|💖|
-|14|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||59s|Music|💚|
-|15|Github||58s|Dev|💖|
+|1|pycharm|lllllllllllllll|01h03m|IDE|💖|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|35m03s|Pro|🧡|
+|3|Wechat|lll|13m25s|IM|💛|
+|4|google.com|ll|08m33s|Search|🧡|
+|5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|l|05m11s|Pro|🧡|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m37s|Composing|💖|
+|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m06s|Reference|💛|
+|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m39s|Reference|💖|
+|9|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||03m38s|Reference|🧡|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m04s|Reference|💖|
+|11|Github||02m34s|Dev|💖|
+|12|aws.amazon.com||02m17s|Dev|💖|
+|13|spark.apache||02m15s|Tech|🧡|
+|14|baidu.com||02m12s|Search|💛|
+|15|newtab||01m40s|Browsers|💛|
 ## yiyangiliu 2022-03-29 Detailed Activaties, 
 
 Update at 23:37

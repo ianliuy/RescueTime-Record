@@ -5,16 +5,16 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-30 Detailed Activaties, 
 
-Update at 20:45
+Update at 21:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllllllllllll|01h03m|IDE|💖|
+|1|pycharm|llllllllllllllllllll|01h20m|IDE|💖|
 |2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|35m03s|Pro|🧡|
-|3|Wechat|lll|13m25s|IM|💛|
+|3|Wechat|lll|14m05s|IM|💛|
 |4|google.com|ll|08m33s|Search|🧡|
 |5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|l|05m11s|Pro|🧡|
-|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m37s|Composing|💖|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m40s|Composing|💖|
 |7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m06s|Reference|💛|
 |8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m39s|Reference|💖|
 |9|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||03m38s|Reference|🧡|

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-31 Detailed Activaties, 
 
-Update at 14:20
+Update at 15:20
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llll|17m25s|IM|💛|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|17m10s|Pro|🧡|
-|3|google.com|l|05m38s|Search|🧡|
-|4|fgx-hc.bjut.ed|l|05m02s|Unknown|💛|
+|1|Wechat|llllllll|33m17s|IM|💛|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|23m34s|Pro|🧡|
+|3|fgx-hc.bjut.ed|ll|09m07s|Unknown|💛|
+|4|google.com|l|05m40s|Search|🧡|
 |5|1point3acres|l|04m55s|Business &|🧡|
-|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m24s|Composing|💖|
-|7|baidu.com||02m36s|Search|💛|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m27s|Composing|💖|
+|7|baidu.com||02m38s|Search|💛|
 |8|people.iiis.ts||02m21s|Reference|🧡|
-|9|Gmail||01m40s|Email|💛|
+|9|Gmail||02m07s|Email|💛|
 |10|rfuchina.com||01m04s|Unknown|💛|
 |11|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com||58s|SNS|💚|
 |12|scholar.google||56s|Reference|💖|
 |13|crunchbase.com||43s|General Co|💛|
 |14|wenku.baidu||40s|Reference|🧡|
-|15|newtab||34s|Browsers|💛|
+|15|newtab||37s|Browsers|💛|
 ## yiyangiliu 2022-03-30 Detailed Activaties, 
 
 Update at 21:45

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-01 Detailed Activaties, 
 
-Update at 13:48
+Update at 14:48
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllllll|37m47s|IDE|💖|
-|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|28m34s|Video|💚|
-|3|1point3acres|llll|17m49s|Business &|🧡|
-|4|Wechat|llll|17m12s|IM|💛|
+|1|pycharm|llllllllllll|49m14s|IDE|💖|
+|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|49m04s|Video|💚|
+|3|Wechat|llllll|26m15s|IM|💛|
+|4|1point3acres|llll|17m49s|Business &|🧡|
 |5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|06m50s|Reference|💖|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m40s|Pro|🧡|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m17s|Composing|💖|
-|8|Gmail||03m00s|Email|💛|
-|9|niwus.com||02m51s|Unknown|💛|
-|10|mp.weixin.qq||02m36s|IM|💛|
-|11|lolalytics.com||02m04s|Games|💚|
-|12|newtab||01m51s|Browsers|💛|
-|13|hooyou.com||01m36s|General En|💚|
-|14|en.wikipedia||01m30s|Reference|🧡|
-|15|6z7qw53wb6.com||01m28s|Unknown|💛|
+|6|en.wikipedia|l|05m15s|Reference|🧡|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|05m02s|Composing|💖|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m43s|Pro|🧡|
+|9|google.com|l|04m01s|Search|🧡|
+|10|Gmail||03m00s|Email|💛|
+|11|niwus.com||02m51s|Unknown|💛|
+|12|mp.weixin.qq||02m50s|IM|💛|
+|13|networkx.org||02m35s|Unknown|💛|
+|14|newtab||02m07s|Browsers|💛|
+|15|lolalytics.com||02m04s|Games|💚|
 ## yiyangiliu 2022-03-31 Detailed Activaties, 
 
 Update at 23:47

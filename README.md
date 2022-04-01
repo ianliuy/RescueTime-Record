@@ -5,16 +5,16 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-31 Detailed Activaties, 
 
-Update at 19:35
+Update at 20:35
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllllllllllll|01h17m|IM|💛|
-|2|pycharm|lllllllllllll|55m55s|IDE|💖|
+|1|Wechat|lllllllllllllllllllll|01h26m|IM|💛|
+|2|pycharm|lllllllllllllllll|01h11m|IDE|💖|
 |3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|32m46s|Pro|🧡|
 |4|google.com|lll|13m04s|Search|🧡|
 |5|1point3acres|lll|12m09s|Business &|🧡|
-|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|10m39s|Composing|💖|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|10m53s|Composing|💖|
 |7|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|ll|10m00s|Video|💚|
 |8|fgx-hc.bjut.ed|ll|09m07s|Unknown|💛|
 |9|labs.vocareum|l|05m57s|Reference|🧡|

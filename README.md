@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-03-31 Detailed Activaties, 
 
-Update at 18:35
+Update at 19:35
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllllllllll|01h05m|IM|💛|
-|2|pycharm|lllllllll|36m59s|IDE|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|31m56s|Pro|🧡|
-|4|google.com|lll|12m53s|Search|🧡|
+|1|Wechat|lllllllllllllllllll|01h17m|IM|💛|
+|2|pycharm|lllllllllllll|55m55s|IDE|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|32m46s|Pro|🧡|
+|4|google.com|lll|13m04s|Search|🧡|
 |5|1point3acres|lll|12m09s|Business &|🧡|
-|6|fgx-hc.bjut.ed|ll|09m07s|Unknown|💛|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|07m01s|Composing|💖|
-|8|uscardforum|l|05m30s|Unknown|💛|
-|9|labs.vocareum|l|05m12s|Reference|🧡|
-|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m30s|Reference|💛|
-|11|Gmail||03m12s|Email|💛|
-|12|baidu.com||02m38s|Search|💛|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m22s|Reference|💖|
-|14|people.iiis.ts||02m21s|Reference|🧡|
-|15|uscis.gov||01m20s|General Ne|💚|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|10m39s|Composing|💖|
+|7|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|ll|10m00s|Video|💚|
+|8|fgx-hc.bjut.ed|ll|09m07s|Unknown|💛|
+|9|labs.vocareum|l|05m57s|Reference|🧡|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m52s|Reference|💖|
+|11|uscardforum|l|05m30s|Unknown|💛|
+|12|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m30s|Reference|💛|
+|13|Github|l|04m01s|Dev|💖|
+|14|Gmail||03m51s|Email|💛|
+|15|baidu.com||02m38s|Search|💛|
 ## yiyangiliu 2022-03-30 Detailed Activaties, 
 
 Update at 21:45

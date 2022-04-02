@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
-Update at 06:09
+Update at 14:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|

@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
-Update at 01:09
+Update at 02:09
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -23,7 +23,6 @@ Update at 01:09
 |12|py.cn||01s|Unknown|💛|
 |13|blog.csdn.net||01s|Reference|🧡|
 |14|link.[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||01s|Business|💖|
-
 ## yiyangiliu 2022-04-01 Detailed Activaties, 
 
 Update at 22:48

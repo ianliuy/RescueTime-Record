@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
-Update at 14:07
+Update at 22:26
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -18,11 +18,12 @@ Update at 14:07
 |7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||13s|Reference|💖|
 |8|comparably.com||09s|Unknown|💛|
 |9|newtab||04s|Browsers|💛|
-|10|finance.sina.c||02s|Business|💖|
-|11|vitol.com||01s|Unknown|💛|
-|12|py.cn||01s|Unknown|💛|
-|13|blog.csdn.net||01s|Reference|🧡|
+|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02s|Video|💚|
+|11|finance.sina.c||02s|Business|💖|
+|12|vitol.com||01s|Unknown|💛|
+|13|py.cn||01s|Unknown|💛|
 |14|link.[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||01s|Business|💖|
+|15|blog.csdn.net||01s|Reference|🧡|
 ## yiyangiliu 2022-04-01 Detailed Activaties, 
 
 Update at 22:48

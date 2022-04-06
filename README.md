@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
-Update at 15:34
+Update at 16:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|pycharm|lllllllllllllll|01h02m|IDE|💖|
-|2|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|10m54s|Composing|💖|
-|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m48s|Reference|💖|
-|4|Wechat|l|06m00s|IM|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m00s|Pro|🧡|
-|6|Finder|l|04m33s|Utils|🧡|
-|7|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||01m50s|Video|💚|
-|8|Gmail||01m48s|Email|💛|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m34s|Reference|💖|
-|10|pnas.org||01m23s|Tech|🧡|
-|11|en.wikipedia||01m12s|Reference|🧡|
-|12|user.qzone.qq||52s|Games|💚|
-|13|1point3acres||40s|Business &|🧡|
-|14|google chrome||37s|Browsers|💛|
-|15|google.com||22s|Search|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllll|26m10s|Pro|🧡|
+|3|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m12s|Pro|🧡|
+|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|ll|11m47s|Video|💚|
+|5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|10m54s|Composing|💖|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m50s|Reference|💖|
+|7|Wechat|l|06m18s|IM|💛|
+|8|Finder|l|04m33s|Utils|🧡|
+|9|google.com||03m24s|Search|🧡|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m53s|Reference|💖|
+|11|Gmail||01m48s|Email|💛|
+|12|sohu.com||01m39s|General Ne|💚|
+|13|en.wikipedia||01m25s|Reference|🧡|
+|14|pnas.org||01m23s|Tech|🧡|
+|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m00s|Video|💚|
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
 Update at 23:26

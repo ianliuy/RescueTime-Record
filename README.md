@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
-Update at 19:34
+Update at 20:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|llllllllllllllll|01h07m|IDE|💖|
+|1|pycharm|llllllllllllllllllllllll|01h38m|IDE|💖|
 |2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h02m|Video|💚|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|47m16s|Pro|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllll|50m26s|Pro|🧡|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m59s|Reference|💛|
 |5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m57s|Pro|🧡|
 |6|Wechat|llll|16m46s|IM|💛|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|13m43s|Composing|💖|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|14m26s|Composing|💖|
 |8|google.com|ll|10m48s|Search|🧡|
 |9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m51s|Reference|💖|
 |10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m57s|Video|💚|
 |11|Finder|l|04m33s|Utils|🧡|
 |12|en.wikipedia|l|04m20s|Reference|🧡|
 |13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m28s|Reference|💖|
-|14|Gmail||02m34s|Email|💛|
+|14|Gmail||02m40s|Email|💛|
 |15|twitter.com||02m31s|SNS|💚|
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 

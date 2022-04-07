@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
-Update at 17:34
+Update at 18:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|pycharm|lllllllllllllll|01h02m|IDE|💖|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|30m25s|Pro|🧡|
-|3|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllll|27m22s|Video|💚|
-|4|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m12s|Pro|🧡|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|14m48s|Reference|💛|
-|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|11m16s|Composing|💖|
-|7|Wechat|ll|09m32s|IM|💛|
-|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m51s|Reference|💖|
-|9|google.com|ll|08m12s|Search|🧡|
+|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|49m47s|Video|💚|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m59s|Reference|💛|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|31m05s|Pro|🧡|
+|5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m13s|Pro|🧡|
+|6|Wechat|lll|15m49s|IM|💛|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|11m16s|Composing|💖|
+|8|google.com|ll|09m14s|Search|🧡|
+|9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m51s|Reference|💖|
 |10|Finder|l|04m33s|Utils|🧡|
 |11|en.wikipedia|l|04m20s|Reference|🧡|
-|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m03s|Reference|💖|
+|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m18s|Reference|💖|
 |13|twitter.com||02m31s|SNS|💚|
-|14|Gmail||01m48s|Email|💛|
-|15|Github||01m45s|Dev|💖|
+|14|Gmail||02m19s|Email|💛|
+|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m53s|Video|💚|
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
 Update at 23:26

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-07 Detailed Activaties, 
 
-Update at 13:45
+Update at 14:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllll|28m14s|IDE|💖|
-|2|1point3acres|llll|17m32s|Business &|🧡|
-|3|parallels desk|llll|17m12s|Utils|🧡|
-|4|Wechat|llll|16m42s|IM|💛|
-|5|electerm|l|06m56s|Unknown|💛|
-|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|06m45s|Reference|💖|
-|7|Gmail|l|05m46s|Email|💛|
-|8|Finder||03m41s|Utils|🧡|
-|9|Github||02m32s|Dev|💖|
-|10|VS Code||01m58s|Dev|💖|
-|11|google.com||01m30s|Search|🧡|
-|12|myrelocation.g||01m23s|Unknown|💛|
-|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m02s|Pro|🧡|
-|14|editrocket.com||41s|Unknown|💛|
-|15|blog.sunner.cn||33s|Design & P|💖|
+|1|parallels desk|llllllllll|40m12s|Utils|🧡|
+|2|pycharm|lllllll|28m14s|IDE|💖|
+|3|Wechat|llll|19m04s|IM|💛|
+|4|1point3acres|llll|17m32s|Business &|🧡|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lll|13m00s|Reference|💖|
+|6|dashboard.code|ll|11m41s|Unknown|💛|
+|7|Gmail|ll|11m04s|Email|💛|
+|8|electerm|l|07m15s|Unknown|💛|
+|9|mossapp|l|06m42s|Unknown|💛|
+|10|Finder|l|06m08s|Utils|🧡|
+|11|Github|l|06m03s|Dev|💖|
+|12|Win Explorer||03m41s|Utils|🧡|
+|13|google.com||02m44s|Search|🧡|
+|14|VS Code||02m13s|Dev|💖|
+|15|theory.stanfor||01m26s|Reference|🧡|
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
 Update at 23:34

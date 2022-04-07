@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-07 Detailed Activaties, 
 
-Update at 02:34
+Update at 03:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|llllll|27m50s|IDE|💖|
-|2|1point3acres|llll|17m29s|Business &|🧡|
-|3|google.com||01m12s|Search|🧡|
+|1|pycharm|lllllll|28m05s|IDE|💖|
+|2|1point3acres|llll|17m32s|Business &|🧡|
+|3|google.com||01m20s|Search|🧡|
 |4|microsoft word||33s|Composing|💖|
 |5|blog.sunner.cn||33s|Design & P|💖|
 |6|Github||22s|Dev|💖|
@@ -19,10 +19,11 @@ Update at 02:34
 |8|Wechat||16s|IM|💛|
 |9|newtab||15s|Browsers|💛|
 |10|code.google||06s|Dev|💖|
-|11|instant.1point||04s|Business &|🧡|
-|12|google chrome||02s|Browsers|💛|
-|13|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01s|Composing|💖|
-
+|11|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||06s|Video|💚|
+|12|Gmail||06s|Email|💛|
+|13|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||05s|Pro|🧡|
+|14|instant.1point||04s|Business &|🧡|
+|15|google chrome||02s|Browsers|💛|
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
 Update at 23:34

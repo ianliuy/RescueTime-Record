@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
-Update at 18:34
+Update at 19:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllllllllllll|01h02m|IDE|💖|
-|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllllll|49m47s|Video|💚|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m59s|Reference|💛|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|31m05s|Pro|🧡|
-|5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m13s|Pro|🧡|
-|6|Wechat|lll|15m49s|IM|💛|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|11m16s|Composing|💖|
-|8|google.com|ll|09m14s|Search|🧡|
+|1|pycharm|llllllllllllllll|01h07m|IDE|💖|
+|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h02m|Video|💚|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|47m16s|Pro|🧡|
+|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m59s|Reference|💛|
+|5|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m57s|Pro|🧡|
+|6|Wechat|llll|16m46s|IM|💛|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|13m43s|Composing|💖|
+|8|google.com|ll|10m48s|Search|🧡|
 |9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m51s|Reference|💖|
-|10|Finder|l|04m33s|Utils|🧡|
-|11|en.wikipedia|l|04m20s|Reference|🧡|
-|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m18s|Reference|💖|
-|13|twitter.com||02m31s|SNS|💚|
-|14|Gmail||02m19s|Email|💛|
-|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m53s|Video|💚|
+|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m57s|Video|💚|
+|11|Finder|l|04m33s|Utils|🧡|
+|12|en.wikipedia|l|04m20s|Reference|🧡|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m28s|Reference|💖|
+|14|Gmail||02m34s|Email|💛|
+|15|twitter.com||02m31s|SNS|💚|
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 
 Update at 23:26

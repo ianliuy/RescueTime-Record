@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 
-Update at 22:34
+Update at 23:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|lllllllllllllllllllllllllllllllll|02h12m|IDE|💖|
-|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h02m|Video|💚|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllllll|01h|Pro|🧡|
-|4|Wechat|lllllllllllll|54m41s|IM|💛|
+|1|pycharm|lllllllllllllllllllllllllllllllll|02h15m|IDE|💖|
+|2|Wechat|lllllllllllllllll|01h09m|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllllll|01h04m|Pro|🧡|
+|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllllllllllll|01h02m|Video|💚|
 |5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m59s|Reference|💛|
 |6|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)|lllll|20m57s|Pro|🧡|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|14m34s|Composing|💖|
-|8|google.com|ll|11m19s|Search|🧡|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|15m49s|Composing|💖|
+|8|google.com|ll|11m38s|Search|🧡|
 |9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m51s|Reference|💖|
-|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m57s|Video|💚|
-|11|Finder|l|04m33s|Utils|🧡|
+|10|Finder|l|05m01s|Utils|🧡|
+|11|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m57s|Video|💚|
 |12|en.wikipedia|l|04m20s|Reference|🧡|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m37s|Reference|💖|
-|14|Gmail||03m12s|Email|💛|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m00s|Reference|💖|
+|14|Gmail||03m21s|Email|💛|
 |15|twitter.com||02m31s|SNS|💚|
 ## yiyangiliu 2022-04-02 Detailed Activaties, 
 

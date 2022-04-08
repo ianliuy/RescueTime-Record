@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-07 Detailed Activaties, 
 
-Update at 18:03
+Update at 19:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|pycharm|llllllllllllll|56m00s|IDE|💖|
-|2|parallels desk|llllllllll|40m12s|Utils|🧡|
-|3|Wechat|llllllll|33m39s|IM|💛|
-|4|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|lllllll|29m51s|Video|💚|
-|5|1point3acres|llll|18m14s|Business &|🧡|
-|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lll|13m18s|Reference|💖|
-|7|Gmail|lll|12m00s|Email|💛|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m11s|Pro|🧡|
-|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|07m46s|Reference|💛|
+|1|pycharm|llllllllllllllllll|01h12m|IDE|💖|
+|2|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com|llllllllll|42m22s|Video|💚|
+|3|parallels desk|llllllllll|40m12s|Utils|🧡|
+|4|Wechat|llllllll|34m30s|IM|💛|
+|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|21m59s|Reference|💖|
+|6|1point3acres|lllll|20m03s|Business &|🧡|
+|7|Gmail|lll|14m30s|Email|💛|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|11m46s|Pro|🧡|
+|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|08m54s|Reference|💛|
 |10|electerm|l|07m15s|Unknown|💛|
 |11|mossapp|l|06m42s|Unknown|💛|
 |12|Finder|l|06m15s|Utils|🧡|
 |13|Github|l|06m08s|Dev|💖|
-|14|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m28s|Reference|🧡|
+|14|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m44s|Reference|🧡|
 |15|google.com|l|04m37s|Search|🧡|
 ## yiyangiliu 2022-04-06 Detailed Activaties, 
 

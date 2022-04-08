@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-08 Detailed Activaties, 
 
-Update at 00:41
+Update at 01:41
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m42s|Video|💚|
-|2|Wechat||02m28s|IM|💛|
-|3|support.apple||01m58s|Search|💛|
-|4|music||01m26s|General En|💚|
-|5|v2ex.com||42s|General Ne|💚|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||35s|Pro|🧡|
-|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||33s|Reference|💛|
-|8|Finder||33s|Utils|🧡|
-|9|google.com||26s|Search|🧡|
-|10|installer||16s|Utils|🧡|
-|11|system informa||09s|Utils|🧡|
-|12|Github||09s|Dev|💖|
-|13|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||09s|Video|💚|
-|14|app store||09s|Shopping|💚|
-|15|google chrome||07s|Browsers|💛|
-
+|2|Wechat||02m39s|IM|💛|
+|3|pycharm||02m28s|IDE|💖|
+|4|newtab||02m11s|Browsers|💛|
+|5|support.apple||01m58s|Search|💛|
+|6|music||01m26s|General En|💚|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m17s|Pro|🧡|
+|8|v2ex.com||42s|General Ne|💚|
+|9|Finder||39s|Utils|🧡|
+|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||33s|Reference|💛|
+|11|System Prefere||33s|Utils|🧡|
+|12|google.com||26s|Search|🧡|
+|13|installer||16s|Utils|🧡|
+|14|[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||13s|Video|💚|
+|15|system informa||09s|Utils|🧡|
 ## yiyangiliu 2022-04-07 Detailed Activaties, 
 
 Update at 23:03

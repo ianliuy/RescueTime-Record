@@ -5,17 +5,17 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-08 Detailed Activaties, 
 
-Update at 16:20
+Update at 17:20
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|pycharm|llllllllllllllllll|01h13m|IDE|💖|
 |2|labs.vocareum|l|07m49s|Reference|🧡|
 |3|Wechat|l|07m08s|IM|💛|
-|4|rescuetime.com|l|06m11s|Insights|💖|
+|4|rescuetime.com|l|06m22s|Insights|💖|
 |5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m42s|Video|💚|
 |6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m21s|Pro|🧡|
-|7|newtab||02m59s|Browsers|💛|
+|7|newtab||03m01s|Browsers|💛|
 |8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m48s|Reference|💖|
 |9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m04s|Reference|💖|
 |10|support.apple||01m58s|Search|💛|

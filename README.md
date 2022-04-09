@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-08 Detailed Activaties, 
 
-Update at 20:21
+Update at 21:21
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|pycharm|lllllllllllllllllllll|01h26m|IDE|💖|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllll|01h11m|Reference|💛|
-|3|labs.vocareum|lll|13m36s|Reference|🧡|
-|4|en.wikipedia|lll|12m29s|Reference|🧡|
-|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|09m19s|Reference|💖|
-|6|Wechat|l|07m39s|IM|💛|
-|7|rescuetime.com|l|07m01s|Insights|💖|
-|8|fortune.com|l|06m46s|Business|💜|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m10s|Pro|🧡|
-|10|zh.wikipedia|l|05m24s|Search|🧡|
-|11|k.sina.cn|l|04m32s|General Ne|💚|
-|12|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m17s|Video|💚|
-|13|google.com|l|04m04s|Search|🧡|
-|14|posts.careeren||03m55s|Unknown|💛|
-|15|newtab||03m38s|Browsers|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllll|01h15m|Reference|💛|
+|3|bytes.usc.edu|lllllll|28m30s|Reference|🧡|
+|4|labs.vocareum|lll|13m36s|Reference|🧡|
+|5|en.wikipedia|lll|12m29s|Reference|🧡|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|09m19s|Reference|💖|
+|7|google.com|ll|08m26s|Search|🧡|
+|8|Wechat|l|07m39s|IM|💛|
+|9|rescuetime.com|l|07m01s|Insights|💖|
+|10|fortune.com|l|06m46s|Business|💜|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m10s|Pro|🧡|
+|12|zh.wikipedia|l|05m24s|Search|🧡|
+|13|k.sina.cn|l|04m32s|General Ne|💚|
+|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m17s|Video|💚|
+|15|posts.careeren||03m55s|Unknown|💛|
 ## yiyangiliu 2022-04-07 Detailed Activaties, 
 
 Update at 23:03

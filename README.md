@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-04-11 Detailed Activaties, 
+
+Update at 20:58
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|pycharm|l|05m12s|IDE|💖|
+|2|VS Code||02m48s|Dev|💖|
+|3|bytes.usc.edu||02m25s|Reference|🧡|
+|4|Github||02m02s|Dev|💖|
+|5|Wechat||01m21s|IM|💛|
+|6|*.github.io||01m05s|Dev|💖|
+|7|Finder||54s|Utils|🧡|
+|8|localhost:3000||43s|Dev|💖|
+|9|electerm||29s|Dev|💖|
+|10|google.com||17s|Search|🧡|
+|11|account.jetbra||11s|Dev|💖|
+|12|TextEdit||10s|Composing|💖|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||07s|Reference|💖|
+|14|newtab||05s|Browsers|💛|
+|15|developers.arc||02s|Dev|💖|
+
 ## yiyangiliu 2022-04-08 Detailed Activaties, 
 
 Update at 23:21

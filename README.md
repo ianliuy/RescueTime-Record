@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-12 Detailed Activaties, 
 
-Update at 18:29
+Update at 19:29
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|10m42s|Pro|🧡|
-|2|google.com|l|07m55s|Search|🧡|
-|3|posts.careeren||03m21s|Unknown|💛|
-|4|greencardlegal||03m07s|Unknown|💛|
-|5|Github||03m06s|Dev|💖|
-|6|pycharm||03m03s|IDE|💖|
-|7|cn.nytimes.com||02m41s|General Ne|💚|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m10s|Reference|💖|
-|9|newtab||58s|Browsers|💛|
-|10|blackboard.usc||41s|Reference|💖|
-|11|search.bilibil||27s|Video|💚|
-|12|*.github.io||26s|Dev|💖|
-|13|spacelauncher||22s|Unknown|💛|
-|14|Finder||18s|Utils|🧡|
-|15|baidu.com||18s|Search|💛|
+|1|lockdown brows|lll|15m03s|Reference|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|11m32s|Pro|🧡|
+|3|google.com|ll|08m30s|Search|🧡|
+|4|posts.careeren||03m21s|Unknown|💛|
+|5|hkhggnncdpfibd||03m13s|Unknown|💛|
+|6|greencardlegal||03m07s|Unknown|💛|
+|7|Github||03m06s|Dev|💖|
+|8|pycharm||03m03s|IDE|💖|
+|9|cn.nytimes.com||02m41s|General Ne|💚|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m10s|Reference|💖|
+|11|blackboard.usc||01m31s|Reference|💖|
+|12|datascience.us||01m31s|Reference|🧡|
+|13|newtab||01m09s|Browsers|💛|
+|14|search.bilibil||45s|Video|💚|
+|15|catalogue.usc.||28s|Reference|🧡|
 ## yiyangiliu 2022-04-11 Detailed Activaties, 
 
 Update at 22:58

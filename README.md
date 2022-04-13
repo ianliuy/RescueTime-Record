@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-13 Detailed Activaties, 
 
-Update at 04:30
+Update at 05:30
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|1point3acres|lllllllllllllllllllll|01h25m|Business &|🧡|
-|2|Wechat|lll|14m15s|IM|💛|
-|3|worldtimebuddy|l|07m29s|Calendars|💛|
-|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m59s|Reference|💛|
-|5|en.wikipedia||02m46s|Reference|🧡|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m37s|Pro|🧡|
-|7|newtab||02m26s|Browsers|💛|
-|8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||02m02s|Reference|🧡|
-|9|Google Calenda||01m14s|Calendars|💛|
-|10|zh.wikipedia||51s|Search|🧡|
-|11|Gmail||49s|Email|🧡|
-|12|google.com||47s|Search|🧡|
-|13|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||31s|Games|💚|
-|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||31s|Video|💚|
-|15|lolalytics.com||28s|Games|💚|
+|1|1point3acres|llllllllllllllllllllll|01h29m|Business &|🧡|
+|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|44m47s|Games|💚|
+|3|Wechat|lll|14m50s|IM|💛|
+|4|worldtimebuddy|l|07m29s|Calendars|💛|
+|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m59s|Reference|💛|
+|6|en.wikipedia||02m46s|Reference|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m37s|Pro|🧡|
+|8|newtab||02m28s|Browsers|💛|
+|9|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||02m02s|Reference|🧡|
+|10|lolalytics.com||01m20s|Games|💚|
+|11|Google Calenda||01m14s|Calendars|💛|
+|12|zh.wikipedia||51s|Search|🧡|
+|13|Gmail||50s|Email|🧡|
+|14|google.com||50s|Search|🧡|
+|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||31s|Video|💚|
 ## yiyangiliu 2022-04-12 Detailed Activaties, 
 
 Update at 23:30

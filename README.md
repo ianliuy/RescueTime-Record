@@ -5,12 +5,12 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-13 Detailed Activaties, 
 
-Update at 03:30
+Update at 04:30
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|1point3acres|lllll|23m09s|Business &|🧡|
-|2|Wechat|lll|12m58s|IM|💛|
+|1|1point3acres|lllllllllllllllllllll|01h25m|Business &|🧡|
+|2|Wechat|lll|14m15s|IM|💛|
 |3|worldtimebuddy|l|07m29s|Calendars|💛|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m59s|Reference|💛|
 |5|en.wikipedia||02m46s|Reference|🧡|
@@ -19,11 +19,11 @@ Update at 03:30
 |8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||02m02s|Reference|🧡|
 |9|Google Calenda||01m14s|Calendars|💛|
 |10|zh.wikipedia||51s|Search|🧡|
-|11|Gmail||48s|Email|🧡|
+|11|Gmail||49s|Email|🧡|
 |12|google.com||47s|Search|🧡|
-|13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||31s|Video|💚|
-|14|lolalytics.com||28s|Games|💚|
-|15|Github||24s|Dev|💖|
+|13|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||31s|Games|💚|
+|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||31s|Video|💚|
+|15|lolalytics.com||28s|Games|💚|
 ## yiyangiliu 2022-04-12 Detailed Activaties, 
 
 Update at 23:30

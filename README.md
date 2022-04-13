@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-13 Detailed Activaties, 
 
-Update at 08:30
+Update at 09:30
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|1point3acres|llllllllllllllllllllllll|01h38m|Business &|🧡|
+|1|1point3acres|lllllllllllllllllllllllllll|01h50m|Business &|🧡|
 |2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h05m|Games|💚|
 |3|Wechat|lllll|20m57s|IM|💛|
-|4|worldtimebuddy|l|07m29s|Calendars|💛|
-|5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|06m43s|Reference|💛|
-|6|douban.com|l|06m24s|SNS|💚|
-|7|Github|l|05m33s|Dev|💖|
-|8|Gmail|l|05m27s|Email|🧡|
-|9|en.wikipedia|l|05m01s|Reference|🧡|
-|10|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m34s|Pro|🧡|
-|11|google.com|l|04m21s|Search|🧡|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|17m17s|Pro|🧡|
+|5|google.com|l|07m41s|Search|🧡|
+|6|worldtimebuddy|l|07m29s|Calendars|💛|
+|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|06m43s|Reference|💛|
+|8|douban.com|l|06m24s|SNS|💚|
+|9|Github|l|05m33s|Dev|💖|
+|10|Gmail|l|05m27s|Email|🧡|
+|11|en.wikipedia|l|05m01s|Reference|🧡|
 |12|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||03m46s|Reference|🧡|
 |13|jiandanxinli||02m58s|Unknown|💛|
-|14|thepaper.cn||02m40s|General Ne|💚|
-|15|newtab||02m39s|Browsers|💛|
+|14|newtab||02m55s|Browsers|💛|
+|15|thepaper.cn||02m40s|General Ne|💚|
 ## yiyangiliu 2022-04-12 Detailed Activaties, 
 
 Update at 23:30

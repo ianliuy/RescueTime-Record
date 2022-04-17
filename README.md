@@ -5,22 +5,22 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-17 Detailed Activaties, 
 
-Update at 04:37
+Update at 05:37
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllll|29m38s|IM|💛|
-|2|pycharm|lll|15m31s|IDE|💖|
-|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|11m11s|Reference|💖|
+|1|Wechat|llllllll|33m38s|IM|💛|
+|2|pycharm|llll|16m00s|IDE|💖|
+|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|11m15s|Reference|💖|
 |4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m59s|Pro|🧡|
 |5|google.com|l|06m57s|Search|🧡|
 |6|salesforce.com||03m09s|Dev|💖|
 |7|en.wikipedia||02m20s|Reference|🧡|
 |8|databricks.com||02m19s|Reference|🧡|
 |9|diversity.goog||02m18s|Unknown|💛|
-|10|toggl track||02m13s|Unknown|💛|
+|10|toggl track||02m17s|Unknown|💛|
 |11|diversity.fb||02m13s|SNS|💚|
-|12|Gmail||02m03s|Email|🧡|
+|12|Gmail||02m06s|Email|🧡|
 |13|Github||01m34s|Dev|💖|
 |14|sf-equality-da||01m24s|Unknown|💛|
 |15|track.toggl||01m16s|Insights|💖|

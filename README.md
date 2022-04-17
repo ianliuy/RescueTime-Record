@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-16 Detailed Activaties, 
 
-Update at 19:06
+Update at 20:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllll|36m09s|Reference|💛|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|49m22s|Reference|💛|
 |2|Github|llllll|25m38s|Dev|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|11m40s|Pro|🧡|
-|4|google.com||02m57s|Search|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m36s|Pro|🧡|
+|4|google.com||03m18s|Search|🧡|
 |5|Wechat||02m41s|IM|💛|
 |6|sustech-applic||02m29s|Unknown|💛|
-|7|*.github.io||01m48s|Dev|💖|
-|8|search.bilibil||01m40s|Video|💚|
+|7|search.bilibil||02m18s|Video|💚|
+|8|*.github.io||01m48s|Dev|💖|
 |9|weibo.com||01m23s|SNS|💚|
 |10|techmash.io||01m04s|Unknown|💛|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||43s|Reference|💖|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||46s|Reference|💖|
 |12|gitstar-rankin||36s|Unknown|💛|
-|13|scholar.google||33s|Search|💛|
-|14|finance.eastmo||30s|General Ne|💚|
-|15|yhlu.net||27s|Unknown|💛|
+|13|epochtimes.com||34s|General Ne|💚|
+|14|scholar.google||33s|Search|💛|
+|15|finance.eastmo||30s|General Ne|💚|
 ## yiyangiliu 2022-04-13 Detailed Activaties, 
 
 Update at 23:11

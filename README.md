@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
-Update at 04:32
+Update at 05:32
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllll|47m57s|IM|💛|
+|1|Wechat|llllllllllll|49m40s|IM|💛|
 |2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m27s|Reference|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|30m59s|Pro|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|37m58s|Pro|🧡|
 |4|hahack.com|llll|18m04s|Unknown|💛|
-|5|google.com|ll|08m34s|Search|🧡|
-|6|scholar.google|l|07m06s|Reference|💖|
-|7|Gmail|l|06m35s|Email|🧡|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m34s|Reference|💖|
-|9|toggl track|l|04m00s|Unknown|💛|
-|10|telegram||03m42s|IM|💜|
-|11|Github||02m51s|Dev|💖|
-|12|cs.princeton.e||02m13s|Reference|🧡|
-|13|en.wikipedia||02m10s|Reference|🧡|
-|14|mit.edu||01m55s|Pre|💖|
-|15|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||01m52s|Reference|🧡|
+|5|google.com|ll|11m32s|Search|🧡|
+|6|scholar.google|ll|09m08s|Reference|💖|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m09s|Reference|💖|
+|8|Gmail|l|06m56s|Email|🧡|
+|9|chaoyanghe.com|l|05m12s|Unknown|💛|
+|10|telegram|l|04m08s|IM|💜|
+|11|toggl track|l|04m07s|Unknown|💛|
+|12|egr.msu.edu||03m14s|Reference|🧡|
+|13|Github||03m12s|Dev|💖|
+|14|leetcode.com||02m27s|IDE|💖|
+|15|cs.princeton.e||02m13s|Reference|🧡|
 ## yiyangiliu 2022-04-17 Detailed Activaties, 
 
 Update at 23:31

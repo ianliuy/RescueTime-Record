@@ -5,18 +5,18 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
-Update at 05:32
+Update at 10:25
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllllll|49m40s|IM|💛|
+|1|Wechat|llllllllllll|50m04s|IM|💛|
 |2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllll|42m27s|Reference|💛|
 |3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|37m58s|Pro|🧡|
 |4|hahack.com|llll|18m04s|Unknown|💛|
-|5|google.com|ll|11m32s|Search|🧡|
+|5|google.com|lll|12m00s|Search|🧡|
 |6|scholar.google|ll|09m08s|Reference|💖|
 |7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m09s|Reference|💖|
-|8|Gmail|l|06m56s|Email|🧡|
+|8|Gmail|l|06m59s|Email|🧡|
 |9|chaoyanghe.com|l|05m12s|Unknown|💛|
 |10|telegram|l|04m08s|IM|💜|
 |11|toggl track|l|04m07s|Unknown|💛|

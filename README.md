@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-17 Detailed Activaties, 
 
-Update at 18:31
+Update at 19:31
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllllllll|58m24s|IM|💛|
-|2|pycharm|llllllll|34m13s|IDE|💖|
-|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|24m56s|Reference|💖|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m08s|Pro|🧡|
-|5|Finder|ll|11m27s|Utils|🧡|
-|6|google.com|ll|09m52s|Search|🧡|
+|1|Wechat|llllllllllllll|58m28s|IM|💛|
+|2|pycharm|llllllllllll|48m43s|IDE|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|45m12s|Pro|🧡|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|26m59s|Reference|💖|
+|5|Finder|ll|11m28s|Utils|🧡|
+|6|google.com|ll|11m10s|Search|🧡|
 |7|libraryprint.u|ll|08m08s|Reference|🧡|
-|8|live.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|06m53s|Video|💚|
-|9|Github|l|06m50s|Dev|💖|
-|10|community.phar||03m48s|Unknown|💛|
-|11|Gmail||03m25s|Email|🧡|
-|12|libraries.usc.||03m19s|Reference|🧡|
-|13|salesforce.com||03m09s|Dev|💖|
-|14|toggl track||03m05s|Unknown|💛|
+|8|Github|l|06m57s|Dev|💖|
+|9|live.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|06m53s|Video|💚|
+|10|toggl track|l|04m17s|Unknown|💛|
+|11|Gmail||03m49s|Email|🧡|
+|12|community.phar||03m48s|Unknown|💛|
+|13|libraries.usc.||03m19s|Reference|🧡|
+|14|salesforce.com||03m09s|Dev|💖|
 |15|en.wikipedia||02m42s|Reference|🧡|
 ## yiyangiliu 2022-04-16 Detailed Activaties, 
 

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
-Update at 01:31
+Update at 02:31
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllll|37m01s|IM|💛|
-|2|hahack.com|llll|18m04s|Unknown|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|13m24s|Pro|🧡|
-|4|Gmail|l|06m17s|Email|🧡|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m41s|Reference|💖|
-|6|telegram||03m16s|IM|💜|
-|7|Github||01m56s|Dev|💖|
-|8|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||01m14s|Reference|💛|
-|9|snipaste||53s|Utils|🧡|
-|10|toggl track||44s|Unknown|💛|
-|11|scholar.google||29s|Reference|🧡|
-|12|mp.weixin.qq||22s|IM|💛|
-|13|System Prefere||21s|Utils|🧡|
-|14|google.com||15s|Search|🧡|
-|15|chinadigitalti||12s|General Ne|💚|
+|1|Wechat|lllllllll|38m23s|IM|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|23m59s|Reference|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllll|22m18s|Pro|🧡|
+|4|hahack.com|llll|18m04s|Unknown|💛|
+|5|Gmail|l|06m17s|Email|🧡|
+|6|scholar.google|l|05m27s|Reference|💖|
+|7|google.com|l|04m27s|Search|🧡|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m17s|Reference|💖|
+|9|telegram||03m16s|IM|💜|
+|10|cs.princeton.e||02m11s|Reference|🧡|
+|11|en.wikipedia||02m06s|Reference|🧡|
+|12|Github||01m56s|Dev|💖|
+|13|mit.edu||01m48s|Pre|💖|
+|14|people.csail.m||01m32s|Reference|🧡|
+|15|unsupervised.c||01m22s|Reference|🧡|
 ## yiyangiliu 2022-04-17 Detailed Activaties, 
 
 Update at 23:31

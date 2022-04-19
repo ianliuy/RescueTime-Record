@@ -5,16 +5,16 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
-Update at 07:00
+Update at 14:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|douban.com|lllllllllllllllllllllllllllll|01h58m|SNS|💚|
+|1|douban.com|lllllllllllllllllllllllllllllll|02h04m|SNS|💚|
 |2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
 |3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllll|36m40s|Reference|💛|
-|4|google.com|ll|09m24s|Search|🧡|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|08m47s|Pro|🧡|
-|6|Wechat|l|07m45s|IM|💛|
+|4|Wechat|ll|10m38s|IM|💛|
+|5|google.com|ll|09m47s|Search|🧡|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m27s|Pro|🧡|
 |7|en.wikipedia|l|07m15s|Reference|🧡|
 |8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m09s|Composing|💖|
 |9|posts.careeren||03m00s|Unknown|💛|

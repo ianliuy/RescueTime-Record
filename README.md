@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
-Update at 03:00
+Update at 04:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
-|2|douban.com|llll|19m42s|SNS|💚|
+|1|douban.com|lllllllllllllllll|01h09m|SNS|💚|
+|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
 |3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|15m59s|Reference|💛|
-|4|Wechat|l|05m08s|IM|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m48s|Pro|🧡|
-|6|google.com||02m29s|Search|🧡|
-|7|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m01s|Video|💚|
-|8|lolalytics.com||01m09s|Games|💚|
-|9|k.sina.cn||10s|General Ne|💚|
-|10|i2.hdslb.com||08s|Unknown|💛|
-|11|Finder||07s|Utils|🧡|
-|12|hkhggnncdpfibd||06s|Unknown|💛|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03s|Reference|💖|
-|14|baidu.com||02s|Search|💛|
-|15|sohu.com||01s|General Ne|💚|
+|4|Wechat|l|05m30s|IM|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m36s|Pro|🧡|
+|6|google.com||03m18s|Search|🧡|
+|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m09s|Composing|💖|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m12s|Reference|💖|
+|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m01s|Video|💚|
+|10|lolalytics.com||01m09s|Games|💚|
+|11|m.sohu.com||47s|General Ne|💚|
+|12|en.wikipedia||25s|Reference|🧡|
+|13|k.sina.cn||18s|General Ne|💚|
+|14|sohu.com||13s|General Ne|💚|
+|15|i2.hdslb.com||08s|Unknown|💛|
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
 Update at 23:00

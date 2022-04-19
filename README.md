@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
-Update at 04:00
+Update at 05:00
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|douban.com|lllllllllllllllll|01h09m|SNS|💚|
+|1|douban.com|lllllllllllllllllllllllllll|01h48m|SNS|💚|
 |2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|15m59s|Reference|💛|
-|4|Wechat|l|05m30s|IM|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m36s|Pro|🧡|
-|6|google.com||03m18s|Search|🧡|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m09s|Composing|💖|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m12s|Reference|💖|
-|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m01s|Video|💚|
-|10|lolalytics.com||01m09s|Games|💚|
-|11|m.sohu.com||47s|General Ne|💚|
-|12|en.wikipedia||25s|Reference|🧡|
-|13|k.sina.cn||18s|General Ne|💚|
-|14|sohu.com||13s|General Ne|💚|
-|15|i2.hdslb.com||08s|Unknown|💛|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llll|18m07s|Reference|💛|
+|4|google.com|l|07m55s|Search|🧡|
+|5|en.wikipedia|l|07m15s|Reference|🧡|
+|6|Wechat|l|05m30s|IM|💛|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m05s|Pro|🧡|
+|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m09s|Composing|💖|
+|9|posts.careeren||02m45s|Unknown|💛|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m38s|Reference|💖|
+|11|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m01s|Video|💚|
+|12|shuashuakan||01m41s|Unknown|💛|
+|13|qianlab.caltec||01m17s|Reference|🧡|
+|14|nanmuxuan.com||01m13s|Unknown|💛|
+|15|lolalytics.com||01m09s|Games|💚|
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
 Update at 23:00

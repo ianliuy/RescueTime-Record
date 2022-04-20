@@ -5,24 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-20 Detailed Activaties, 
 
-Update at 01:07
+Update at 02:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lll|13m09s|Games|💚|
-|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m08s|Reference|💖|
-|3|search.bilibil||01m00s|Video|💚|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||38s|Pro|🧡|
-|5|google.com||26s|Search|🧡|
-|6|google chrome||24s|Browsers|💛|
-|7|riot client||19s|Games|💚|
-|8|settings||19s|Utils|🧡|
-|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||14s|Video|💚|
-|10|history||12s|Browsers|💛|
-|11|Finder||02s|Utils|🧡|
-|12|newtab||02s|Browsers|💛|
-|13|lolalytics.com||01s|Games|💚|
-
+|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m24s|Reference|💖|
+|3|search.bilibil||02m36s|Video|💚|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m28s|Reference|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m05s|Pro|🧡|
+|6|google.com||57s|Search|🧡|
+|7|zh.moegirl.or||57s|General En|💚|
+|8|zh.wikipedia||40s|Search|🧡|
+|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||29s|Reference|💛|
+|10|imc.wd5.mywork||26s|Unknown|💛|
+|11|baike.baidu||26s|Search|💛|
+|12|google chrome||24s|Browsers|💛|
+|13|settings||19s|Utils|🧡|
+|14|riot client||19s|Games|💚|
+|15|message.bilibi||16s|Video|💚|
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
 Update at 23:06

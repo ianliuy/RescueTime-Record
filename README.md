@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-20 Detailed Activaties, 
 
-Update at 02:07
+Update at 03:07
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lll|13m09s|Games|💚|
-|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m24s|Reference|💖|
-|3|search.bilibil||02m36s|Video|💚|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m28s|Reference|💖|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m05s|Pro|🧡|
-|6|google.com||57s|Search|🧡|
-|7|zh.moegirl.or||57s|General En|💚|
-|8|zh.wikipedia||40s|Search|🧡|
-|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||29s|Reference|💛|
-|10|imc.wd5.mywork||26s|Unknown|💛|
-|11|baike.baidu||26s|Search|💛|
-|12|google chrome||24s|Browsers|💛|
-|13|settings||19s|Utils|🧡|
-|14|riot client||19s|Games|💚|
-|15|message.bilibi||16s|Video|💚|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllll|50m39s|Games|💚|
+|2|store.steampow|ll|09m41s|Games|💚|
+|3|en.wikipedia|l|04m27s|Reference|🧡|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m24s|Reference|💖|
+|5|search.bilibil||02m55s|Video|💚|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m28s|Reference|💖|
+|7|usgamer.net||02m09s|Games|💚|
+|8|google.com||01m46s|Search|🧡|
+|9|zh.wikipedia||01m35s|Search|🧡|
+|10|lolalytics.com||01m33s|Games|💚|
+|11|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m11s|Pro|🧡|
+|12|zh.moegirl.or||57s|General En|💚|
+|13|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||46s|Reference|💛|
+|14|riot client||43s|Games|💚|
+|15|web.archive||40s|Search|💛|
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
 Update at 23:06

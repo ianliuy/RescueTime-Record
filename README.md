@@ -3,6 +3,26 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-04-20 Detailed Activaties, 
+
+Update at 01:07
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lll|13m09s|Games|💚|
+|2|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m08s|Reference|💖|
+|3|search.bilibil||01m00s|Video|💚|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||38s|Pro|🧡|
+|5|google.com||26s|Search|🧡|
+|6|google chrome||24s|Browsers|💛|
+|7|riot client||19s|Games|💚|
+|8|settings||19s|Utils|🧡|
+|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||14s|Video|💚|
+|10|history||12s|Browsers|💛|
+|11|Finder||02s|Utils|🧡|
+|12|newtab||02s|Browsers|💛|
+|13|lolalytics.com||01s|Games|💚|
+
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
 Update at 23:06

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-20 Detailed Activaties, 
 
-Update at 15:51
+Update at 16:51
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllllllll|01h20m|Games|💚|
-|2|store.steampow|ll|09m41s|Games|💚|
-|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m19s|Reference|💖|
-|4|en.wikipedia|l|04m27s|Reference|🧡|
-|5|lolalytics.com||03m18s|Games|💚|
-|6|search.bilibil||03m16s|Video|💚|
-|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m28s|Reference|💖|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m10s|Pro|🧡|
-|9|usgamer.net||02m09s|Games|💚|
-|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||01m55s|Reference|💛|
-|11|google.com||01m46s|Search|🧡|
-|12|zh.wikipedia||01m35s|Search|🧡|
-|13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m14s|Video|💚|
-|14|Wechat||01m02s|IM|💛|
-|15|zh.moegirl.or||57s|General En|💚|
+|2|pycharm|llllllll|33m46s|IDE|💖|
+|3|store.steampow|ll|09m41s|Games|💚|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|09m26s|Reference|💖|
+|5|google.com|ll|08m14s|Search|🧡|
+|6|toggl track|l|06m24s|Unknown|💛|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m20s|Pro|🧡|
+|8|en.wikipedia|l|05m06s|Reference|🧡|
+|9|Wechat|l|04m21s|IM|💛|
+|10|bloomberg.com||03m52s|Business|💜|
+|11|lolalytics.com||03m18s|Games|💚|
+|12|search.bilibil||03m16s|Video|💚|
+|13|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m28s|Reference|💖|
+|14|usgamer.net||02m09s|Games|💚|
+|15|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||01m55s|Reference|💛|
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
 Update at 23:06

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-19 Detailed Activaties, 
 
-Update at 17:06
+Update at 18:06
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|douban.com|llllllllllllllllllllllllllllllllllllllllllllll|03h06m|SNS|💚|
-|2|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
-|3|Wechat|llllllllllllllll|01h05m|IM|💛|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllll|42m52s|Pro|🧡|
+|1|douban.com|lllllllllllllllllllllllllllllllllllllllllllllllll|03h18m|SNS|💚|
+|2|Wechat|llllllllllllllll|01h07m|IM|💛|
+|3|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllllllllll|01h06m|Games|💚|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllll|44m56s|Pro|🧡|
 |5|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllll|36m40s|Reference|💛|
-|6|google.com|ll|11m10s|Search|🧡|
-|7|en.wikipedia|l|07m28s|Reference|🧡|
-|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m56s|Composing|💖|
-|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m10s|Reference|💖|
-|10|posts.careeren||03m00s|Unknown|💛|
-|11|Google Spreads||02m04s|Business|💖|
-|12|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m01s|Video|💚|
-|13|Gmail||01m45s|Email|🧡|
-|14|shuashuakan||01m41s|Unknown|💛|
-|15|weiming.info||01m32s|Unknown|💛|
+|6|google.com|llll|18m05s|Search|🧡|
+|7|en.wikipedia|l|07m29s|Reference|🧡|
+|8|Gmail|l|04m29s|Email|🧡|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m11s|Reference|💖|
+|10|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m56s|Composing|💖|
+|11|posts.careeren||03m00s|Unknown|💛|
+|12|embark.amazon||02m31s|Shopping|💚|
+|13|1point3acres||02m15s|Business &|🧡|
+|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m10s|Video|💚|
+|15|Google Spreads||02m04s|Business|💖|
 ## yiyangiliu 2022-04-18 Detailed Activaties, 
 
 Update at 23:00

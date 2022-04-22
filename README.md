@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-22 Detailed Activaties, 
 
-Update at 01:44
+Update at 02:44
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lll|14m06s|Games|💚|
+|1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|llllllllll|41m15s|Games|💚|
 |2|rescuetime.com|l|05m57s|Insights|💖|
-|3|x.yupoo.com||02m36s|General Ne|💚|
-|4|Wechat||02m17s|IM|💛|
-|5|google.com||01m36s|Search|🧡|
-|6|lolalytics.com||01m23s|Games|💚|
-|7|bankofchina||50s|Marketing|💖|
-|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||45s|Reference|💖|
+|3|lolalytics.com||03m01s|Games|💚|
+|4|x.yupoo.com||02m36s|General Ne|💚|
+|5|Wechat||02m17s|IM|💛|
+|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m14s|Reference|💖|
+|7|google.com||01m36s|Search|🧡|
+|8|bankofchina||50s|Marketing|💖|
 |9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||43s|Reference|💛|
 |10|twitter.com||38s|SNS|💚|
 |11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||34s|Reference|💖|
 |12|newtab||31s|Browsers|💛|
 |13|lens.google||25s|Search|💛|
-|14|pycharm||22s|IDE|💖|
-|15|eu.louisvuitto||22s|Shopping|💚|
-
+|14|eu.louisvuitto||22s|Shopping|💚|
+|15|pycharm||22s|IDE|💖|
 ## yiyangiliu 2022-04-20 Detailed Activaties, 
 
 Update at 19:51

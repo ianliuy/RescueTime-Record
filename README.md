@@ -5,19 +5,19 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-22 Detailed Activaties, 
 
-Update at 06:44
+Update at 07:44
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllll|45m19s|Games|💚|
-|2|google.com|lll|15m16s|Search|🧡|
+|2|google.com|lll|15m19s|Search|🧡|
 |3|siliconvalleym|ll|10m20s|Unknown|💛|
-|4|Wechat|l|07m35s|IM|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m23s|Pro|🧡|
+|4|Wechat|l|07m47s|IM|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m24s|Pro|🧡|
 |6|rescuetime.com|l|05m57s|Insights|💖|
-|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m25s|Reference|💖|
+|7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|05m39s|Reference|💖|
 |8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m50s|Video|💚|
-|9|lolalytics.com||03m39s|Games|💚|
+|9|lolalytics.com||03m43s|Games|💚|
 |10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m09s|Reference|💖|
 |11|x.yupoo.com||02m36s|General Ne|💚|
 |12|baike.baidu||02m26s|Search|💛|

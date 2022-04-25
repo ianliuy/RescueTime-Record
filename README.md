@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-25 Detailed Activaties, 
 
-Update at 03:39
+Update at 04:11
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)|lllllllllllllllll|01h09m|Games|💚|
-|2|pycharm|lllll|20m20s|IDE|💖|
+|2|pycharm|lllllll|28m03s|IDE|💖|
 |3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|ll|10m56s|Reference|💛|
-|4|toggl track|l|05m40s|Unknown|💛|
-|5|Wechat|l|04m12s|IM|💛|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m10s|Pro|🧡|
-|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m55s|Reference|💖|
-|8|zh.wikipedia||02m40s|Search|🧡|
-|9|lolalytics.com||02m02s|Games|💚|
-|10|Github||01m50s|Dev|💖|
-|11|Gmail||01m38s|Email|🧡|
-|12|rescuetime.com||01m37s|Insights|💖|
-|13|hkhggnncdpfibd||01m34s|Unknown|💛|
-|14|google.com||01m13s|Search|🧡|
-|15|newtab||58s|Browsers|💛|
-
+|4|Wechat|l|07m22s|IM|💛|
+|5|toggl track|l|06m48s|Unknown|💛|
+|6|yt music|l|06m06s|Music|💚|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m40s|Pro|🧡|
+|8|electerm|l|04m08s|Dev|💖|
+|9|Finder||03m26s|Utils|🧡|
+|10|Gmail||03m17s|Email|🧡|
+|11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m58s|Reference|💖|
+|12|zh.wikipedia||02m40s|Search|🧡|
+|13|Github||02m38s|Dev|💖|
+|14|lolalytics.com||02m02s|Games|💚|
+|15|rescuetime.com||01m37s|Insights|💖|
 ## yiyangiliu 2022-04-22 Detailed Activaties, 
 
 Update at 22:13

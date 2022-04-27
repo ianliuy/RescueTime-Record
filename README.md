@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-26 Detailed Activaties, 
 
-Update at 13:56
+Update at 17:40
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllll|01h41m|Reference|💛|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllll|56m47s|Reference|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|33m59s|Pro|🧡|
-|4|telegram|lllllll|30m04s|IM|🧡|
-|5|pycharm|lllll|21m32s|IDE|💖|
-|6|Wechat|llll|18m37s|IM|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|36m04s|Pro|🧡|
+|4|telegram|llllllll|34m02s|IM|🧡|
+|5|Wechat|llllll|24m23s|IM|💛|
+|6|pycharm|lllll|21m32s|IDE|💖|
 |7|1point3acres|llll|17m00s|Business &|🧡|
-|8|google.com|ll|11m47s|Search|🧡|
+|8|google.com|lll|14m01s|Search|🧡|
 |9|cars.com|l|05m32s|Shopping|💚|
-|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m12s|Reference|💖|
-|11|search.bilibil||03m26s|Video|💚|
-|12|howlifeusa.com||02m42s|Unknown|💛|
-|13|federalreserve||02m06s|Search|💛|
-|14|newtab||02m01s|Browsers|💛|
-|15|Github||01m50s|Dev|💖|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m15s|Reference|💖|
+|11|newtab||03m31s|Browsers|💛|
+|12|search.bilibil||03m26s|Video|💚|
+|13|toggl track||03m14s|Unknown|💛|
+|14|discussions.ap||02m51s|Science & |💜|
+|15|howlifeusa.com||02m42s|Unknown|💛|
 ## yiyangiliu 2022-04-25 Detailed Activaties, 
 
 Update at 23:11

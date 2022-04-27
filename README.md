@@ -5,23 +5,23 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-26 Detailed Activaties, 
 
-Update at 17:40
+Update at 18:40
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllll|01h41m|Reference|💛|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|36m04s|Pro|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllllll|01h06m|Pro|🧡|
+|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllll|01h|Reference|💖|
 |4|telegram|llllllll|34m02s|IM|🧡|
-|5|Wechat|llllll|24m23s|IM|💛|
+|5|Wechat|llllll|24m48s|IM|💛|
 |6|pycharm|lllll|21m32s|IDE|💖|
 |7|1point3acres|llll|17m00s|Business &|🧡|
 |8|google.com|lll|14m01s|Search|🧡|
 |9|cars.com|l|05m32s|Shopping|💚|
 |10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m15s|Reference|💖|
-|11|newtab||03m31s|Browsers|💛|
+|11|newtab||03m40s|Browsers|💛|
 |12|search.bilibil||03m26s|Video|💚|
-|13|toggl track||03m14s|Unknown|💛|
+|13|toggl track||03m22s|Unknown|💛|
 |14|discussions.ap||02m51s|Science & |💜|
 |15|howlifeusa.com||02m42s|Unknown|💛|
 ## yiyangiliu 2022-04-25 Detailed Activaties, 

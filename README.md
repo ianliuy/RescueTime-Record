@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-04-28 Detailed Activaties, 
+
+Update at 01:15
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|25m05s|Reference|💖|
+|2|instacart.com|ll|10m59s|Shopping|💚|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||02m12s|Reference|💛|
+|4|google.com||01m51s|Search|🧡|
+|5|toggl track||01m48s|Unknown|💛|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m13s|Pro|🧡|
+|7|img1.wegobuy||01m04s|Unknown|💛|
+|8|newtab||01m01s|Browsers|💛|
+|9|Calculator||49s|Utils|🧡|
+|10|scientificpsyc||26s|Unknown|💛|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||23s|Reference|💖|
+|12|twitter.com||22s|SNS|💚|
+|13|Gmail||22s|Email|🧡|
+|14|blackboard.usc||22s|Reference|💖|
+|15|login.wegobuy||15s|Unknown|💛|
+
 ## yiyangiliu 2022-04-27 Detailed Activaties, 
 
 Update at 13:47

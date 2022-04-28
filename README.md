@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
-Update at 04:15
+Update at 05:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|54m11s|Reference|💖|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|54m14s|Reference|💖|
 |2|instacart.com|llll|16m20s|Shopping|💚|
 |3|pycharm|lll|15m26s|IDE|💖|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|12m19s|Reference|💛|
-|5|google.com|l|05m22s|Search|🧡|
-|6|timery|l|05m05s|Unknown|💛|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m37s|Pro|🧡|
-|8|ultrabeijing||03m50s|Unknown|💛|
-|9|toggl track||03m21s|Unknown|💛|
-|10|settings||03m08s|Utils|🧡|
-|11|shoppers.insta||01m50s|Shopping|💚|
-|12|newtab||01m28s|Browsers|💛|
-|13|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m14s|Composing|💖|
-|14|twitter.com||01m05s|SNS|💚|
-|15|img1.wegobuy||01m04s|Unknown|💛|
+|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|08m52s|Video|💚|
+|6|timery|l|07m11s|Unknown|💛|
+|7|google.com|l|06m57s|Search|🧡|
+|8|toggl track|l|05m53s|Unknown|💛|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m48s|Pro|🧡|
+|10|ultrabeijing||03m50s|Unknown|💛|
+|11|settings||03m08s|Utils|🧡|
+|12|shoppers.insta||01m50s|Shopping|💚|
+|13|newtab||01m39s|Browsers|💛|
+|14|gigicas21.wixs||01m16s|Unknown|💛|
+|15|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m14s|Composing|💖|
 ## yiyangiliu 2022-04-27 Detailed Activaties, 
 
 Update at 13:47

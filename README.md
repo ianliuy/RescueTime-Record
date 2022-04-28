@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
-Update at 05:15
+Update at 06:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|54m14s|Reference|💖|
 |2|instacart.com|llll|16m20s|Shopping|💚|
 |3|pycharm|lll|15m26s|IDE|💖|
-|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|12m19s|Reference|💛|
-|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|08m52s|Video|💚|
-|6|timery|l|07m11s|Unknown|💛|
-|7|google.com|l|06m57s|Search|🧡|
-|8|toggl track|l|05m53s|Unknown|💛|
-|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m48s|Pro|🧡|
-|10|ultrabeijing||03m50s|Unknown|💛|
-|11|settings||03m08s|Utils|🧡|
-|12|shoppers.insta||01m50s|Shopping|💚|
-|13|newtab||01m39s|Browsers|💛|
-|14|gigicas21.wixs||01m16s|Unknown|💛|
-|15|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m14s|Composing|💖|
+|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|14m41s|Reference|💛|
+|5|google.com|ll|09m16s|Search|🧡|
+|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m05s|Video|💚|
+|7|ptt.cc|l|07m20s|General Co|💛|
+|8|timery|l|07m19s|Unknown|💛|
+|9|toggl track|l|05m53s|Unknown|💛|
+|10|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m48s|Pro|🧡|
+|11|ultrabeijing||03m50s|Unknown|💛|
+|12|settings||03m08s|Utils|🧡|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m51s|Reference|💖|
+|14|newtab||02m25s|Browsers|💛|
+|15|tw.observer||01m57s|Unknown|💛|
 ## yiyangiliu 2022-04-27 Detailed Activaties, 
 
 Update at 13:47

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
-Update at 02:15
+Update at 03:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllll|41m32s|Reference|💖|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllll|44m56s|Reference|💖|
 |2|instacart.com|llll|16m20s|Shopping|💚|
-|3|pycharm|lll|13m20s|IDE|💖|
+|3|pycharm|lll|15m26s|IDE|💖|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|12m19s|Reference|💛|
-|5|settings||03m08s|Utils|🧡|
-|6|toggl track||02m57s|Unknown|💛|
-|7|google.com||02m37s|Search|🧡|
-|8|timery||02m09s|Unknown|💛|
-|9|shoppers.insta||01m50s|Shopping|💚|
-|10|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||01m21s|Pro|🧡|
-|11|newtab||01m18s|Browsers|💛|
-|12|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m14s|Composing|💖|
-|13|twitter.com||01m05s|SNS|💚|
-|14|img1.wegobuy||01m04s|Unknown|💛|
-|15|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m00s|Reference|💖|
+|5|timery|l|04m59s|Unknown|💛|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m34s|Pro|🧡|
+|7|ultrabeijing||03m49s|Unknown|💛|
+|8|settings||03m08s|Utils|🧡|
+|9|toggl track||03m02s|Unknown|💛|
+|10|google.com||02m50s|Search|🧡|
+|11|shoppers.insta||01m50s|Shopping|💚|
+|12|newtab||01m24s|Browsers|💛|
+|13|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m14s|Composing|💖|
+|14|twitter.com||01m05s|SNS|💚|
+|15|img1.wegobuy||01m04s|Unknown|💛|
 ## yiyangiliu 2022-04-27 Detailed Activaties, 
 
 Update at 13:47

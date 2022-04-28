@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
-Update at 07:15
+Update at 08:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|54m14s|Reference|💖|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllll|54m17s|Reference|💖|
 |2|instacart.com|llll|16m20s|Shopping|💚|
 |3|pycharm|lll|15m26s|IDE|💖|
 |4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|14m41s|Reference|💛|
-|5|google.com|ll|09m30s|Search|🧡|
-|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m05s|Video|💚|
+|5|google.com|ll|09m55s|Search|🧡|
+|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|ll|09m28s|Video|💚|
 |7|ptt.cc|l|07m20s|General Co|💛|
 |8|timery|l|07m19s|Unknown|💛|
-|9|toggl track|l|05m53s|Unknown|💛|
+|9|toggl track|l|05m55s|Unknown|💛|
 |10|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m48s|Pro|🧡|
 |11|ultrabeijing||03m50s|Unknown|💛|
 |12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m28s|Reference|💖|
 |13|settings||03m08s|Utils|🧡|
-|14|newtab||02m30s|Browsers|💛|
-|15|tw.observer||01m57s|Unknown|💛|
+|14|dealmoon.com||03m08s|Shopping|💚|
+|15|ex.superbuy||02m54s|Unknown|💛|
 ## yiyangiliu 2022-04-27 Detailed Activaties, 
 
 Update at 13:47

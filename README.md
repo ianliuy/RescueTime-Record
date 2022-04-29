@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 
-Update at 07:27
+Update at 08:27
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -17,9 +17,9 @@ Update at 07:27
 |6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|08m05s|Pro|🧡|
 |7|amazon.com|l|06m32s|Shopping|💚|
 |8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m12s|Reference|🧡|
-|9|google.com|l|04m29s|Search|🧡|
-|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m19s|Reference|💛|
-|11|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m07s|Video|💚|
+|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m58s|Video|💚|
+|10|google.com|l|04m32s|Search|🧡|
+|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m19s|Reference|💛|
 |12|orders.corp-im||03m30s|Unknown|💛|
 |13|console.corp-i||01m48s|Unknown|💛|
 |14|zh.m.wikipedia||01m28s|Reference|🧡|

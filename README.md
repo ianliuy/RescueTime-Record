@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 
-Update at 06:27
+Update at 07:27
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllllllll|01h22m|Reference|💖|
-|2|ebay.com|lllll|21m33s|Shopping|💚|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllllllllllllllllllllll|01h35m|Reference|💖|
+|2|ebay.com|lllll|21m41s|Shopping|💚|
 |3|Wechat|llll|16m55s|IM|💛|
-|4|shop.googlemer|ll|09m12s|Unknown|💛|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m58s|Pro|🧡|
-|6|amazon.com|l|06m32s|Shopping|💚|
-|7|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m12s|Reference|🧡|
-|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m31s|Video|💚|
-|9|google.com||02m14s|Search|🧡|
-|10|zh.m.wikipedia||01m28s|Reference|🧡|
-|11|toggl track||01m11s|Unknown|💛|
-|12|sohu.com||01m06s|General Ne|💚|
-|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m03s|Reference|💖|
-|14|newtab||59s|Browsers|💛|
-|15|pay.ebay.com||34s|Shopping|💚|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|lll|13m02s|Reference|💖|
+|5|shop.googlemer|ll|09m12s|Unknown|💛|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|08m05s|Pro|🧡|
+|7|amazon.com|l|06m32s|Shopping|💚|
+|8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m12s|Reference|🧡|
+|9|google.com|l|04m29s|Search|🧡|
+|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|l|04m19s|Reference|💛|
+|11|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|04m07s|Video|💚|
+|12|orders.corp-im||03m30s|Unknown|💛|
+|13|console.corp-i||01m48s|Unknown|💛|
+|14|zh.m.wikipedia||01m28s|Reference|🧡|
+|15|toggl track||01m11s|Unknown|💛|
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
 Update at 17:27

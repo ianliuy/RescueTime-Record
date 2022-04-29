@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 
-Update at 05:26
+Update at 06:27
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllll|01h05m|Reference|💖|
-|2|Wechat|llll|16m55s|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m39s|Pro|🧡|
-|4|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m12s|Reference|🧡|
-|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m31s|Video|💚|
-|6|amazon.com||02m36s|Shopping|💚|
-|7|zh.m.wikipedia||01m28s|Reference|🧡|
-|8|sohu.com||01m06s|General Ne|💚|
-|9|google.com||51s|Search|🧡|
-|10|newtab||42s|Browsers|💛|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||36s|Reference|💖|
-|12|search.bilibil||20s|Video|💚|
-|13|Gmail||18s|Email|🧡|
-|14|Github||14s|Dev|💖|
-|15|toggl track||13s|Unknown|💛|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllllllll|01h22m|Reference|💖|
+|2|ebay.com|lllll|21m33s|Shopping|💚|
+|3|Wechat|llll|16m55s|IM|💛|
+|4|shop.googlemer|ll|09m12s|Unknown|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m58s|Pro|🧡|
+|6|amazon.com|l|06m32s|Shopping|💚|
+|7|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|05m12s|Reference|🧡|
+|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||03m31s|Video|💚|
+|9|google.com||02m14s|Search|🧡|
+|10|zh.m.wikipedia||01m28s|Reference|🧡|
+|11|toggl track||01m11s|Unknown|💛|
+|12|sohu.com||01m06s|General Ne|💚|
+|13|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m03s|Reference|💖|
+|14|newtab||59s|Browsers|💛|
+|15|pay.ebay.com||34s|Shopping|💚|
 ## yiyangiliu 2022-04-28 Detailed Activaties, 
 
 Update at 17:27

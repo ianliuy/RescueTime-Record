@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-30 Detailed Activaties, 
 
-Update at 08:26
+Update at 09:26
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllllllllllll|01h18m|IM|💛|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|28m48s|Reference|💛|
+|1|Wechat|lllllllllllllllllll|01h19m|IM|💛|
+|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllll|01h11m|Reference|💛|
 |3|pycharm|ll|10m17s|IDE|💖|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|08m11s|Pro|🧡|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m51s|Pro|🧡|
 |5|ebay.com|l|05m26s|Shopping|💚|
 |6|telegram|l|05m03s|IM|🧡|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m13s|Composing|💖|
-|8|voachinese.com|l|04m11s|General Ne|💚|
-|9|google.com|l|04m08s|Search|🧡|
+|7|google.com|l|04m54s|Search|🧡|
+|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m21s|Composing|💖|
+|9|voachinese.com|l|04m11s|General Ne|💚|
 |10|rescuetime.com||02m23s|Insights|💖|
 |11|book.douban||02m16s|Reference|🧡|
 |12|search.bilibil||02m08s|Video|💚|
 |13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m00s|Video|💚|
-|14|secure5.store.||01m45s|Electronic|💚|
-|15|wickedcushions||01m34s|Unknown|💛|
+|14|zh.m.wikipedia||01m52s|Reference|🧡|
+|15|secure5.store.||01m45s|Electronic|💚|
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 
 Update at 08:27

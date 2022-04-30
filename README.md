@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-30 Detailed Activaties, 
 
-Update at 03:26
+Update at 04:26
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -15,8 +15,8 @@ Update at 03:26
 |4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m14s|Pro|🧡|
 |5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m13s|Composing|💖|
 |6|voachinese.com|l|04m11s|General Ne|💚|
-|7|rescuetime.com||02m23s|Insights|💖|
-|8|google.com||02m22s|Search|🧡|
+|7|google.com||02m25s|Search|🧡|
+|8|rescuetime.com||02m23s|Insights|💖|
 |9|book.douban||02m16s|Reference|🧡|
 |10|Finder||01m10s|Utils|🧡|
 |11|toggl track||58s|Unknown|💛|

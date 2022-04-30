@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-30 Detailed Activaties, 
 
-Update at 02:26
+Update at 03:26
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllll|46m00s|IM|💛|
+|1|Wechat|lllllllllll|46m35s|IM|💛|
 |2|pycharm|l|06m46s|IDE|💖|
 |3|telegram|l|04m26s|IM|🧡|
 |4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|04m14s|Pro|🧡|
 |5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m13s|Composing|💖|
-|6|voachinese.com|l|04m08s|General Ne|💚|
+|6|voachinese.com|l|04m11s|General Ne|💚|
 |7|rescuetime.com||02m23s|Insights|💖|
-|8|google.com||02m17s|Search|🧡|
-|9|Finder||01m10s|Utils|🧡|
-|10|toggl track||58s|Unknown|💛|
-|11|Github||44s|Dev|💖|
-|12|newtab||34s|Browsers|💛|
-|13|xinhuanet.com||27s|General Ne|💚|
-|14|Gmail||21s|Email|🧡|
-|15|snipaste||16s|Utils|🧡|
+|8|google.com||02m22s|Search|🧡|
+|9|book.douban||02m16s|Reference|🧡|
+|10|Finder||01m10s|Utils|🧡|
+|11|toggl track||58s|Unknown|💛|
+|12|Github||51s|Dev|💖|
+|13|newtab||34s|Browsers|💛|
+|14|xinhuanet.com||27s|General Ne|💚|
+|15|Gmail||21s|Email|🧡|
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 
 Update at 08:27

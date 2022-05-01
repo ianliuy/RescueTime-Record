@@ -5,24 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-04-30 Detailed Activaties, 
 
-Update at 16:33
+Update at 17:36
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllll|02h08m|Reference|💛|
-|2|Wechat|lllllllllllllllllllllllllllll|01h56m|IM|💛|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|16m29s|Pro|🧡|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllllllll|02h26m|Reference|💛|
+|2|Wechat|llllllllllllllllllllllllllllll|02h02m|IM|💛|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llll|17m48s|Pro|🧡|
 |4|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com|lll|12m35s|SNS|💚|
 |5|pycharm|ll|10m17s|IDE|💖|
-|6|google.com|l|07m27s|Search|🧡|
+|6|google.com|l|07m49s|Search|🧡|
 |7|ebay.com|l|05m56s|Shopping|💚|
 |8|telegram|l|05m54s|IM|🧡|
 |9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m21s|Composing|💖|
 |10|voachinese.com|l|04m11s|General Ne|💚|
 |11|weibo.com|l|04m08s|SNS|💚|
-|12|rescuetime.com||02m23s|Insights|💖|
-|13|Gmail||02m20s|Email|🧡|
-|14|newtab||02m19s|Browsers|💛|
+|12|Gmail||02m31s|Email|🧡|
+|13|newtab||02m24s|Browsers|💛|
+|14|rescuetime.com||02m23s|Insights|💖|
 |15|book.douban||02m16s|Reference|🧡|
 ## yiyangiliu 2022-04-29 Detailed Activaties, 
 

@@ -5,24 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-01 Detailed Activaties, 
 
-Update at 10:35
+Update at 11:35
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m49s|Pro|🧡|
-|2|Gmail||01m44s|Email|🧡|
-|3|electerm||01m36s|Dev|💖|
-|4|pycharm||01m23s|IDE|💖|
-|5|newtab||45s|Browsers|💛|
-|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||34s|Reference|💖|
-|7|bytes.usc.edu||29s|Reference|🧡|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||25s|Reference|💖|
-|9|en.wikipedia||13s|Reference|🧡|
-|10|Finder||11s|Utils|🧡|
-|11|spacelauncher||09s|Unknown|💛|
-|12|google.com||05s|Search|🧡|
-|13|Wechat||02s|IM|💛|
-
+|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m27s|Pro|🧡|
+|2|search.bilibil|l|07m34s|Video|💚|
+|3|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||03m22s|Reference|💖|
+|4|bytes.usc.edu||03m07s|Reference|🧡|
+|5|Wechat||02m55s|IM|💛|
+|6|android studio||02m53s|Dev|💖|
+|7|blog.csdn.net||02m37s|Reference|🧡|
+|8|google.com||02m12s|Search|🧡|
+|9|Github||02m11s|Dev|💖|
+|10|Finder||01m55s|Utils|🧡|
+|11|Gmail||01m45s|Email|🧡|
+|12|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||01m38s|Reference|💖|
+|13|electerm||01m36s|Dev|💖|
+|14|pycharm||01m25s|IDE|💖|
+|15|newtab||01m06s|Browsers|💛|
 ## yiyangiliu 2022-04-30 Detailed Activaties, 
 
 Update at 23:36

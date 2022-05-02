@@ -5,23 +5,23 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-01 Detailed Activaties, 
 
-Update at 16:12
+Update at 17:13
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllll|01h01m|Reference|💛|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllll|26m24s|Pro|🧡|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllllll|01h48m|Reference|💛|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|30m56s|Pro|🧡|
 |3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|26m13s|Reference|💖|
 |4|committee100|lll|13m47s|Unknown|💛|
-|5|google.com|ll|08m54s|Search|🧡|
+|5|google.com|ll|08m57s|Search|🧡|
 |6|blog.csdn.net|ll|08m47s|Reference|🧡|
 |7|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|07m53s|Reference|💖|
 |8|search.bilibil|l|07m49s|Video|💚|
 |9|en.wikipedia|l|07m28s|Reference|🧡|
-|10|Wechat|l|04m38s|IM|💛|
+|10|Wechat|l|06m30s|IM|💛|
 |11|Github|l|04m26s|Dev|💖|
-|12|bytes.usc.edu||03m15s|Reference|🧡|
-|13|android studio||03m08s|Dev|💖|
+|12|android studio|l|04m23s|Dev|💖|
+|13|bytes.usc.edu||03m15s|Reference|🧡|
 |14|boardoftrustee||02m47s|Reference|🧡|
 |15|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||02m44s|Reference|🧡|
 ## yiyangiliu 2022-04-30 Detailed Activaties, 

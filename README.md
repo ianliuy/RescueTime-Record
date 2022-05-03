@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-02 Detailed Activaties, 
 
-Update at 18:15
+Update at 20:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|android studio|lllllllll|37m24s|Dev|💖|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|23m46s|Reference|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m19s|Pro|🧡|
-|4|google.com|l|07m54s|Search|🧡|
-|5|Wechat||02m51s|IM|💛|
-|6|Gmail||01m50s|Email|🧡|
-|7|Github||01m31s|Dev|💖|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||31s|Reference|💖|
-|9|ebay.com||24s|Shopping|💚|
-|10|ois.usc.edu||19s|Reference|🧡|
-|11|qemu-system-aa||18s|Unknown|💛|
-|12|bytes.usc.edu||08s|Reference|🧡|
-|13|pycharm||06s|IDE|💖|
-|14|order.ebay.com||05s|Shopping|💚|
-|15|developer.andr||04s|Dev|💖|
+|1|android studio|llllllllllll|48m08s|Dev|💖|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|24m48s|Reference|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m34s|Pro|🧡|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|ll|10m43s|Music|💚|
+|5|google.com|ll|09m25s|Search|🧡|
+|6|Github|l|07m47s|Dev|💖|
+|7|Finder|l|04m39s|Utils|🧡|
+|8|Wechat||02m51s|IM|💛|
+|9|Gmail||01m50s|Email|🧡|
+|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01m36s|Reference|💖|
+|11|ad.doubleclick||01m28s|Search|💛|
+|12|support.google||01m18s|General Ne|💚|
+|13|lifehacker.com||01m16s|General Ne|💚|
+|14|mainkt||01m13s|Unknown|💛|
+|15|downloads||01m07s|Utils|🧡|
 ## yiyangiliu 2022-05-01 Detailed Activaties, 
 
 Update at 23:14

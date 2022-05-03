@@ -5,22 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
-Update at 01:17
+Update at 03:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllll|32m01s|IM|💛|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllll|22m08s|Reference|💛|
-|3|Github||01m30s|Dev|💖|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||52s|Pro|🧡|
-|5|google.com||39s|Search|🧡|
-|6|Gmail||29s|Email|🧡|
-|7|newtab||25s|Browsers|💛|
-|8|spacelauncher||17s|Unknown|💛|
-|9|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||17s|Video|💚|
-|10|search.bilibil||13s|Video|💚|
-|11|instacart.com||07s|Shopping|💚|
-
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|49m32s|Reference|💛|
+|2|Wechat|llllllll|32m17s|IM|💛|
+|3|zh.wikipedia|l|06m55s|Search|🧡|
+|4|google.com||02m11s|Search|🧡|
+|5|Github||01m30s|Dev|💖|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||58s|Pro|🧡|
+|7|telegram||57s|IM|🧡|
+|8|newtab||42s|Browsers|💛|
+|9|Gmail||34s|Email|🧡|
+|10|zh.m.wikipedia||21s|Reference|🧡|
+|11|spacelauncher||21s|Unknown|💛|
+|12|search.bilibil||19s|Video|💚|
+|13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||17s|Video|💚|
+|14|Finder||13s|Utils|🧡|
+|15|baike.baidu||12s|Search|💛|
 ## yiyangiliu 2022-05-02 Detailed Activaties, 
 
 Update at 23:17

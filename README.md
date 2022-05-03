@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-02 Detailed Activaties, 
 
-Update at 17:15
+Update at 18:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|23m01s|Reference|💖|
-|2|android studio|lll|13m24s|Dev|💖|
-|3|Wechat||02m51s|IM|💛|
-|4|Gmail||01m50s|Email|🧡|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||30s|Reference|💖|
-|6|Github||28s|Dev|💖|
-|7|ebay.com||24s|Shopping|💚|
-|8|ois.usc.edu||19s|Reference|🧡|
-|9|google.com||10s|Search|🧡|
-|10|bytes.usc.edu||08s|Reference|🧡|
-|11|pycharm||06s|IDE|💖|
-|12|order.ebay.com||05s|Shopping|💚|
-|13|developer.andr||04s|Dev|💖|
-|14|newtab||03s|Browsers|💛|
-|15|dart.dev||01s|Unknown|💛|
-
+|1|android studio|lllllllll|37m24s|Dev|💖|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|23m46s|Reference|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m19s|Pro|🧡|
+|4|google.com|l|07m54s|Search|🧡|
+|5|Wechat||02m51s|IM|💛|
+|6|Gmail||01m50s|Email|🧡|
+|7|Github||01m31s|Dev|💖|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||31s|Reference|💖|
+|9|ebay.com||24s|Shopping|💚|
+|10|ois.usc.edu||19s|Reference|🧡|
+|11|qemu-system-aa||18s|Unknown|💛|
+|12|bytes.usc.edu||08s|Reference|🧡|
+|13|pycharm||06s|IDE|💖|
+|14|order.ebay.com||05s|Shopping|💚|
+|15|developer.andr||04s|Dev|💖|
 ## yiyangiliu 2022-05-01 Detailed Activaties, 
 
 Update at 23:14

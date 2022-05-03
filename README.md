@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
-Update at 13:28
+Update at 14:28
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|android studio|lllllllllllllllllll|01h18m|Dev|💖|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|50m46s|Reference|💛|
-|3|Wechat|llllllll|35m56s|IM|💛|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|29m07s|Pro|🧡|
+|1|android studio|llllllllllllllllllll|01h23m|Dev|💖|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllll|55m51s|Pro|🧡|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllll|50m46s|Reference|💛|
+|4|Wechat|llllllllll|40m17s|IM|💛|
 |5|developer.andr|ll|10m17s|Dev|💖|
 |6|Github|ll|08m13s|Dev|💖|
-|7|zh.wikipedia|l|06m55s|Search|🧡|
-|8|google.com|l|06m31s|Search|🧡|
-|9|jianshu.com|l|04m52s|General Ne|💚|
-|10|stackoverflow|l|04m35s|Dev|💖|
+|7|google.com|ll|08m12s|Search|🧡|
+|8|zh.wikipedia|l|06m55s|Search|🧡|
+|9|stackoverflow|l|05m10s|Dev|💖|
+|10|jianshu.com|l|04m52s|General Ne|💚|
 |11|secure4.store.||03m32s|Electronic|💚|
 |12|telegram||03m27s|IM|🧡|
 |13|search.bilibil||03m19s|Video|💚|
-|14|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m10s|Video|💚|
-|15|newtab||02m04s|Browsers|💛|
+|14|Gmail||02m41s|Email|🧡|
+|15|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m10s|Video|💚|
 ## yiyangiliu 2022-05-02 Detailed Activaties, 
 
 Update at 23:17

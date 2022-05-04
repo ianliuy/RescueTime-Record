@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
-Update at 10:22
+Update at 11:22
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|New York Times|ll|10m05s|General Ne|💚|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m28s|Pro|🧡|
-|3|investopedia|l|05m58s|Business &|🧡|
-|4|amazon.com|l|05m27s|Shopping|💚|
-|5|Github||03m12s|Dev|💖|
-|6|cnbc.com||02m11s|Business|💜|
-|7|google.com||01m53s|Search|🧡|
-|8|newtab||01m29s|Browsers|💛|
-|9|dealmoon.com||01m13s|Shopping|💚|
-|10|Wechat||52s|IM|💛|
+|1|Wechat|lllll|20m08s|IM|💛|
+|2|New York Times|ll|10m05s|General Ne|💚|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m00s|Pro|🧡|
+|4|investopedia|l|05m58s|Business &|🧡|
+|5|amazon.com|l|05m27s|Shopping|💚|
+|6|Github||03m12s|Dev|💖|
+|7|google.com||02m14s|Search|🧡|
+|8|cnbc.com||02m11s|Business|💜|
+|9|newtab||01m41s|Browsers|💛|
+|10|dealmoon.com||01m13s|Shopping|💚|
 |11|myaccount.nyti||34s|General Ne|💚|
 |12|iiis.tsinghua.||27s|Reference|🧡|
-|13|docs.flutter.d||09s|Unknown|💛|
-|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||08s|Reference|💖|
-|15|paypal.com||08s|Business|💖|
+|13|snipaste||27s|Utils|🧡|
+|14|support.apple||24s|Search|💛|
+|15|System Prefere||13s|Utils|🧡|
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
 Update at 22:29

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
-Update at 14:23
+Update at 15:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Wechat|lllllll|29m59s|IM|💛|
-|2|android studio|llll|17m19s|Dev|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m20s|Pro|🧡|
-|4|google.com|ll|10m21s|Search|🧡|
-|5|New York Times|ll|10m05s|General Ne|💚|
-|6|System Prefere|ll|09m18s|Utils|🧡|
-|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|l|06m36s|Music|💚|
-|8|telegram|l|06m13s|IM|🧡|
-|9|microsoft word|l|05m58s|Composing|💖|
-|10|investopedia|l|05m58s|Business &|🧡|
-|11|amazon.com|l|05m33s|Shopping|💚|
-|12|Github|l|04m47s|Dev|💖|
-|13|app.crowdmark|l|04m34s|Reference|🧡|
-|14|ebay.com||03m53s|Shopping|💚|
-|15|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m27s|Reference|💖|
+|2|microsoft word|llllll|27m08s|Composing|💖|
+|3|android studio|llll|17m19s|Dev|💖|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|16m51s|Reference|💖|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m20s|Pro|🧡|
+|6|bytes.usc.edu|lll|13m29s|Reference|🧡|
+|7|google.com|lll|13m08s|Search|🧡|
+|8|New York Times|ll|10m05s|General Ne|💚|
+|9|System Prefere|ll|09m18s|Utils|🧡|
+|10|app.crowdmark|ll|09m10s|Reference|🧡|
+|11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|l|06m36s|Music|💚|
+|12|telegram|l|06m13s|IM|🧡|
+|13|investopedia|l|05m58s|Business &|🧡|
+|14|amazon.com|l|05m33s|Shopping|💚|
+|15|Github|l|04m47s|Dev|💖|
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
 Update at 22:29

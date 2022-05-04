@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
-Update at 13:22
+Update at 14:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllll|23m02s|IM|💛|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m53s|Pro|🧡|
-|3|New York Times|ll|10m05s|General Ne|💚|
-|4|google.com|ll|09m22s|Search|🧡|
-|5|System Prefere|ll|09m04s|Utils|🧡|
-|6|telegram|l|06m13s|IM|🧡|
-|7|investopedia|l|05m58s|Business &|🧡|
-|8|amazon.com|l|05m27s|Shopping|💚|
-|9|ebay.com||03m53s|Shopping|💚|
-|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m27s|Reference|💖|
-|11|search.bilibil||03m16s|Video|💚|
-|12|Github||03m12s|Dev|💖|
-|13|newtab||02m34s|Browsers|💛|
-|14|cnbc.com||02m11s|Business|💜|
-|15|marriott.com||01m49s|Travel & O|💚|
+|1|Wechat|lllllll|29m59s|IM|💛|
+|2|android studio|llll|17m19s|Dev|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|15m20s|Pro|🧡|
+|4|google.com|ll|10m21s|Search|🧡|
+|5|New York Times|ll|10m05s|General Ne|💚|
+|6|System Prefere|ll|09m18s|Utils|🧡|
+|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|l|06m36s|Music|💚|
+|8|telegram|l|06m13s|IM|🧡|
+|9|microsoft word|l|05m58s|Composing|💖|
+|10|investopedia|l|05m58s|Business &|🧡|
+|11|amazon.com|l|05m33s|Shopping|💚|
+|12|Github|l|04m47s|Dev|💖|
+|13|app.crowdmark|l|04m34s|Reference|🧡|
+|14|ebay.com||03m53s|Shopping|💚|
+|15|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m27s|Reference|💖|
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
 Update at 22:29

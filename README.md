@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
-Update at 12:22
+Update at 13:22
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllll|21m54s|IM|💛|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m45s|Pro|🧡|
+|1|Wechat|lllll|23m02s|IM|💛|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m53s|Pro|🧡|
 |3|New York Times|ll|10m05s|General Ne|💚|
-|4|telegram|l|06m13s|IM|🧡|
-|5|System Prefere|l|05m59s|Utils|🧡|
-|6|investopedia|l|05m58s|Business &|🧡|
-|7|amazon.com|l|05m27s|Shopping|💚|
-|8|google.com|l|04m16s|Search|🧡|
-|9|Github||03m12s|Dev|💖|
-|10|cnbc.com||02m11s|Business|💜|
-|11|newtab||02m08s|Browsers|💛|
-|12|dealmoon.com||01m13s|Shopping|💚|
-|13|apple.stackexc||51s|Tech|💖|
-|14|ebay.com||50s|Shopping|💚|
-|15|support.apple||47s|Search|💛|
+|4|google.com|ll|09m22s|Search|🧡|
+|5|System Prefere|ll|09m04s|Utils|🧡|
+|6|telegram|l|06m13s|IM|🧡|
+|7|investopedia|l|05m58s|Business &|🧡|
+|8|amazon.com|l|05m27s|Shopping|💚|
+|9|ebay.com||03m53s|Shopping|💚|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m27s|Reference|💖|
+|11|search.bilibil||03m16s|Video|💚|
+|12|Github||03m12s|Dev|💖|
+|13|newtab||02m34s|Browsers|💛|
+|14|cnbc.com||02m11s|Business|💜|
+|15|marriott.com||01m49s|Travel & O|💚|
 ## yiyangiliu 2022-05-03 Detailed Activaties, 
 
 Update at 22:29

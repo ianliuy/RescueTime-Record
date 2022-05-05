@@ -5,13 +5,13 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
-Update at 18:14
+Update at 19:37
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllll|40m07s|IM|💛|
-|2|microsoft word|llllllll|32m25s|Composing|💖|
-|3|google chrome|llllll|27m35s|Browsers|💛|
+|1|google chrome|lllllllllllllll|01h02m|Browsers|💛|
+|2|Wechat|llllllllll|42m23s|IM|💛|
+|3|microsoft word|llllllll|32m25s|Composing|💖|
 |4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llll|19m40s|Reference|💖|
 |5|android studio|llll|17m23s|Dev|💖|
 |6|bytes.usc.edu|llll|16m47s|Reference|🧡|

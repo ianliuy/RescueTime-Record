@@ -5,22 +5,23 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-05 Detailed Activaties, 
 
-Update at 19:14
+Update at 20:14
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|google chrome|llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h33m|Browsers|💛|
+|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h33m|Browsers|💛|
 |2|android studio|lllllllllllllllllllllllll|01h42m|Dev|💖|
-|3|telegram|l|05m30s|IM|🧡|
-|4|Finder||03m27s|Utils|🧡|
-|5|Wechat||02m52s|IM|💛|
+|3|telegram|l|05m32s|IM|🧡|
+|4|Wechat||03m28s|IM|💛|
+|5|Finder||03m27s|Utils|🧡|
 |6|digital color ||50s|Utils|🧡|
-|7|qemu-system-aa||14s|Unknown|💛|
-|8|System Prefere||14s|Utils|🧡|
-|9|spacelauncher||04s|Unknown|💛|
-|10|creative cloud||02s|General De|💖|
-|11|alfred||02s|Utils|🧡|
-|12|autoupdate||01s|Utils|🧡|
+|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||18s|Music|💚|
+|8|qemu-system-aa||14s|Unknown|💛|
+|9|System Prefere||14s|Utils|🧡|
+|10|spacelauncher||04s|Unknown|💛|
+|11|creative cloud||02s|General De|💖|
+|12|alfred||02s|Utils|🧡|
+|13|autoupdate||01s|Utils|🧡|
 ## yiyangiliu 2022-05-04 Detailed Activaties, 
 
 Update at 23:37

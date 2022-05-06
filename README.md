@@ -5,11 +5,11 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-05 Detailed Activaties, 
 
-Update at 21:15
+Update at 22:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h33m|Browsers|💛|
+|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h24m|Browsers|💛|
 |2|android studio|lllllllllllllllllllllllll|01h42m|Dev|💖|
 |3|telegram|l|05m32s|IM|🧡|
 |4|Wechat||03m28s|IM|💛|

@@ -5,21 +5,23 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-06 Detailed Activaties, 
 
-Update at 03:15
+Update at 04:15
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|google chrome|lllllllllllllllllllllll|01h34m|Browsers|💛|
-|2|pycharm|llllllllllllllll|01h06m|IDE|💖|
-|3|electerm|l|05m37s|Dev|💖|
-|4|Finder||02m35s|Utils|🧡|
-|5|System Prefere||02m22s|Utils|🧡|
-|6|Wechat||19s|IM|💛|
-|7|installer||16s|Utils|🧡|
-|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||06s|Composing|💖|
-|9|scthost||05s|Unknown|💛|
-|10|SecurityAgent||03s|Systems Op|💖|
-|11|universalacces||01s|Utils|🧡|
+|1|google chrome|llllllllllllllllllllllllllllllllll|02h18m|Browsers|💛|
+|2|pycharm|lllllllllllllllll|01h11m|IDE|💖|
+|3|telegram|ll|08m58s|IM|🧡|
+|4|electerm|l|05m37s|Dev|💖|
+|5|Wechat|l|05m07s|IM|💛|
+|6|Finder||02m35s|Utils|🧡|
+|7|System Prefere||02m22s|Utils|🧡|
+|8|snipaste||42s|Utils|🧡|
+|9|installer||16s|Utils|🧡|
+|10|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||06s|Composing|💖|
+|11|scthost||05s|Unknown|💛|
+|12|SecurityAgent||03s|Systems Op|💖|
+|13|universalacces||01s|Utils|🧡|
 ## yiyangiliu 2022-05-05 Detailed Activaties, 
 
 Update at 23:15

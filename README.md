@@ -5,16 +5,16 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-06 Detailed Activaties, 
 
-Update at 22:37
+Update at 23:37
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h34m|Browsers|💛|
-|2|pycharm|llllllllllllllllllllllllllllllllll|02h18m|IDE|💖|
-|3|Wechat|lllllllllllllllllllllllll|01h42m|IM|💛|
+|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|07h13m|Browsers|💛|
+|2|pycharm|lllllllllllllllllllllllllllllllllll|02h20m|IDE|💖|
+|3|Wechat|llllllllllllllllllllllllllll|01h53m|IM|💛|
 |4|telegram|ll|10m05s|IM|🧡|
 |5|electerm|l|05m55s|Dev|💖|
-|6|Finder||02m40s|Utils|🧡|
+|6|Finder||02m41s|Utils|🧡|
 |7|System Prefere||02m22s|Utils|🧡|
 |8|snipaste||42s|Utils|🧡|
 |9|installer||16s|Utils|🧡|

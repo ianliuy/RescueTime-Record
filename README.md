@@ -5,23 +5,24 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-06 Detailed Activaties, 
 
-Update at 19:39
+Update at 21:37
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|05h41m|Browsers|💛|
-|2|pycharm|llllllllllllllllllllllllllllllll|02h09m|IDE|💖|
-|3|Wechat|lllllllllllllllllllllll|01h32m|IM|💛|
+|1|google chrome|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|06h|Browsers|💛|
+|2|pycharm|llllllllllllllllllllllllllllllllll|02h18m|IDE|💖|
+|3|Wechat|llllllllllllllllllllllll|01h39m|IM|💛|
 |4|telegram|ll|09m15s|IM|🧡|
-|5|electerm|l|05m37s|Dev|💖|
+|5|electerm|l|05m55s|Dev|💖|
 |6|Finder||02m40s|Utils|🧡|
 |7|System Prefere||02m22s|Utils|🧡|
 |8|snipaste||42s|Utils|🧡|
 |9|installer||16s|Utils|🧡|
 |10|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||07s|Composing|💖|
 |11|scthost||05s|Unknown|💛|
-|12|SecurityAgent||03s|Systems Op|💖|
-|13|universalacces||01s|Utils|🧡|
+|12|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||03s|Music|💚|
+|13|SecurityAgent||03s|Systems Op|💖|
+|14|universalacces||01s|Utils|🧡|
 ## yiyangiliu 2022-05-05 Detailed Activaties, 
 
 Update at 23:15

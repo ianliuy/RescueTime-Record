@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-07 Detailed Activaties, 
 
-Update at 07:20
+Update at 08:20
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -18,13 +18,12 @@ Update at 07:20
 |7|VS Code||44s|Dev|💖|
 |8|Github||37s|Dev|💖|
 |9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||33s|Pro|🧡|
-|10|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||26s|Reference|💛|
-|11|google.com||25s|Search|🧡|
+|10|google.com||33s|Search|🧡|
+|11|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||26s|Reference|💛|
 |12|time out||18s|Health & M|🧡|
 |13|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||16s|Video|💚|
 |14|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||12s|Music|💚|
-|15|newtab||09s|Browsers|💛|
-
+|15|twitter.com||11s|SNS|💚|
 ## yiyangiliu 2022-05-06 Detailed Activaties, 
 
 Update at 23:37

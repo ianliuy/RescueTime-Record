@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-11 Detailed Activaties, 
 
-Update at 09:03
+Update at 10:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|07m18s|Composing|💖|
-|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m11s|Pro|🧡|
-|3|amazon chime|l|05m25s|Meetings|🧡|
-|4|Wechat||02m30s|IM|💛|
-|5|Gmail||31s|Email|🧡|
-|6|app.chime.aws||14s|Unknown|💛|
-|7|Github||11s|Dev|💖|
-|8|telegram||08s|IM|🧡|
-|9|rei.com||05s|Shopping|💚|
-|10|electerm||04s|Dev|💖|
-|11|newtab||03s|Browsers|💛|
-|12|hkhggnncdpfibd||02s|Unknown|💛|
-|13|chime.aws||01s|Unknown|💛|
-|14|lastminutegear||01s|Unknown|💛|
-|15|google.com||01s|Search|🧡|
-
+|1|amazon chime|llllll|27m31s|Meetings|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|11m00s|Pro|🧡|
+|3|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|08m51s|Composing|💖|
+|4|Wechat||02m32s|IM|💛|
+|5|zh.m.wikipedia||54s|Reference|🧡|
+|6|Gmail||31s|Email|🧡|
+|7|app.chime.aws||14s|Unknown|💛|
+|8|photo booth||12s|General En|💚|
+|9|google.com||11s|Search|🧡|
+|10|Github||11s|Dev|💖|
+|11|newtab||08s|Browsers|💛|
+|12|telegram||08s|IM|🧡|
+|13|rei.com||05s|Shopping|💚|
+|14|electerm||04s|Dev|💖|
+|15|hkhggnncdpfibd||02s|Unknown|💛|
 ## yiyangiliu 2022-05-10 Detailed Activaties, 
 
 Update at 12:53

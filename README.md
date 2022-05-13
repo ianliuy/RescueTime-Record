@@ -5,22 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-12 Detailed Activaties, 
 
-Update at 22:44
+Update at 23:44
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Wechat|llllllllllllllllllllllllll|01h46m|IM|💛|
 |2|cn.[linkedin](https://www.linkedin.com/in/yiyangiliu)||03m27s|Pro|🧡|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m52s|Pro|🧡|
-|4|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m59s|Video|💚|
-|5|snipaste||01m23s|Utils|🧡|
-|6|message.bilibi||56s|Video|💚|
-|7|t.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||42s|Video|💚|
-|8|Gmail||39s|Email|🧡|
-|9|newtab||12s|Browsers|💛|
-|10|google.com||10s|Search|🧡|
-|11|google chrome||03s|Browsers|💛|
-|12|Finder||01s|Utils|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m58s|Pro|🧡|
+|4|newtab||02m52s|Browsers|💛|
+|5|en.wikipedia||02m18s|Reference|🧡|
+|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m10s|Video|💚|
+|7|snipaste||01m23s|Utils|🧡|
+|8|message.bilibi||56s|Video|💚|
+|9|t.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s).com||42s|Video|💚|
+|10|[leagueoflegend](https://blitz.gg/lol/profile/na1/mhvjqm)||40s|Games|💚|
+|11|Gmail||39s|Email|🧡|
+|12|google.com||33s|Search|🧡|
+|13|riot client||25s|Games|💚|
+|14|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music||15s|Music|💚|
+|15|speedtest.net||11s|Utils|🧡|
 ## yiyangiliu 2022-05-11 Detailed Activaties, 
 
 Update at 10:03

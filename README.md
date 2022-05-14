@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-13 Detailed Activaties, 
 
-Update at 21:27
+Update at 23:28
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllll|24m31s|Reference|💛|
-|2|Wechat|lll|13m12s|IM|💛|
-|3|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|09m03s|Composing|💖|
-|4|google.com|l|07m59s|Search|🧡|
-|5|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|07m40s|Reference|🧡|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m15s|Pro|🧡|
-|7|mp.weixin.qq|l|04m10s|IM|💛|
-|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m16s|Reference|💖|
-|9|Google Spreads||01m13s|Business|💖|
-|10|courses.uscden||01m12s|Reference|🧡|
-|11|bytes.usc.edu||01m12s|Reference|🧡|
-|12|piazza.com||01m10s|Reference|🧡|
-|13|nwen.net||01m05s|Unknown|💛|
-|14|login.usc.edu||49s|Reference|🧡|
-|15|newtab||48s|Browsers|💛|
+|1|Wechat|llllllllll|40m51s|IM|💛|
+|2|1point3acres|lllllll|28m17s|Business &|🧡|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllll|27m32s|Reference|💛|
+|4|google.com|lll|13m59s|Search|🧡|
+|5|mp.weixin.qq|ll|09m19s|IM|💛|
+|6|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|ll|09m03s|Composing|💖|
+|7|piazza.com|l|07m46s|Reference|🧡|
+|8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)|l|07m40s|Reference|🧡|
+|9|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m36s|Pro|🧡|
+|10|thelorenzo.com|l|04m59s|Unknown|💛|
+|11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||02m16s|Reference|💖|
+|12|newtab||01m56s|Browsers|💛|
+|13|courses.uscden||01m50s|Reference|🧡|
+|14|blackboard.usc||01m48s|Reference|💖|
+|15|Gmail||01m28s|Email|🧡|
 ## yiyangiliu 2022-05-12 Detailed Activaties, 
 
 Update at 23:44

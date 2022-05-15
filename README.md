@@ -5,23 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
-Update at 11:25
+Update at 12:25
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllll|27m39s|Reference|💛|
-|2|Wechat|ll|08m07s|IM|💛|
-|3|google.com|l|06m10s|Search|🧡|
-|4|connect.shore|l|04m33s|Unknown|💛|
-|5|Gmail||01m36s|Email|🧡|
-|6|m.mysmth.net||01m06s|Unknown|💛|
-|7|prodigyhairstu||50s|Unknown|💛|
-|8|bonohair.com||41s|Unknown|💛|
-|9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||28s|Composing|💖|
-|10|newtab||26s|Browsers|💛|
-|11|lens.google||05s|Search|💛|
-|12|prodigy-hair-s||03s|Unknown|💛|
-
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m01s|Reference|💛|
+|2|google.com|ll|10m10s|Search|🧡|
+|3|Wechat|ll|08m07s|IM|💛|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m04s|Pro|🧡|
+|5|connect.shore|l|04m33s|Unknown|💛|
+|6|Gmail||01m37s|Email|🧡|
+|7|mattressfirm||01m21s|Shopping|💚|
+|8|m.mysmth.net||01m06s|Unknown|💛|
+|9|prodigyhairstu||50s|Unknown|💛|
+|10|bonohair.com||41s|Unknown|💛|
+|11|newtab||28s|Browsers|💛|
+|12|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||28s|Composing|💖|
+|13|lens.google||05s|Search|💛|
+|14|prodigy-hair-s||03s|Unknown|💛|
+|15|stores.mattres||01s|Shopping|💚|
 ## yiyangiliu 2022-05-13 Detailed Activaties, 
 
 Update at 23:28

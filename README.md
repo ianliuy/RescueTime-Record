@@ -3,6 +3,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-05-15 Detailed Activaties, 
+
+Update at 11:25
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllll|27m39s|Reference|💛|
+|2|Wechat|ll|08m07s|IM|💛|
+|3|google.com|l|06m10s|Search|🧡|
+|4|connect.shore|l|04m33s|Unknown|💛|
+|5|Gmail||01m36s|Email|🧡|
+|6|m.mysmth.net||01m06s|Unknown|💛|
+|7|prodigyhairstu||50s|Unknown|💛|
+|8|bonohair.com||41s|Unknown|💛|
+|9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||28s|Composing|💖|
+|10|newtab||26s|Browsers|💛|
+|11|lens.google||05s|Search|💛|
+|12|prodigy-hair-s||03s|Unknown|💛|
+
 ## yiyangiliu 2022-05-13 Detailed Activaties, 
 
 Update at 23:28

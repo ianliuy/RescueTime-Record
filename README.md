@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
-Update at 10:09
+Update at 11:09
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|amazon chime|lllllllllllllll|01h|Meetings|🧡|
-|2|firstaid.amazo|llllll|26m00s|Unknown|💛|
+|1|amazon chime|lllllllllllllllll|01h08m|Meetings|🧡|
+|2|firstaid.amazo|llllllllllllllll|01h06m|Unknown|💛|
 |3|udemy.com|llll|17m44s|Reference|💖|
 |4|1point3acres|llll|16m14s|Business &|🧡|
-|5|Gmail|ll|10m31s|Email|🧡|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m04s|Pro|🧡|
-|7|Wechat|l|06m01s|IM|💛|
+|5|Wechat|lll|14m26s|IM|💛|
+|6|Gmail|lll|12m05s|Email|🧡|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m04s|Pro|🧡|
 |8|google.com||02m43s|Search|🧡|
 |9|piazza.com||02m39s|Reference|🧡|
 |10|aws.amazon.com||01m54s|Dev|💖|
-|11|midway-auth.am||01m17s|Shopping|💚|
+|11|midway-auth.am||01m23s|Shopping|💚|
 |12|Github||01m16s|Dev|💖|
 |13|keyboard setup||01m09s|Unknown|💛|
 |14|amazon.com||01m04s|Shopping|💚|
-|15|newtab||57s|Browsers|💛|
+|15|newtab||01m04s|Browsers|💛|
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
 Update at 23:51

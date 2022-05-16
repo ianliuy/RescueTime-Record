@@ -5,22 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
-Update at 00:51
+Update at 08:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Gmail||02m02s|Email|🧡|
-|2|amazon.com||01m02s|Shopping|💚|
-|3|google.com||59s|Search|🧡|
-|4|Wechat||42s|IM|💛|
-|5|usa.philips||13s|Electronic|💚|
-|6|newtab||11s|Browsers|💛|
-|7|Github||10s|Dev|💖|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||08s|Pro|🧡|
-|9|how2j.cn||06s|Unknown|💛|
-|10|rakuten.com||02s|Shopping|💚|
-|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||01s|Reference|💖|
-
+|1|udemy.com|llll|17m20s|Reference|💖|
+|2|1point3acres|ll|08m58s|Business &|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m00s|Pro|🧡|
+|4|Wechat||02m32s|IM|💛|
+|5|piazza.com||02m05s|Reference|🧡|
+|6|google.com||02m03s|Search|🧡|
+|7|Gmail||02m02s|Email|🧡|
+|8|aws.amazon.com||01m52s|Dev|💖|
+|9|amazon.com||01m02s|Shopping|💚|
+|10|Github||56s|Dev|💖|
+|11|newtab||27s|Browsers|💛|
+|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||23s|Reference|💖|
+|13|usa.philips||13s|Electronic|💚|
+|14|google.fi||11s|Search|💛|
+|15|paypal.com||07s|Business|💖|
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
 Update at 23:51

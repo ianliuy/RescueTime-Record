@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
-Update at 22:51
+Update at 23:51
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllllllll|01h|IM|💛|
-|2|amazon.com|llllllll|33m47s|Shopping|💚|
-|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m01s|Reference|💛|
-|4|google.com|llll|17m31s|Search|🧡|
-|5|connect.shore|ll|08m53s|Unknown|💛|
-|6|denawstools.us|ll|08m48s|Tech|💖|
-|7|newtab|l|07m42s|Browsers|💛|
-|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m42s|Pro|🧡|
-|9|Github|l|06m21s|Dev|💖|
-|10|en.wikipedia|l|05m35s|Reference|🧡|
-|11|Gmail||03m22s|Email|🧡|
-|12|piazza.com||02m23s|Reference|🧡|
-|13|prodigyhairstu||01m53s|Unknown|💛|
-|14|mattressfirm||01m42s|Shopping|💚|
-|15|Finder||01m33s|Utils|🧡|
+|1|Wechat|lllllllllllllllll|01h10m|IM|💛|
+|2|piazza.com|lllllllll|37m27s|Reference|🧡|
+|3|amazon.com|llllllll|33m47s|Shopping|💚|
+|4|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m01s|Reference|💛|
+|5|google.com|llll|19m32s|Search|🧡|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|09m51s|Pro|🧡|
+|7|connect.shore|ll|08m53s|Unknown|💛|
+|8|denawstools.us|ll|08m48s|Tech|💖|
+|9|newtab|ll|08m02s|Browsers|💛|
+|10|Github|l|06m24s|Dev|💖|
+|11|en.wikipedia|l|05m35s|Reference|🧡|
+|12|[facebook](https://www.facebook.com/Yiyang.Ian.Liu).com||03m32s|SNS|💚|
+|13|Gmail||03m26s|Email|🧡|
+|14|blackboard.usc||02m57s|Reference|💖|
+|15|Calculator||02m45s|Utils|🧡|
 ## yiyangiliu 2022-05-13 Detailed Activaties, 
 
 Update at 23:28

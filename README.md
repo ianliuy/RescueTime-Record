@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
-Update at 21:50
+Update at 22:51
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|lllllllllll|46m58s|IM|💛|
-|2|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m01s|Reference|💛|
-|3|google.com|lll|15m14s|Search|🧡|
-|4|connect.shore|ll|08m53s|Unknown|💛|
-|5|denawstools.us|ll|08m48s|Tech|💖|
-|6|newtab|l|06m58s|Browsers|💛|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m28s|Pro|🧡|
-|8|en.wikipedia|l|05m35s|Reference|🧡|
-|9|amazon.com|l|04m40s|Shopping|💚|
-|10|Gmail||03m07s|Email|🧡|
-|11|prodigyhairstu||01m53s|Unknown|💛|
-|12|mattressfirm||01m42s|Shopping|💚|
-|13|Finder||01m33s|Utils|🧡|
-|14|newporthairlos||01m27s|Unknown|💛|
-|15|m.mysmth.net||01m06s|Unknown|💛|
+|1|Wechat|lllllllllllllll|01h|IM|💛|
+|2|amazon.com|llllllll|33m47s|Shopping|💚|
+|3|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllll|29m01s|Reference|💛|
+|4|google.com|llll|17m31s|Search|🧡|
+|5|connect.shore|ll|08m53s|Unknown|💛|
+|6|denawstools.us|ll|08m48s|Tech|💖|
+|7|newtab|l|07m42s|Browsers|💛|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m42s|Pro|🧡|
+|9|Github|l|06m21s|Dev|💖|
+|10|en.wikipedia|l|05m35s|Reference|🧡|
+|11|Gmail||03m22s|Email|🧡|
+|12|piazza.com||02m23s|Reference|🧡|
+|13|prodigyhairstu||01m53s|Unknown|💛|
+|14|mattressfirm||01m42s|Shopping|💚|
+|15|Finder||01m33s|Utils|🧡|
 ## yiyangiliu 2022-05-13 Detailed Activaties, 
 
 Update at 23:28

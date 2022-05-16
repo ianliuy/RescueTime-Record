@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
-Update at 08:03
+Update at 09:09
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|udemy.com|llll|17m20s|Reference|💖|
-|2|1point3acres|ll|08m58s|Business &|🧡|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|05m00s|Pro|🧡|
-|4|Wechat||02m32s|IM|💛|
-|5|piazza.com||02m05s|Reference|🧡|
-|6|google.com||02m03s|Search|🧡|
-|7|Gmail||02m02s|Email|🧡|
-|8|aws.amazon.com||01m52s|Dev|💖|
-|9|amazon.com||01m02s|Shopping|💚|
-|10|Github||56s|Dev|💖|
-|11|newtab||27s|Browsers|💛|
-|12|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||23s|Reference|💖|
-|13|usa.philips||13s|Electronic|💚|
-|14|google.fi||11s|Search|💛|
-|15|paypal.com||07s|Business|💖|
+|1|amazon chime|lllll|23m10s|Meetings|🧡|
+|2|udemy.com|llll|17m44s|Reference|💖|
+|3|1point3acres|llll|16m09s|Business &|🧡|
+|4|firstaid.amazo|ll|08m30s|Unknown|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|06m04s|Pro|🧡|
+|6|Wechat|l|06m01s|IM|💛|
+|7|google.com||02m43s|Search|🧡|
+|8|piazza.com||02m39s|Reference|🧡|
+|9|Gmail||02m34s|Email|🧡|
+|10|aws.amazon.com||01m54s|Dev|💖|
+|11|midway-auth.am||01m17s|Shopping|💚|
+|12|Github||01m16s|Dev|💖|
+|13|keyboard setup||01m09s|Unknown|💛|
+|14|amazon.com||01m04s|Shopping|💚|
+|15|newtab||56s|Browsers|💛|
 ## yiyangiliu 2022-05-15 Detailed Activaties, 
 
 Update at 23:51

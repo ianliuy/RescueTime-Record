@@ -5,7 +5,7 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
-Update at 21:36
+Update at 22:36
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
@@ -13,7 +13,7 @@ Update at 21:36
 |2|amazon chime|lllllllllllllllll|01h08m|Meetings|🧡|
 |3|Google Documen|llllllll|35m06s|Composing|💖|
 |4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllll|34m04s|Pro|🧡|
-|5|Wechat|llllll|26m38s|IM|💛|
+|5|Wechat|llllll|27m32s|IM|💛|
 |6|Gmail|llll|19m53s|Email|🧡|
 |7|udemy.com|llll|17m44s|Reference|💖|
 |8|1point3acres|llll|16m14s|Business &|🧡|

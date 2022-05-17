@@ -5,19 +5,19 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-17 Detailed Activaties, 
 
-Update at 14:10
+Update at 15:10
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m24s|Reference|💖|
-|2|Google Documen|llll|16m08s|Composing|💖|
-|3|Wechat|ll|09m55s|IM|💛|
-|4|Gmail|l|07m52s|Email|🧡|
-|5|Finder|l|04m42s|Utils|🧡|
+|1|Google Documen|llll|19m59s|Composing|💖|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m24s|Reference|💖|
+|3|Gmail|lll|12m20s|Email|🧡|
+|4|Wechat|ll|09m56s|IM|💛|
+|5|Finder|l|05m02s|Utils|🧡|
 |6|app.crowdmark||01m52s|Reference|🧡|
-|7|System Prefere||01m02s|Utils|🧡|
-|8|google.com||58s|Search|🧡|
-|9|newtab||53s|Browsers|💛|
+|7|google.com||01m28s|Search|🧡|
+|8|newtab||01m07s|Browsers|💛|
+|9|System Prefere||01m02s|Utils|🧡|
 |10|dealmoon.com||45s|Shopping|💚|
 |11|my.usc.edu||42s|Reference|🧡|
 |12|usernotificati||34s|Utils|🧡|

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-17 Detailed Activaties, 
 
-Update at 13:10
+Update at 14:10
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m20s|Reference|💖|
-|2|Google Documen|ll|10m36s|Composing|💖|
-|3|Gmail|l|06m21s|Email|🧡|
-|4|Wechat|l|05m45s|IM|💛|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m24s|Reference|💖|
+|2|Google Documen|llll|16m08s|Composing|💖|
+|3|Wechat|ll|09m55s|IM|💛|
+|4|Gmail|l|07m52s|Email|🧡|
 |5|Finder|l|04m42s|Utils|🧡|
-|6|System Prefere||01m01s|Utils|🧡|
-|7|dealmoon.com||45s|Shopping|💚|
-|8|usernotificati||34s|Utils|🧡|
-|9|newtab||32s|Browsers|💛|
-|10|settings||31s|Utils|🧡|
-|11|google.com||13s|Search|🧡|
-|12|yamibuy.com||11s|Shopping|💚|
-|13|fanyi.caiyunap||09s|Search|🧡|
-|14|toggl track||03s|Unknown|💛|
-|15|Github||03s|Dev|💖|
+|6|app.crowdmark||01m52s|Reference|🧡|
+|7|System Prefere||01m02s|Utils|🧡|
+|8|google.com||58s|Search|🧡|
+|9|newtab||53s|Browsers|💛|
+|10|dealmoon.com||45s|Shopping|💚|
+|11|my.usc.edu||42s|Reference|🧡|
+|12|usernotificati||34s|Utils|🧡|
+|13|settings||31s|Utils|🧡|
+|14|yamibuy.com||11s|Shopping|💚|
+|15|snipaste||10s|Utils|🧡|
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
 Update at 22:36

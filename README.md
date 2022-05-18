@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-17 Detailed Activaties, 
 
-Update at 15:10
+Update at 21:05
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Google Documen|llll|19m59s|Composing|💖|
+|1|Google Documen|lllllll|30m28s|Composing|💖|
 |2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m24s|Reference|💖|
 |3|Gmail|lll|12m20s|Email|🧡|
-|4|Wechat|ll|09m56s|IM|💛|
+|4|Wechat|ll|10m36s|IM|💛|
 |5|Finder|l|05m02s|Utils|🧡|
 |6|app.crowdmark||01m52s|Reference|🧡|
 |7|google.com||01m28s|Search|🧡|
-|8|newtab||01m07s|Browsers|💛|
+|8|newtab||01m11s|Browsers|💛|
 |9|System Prefere||01m02s|Utils|🧡|
 |10|dealmoon.com||45s|Shopping|💚|
 |11|my.usc.edu||42s|Reference|🧡|
 |12|usernotificati||34s|Utils|🧡|
 |13|settings||31s|Utils|🧡|
-|14|yamibuy.com||11s|Shopping|💚|
-|15|snipaste||10s|Utils|🧡|
+|14|embark.amazon||15s|Shopping|💚|
+|15|yamibuy.com||11s|Shopping|💚|
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
 Update at 22:36

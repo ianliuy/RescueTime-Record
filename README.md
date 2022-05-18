@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-17 Detailed Activaties, 
 
-Update at 22:05
+Update at 23:18
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Google Documen|lllllll|30m37s|Composing|💖|
 |2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llll|19m24s|Reference|💖|
-|3|Gmail|lll|13m09s|Email|🧡|
-|4|Wechat|ll|10m36s|IM|💛|
+|3|Wechat|lll|13m19s|IM|💛|
+|4|Gmail|lll|13m09s|Email|🧡|
 |5|Finder|l|05m02s|Utils|🧡|
 |6|amazon.onbaseo||01m52s|Business|💖|
 |7|app.crowdmark||01m52s|Reference|🧡|
 |8|commerce.cashn||01m46s|General En|💚|
 |9|camel2.usc.edu||01m45s|Reference|🧡|
-|10|google.com||01m32s|Search|🧡|
-|11|newtab||01m17s|Browsers|💛|
-|12|System Prefere||01m04s|Utils|🧡|
-|13|my.usc.edu||01m00s|Reference|🧡|
-|14|dealmoon.com||45s|Shopping|💚|
-|15|usernotificati||34s|Utils|🧡|
+|10|google.com||01m34s|Search|🧡|
+|11|newtab||01m22s|Browsers|💛|
+|12|my.usc.edu||01m12s|Reference|🧡|
+|13|System Prefere||01m04s|Utils|🧡|
+|14|courses.uscden||48s|Reference|🧡|
+|15|dealmoon.com||45s|Shopping|💚|
 ## yiyangiliu 2022-05-16 Detailed Activaties, 
 
 Update at 22:36

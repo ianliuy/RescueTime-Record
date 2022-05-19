@@ -5,22 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-18 Detailed Activaties, 
 
-Update at 20:16
+Update at 21:16
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|Google Documen|lllll|21m23s|Composing|💖|
-|2|toggl track||03m33s|Unknown|💛|
-|3|Wechat||02m54s|IM|💛|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m12s|Pro|🧡|
-|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m09s|Video|💚|
-|6|embark.amazon||41s|Shopping|💚|
-|7|settings||17s|Utils|🧡|
-|8|newtab||14s|Browsers|💛|
-|9|search.bilibil||11s|Video|💚|
-|10|fanyi.caiyunap||05s|Search|🧡|
-|11|SecurityAgent||03s|Systems Op|💖|
-|12|google.com||02s|Search|🧡|
+|2|163.com|ll|11m18s|General Ne|💚|
+|3|Wechat|l|06m41s|IM|💛|
+|4|toggl track||03m38s|Unknown|💛|
+|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||02m12s|Pro|🧡|
+|6|apen4ej.org||01m24s|Unknown|💛|
+|7|tripalink.appf||01m21s|Insights|💖|
+|8|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||01m17s|Video|💚|
+|9|velobank.com||58s|Unknown|💛|
+|10|embark.amazon||41s|Shopping|💚|
+|11|newtab||35s|Browsers|💛|
+|12|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||34s|Reference|🧡|
+|13|google.com||27s|Search|🧡|
+|14|settings||17s|Utils|🧡|
+|15|search.bilibil||11s|Video|💚|
 ## yiyangiliu 2022-05-17 Detailed Activaties, 
 
 Update at 23:18

@@ -5,11 +5,11 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-19 Detailed Activaties, 
 
-Update at 22:23
+Update at 23:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|courses.uscden|llllllllllll|50m23s|Reference|🧡|
+|1|courses.uscden|lllllllllllllllll|01h11m|Reference|🧡|
 |2|localhost:8888|llll|19m03s|IDE|💖|
 |3|toggl track|lll|13m29s|Unknown|💛|
 |4|1point3acres|lll|12m14s|Business &|🧡|

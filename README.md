@@ -5,24 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-20 Detailed Activaties, 
 
-Update at 00:23
+Update at 01:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|ll|09m28s|IM|💛|
-|2|weibo.com|l|04m57s|SNS|💚|
-|3|google.com||02m02s|Search|🧡|
-|4|aws.amazon.com||02m00s|Dev|💖|
-|5|blog.csdn.net||42s|Reference|🧡|
-|6|cloudiqtech||37s|Unknown|💛|
-|7|jianshu.com||24s|General Ne|💚|
-|8|newtab||21s|Browsers|💛|
-|9|amazonaws.cn||16s|Dev|💖|
-|10|baike.baidu||13s|Search|💛|
-|11|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||13s|Reference|🧡|
-|12|s.weibo.com||07s|SNS|💚|
-|13|lxb.wiki||06s|Unknown|💛|
-
+|1|courses.uscden|lllll|21m04s|Reference|🧡|
+|2|Wechat|lllll|20m25s|IM|💛|
+|3|weibo.com|lll|15m32s|SNS|💚|
+|4|google.com|l|04m07s|Search|🧡|
+|5|aws.amazon.com||02m00s|Dev|💖|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||54s|Pro|🧡|
+|7|blog.csdn.net||42s|Reference|🧡|
+|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||40s|Reference|💖|
+|9|cloudiqtech||37s|Unknown|💛|
+|10|Finder||25s|Utils|🧡|
+|11|jianshu.com||24s|General Ne|💚|
+|12|newtab||22s|Browsers|💛|
+|13|amazonaws.cn||17s|Dev|💖|
+|14|baike.baidu||17s|Search|💛|
+|15|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||13s|Reference|🧡|
 ## yiyangiliu 2022-05-19 Detailed Activaties, 
 
 Update at 23:23

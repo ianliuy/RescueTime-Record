@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-19 Detailed Activaties, 
 
-Update at 18:52
+Update at 22:23
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|courses.uscden|llllllllll|42m17s|Reference|🧡|
-|2|localhost:8888|llll|19m02s|IDE|💖|
+|1|courses.uscden|llllllllllll|50m23s|Reference|🧡|
+|2|localhost:8888|llll|19m03s|IDE|💖|
 |3|toggl track|lll|13m29s|Unknown|💛|
-|4|1point3acres|lll|12m13s|Business &|🧡|
-|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m23s|Reference|💖|
-|6|pycharm|ll|08m00s|IDE|💖|
-|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m21s|Pro|🧡|
-|8|Github|l|07m01s|Dev|💖|
-|9|google drive|l|06m15s|Business|💖|
-|10|google.com/not|l|05m51s|Insights|💖|
-|11|dropbox.com|l|05m29s|File Shari|💚|
-|12|Finder|l|05m24s|Utils|🧡|
-|13|pandas.pydata|l|04m30s|Dev|💖|
-|14|Wechat|l|04m27s|IM|💛|
-|15|geeksforgeeks||02m19s|Operations|💖|
+|4|1point3acres|lll|12m14s|Business &|🧡|
+|5|Gmail|lll|12m13s|Email|🧡|
+|6|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|ll|10m24s|Reference|💖|
+|7|pycharm|ll|08m00s|IDE|💖|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m21s|Pro|🧡|
+|9|Wechat|l|07m14s|IM|💛|
+|10|Github|l|07m01s|Dev|💖|
+|11|google drive|l|06m15s|Business|💖|
+|12|google.com/not|l|05m51s|Insights|💖|
+|13|dropbox.com|l|05m29s|File Shari|💚|
+|14|Finder|l|05m24s|Utils|🧡|
+|15|pandas.pydata|l|04m30s|Dev|💖|
 ## yiyangiliu 2022-05-18 Detailed Activaties, 
 
 Update at 23:44

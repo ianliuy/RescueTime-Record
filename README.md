@@ -5,11 +5,11 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-20 Detailed Activaties, 
 
-Update at 18:27
+Update at 19:27
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllll|53m18s|Pro|🧡|
+|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllllllll|01h15m|Pro|🧡|
 |2|Slack|lllllllllll|47m18s|Communicat|💖|
 |3|electerm|llllllllll|43m20s|Dev|💖|
 |4|Wechat|llllllll|35m32s|IM|🧡|
@@ -19,7 +19,7 @@ Update at 18:27
 |8|Google Documen|ll|10m58s|Composing|💖|
 |9|Gmail|ll|10m44s|Email|🧡|
 |10|us-west-2.cons|ll|08m17s|Systems Op|💖|
-|11|google.com|l|06m56s|Search|💖|
+|11|google.com|l|07m10s|Search|💖|
 |12|embark.corp.am|l|06m14s|Unknown|💛|
 |13|conduit.securi|l|06m07s|Unknown|💛|
 |14|tabby|l|05m18s|Unknown|💛|

@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-21 Detailed Activaties, 
 
-Update at 19:55
+Update at 21:35
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllll|56m42s|Pro|🧡|
+|1|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllllllllllllll|01h07m|Pro|🧡|
 |2|phonetool.amaz|llllll|25m39s|General Co|💛|
-|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m46s|Reference|💖|
-|4|google.com||02m32s|Search|💖|
-|5|instacart.com||01m16s|Shopping|💚|
-|6|Wechat||01m12s|IM|🧡|
-|7|spacelauncher||01m01s|Unknown|💛|
-|8|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||46s|Reference|💖|
-|9|newtab||35s|Browsers|💛|
-|10|support.google||34s|General Ne|💚|
-|11|niche.com||15s|Unknown|💛|
-|12|tabby||07s|Unknown|💛|
-|13|fujii.nuee.nag||06s|Unknown|💛|
-|14|Finder||05s|Utils|🧡|
-|15|map.google||05s|Unknown|💛|
-
+|3|Wechat|llll|19m33s|IM|🧡|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|08m46s|Reference|💖|
+|5|google.com|l|04m52s|Search|💖|
+|6|Gmail|l|04m19s|Email|🧡|
+|7|dropbox.com||03m27s|File Shari|💚|
+|8|newtab||01m20s|Browsers|💛|
+|9|instacart.com||01m16s|Shopping|💚|
+|10|amazon.com||01m06s|Shopping|💚|
+|11|spacelauncher||01m01s|Unknown|💛|
+|12|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m00s|Composing|💖|
+|13|crunchbase.com||50s|General Co|💛|
+|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||48s|Reference|💖|
+|15|scholar.google||35s|Reference|💖|
 ## yiyangiliu 2022-05-20 Detailed Activaties, 
 
 Update at 19:27

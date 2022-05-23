@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-23 Detailed Activaties, 
 
-Update at 02:58
+Update at 15:03
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllllll|43m11s|IM|🧡|
-|2|embark.corp.am|llll|19m33s|Unknown|💛|
-|3|Google Documen|lll|14m41s|Composing|💖|
-|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|13m02s|Pro|🧡|
-|5|Slack|ll|11m25s|Communicat|💖|
-|6|w.amazon.com|ll|10m24s|Search|💛|
-|7|broadcast.amaz|ll|09m56s|Reference|🧡|
-|8|System Prefere|l|04m06s|Utils|🧡|
-|9|spacelauncher||02m52s|Unknown|💛|
-|10|my.adp.com||02m14s|Business|💖|
-|11|alfred prefere||02m08s|Utils|🧡|
-|12|google.com||01m32s|Search|💖|
-|13|activatewisely||01m30s|Unknown|💛|
-|14|newtab||01m20s|Browsers|💛|
-|15|inside.hr.amaz||01m19s|Business|💖|
-
+|1|Wechat|lllllllllll|47m09s|IM|🧡|
+|2|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|31m12s|Pro|🧡|
+|3|Google Documen|lllllll|29m48s|Composing|💖|
+|4|embark.corp.am|llllll|27m28s|Unknown|💛|
+|5|broadcast.amaz|llllll|26m57s|Reference|🧡|
+|6|w.amazon.com|llllll|26m40s|Search|💛|
+|7|Slack|llllll|24m10s|Communicat|💖|
+|8|amazon chime|llll|16m48s|Meetings|🧡|
+|9|microsoft outl|lll|13m47s|Email|💖|
+|10|phonetool.amaz|ll|09m36s|General Co|💛|
+|11|en.wikipedia|l|07m58s|Reference|🧡|
+|12|knet.csod.com|l|05m53s|Reference|🧡|
+|13|System Prefere|l|05m44s|Utils|🧡|
+|14|google.com|l|05m44s|Search|💖|
+|15|quip-amazon|l|05m27s|Unknown|💛|
 ## yiyangiliu 2022-05-22 Detailed Activaties, 
 
 Update at 22:52

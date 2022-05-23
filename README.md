@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-05-22 Detailed Activaties, 
+
+Update at 19:47
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|builderhub.cor|llllllllllllll|59m22s|Unknown|💖|
+|2|learn.a2z.com|lllllllllll|44m52s|Unknown|💖|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|28m09s|Pro|🧡|
+|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|25m48s|Reference|💖|
+|5|instacart.com|lllll|20m56s|Shopping|💚|
+|6|google.com|llll|19m17s|Search|💖|
+|7|Slack|lll|13m26s|Communicat|💖|
+|8|w.amazon.com|lll|13m11s|Search|💛|
+|9|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lll|12m33s|Reference|💖|
+|10|1point3acres|l|07m43s|Business &|🧡|
+|11|schedulicity|l|05m17s|Insights|💖|
+|12|broadcast.amaz|l|04m06s|Reference|🧡|
+|13|toggl track||03m41s|Unknown|💛|
+|14|embark.corp.am||02m49s|Unknown|💛|
+|15|newtab||02m47s|Browsers|💛|
+
 ## yiyangiliu 2022-05-21 Detailed Activaties, 
 
 Update at 21:35

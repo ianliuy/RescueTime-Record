@@ -5,14 +5,14 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-22 Detailed Activaties, 
 
-Update at 21:52
+Update at 22:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|builderhub.cor|llllllllllllll|59m22s|Unknown|💖|
-|2|learn.a2z.com|lllllllllll|44m52s|Unknown|💖|
-|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|28m54s|Pro|🧡|
-|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|27m50s|Reference|💖|
+|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllllllllllllllllll|01h23m|Reference|💖|
+|2|builderhub.cor|llllllllllllll|59m22s|Unknown|💖|
+|3|learn.a2z.com|lllllllllll|44m52s|Unknown|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|28m54s|Pro|🧡|
 |5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|26m01s|Reference|💖|
 |6|instacart.com|lllll|20m56s|Shopping|💚|
 |7|google.com|llll|19m22s|Search|💖|

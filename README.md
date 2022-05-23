@@ -5,18 +5,18 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-22 Detailed Activaties, 
 
-Update at 20:49
+Update at 21:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|builderhub.cor|llllllllllllll|59m22s|Unknown|💖|
 |2|learn.a2z.com|lllllllllll|44m52s|Unknown|💖|
 |3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllll|28m54s|Pro|🧡|
-|4|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|26m01s|Reference|💖|
-|5|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|24m10s|Reference|💖|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|llllll|27m50s|Reference|💖|
+|5|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|llllll|26m01s|Reference|💖|
 |6|instacart.com|lllll|20m56s|Shopping|💚|
-|7|google.com|llll|19m17s|Search|💖|
-|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llll|16m58s|Composing|💖|
+|7|google.com|llll|19m22s|Search|💖|
+|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|llll|17m02s|Composing|💖|
 |9|w.amazon.com|lll|13m31s|Search|💛|
 |10|Slack|lll|13m26s|Communicat|💖|
 |11|1point3acres|l|07m43s|Business &|🧡|

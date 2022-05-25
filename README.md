@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-05-24 Detailed Activaties, 
 
-Update at 11:16
+Update at 20:33
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|microsoft outl|lll|12m15s|Email|💖|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|09m01s|Reference|💖|
-|3|Slack|ll|08m43s|Communicat|💖|
-|4|ecsworkshop|l|07m07s|Unknown|💛|
-|5|w.amazon.com|l|04m10s|Search|💖|
-|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||03m50s|Pro|🧡|
-|7|us-east-1.cons||03m17s|Dev|💖|
-|8|Wechat||02m59s|IM|🧡|
-|9|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m55s|Composing|💖|
-|10|us-west-2.cons||01m21s|Systems Op|💖|
-|11|app.asana.com||01m18s|Project Ma|💖|
-|12|livestreaming.||01m16s|Unknown|💛|
-|13|builderhub.cor||49s|Unknown|💖|
-|14|us-east-2.cons||42s|Dev|💖|
-|15|dashboard.even||29s|Unknown|💛|
-
+|1|ecsworkshop|llllllllllllllllllll|01h23m|Unknown|💛|
+|2|us-west-2.cons|lllllllllllllllllll|01h19m|Systems Op|💖|
+|3|Slack|lllllllllll|45m14s|Communicat|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllll|39m15s|Pro|🧡|
+|5|Wechat|llllll|27m42s|IM|🧡|
+|6|amazon chime|llll|17m41s|Meetings|💖|
+|7|microsoft outl|llll|17m08s|Email|💖|
+|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|ll|10m05s|Reference|💖|
+|9|phonetool.amaz|ll|09m03s|General Co|💛|
+|10|us-east-1.cons|l|06m36s|Dev|💖|
+|11|w.amazon.com|l|06m24s|Search|💖|
+|12|permissions.am|l|04m49s|Administra|💖|
+|13|scu.edu.cn||03m58s|Reference|🧡|
+|14|amazonuni.qual||03m53s|Utils|🧡|
+|15|kidi.ng||03m30s|Unknown|💛|
 ## yiyangiliu 2022-05-23 Detailed Activaties, 
 
 Update at 15:03

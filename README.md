@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-05-28 Detailed Activaties, 
+
+Update at 22:59
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|localhost:8888|lllllllllllllllllll|01h18m|IDE|💖|
+|2|Wechat|llllllllllllll|56m51s|IM|🧡|
+|3|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lllllllllllll|52m34s|Pro|🧡|
+|4|amazon.com|llllllll|35m02s|Shopping|💚|
+|5|google.com|llllllll|34m18s|Search|💖|
+|6|electerm|lllll|20m45s|Dev|💖|
+|7|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lll|15m59s|Reference|💛|
+|8|quip-amazon|ll|11m58s|Unknown|💛|
+|9|Slack|ll|11m55s|Communicat|💖|
+|10|scikit-learn|ll|10m15s|Tech|💖|
+|11|dropbox.com|ll|09m28s|File Shari|💚|
+|12|weibo.com|ll|08m59s|SNS|💚|
+|13|aliexpress.com|l|07m42s|Shopping|💚|
+|14|matplotlib.org|l|05m46s|Dev|💖|
+|15|xiaohongshu|l|05m24s|Unknown|💛|
+
 ## yiyangiliu 2022-05-26 Detailed Activaties, 
 
 Update at 18:31

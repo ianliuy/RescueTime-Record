@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-06-03 Detailed Activaties, 
+
+Update at 15:17
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|amazon chime|lllllllllll|44m04s|Meetings|💖|
+|2|Google Documen|lllllllll|38m39s|Composing|💖|
+|3|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lllllll|28m32s|Composing|💖|
+|4|Slack|llll|16m22s|Communicat|💖|
+|5|amazon.com|lll|15m09s|Shopping|💚|
+|6|quip-amazon|lll|14m49s|Unknown|💛|
+|7|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|ll|10m31s|Pro|🧡|
+|8|embark.corp.am|l|07m42s|Unknown|💖|
+|9|microsoft outl|l|06m16s|Email|💖|
+|10|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|06m00s|Reference|💖|
+|11|google.com|l|05m52s|Search|💖|
+|12|Github|l|05m51s|Dev|💖|
+|13|en.wikipedia|l|04m51s|Reference|🧡|
+|14|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF|l|04m51s|Reference|💖|
+|15|learn.a2z.com|l|04m22s|Unknown|💖|
+
 ## yiyangiliu 2022-05-31 Detailed Activaties, 
 
 Update at 18:30

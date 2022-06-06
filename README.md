@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-06-06 Detailed Activaties, 
+
+Update at 11:43
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|Google Documen|llll|19m35s|Composing|💖|
+|2|translate.goog|llll|16m11s|Reference|🧡|
+|3|Slack|lll|12m52s|Communicat|💖|
+|4|localhost:8888|ll|10m39s|IDE|💖|
+|5|amazon chime|ll|08m43s|Meetings|💖|
+|6|app.grammarly|l|04m46s|Composing|💖|
+|7|quip-amazon||03m28s|Unknown|💛|
+|8|microsoft outl||02m44s|Email|💖|
+|9|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m25s|Reference|💖|
+|10|newtab||01m50s|Browsers|💛|
+|11|Finder||01m46s|Utils|🧡|
+|12|System Prefere||01m42s|Utils|🧡|
+|13|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m38s|Composing|💖|
+|14|hkhggnncdpfibd||01m36s|Unknown|💛|
+|15|dropbox.com||01m13s|File Shari|💚|
+
 ## yiyangiliu 2022-06-05 Detailed Activaties, 
 
 Update at 11:15

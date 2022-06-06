@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-06-06 Detailed Activaties, 
 
-Update at 14:29
+Update at 15:30
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|amazon chime|llllllllllllllll|01h04m|Meetings|💖|
-|2|translate.goog|lllllllllllll|55m26s|Reference|🧡|
-|3|Google Documen|lllllllll|37m54s|Composing|💖|
-|4|Slack|lllll|22m39s|Communicat|💖|
-|5|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|13m32s|Pro|🧡|
-|6|localhost:8888|ll|10m39s|IDE|💖|
-|7|app.grammarly|l|06m10s|Composing|💖|
-|8|microsoft outl||03m48s|Email|💖|
-|9|quip-amazon||03m44s|Unknown|💛|
-|10|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
-|11|newtab||02m06s|Browsers|💛|
-|12|Finder||01m47s|Utils|🧡|
-|13|System Prefere||01m42s|Utils|🧡|
-|14|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m40s|Composing|💖|
-|15|hkhggnncdpfibd||01m36s|Unknown|💛|
+|1|translate.goog|llllllllllllllllllll|01h21m|Reference|🧡|
+|2|amazon chime|llllllllllllllll|01h04m|Meetings|💖|
+|3|Google Documen|llllllllll|41m55s|Composing|💖|
+|4|intellij idea|llllllll|34m10s|IDE|💖|
+|5|Slack|lllll|22m45s|Communicat|💖|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|14m19s|Pro|🧡|
+|7|localhost:8888|ll|10m39s|IDE|💖|
+|8|quip-amazon|l|07m52s|Unknown|💛|
+|9|app.grammarly|l|07m44s|Composing|💖|
+|10|microsoft outl|l|04m50s|Email|💖|
+|11|[Saladict](https://github.com/crimx/ext-saladict#saladict-%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D) PDF||02m40s|Reference|💖|
+|12|newtab||02m28s|Browsers|💛|
+|13|Finder||01m47s|Utils|🧡|
+|14|System Prefere||01m42s|Utils|🧡|
+|15|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||01m40s|Composing|💖|
 ## yiyangiliu 2022-06-05 Detailed Activaties, 
 
 Update at 11:15

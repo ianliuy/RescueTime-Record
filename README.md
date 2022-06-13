@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-06-13 Detailed Activaties, 
+
+Update at 05:14
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|lllllllllllllllllllllllllllllllllllllllllllllllll|03h18m|Reference|💛|
+|2|Wechat|lllll|21m34s|IM|🧡|
+|3|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|lllll|21m30s|Reference|💖|
+|4|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|l|07m48s|Pro|🧡|
+|5|google.com||03m25s|Search|💖|
+|6|Slack||01m58s|Communicat|💖|
+|7|amazon.com||01m58s|Shopping|💚|
+|8|localhost:8888||01m53s|IDE|💖|
+|9|music.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg)||01m47s|Music|💚|
+|10|wiki.mbalib||01m08s|Insights|💖|
+|11|gsb.stanford.e||56s|Reference|🧡|
+|12|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||46s|Reference|🧡|
+|13|newtab||33s|Browsers|💛|
+|14|en.wikipedia||31s|Reference|🧡|
+|15|xuhlu.wordpres||28s|General Ne|💚|
+
 ## yiyangiliu 2022-06-08 Detailed Activaties, 
 
 Update at 01:08

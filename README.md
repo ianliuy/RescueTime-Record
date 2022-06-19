@@ -5,26 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-06-19 Detailed Activaties, 
 
-Update at 00:41
+Update at 05:38
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|Wechat|llllllll|33m11s|IM|🧡|
-|2|localhost:8888||03m52s|IDE|💖|
-|3|Gmail||47s|Email|🧡|
-|4|google.com||36s|Search|💖|
-|5|piazza.com||32s|Reference|💖|
-|6|Finder||28s|Utils|🧡|
-|7|calendar||28s|Calendars|💛|
-|8|Zoom||25s|Meetings|💖|
-|9|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||22s|Reference|🧡|
-|10|dropbox.com||13s|File Shari|💚|
-|11|newtab||11s|Browsers|💛|
-|12|snipaste||10s|Utils|🧡|
-|13|microsoft outl||10s|Email|💖|
-|14|music.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg)||07s|Music|💚|
-|15|Slack||06s|Communicat|💖|
-
+|1|Wechat|lllllllllll|46m23s|IM|🧡|
+|2|localhost:8888|ll|08m09s|IDE|💖|
+|3|dropbox.com||03m17s|File Shari|💚|
+|4|Finder||02m05s|Utils|🧡|
+|5|piazza.com||01m24s|Reference|💖|
+|6|Gmail||47s|Email|🧡|
+|7|google.com||36s|Search|💖|
+|8|[linkedin](https://www.linkedin.com/in/yiyangiliu).com||31s|Pro|🧡|
+|9|calendar||28s|Calendars|💛|
+|10|Zoom||25s|Meetings|💖|
+|11|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||22s|Reference|🧡|
+|12|music.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg)||20s|Music|💚|
+|13|newtab||19s|Browsers|💛|
+|14|microsoft outl||12s|Email|💖|
+|15|snipaste||10s|Utils|🧡|
 ## yiyangiliu 2022-06-16 Detailed Activaties, 
 
 Update at 18:05

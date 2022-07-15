@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-07-14 Detailed Activaties, 
+
+Update at 22:16
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|intellij idea|lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll|04h20m|IDE|💖|
+|2|code.amazon|llllllllll|43m51s|Dev|💖|
+|3|amazon chime|llllllllll|43m05s|Meetings|💖|
+|4|1point3acres|lllllllll|39m13s|Business &|🧡|
+|5|Wechat|lllllll|29m14s|IM|🧡|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|llllll|25m14s|Pro|🧡|
+|7|quip-amazon|lllll|22m15s|Unknown|💛|
+|8|phonetool.amaz|lllll|20m40s|General Co|💛|
+|9|electerm|llll|17m21s|Dev|💖|
+|10|Slack|llll|17m12s|Communicat|💖|
+|11|microsoft word|lll|15m55s|Composing|💖|
+|12|levels.fyi|lll|15m16s|Unknown|💛|
+|13|translate.goog|ll|10m47s|Search|💛|
+|14|google.com|ll|10m37s|Search|💖|
+|15|iteye.com|ll|10m18s|Tech|💖|
+
 ## yiyangiliu 2022-07-04 Detailed Activaties, 
 
 Update at 05:02

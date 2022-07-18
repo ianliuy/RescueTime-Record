@@ -3,6 +3,28 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 **(m)** Mobile 💖 Very Productive 🧡 Productive 🙂 Neutral 😥 Distracting 💚 Very Distracting
 
+## yiyangiliu 2022-07-17 Detailed Activaties, 
+
+Update at 23:28
+
+|Rank|Activity|Len|Time|Category|Label|
+|-|-|-|-|-|-|
+|1|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com|llllllllllllllllllllllllllllllllllllllllllll|02h56m|Reference|💛|
+|2|Wechat|lllllllllllllllllllllll|01h34m|IM|🧡|
+|3|douban.com|lllllllllll|46m23s|SNS|💚|
+|4|zh.wikipedia|lllll|22m14s|Search|🧡|
+|5|twitter.com|lll|15m36s|SNS|💚|
+|6|[linkedin](https://www.linkedin.com/in/yiyangiliu).com|lll|13m21s|Pro|🧡|
+|7|google.com|ll|09m23s|Search|💖|
+|8|icloud.com|ll|08m30s|Dev|💖|
+|9|baijiahao.baid|l|05m37s|Search|💜|
+|10|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|l|05m18s|Video|💚|
+|11|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg) music|l|04m40s|Music|💚|
+|12|Slack|l|04m25s|Communicat|💖|
+|13|newtab|l|04m06s|Browsers|💛|
+|14|telegram||03m17s|IM|🧡|
+|15|socaapp.com||02m35s|Unknown|💛|
+
 ## yiyangiliu 2022-07-14 Detailed Activaties, 
 
 Update at 22:16

@@ -5,23 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-24 Detailed Activaties, 
 
-Update at 01:52
+Update at 02:52
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m04s|Reference|💖|
-|2|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m11s|Video|💚|
-|3|search.bilibil||01m59s|Video|💚|
-|4|amazon.com||01m40s|Shopping|💚|
-|5|1point3acres||39s|Business &|🧡|
-|6|newtab||17s|Browsers|💛|
-|7|Wechat||10s|IM|🧡|
-|8|Gmail||09s|Email|🧡|
-|9|intellij idea||07s|IDE|💖|
-|10|Slack||04s|Communicat|💖|
-|11|hkhggnncdpfibd||03s|Unknown|💛|
-|12|google chrome||02s|Browsers|💛|
-
+|1|cloyad0809.x.y|llllll|24m50s|Unknown|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m04s|Reference|💖|
+|3|cnfashionbuy|l|04m48s|Unknown|💛|
+|4|bohao445.x.yup||02m23s|Unknown|💛|
+|5|item.taobao||02m19s|Shopping|💚|
+|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m11s|Video|💚|
+|7|search.bilibil||01m59s|Video|💚|
+|8|amazon.com||01m40s|Shopping|💚|
+|9|google.com||01m27s|Search|💖|
+|10|market.m.taoba||01m14s|Shopping|💚|
+|11|newtab||54s|Browsers|💛|
+|12|tztzc.com||40s|Unknown|💛|
+|13|1point3acres||39s|Business &|🧡|
+|14|dollardora.x.y||26s|Unknown|💛|
+|15|x.yupoo.com||20s|General Ne|💚|
 ## yiyangiliu 2022-07-22 Detailed Activaties, 
 
 Update at 18:19

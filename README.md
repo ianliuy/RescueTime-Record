@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-31 Detailed Activaties, 
 
-Update at 02:34
+Update at 03:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|ixigua.com|lll|14m52s|Unknown|💛|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m54s|Reference|💖|
-|3|google.com||02m59s|Search|💖|
-|4|zh.m.wikipedia||02m38s|Reference|🧡|
-|5|zh.wikipedia||01m49s|Search|🧡|
-|6|en.wikipedia||01m31s|Reference|🧡|
-|7|finance.sina.c||01m08s|General Ne|💚|
-|8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||01m08s|Reference|🧡|
-|9|newtab||01m03s|Browsers|💛|
-|10|v.qq.com||01m00s|Video|💚|
-|11|reuters.com||31s|General Ne|💚|
-|12|cqrqj.com||26s|Unknown|💛|
-|13|Wechat||22s|IM|🧡|
-|14|bloomberg.com||21s|Business|💜|
-|15|163.com||17s|General Ne|💚|
+|1|ixigua.com|lllll|22m03s|Unknown|💛|
+|2|realestate.co|lll|12m45s|Unknown|💛|
+|3|google.com|lll|12m39s|Search|💖|
+|4|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m54s|Reference|💖|
+|5|zh.m.wikipedia||03m02s|Reference|🧡|
+|6|marketwatch||02m51s|Business|💖|
+|7|zh.wikipedia||02m49s|Search|🧡|
+|8|shitonghaiwai.||02m19s|General Ne|💚|
+|9|dailyfx.com||02m01s|Business|💖|
+|10|xueqiu.com||01m56s|Business &|🧡|
+|11|ips-cambodia||01m55s|Unknown|💛|
+|12|en.wikipedia||01m53s|Reference|🧡|
+|13|cn.investing||01m48s|Business|💜|
+|14|newtab||01m42s|Browsers|💛|
+|15|sohu.com||01m21s|General Ne|💚|
 ## yiyangiliu 2022-07-30 Detailed Activaties, 
 
 Update at 23:34

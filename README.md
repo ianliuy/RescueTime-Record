@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-30 Detailed Activaties, 
 
-Update at 22:34
+Update at 23:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|intellij idea|lllllllllllllllllllllll|01h33m|IDE|💖|
 |2|electerm|llllllllllllll|59m59s|Dev|💖|
 |3|code.amazon|lllllllllllll|53m33s|Dev|💖|
-|4|Wechat|llllllll|34m28s|IM|🧡|
-|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|llll|17m58s|Video|💚|
+|4|Wechat|llllllll|34m44s|IM|🧡|
+|5|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)|llll|18m39s|Video|💚|
 |6|stackoverflow|l|07m46s|Dev|💖|
-|7|Finder|l|07m00s|Utils|🧡|
-|8|baeldung.com|l|05m58s|Tech|💖|
-|9|google.com|l|05m14s|Search|💖|
+|7|Finder|l|07m25s|Utils|🧡|
+|8|google.com|l|06m03s|Search|💖|
+|9|baeldung.com|l|05m58s|Tech|💖|
 |10|System Prefere|l|04m31s|Utils|🧡|
 |11|cn.nikkei.com|l|04m11s|General Ne|💚|
 |12|unison||03m22s|General Co|💛|
-|13|Slack||02m22s|Communicat|💖|
-|14|Terminal||01m48s|Systems Op|💖|
-|15|spacelauncher||01m30s|Unknown|💛|
+|13|apple.com||03m02s|Tech|💖|
+|14|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m00s|Composing|💖|
+|15|Slack||02m22s|Communicat|💖|
 ## yiyangiliu 2022-07-24 Detailed Activaties, 
 
 Update at 02:52

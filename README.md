@@ -5,23 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-31 Detailed Activaties, 
 
-Update at 01:34
+Update at 02:34
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m54s|Reference|💖|
-|2|google.com||01m49s|Search|💖|
-|3|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||01m08s|Reference|🧡|
-|4|finance.sina.c||01m08s|General Ne|💚|
-|5|en.wikipedia||01m06s|Reference|🧡|
-|6|zh.m.wikipedia||44s|Reference|🧡|
-|7|reuters.com||30s|General Ne|💚|
-|8|cqrqj.com||26s|Unknown|💛|
-|9|newtab||23s|Browsers|💛|
-|10|Wechat||22s|IM|🧡|
-|11|bloomberg.com||21s|Business|💜|
-|12|xueqiu.com||02s|Business &|🧡|
-
+|1|ixigua.com|lll|14m52s|Unknown|💛|
+|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com||03m54s|Reference|💖|
+|3|google.com||02m59s|Search|💖|
+|4|zh.m.wikipedia||02m38s|Reference|🧡|
+|5|zh.wikipedia||01m49s|Search|🧡|
+|6|en.wikipedia||01m31s|Reference|🧡|
+|7|finance.sina.c||01m08s|General Ne|💚|
+|8|zhuanlan.[zhihu](https://en.wikipedia.org/wiki/Zhihu)||01m08s|Reference|🧡|
+|9|newtab||01m03s|Browsers|💛|
+|10|v.qq.com||01m00s|Video|💚|
+|11|reuters.com||31s|General Ne|💚|
+|12|cqrqj.com||26s|Unknown|💛|
+|13|Wechat||22s|IM|🧡|
+|14|bloomberg.com||21s|Business|💜|
+|15|163.com||17s|General Ne|💚|
 ## yiyangiliu 2022-07-30 Detailed Activaties, 
 
 Update at 23:34

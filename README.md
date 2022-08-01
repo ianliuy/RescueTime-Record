@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-31 Detailed Activaties, 
 
-Update at 05:35
+Update at 17:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
 |1|ixigua.com|lllll|22m03s|Unknown|💛|
-|2|google.com|lllll|20m11s|Search|💖|
-|3|countryeconomy|lll|14m28s|Unknown|💛|
-|4|realestate.co|lll|12m46s|Unknown|💛|
-|5|fazwaz.vn|l|07m38s|Unknown|💛|
-|6|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m25s|Reference|💖|
-|7|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m54s|Composing|💖|
-|8|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m58s|Reference|💛|
-|9|zh.m.wikipedia||03m02s|Reference|🧡|
-|10|ips-cambodia||03m01s|Unknown|💛|
-|11|marketwatch||02m51s|Business|💖|
-|12|zh.wikipedia||02m49s|Search|🧡|
-|13|newtab||02m25s|Browsers|💛|
-|14|en.wikipedia||02m20s|Reference|🧡|
-|15|shitonghaiwai.||02m19s|General Ne|💚|
+|2|google chrome|lllll|21m17s|Browsers|💛|
+|3|google.com|lllll|20m11s|Search|💖|
+|4|countryeconomy|lll|14m28s|Unknown|💛|
+|5|realestate.co|lll|12m46s|Unknown|💛|
+|6|fazwaz.vn|l|07m38s|Unknown|💛|
+|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m25s|Reference|💖|
+|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m56s|Composing|💖|
+|9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m58s|Reference|💛|
+|10|zh.m.wikipedia||03m02s|Reference|🧡|
+|11|ips-cambodia||03m01s|Unknown|💛|
+|12|marketwatch||02m51s|Business|💖|
+|13|zh.wikipedia||02m49s|Search|🧡|
+|14|newtab||02m25s|Browsers|💛|
+|15|en.wikipedia||02m20s|Reference|🧡|
 ## yiyangiliu 2022-07-30 Detailed Activaties, 
 
 Update at 23:34

@@ -5,25 +5,25 @@ A Visualization of my Daily RescueTime Data, **automatically** made & **committe
 
 ## yiyangiliu 2022-07-31 Detailed Activaties, 
 
-Update at 17:45
+Update at 18:45
 
 |Rank|Activity|Len|Time|Category|Label|
 |-|-|-|-|-|-|
-|1|ixigua.com|lllll|22m03s|Unknown|💛|
-|2|google chrome|lllll|21m17s|Browsers|💛|
+|1|google chrome|llllllllllll|50m13s|Browsers|💛|
+|2|ixigua.com|lllll|22m03s|Unknown|💛|
 |3|google.com|lllll|20m11s|Search|💖|
 |4|countryeconomy|lll|14m28s|Unknown|💛|
-|5|realestate.co|lll|12m46s|Unknown|💛|
-|6|fazwaz.vn|l|07m38s|Unknown|💛|
-|7|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m25s|Reference|💖|
-|8|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|l|04m56s|Composing|💖|
+|5|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)|lll|14m11s|Composing|💖|
+|6|realestate.co|lll|12m46s|Unknown|💛|
+|7|fazwaz.vn|l|07m38s|Unknown|💛|
+|8|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m25s|Reference|💖|
 |9|[zhihu](https://en.wikipedia.org/wiki/Zhihu).com||03m58s|Reference|💛|
 |10|zh.m.wikipedia||03m02s|Reference|🧡|
 |11|ips-cambodia||03m01s|Unknown|💛|
-|12|marketwatch||02m51s|Business|💖|
-|13|zh.wikipedia||02m49s|Search|🧡|
-|14|newtab||02m25s|Browsers|💛|
-|15|en.wikipedia||02m20s|Reference|🧡|
+|12|Wechat||02m56s|IM|🧡|
+|13|marketwatch||02m51s|Business|💖|
+|14|zh.wikipedia||02m49s|Search|🧡|
+|15|newtab||02m25s|Browsers|💛|
 ## yiyangiliu 2022-07-30 Detailed Activaties, 
 
 Update at 23:34

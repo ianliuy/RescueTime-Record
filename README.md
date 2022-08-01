@@ -45,27 +45,7 @@ Update at 23:34
 |13|apple.com||03m02s|Tech|💖|
 |14|[Notion](https://grave-menu-d89.notion.site/Public-Notes-ff7926a9caf04928b1a5cd8aff40e30c)||03m00s|Composing|💖|
 |15|Slack||02m22s|Communicat|💖|
-## yiyangiliu 2022-07-24 Detailed Activaties, 
 
-Update at 02:52
-
-|Rank|Activity|Len|Time|Category|Label|
-|-|-|-|-|-|-|
-|1|cloyad0809.x.y|llllll|24m50s|Unknown|💛|
-|2|[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com|l|05m04s|Reference|💖|
-|3|cnfashionbuy|l|04m48s|Unknown|💛|
-|4|bohao445.x.yup||02m23s|Unknown|💛|
-|5|item.taobao||02m19s|Shopping|💚|
-|6|space.[bilibili](https://www.[youtube](https://www.youtube.com/watch?v=gdZLi9oWNZg).com/watch?v=f-wBecEp6Mk&t=560s)||02m11s|Video|💚|
-|7|search.bilibil||01m59s|Video|💚|
-|8|amazon.com||01m40s|Shopping|💚|
-|9|google.com||01m27s|Search|💖|
-|10|market.m.taoba||01m14s|Shopping|💚|
-|11|newtab||54s|Browsers|💛|
-|12|tztzc.com||40s|Unknown|💛|
-|13|1point3acres||39s|Business &|🧡|
-|14|dollardora.x.y||26s|Unknown|💛|
-|15|x.yupoo.com||20s|General Ne|💚|
 ## yiyangiliu 2022-07-22 Detailed Activaties, 
 
 Update at 18:19
